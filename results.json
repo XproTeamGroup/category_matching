@@ -1,0 +1,867 @@
+{
+  "processed_at": "2025-09-09T17:24:27.508015",
+  "total_input": 128,
+  "total_matched": 85,
+  "total_unmatched": 42,
+  "matches": [
+    {
+      "input_name": "Аксесуари",
+      "match_id": "4000",
+      "match_name": "Аксессуары",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Глушники",
+      "match_id": "3801",
+      "match_name": "Глушители",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Аксесуари",
+      "match_id": "4000",
+      "match_name": "Аксессуары",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Рюкзаки",
+      "match_id": "4103",
+      "match_name": "Рюкзаки мотоциклетные",
+      "match_path": "",
+      "confidence": 1.0,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Аксесуари",
+      "match_id": "4000",
+      "match_name": "Аксессуары",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Куртки",
+      "match_id": "2011",
+      "match_name": "Кожаные куртки",
+      "match_path": "",
+      "confidence": 1.0,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Аксесуари",
+      "match_id": "4000",
+      "match_name": "Аксессуары",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "Автоматическое совпадение"
+    },
+    {
+      "input_name": "Шоломи",
+      "match_id": "2002",
+      "match_name": "Интегральные шлемы",
+      "match_path": "",
+      "confidence": 0.7,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "F 650 CS Scarver",
+      "match_id": "1005",
+      "match_name": "Туринг",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Лебідки та аксесуари",
+      "match_id": "3000",
+      "match_name": "Запчасти",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Фільтри",
+      "match_id": "3000",
+      "match_name": "Запчасти",
+      "match_path": "",
+      "confidence": 0.7,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Поршні",
+      "match_id": "3101",
+      "match_name": "Поршневая группа",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Запчастини двигуна",
+      "match_id": "3000",
+      "match_name": "Запчасти",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "F 650 GS",
+      "match_id": "1003",
+      "match_name": "Эндуро",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захисти гальмівного диска",
+      "match_id": "3302",
+      "match_name": "Тормозные диски",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захисти телескопів",
+      "match_id": "3401",
+      "match_name": "Амортизаторы передние",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захисти радіатора",
+      "match_id": "3108",
+      "match_name": "Радиаторы",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захисти амортизатора",
+      "match_id": "3401",
+      "match_name": "Амортизаторы передние",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Знімні захисники",
+      "match_id": "2065",
+      "match_name": "Защитные панцири",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Стабілізатори шиї",
+      "match_id": "2067",
+      "match_name": "Защита шеи",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захисні шорти",
+      "match_id": "2066",
+      "match_name": "Шорты с защитой",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Футболки з коротким рукавом",
+      "match_id": "2071",
+      "match_name": "Термокофты",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "F 650 GS Twin",
+      "match_id": "1003",
+      "match_name": "Эндуро",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Накладки на лікті та коліна",
+      "match_id": "2064",
+      "match_name": "Налокотники",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Броні та бузери",
+      "match_id": "2065",
+      "match_name": "Защитные панцири",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Шкарпетки",
+      "match_id": "2073",
+      "match_name": "Термоноски",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Термокативний одяг",
+      "match_id": "2071",
+      "match_name": "Термокофты",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Рукавички",
+      "match_id": "2042",
+      "match_name": "Текстильные перчатки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Взуття",
+      "match_id": "2052",
+      "match_name": "Туринг мотоботы",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Штани",
+      "match_id": "2022",
+      "match_name": "Текстильные брюки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Куртки та світшоти",
+      "match_id": "2011",
+      "match_name": "Кожаные куртки",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Шоломи off-road",
+      "match_id": "2005",
+      "match_name": "Кроссовые шлемы",
+      "match_path": "",
+      "confidence": 0.92,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "MX та ATV",
+      "match_id": "1009",
+      "match_name": "Квадроциклы",
+      "match_path": "",
+      "confidence": 0.88,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Зона MX і ATV",
+      "match_id": "1009",
+      "match_name": "Квадроциклы",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "G 310 GS",
+      "match_id": "1003",
+      "match_name": "Эндуро",
+      "match_path": "",
+      "confidence": 0.75,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Накладки на коліна",
+      "match_id": "2063",
+      "match_name": "Наколенники",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захист спини",
+      "match_id": "2061",
+      "match_name": "Защита спины",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захисти грудної клітки",
+      "match_id": "2062",
+      "match_name": "Защита груди",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Стабілізатори шиї",
+      "match_id": "2067",
+      "match_name": "Защита шеи",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Змінні протектори",
+      "match_id": "2061",
+      "match_name": "Защита спины",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Pegaso 650 Трейл",
+      "match_id": "1003",
+      "match_name": "Эндуро",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Протектори плечей",
+      "match_id": "2064",
+      "match_name": "Налокотники",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Накладки на лікті",
+      "match_id": "2064",
+      "match_name": "Налокотники",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захист стегон",
+      "match_id": "2066",
+      "match_name": "Шорты с защитой",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Наколінники та ортези",
+      "match_id": "2063",
+      "match_name": "Наколенники",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Черепахи",
+      "match_id": "2065",
+      "match_name": "Защитные панцири",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Броні та нагрудники",
+      "match_id": "2062",
+      "match_name": "Защита груди",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Захист",
+      "match_id": "2000",
+      "match_name": "Мотоэкипировка",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Взуття",
+      "match_id": "2051",
+      "match_name": "Спортивные мотоботы",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Рукавички",
+      "match_id": "2041",
+      "match_name": "Кожаные перчатки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Штани",
+      "match_id": "2022",
+      "match_name": "Текстильные брюки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Двокомпонентні комбінезони",
+      "match_id": "2031",
+      "match_name": "Кожаные комбинезоны",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Комбінезони цільні",
+      "match_id": "2031",
+      "match_name": "Кожаные комбинезоны",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Водонепроникний одяг",
+      "match_id": "2016",
+      "match_name": "Дождевики",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Другий шар",
+      "match_id": "2071",
+      "match_name": "Термокофты",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Комбінезони",
+      "match_id": "2031",
+      "match_name": "Кожаные комбинезоны",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Підігріваємі",
+      "match_id": "2045",
+      "match_name": "Зимние перчатки",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Шкарпетки",
+      "match_id": "2073",
+      "match_name": "Термоноски",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Футболки",
+      "match_id": "2012",
+      "match_name": "Текстильные куртки",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Легінси",
+      "match_id": "2022",
+      "match_name": "Текстильные брюки",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Балаклави, Коміри і Хустки",
+      "match_id": "2067",
+      "match_name": "Защита шеи",
+      "match_path": "",
+      "confidence": 0.75,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Термобілизна",
+      "match_id": "2071",
+      "match_name": "Термокофты",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Теплі (одяг)",
+      "match_id": "2011",
+      "match_name": "Кожаные куртки",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Короткі / Літні",
+      "match_id": "2055",
+      "match_name": "Городские мотоботы",
+      "match_path": "",
+      "confidence": 0.7,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Позашляховий",
+      "match_id": "1003",
+      "match_name": "Эндуро",
+      "match_path": "",
+      "confidence": 0.85,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Pegaso 650 Страда",
+      "match_id": "1005",
+      "match_name": "Туринг",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Шосейні / Туристичні",
+      "match_id": "1005",
+      "match_name": "Туринг",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Спортивні",
+      "match_id": "2013",
+      "match_name": "Спортивные куртки",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Рукавички",
+      "match_id": "2042",
+      "match_name": "Текстильные перчатки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Чопер",
+      "match_id": "1002",
+      "match_name": "Круизеры",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Крос/Ендуро/Квадроцикл",
+      "match_id": "1004",
+      "match_name": "Кроссовые",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Короткі, міські",
+      "match_id": "2055",
+      "match_name": "Городские мотоботы",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Туристичні",
+      "match_id": "1005",
+      "match_name": "Туринг",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Спортивні високі",
+      "match_id": "2051",
+      "match_name": "Спортивные мотоботы",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Мотоботи",
+      "match_id": "2051",
+      "match_name": "Спортивные мотоботы",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Комбінезони з повітряною подушкою",
+      "match_id": "2031",
+      "match_name": "Кожаные комбинезоны",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Цільні",
+      "match_id": "2032",
+      "match_name": "Спортивные комбинезоны",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Штани Cross/Enduro/ATV",
+      "match_id": "2024",
+      "match_name": "Эндуро брюки",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Мотоциклетні комбінезони",
+      "match_id": "2031",
+      "match_name": "Кожаные комбинезоны",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Джинси",
+      "match_id": "2023",
+      "match_name": "Джинсы мотоциклетные",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Шкіряні",
+      "match_id": "2021",
+      "match_name": "Кожаные брюки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Текстильні",
+      "match_id": "2022",
+      "match_name": "Текстильные брюки",
+      "match_path": "",
+      "confidence": 0.95,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Мотоштани",
+      "match_id": "2022",
+      "match_name": "Текстильные брюки",
+      "match_path": "",
+      "confidence": 0.9,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Куртки з подушкою безпеки",
+      "match_id": "2013",
+      "match_name": "Спортивные куртки",
+      "match_path": "",
+      "confidence": 0.8,
+      "reasoning": "AI батч обработка"
+    },
+    {
+      "input_name": "Жилети",
+      "match_id": 2062,
+      "match_name": null,
+      "match_path": "",
+      "confidence": 0.7,
+      "reasoning": "AI батч обработка"
+    }
+  ],
+  "unmatched": [
+    {
+      "input_name": "Розпродаж",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Дифузори",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Монтажні пластини",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Лебідки",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Ручки керма",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Кріплення номерного знака",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Плити під двигун",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Захисти вихлопу/глушника",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Обтічники від баку",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Захист двигуна",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Бокові захисти",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Захисти рами",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Крила",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Ліхтарі",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Набір пластиків",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Пластики",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Окуляри",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Корисне в подорожі",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Інші",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Заглушки/Вкладиші для вух",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Сумки на пояс",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Підтяжки",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Чищення / Догляд",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Поясні ремені",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Жилети і світловідбиваючі пояси",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Балаклави і коміри",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Накладки на зап’ястя і щиколотки",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Слайдери",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Труси",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Вкладиші до рукавичок",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Підігріваємо обладнання",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Пригодницькі товари",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Двокомпонентні",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "BMW",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Світшоти офф-роуд",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Софтшели з захистом",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Сорочки з захисниками",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Світшоти з захистом",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Світшоти повсякденні",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Мотоциклетні светри і сорочки",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Засоби догляду",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    },
+    {
+      "input_name": "Жилети Airbag",
+      "reasoning": "Не найдено подходящего соответствия в справочнике"
+    }
+  ],
+  "statistics": {
+    "high_confidence": 79,
+    "medium_confidence": 6,
+    "low_confidence": 0,
+    "api_requests": 7,
+    "processing_time": "00:00:42",
+    "confidence_threshold": 0.7,
+    "reference_categories_count": 148
+  }
+}

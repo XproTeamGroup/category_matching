@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(timeout 5 python main.py --help)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
