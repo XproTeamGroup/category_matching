@@ -146,50 +146,319 @@ class HierarchicalProcessor:
         return self.input_leaf_nodes
     
     def find_potential_matches_by_name(self, input_node: CategoryNode) -> List[CategoryNode]:
-        """Находит потенциальные совпадения по названию в reference"""
+        """Многоуровневый поиск потенциальных совпадений"""
         potential_matches = []
+        input_name_lower = input_node.name.lower()
         
-        # Прямое совпадение названия
-        direct_matches = self.reference_name_to_nodes.get(input_node.name.lower(), [])
+        # Уровень 1: Прямое совпадение названия
+        direct_matches = self.reference_name_to_nodes.get(input_name_lower, [])
         potential_matches.extend(direct_matches)
+        
+        if potential_matches:
+            return potential_matches
+        
+        # Уровень 2: Семантические синонимы
+        semantic_matches = self._find_semantic_matches(input_node)
+        potential_matches.extend(semantic_matches)
+        
+        if potential_matches:
+            return potential_matches
+            
+        # Уровень 3: Частичные совпадения
+        partial_matches = self._find_partial_matches(input_node)
+        potential_matches.extend(partial_matches)
+        
+        if potential_matches:
+            return potential_matches
+        
+        # Уровень 4: Фоллбэк сопоставления
+        fallback_matches = self._find_fallback_matches(input_node)
+        potential_matches.extend(fallback_matches)
         
         return potential_matches
     
     def find_best_path_match(self, input_node: CategoryNode, name_matches: List[CategoryNode]) -> Optional[CategoryNode]:
-        """Находит лучшее совпадение по контексту пути"""
+        """Находит лучшее совпадение по контексту пути с проверкой логической цепочки"""
         if not name_matches:
             return None
         
         if len(name_matches) == 1:
-            return name_matches[0]
+            # Даже для единственного совпадения проверяем логическую цепочку
+            if self._validate_logical_chain(input_node, name_matches[0]):
+                return name_matches[0]
+            return None
         
-        # Сравниваем пути для disambiguation
+        # Сравниваем пути для disambiguation с обязательной проверкой логической цепочки
         input_path = ' > '.join(input_node.full_path_names)
         best_match = None
         best_score = 0
         
         for ref_node in name_matches:
+            # Сначала проверяем логическую цепочку
+            if not self._validate_logical_chain(input_node, ref_node):
+                continue
+                
             ref_path = ' > '.join(ref_node.full_path_names)
-            score = self._calculate_path_similarity(input_path, ref_path)
+            score = self._calculate_enhanced_path_similarity(input_path, ref_path)
             
             if score > best_score:
                 best_score = score
                 best_match = ref_node
         
-        return best_match if best_score > 0.3 else None  # Минимальный порог схожести
+        # Повышаем порог для более строгого отбора
+        return best_match if best_score > 0.5 else None
     
     def _calculate_path_similarity(self, path1: str, path2: str) -> float:
-        """Вычисляет схожесть путей категорий"""
+        """Улучшенный расчет схожести путей с учетом семантики"""
         words1 = set(path1.lower().split())
         words2 = set(path2.lower().split())
         
         if not words1 or not words2:
             return 0.0
         
+        # Базовая схожесть по Jaccard
         intersection = len(words1.intersection(words2))
         union = len(words1.union(words2))
+        base_similarity = intersection / union if union > 0 else 0.0
         
-        return intersection / union if union > 0 else 0.0
+        # Дополнительные бонусы для повышения качества
+        bonus = 0.0
+        
+        # Бонус за семантически связанные слова
+        semantic_groups = {
+            'одежда': {'одяг', 'екіпірування', 'термобілизна', 'повсякденний', 'дощовики', 'куртки', 'штани', 'рукавички'},
+            'электроника': {'електроніка', 'інтеркоми', 'камери', 'gps'},
+            'защита': {'захист', 'безпека', 'протектор', 'накладки', 'наколінники'},
+            'аксессуары': {'аксесуари', 'accessories'}
+        }
+        
+        for group_words in semantic_groups.values():
+            if words1.intersection(group_words) and words2.intersection(group_words):
+                bonus += 0.2  # Бонус за принадлежность к одной семантической группе
+                break
+        
+        # Штраф за разные семантические группы
+        penalty = 0.0
+        for group1_words in semantic_groups.values():
+            for group2_words in semantic_groups.values():
+                if group1_words != group2_words:
+                    if words1.intersection(group1_words) and words2.intersection(group2_words):
+                        penalty += 0.3  # Штраф за разные семантические группы
+        
+        final_similarity = min(1.0, max(0.0, base_similarity + bonus - penalty))
+        return final_similarity
+    
+    def _calculate_enhanced_path_similarity(self, input_path: str, ref_path: str) -> float:
+        """Расширенный расчет схожести путей с учетом семантического контекста"""
+        # Базовая схожесть слов
+        base_score = self._calculate_path_similarity(input_path, ref_path)
+        
+        # Дополнительные проверки
+        input_path_lower = input_path.lower()
+        ref_path_lower = ref_path.lower()
+        
+        # Бонус за схожие семантические группы
+        semantic_bonus = 0.0
+        
+        # Одежда и экипировка
+        clothing_keywords = ['одяг', 'екіпірування', 'термобілизна', 'повсякденний', 'дощовики']
+        electronics_keywords = ['електроніка', 'інтеркоми', 'електроніка']
+        protection_keywords = ['захист', 'безпека', 'протектор']
+        accessories_keywords = ['аксесуари', 'аксессуары']
+        
+        input_has_clothing = any(kw in input_path_lower for kw in clothing_keywords)
+        ref_has_clothing = any(kw in ref_path_lower for kw in clothing_keywords)
+        
+        input_has_electronics = any(kw in input_path_lower for kw in electronics_keywords)
+        ref_has_electronics = any(kw in ref_path_lower for kw in electronics_keywords)
+        
+        input_has_protection = any(kw in input_path_lower for kw in protection_keywords)
+        ref_has_protection = any(kw in ref_path_lower for kw in protection_keywords)
+        
+        # Бонус за совпадение семантических групп
+        if (input_has_clothing and ref_has_clothing) or \
+           (input_has_electronics and ref_has_electronics) or \
+           (input_has_protection and ref_has_protection):
+            semantic_bonus = 0.3
+        
+        # Штраф за несовпадение семантических групп
+        elif (input_has_clothing and ref_has_electronics) or \
+             (input_has_electronics and ref_has_clothing):
+            semantic_bonus = -0.5  # Сильный штраф за смешение одежды и электроники
+        
+        return max(0.0, base_score + semantic_bonus)
+    
+    def _validate_logical_chain(self, input_node: CategoryNode, ref_node: CategoryNode) -> bool:
+        """Мягкая проверка логической цепочки с большим количеством разрешенных сопоставлений"""
+        input_path = ' > '.join(input_node.full_path_names).lower()
+        ref_path = ' > '.join(ref_node.full_path_names).lower()
+        input_name = input_node.name.lower()
+        ref_name = ref_node.name.lower()
+        
+        # Определяем семантические группы
+        clothing_keywords = ['одяг', 'екіпірування', 'термобілизна', 'повсякденний', 'дощовики', 'куртки', 'штани', 'рукавички', 'взуття']
+        electronics_keywords = ['електроніка', 'інтеркоми', 'камери', 'навігатори']
+        protection_keywords = ['захист', 'безпека', 'протектор', 'накладки', 'наколінники']
+        accessories_keywords = ['аксесуари', 'аксессуары']
+        
+        input_is_clothing = any(kw in input_path for kw in clothing_keywords)
+        input_is_electronics = any(kw in input_path for kw in electronics_keywords)
+        input_is_protection = any(kw in input_path for kw in protection_keywords)
+        input_is_accessories = any(kw in input_path for kw in accessories_keywords)
+        
+        ref_is_clothing = any(kw in ref_path for kw in clothing_keywords)
+        ref_is_electronics = any(kw in ref_path for kw in electronics_keywords)
+        ref_is_protection = any(kw in ref_path for kw in protection_keywords)
+        ref_is_accessories = any(kw in ref_path for kw in accessories_keywords)
+        
+        # СТРОГИЕ запреты (оставляем только самые очевидные)
+        if input_is_clothing and ref_is_electronics and not input_is_accessories:
+            return False
+        if input_is_electronics and ref_is_clothing and not ref_is_accessories:
+            return False
+        
+        # СПЕЦИАЛЬНЫЕ правила для семантически схожих категорий
+        
+        # Мягкие правила для защиты
+        protection_synonyms = {
+            'накладки на лікті': 'захист ліктів',
+            'накладки на коліна': 'наколінники',
+            'накладки на зап\'ястя': 'захист зап\'ясть'
+        }
+        
+        for input_variant, ref_variant in protection_synonyms.items():
+            if input_variant in input_name and ref_variant in ref_name:
+                return True
+        
+        # Мягкие правила для аксессуаров
+        if 'балаклав' in input_name and 'балаклав' in ref_name:
+            return True
+        
+        # Мягкие правила для составных названий
+        if '/' in input_name:
+            input_parts = [part.strip() for part in input_name.split('/')]
+            for part in input_parts:
+                if part in ref_name:
+                    return True
+        
+        # Мягкие правила для интеркомов
+        if 'інтерком' in input_path and 'інтерком' in ref_path:
+            return True
+            
+        # Мягкие правила для одежды (разрешаем большинство сопоставлений)
+        if input_is_clothing and ref_is_clothing:
+            return True
+        if input_is_protection and ref_is_protection:
+            return True
+        if input_is_accessories and ref_is_accessories:
+            return True
+        if input_is_electronics and ref_is_electronics:
+            return True
+            
+        # ОСЛАБЛЕННЫЕ правила для дождевиков (теперь разрешаем общие категории)
+        if 'дощовик' in input_path:
+            # Разрешаем сопоставление с общими категориями одежды
+            return ref_is_clothing or 'дощов' in ref_path
+        
+        # По умолчанию разрешаем большинство сопоставлений
+        return True
+    
+    def _find_semantic_matches(self, input_node: CategoryNode) -> List[CategoryNode]:
+        """Поиск семантических синонимов"""
+        semantic_synonyms = {
+            # Защита
+            'накладки на лікті': ['захист ліктів'],
+            'накладки на коліна': ['наколінники / ортези', 'наколінники'],
+            'накладки на зап\'ястя і щиколотки': ['захист зап\'ясть'],
+            'накладки на зап\'ястя': ['захист зап\'ясть'],
+            'накладки на зап\'\'ястя і щиколотки': ['захист зап\'\'ясть'],
+            'наколінники та ортези': ['наколінники / ортези', 'наколінники'],
+            # Аксессуары
+            'балаклави та коміри': ['балаклави і коміри'],
+            # Рукавички
+            'шосейні / туристичні': ['туристичні'],
+            'короткі / літні': ['літні'],
+            # Дождевики
+            'дощовики': ['дощовики'],
+            # Одежда с подогревом
+            'підігріваємі': ['з підігрівом'],
+            # Обувь
+            'пригоди': ['пригодницькі'],
+            # Уход
+            'чищення / догляд': ['догляд та чищення'],
+        }
+        
+        matches = []
+        input_name_lower = input_node.name.lower()
+        
+        # Проверяем прямые синонимы
+        if input_name_lower in semantic_synonyms:
+            for synonym in semantic_synonyms[input_name_lower]:
+                synonym_matches = self.reference_name_to_nodes.get(synonym.lower(), [])
+                matches.extend(synonym_matches)
+        
+        return matches
+    
+    def _find_partial_matches(self, input_node: CategoryNode) -> List[CategoryNode]:
+        """Поиск частичных совпадений в составных названиях"""
+        matches = []
+        input_name_lower = input_node.name.lower()
+        
+        # Обрабатываем составные названия через '/' и ' / '
+        if '/' in input_name_lower:
+            parts = [part.strip() for part in input_name_lower.split('/')]
+            for part in parts:
+                if len(part) > 2:  # Игнорируем слишком короткие части
+                    part_matches = self.reference_name_to_nodes.get(part, [])
+                    matches.extend(part_matches)
+        
+        # Поиск частичных совпадений в справочнике
+        for ref_node in self.reference_leaf_nodes:
+            ref_name_lower = ref_node.name.lower()
+            # Если input название содержится в reference
+            if len(input_name_lower) > 3 and input_name_lower in ref_name_lower:
+                matches.append(ref_node)
+            # Если reference название содержится в input
+            elif len(ref_name_lower) > 3 and ref_name_lower in input_name_lower:
+                matches.append(ref_node)
+        
+        return matches
+    
+    def _find_fallback_matches(self, input_node: CategoryNode) -> List[CategoryNode]:
+        """Фоллбэк сопоставления для специальных случаев"""
+        matches = []
+        input_name_lower = input_node.name.lower()
+        input_path = ' > '.join(input_node.full_path_names).lower()
+        
+        # Фоллбэк для брендов интеркомов
+        intercom_brands = ['sena', 'cardo', 'freedconn', 'eyeride', 'scala', 'rider']
+        if ('інтерком' in input_path or 'універсальн' in input_path) and \
+           any(brand in input_name_lower for brand in intercom_brands):
+            # Находим общие категории интеркомов
+            for ref_node in self.reference_leaf_nodes:
+                if 'інтерком' in ' > '.join(ref_node.full_path_names).lower():
+                    matches.append(ref_node)
+                    break
+        
+        # Фоллбэк для дождевой одежды
+        elif 'дощовик' in input_path:
+            # Ищем общие категории одежды
+            clothing_types = {
+                'куртки': ['kurti'], 
+                'штани': ['pants', 'штани'],
+                'рукавички': ['рукавички'],
+                'взуття': ['взуття']
+            }
+            
+            for clothing_type, keywords in clothing_types.items():
+                if clothing_type in input_name_lower:
+                    for ref_node in self.reference_leaf_nodes:
+                        ref_path_lower = ' > '.join(ref_node.full_path_names).lower()
+                        if any(keyword in ref_path_lower for keyword in keywords):
+                            matches.append(ref_node)
+                            break
+        
+        return matches[:3]  # Ограничиваем количество fallback matches
     
     def group_input_nodes_by_target_branch(self, matches: List[Tuple[CategoryNode, CategoryNode]]) -> Dict[str, List[Tuple[CategoryNode, CategoryNode]]]:
         """Группирует input узлы по целевым веткам reference для batch обработки"""

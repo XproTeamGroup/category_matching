@@ -76,7 +76,7 @@ class ClaudeAPIClient:
                     }]
                 )
                 
-                result = self._parse_hierarchical_response(response.content[0].text)
+                result = self._parse_hierarchical_response(response.content[0].text, reference_categories)
                 logger.info(f"Successfully processed hierarchical batch with {len(result.get('matches', []))} matches")
                 return result
                 
@@ -154,35 +154,60 @@ class ClaudeAPIClient:
             return {"matches": [], "error": f"Response processing failed: {e}"}
     
     def _get_hierarchical_system_prompt(self) -> str:
-        """Системный промпт для иерархического сопоставления"""
-        return """Ты - эксперт по классификации иерархических товарных категорий. Твоя задача - сопоставить входные категории с существующими категориями из справочника с учетом иерархической структуры.
+        """Простой и качественный системный промпт для ЛОГИЧЕСКОГО сопоставления"""
+        return """Ты - эксперт по логическому сопоставлению товарных категорий. Твоя задача - найти ЛОГИЧЕСКИ ПОДХОДЯЩЕЕ соответствие или отказаться, если его нет.
 
-ПРАВИЛА СОПОСТАВЛЕНИЯ:
-1. Ищи точные совпадения названий в контексте их иерархии
-2. Учитывай полный путь категорий (full_path) для правильного понимания контекста
-3. Если категория "Аксесуари" есть в разных ветках, выбирай ту, которая соответствует контексту входной категории
-4. Анализируй родительские категории для понимания правильной области применения
-5. Для неоднозначных случаев выбирай наиболее подходящую категорию по контексту
-6. Если категория не подходит ни к одной - возвращай null для match_id
+ПРИНЦИПЫ ЛОГИЧЕСКОГО СОПОСТАВЛЕНИЯ:
 
-ВАЖНО: Обращай особое внимание на исходный контекст (original_context) входных категорий - это поможет понять в какую ветку справочника они должны попасть.
+1. ОСНОВНОЙ ПРИНЦИП:
+   - НЕ ищи точную схожесть названий
+   - Ищи ЛОГИЧЕСКОЕ СООТВЕТСТВИЕ по предназначению товара
+   - Если сомневаешься - лучше НЕ сопоставлять
+
+2. ЗАЩИТНЫЕ ЭЛЕМЕНТЫ (ВЫСОКИЙ ПРИОРИТЕТ):
+   - "Накладки на лікті" = "Захист ліктів" (одинаковое предназначение)
+   - "Накладки на коліна" = "Наколінники / ортези" (защита колен)
+   - "Накладки на зап'ястя" = "Захист зап'ясть" (защита запястий)
+   - "Наколінники та ортези" = "Наколінники / ортези" (точное соответствие)
+
+3. ОДЕЖДА И ЭКИПИРОВКА:
+   - Сопоставляй ТОЛЬКО в рамках "Екіпірування та одяг"
+   - Учитывай назначение: дождевые, летние, термобелье и т.д.
+   - "Кофти з протекторами" → "Кофти" (основной товар - кофта)
+
+4. БРЭНДЫ И МОДЕЛИ:
+   - Сопоставляй ТОЛЬКО к листовым категориям (is_leaf: true)
+   - Интерком брэнды → ищи подходящую листовую категорию в интеркомах
+   - Если нет подходящей листовой - НЕ сопоставляй
+
+5. СТРОГИЕ ПРАВИЛА ОТКАЗА:
+   - НЕ сопоставляй разные семантические группы (одежда ≠ электроника)
+   - НЕ сопоставляй к родительским (не листовым) категориям
+   - НЕ выдумывай связи - если нет логики, возвращай null
+   - Лучше НЕ сопоставить, чем сопоставить неправильно
+
+ПРИМЕРЫ ПРАВИЛЬНЫХ РЕШЕНИЙ:
+✓ "Накладки на лікті" → "Захист ліктів" (защита локтей)
+✓ "Балаклави та коміри" → "Балаклави і коміри" (одинаковый товар)
+✗ "Дощовики > Рукавички" → НЕ сопоставлять с "Літні" (дождевые ≠ летние)
+✗ "Midland" интеркомы → НЕ сопоставлять с "Midland" камеры (разные товары)
 
 ФОРМАТ ОТВЕТА - строго JSON:
 {
     "matches": [
         {
             "input_id": "123",
-            "match_id": "2392",
-            "match_name": "Аксесуари",
-            "confidence": 0.95,
-            "reasoning": "Сопоставление по контексту: входная категория из ветки мотоциклов соответствует аксессуарам для мотоциклов"
+            "match_id": "2392", // или null если НЕТ логического соответствия
+            "match_name": "Назва категорії", // или null
+            "confidence": 0.9, // высокая для логических соответствий, низкая для сомнительных
+            "reasoning": "Краткое объяснение логики или причин отказа"
         }
     ]
 }"""
     
     def _build_hierarchical_prompt(self, reference_categories: List[Dict], 
                                  input_categories: List[Dict]) -> str:
-        """Построение промпта для иерархического сопоставления"""
+        """Построение улучшенного промпта для строгого иерархического сопоставления"""
         
         # Форматируем справочные категории с полными путями
         ref_formatted = []
@@ -197,19 +222,31 @@ class ClaudeAPIClient:
         for cat in input_categories:
             input_formatted.append(
                 f"ID: {cat['id']}, Name: {cat['name']}, Path: {cat['path']}, "
-                f"Full Path: {cat['full_path']}, Original Context: {cat['original_context']}"
+                f"Full Path: {cat['full_path']}, Context: {cat['original_context']}"
             )
         
-        return f"""СПРАВОЧНИК КАТЕГОРИЙ (с иерархией):
+        return f"""СПРАВОЧНИК КАТЕГОРИЙ для сопоставления:
 {chr(10).join(ref_formatted)}
 
-КАТЕГОРИИ ДЛЯ СОПОСТАВЛЕНИЯ (с исходным контекстом):
+ВХОДНЫЕ КАТЕГОРИИ для анализа:
 {chr(10).join(input_formatted)}
 
-Сопоставь каждую входную категорию с наиболее подходящей из справочника, учитывая иерархический контекст. Верни результат в указанном JSON формате."""
+ВАЖНО: Для каждой входной категории:
+1. ПРОАНАЛИЗИРУЙ полную иерархическую цепочку (Full Path)
+2. НАЙДИ семантически совместимые категории в справочнике
+3. ПРОВЕРЬ логическую корректность сопоставления
+4. ЕСЛИ нет подходящего логического соответствия - верни null для match_id
+5. НЕ сопоставляй категории из разных семантических групп (одежда ≠ электроника)
+
+Пример правильного анализа:
+- Входная: "Одяг > Дощовики > Куртки" → ищем в справочнике дождевые куртки или водонепроницаемые куртки
+- Если находим только "Куртки > Зимние" - это НЕ подходит, возвращаем null
+- Если находим "Екіпірування > Куртки > Дощові" - это ПОДХОДИТ
+
+Верни результат в строгом JSON формате с детальным обоснованием каждого решения."""
     
-    def _parse_hierarchical_response(self, response_text: str) -> Dict:
-        """Парсинг ответа для иерархического сопоставления"""
+    def _parse_hierarchical_response(self, response_text: str, reference_categories: List[Dict] = None) -> Dict:
+        """Улучшенный парсинг ответа для иерархического сопоставления с валидацией"""
         try:
             # Извлекаем JSON из ответа
             response_text = response_text.strip()
@@ -233,11 +270,46 @@ class ClaudeAPIClient:
             if 'matches' not in result:
                 raise ValueError("Response missing 'matches' field")
             
+            # Создаем индекс листовых категорий для валидации
+            leaf_categories = {}
+            if reference_categories:
+                for cat in reference_categories:
+                    if cat.get('is_leaf', False):
+                        leaf_categories[cat['id']] = cat
+
+            # Валидируем и очищаем matches
+            validated_matches = []
             for match in result['matches']:
-                required_fields = ['input_id', 'match_id', 'match_name', 'confidence', 'reasoning']
-                for field in required_fields:
-                    if field not in match:
-                        logger.warning(f"Match missing field: {field}")
+                required_fields = ['input_id', 'confidence', 'reasoning']
+                if not all(field in match for field in required_fields):
+                    logger.warning(f"Match missing required fields, skipping: {match}")
+                    continue
+                
+                # Проверяем корректность match_id
+                if match.get('match_id') is None or match.get('match_id') == 'null':
+                    # Это правильный случай когда AI отказался от сопоставления
+                    match['match_id'] = None
+                    match['match_name'] = None
+                    logger.info(f"AI refused to match input_id {match['input_id']}: {match['reasoning']}")
+                else:
+                    # Проверяем что сопоставили к листовой категории
+                    match_id = match.get('match_id')
+                    if match_id and reference_categories and match_id not in leaf_categories:
+                        logger.warning(f"AI matched to non-leaf category {match_id} for input_id {match['input_id']}, rejecting match")
+                        match['match_id'] = None
+                        match['match_name'] = None
+                        match['reasoning'] += " (Отклонено: сопоставление к не-листовой категории)"
+                
+                # Проверяем уверенность
+                confidence = match.get('confidence', 0.0)
+                if confidence < 0.0 or confidence > 1.0:
+                    logger.warning(f"Invalid confidence {confidence}, clamping to [0.0, 1.0]")
+                    match['confidence'] = max(0.0, min(1.0, confidence))
+                
+                validated_matches.append(match)
+            
+            result['matches'] = validated_matches
+            logger.info(f"Validated {len(validated_matches)} matches from AI response")
             
             return result
             

@@ -124,7 +124,9 @@ async def run_hierarchical_matching(args):
         total = stats['total_input_categories']
         matched = stats['exact_matches'] + stats['ai_matches']
         match_rate = (matched / total * 100) if total > 0 else 0
-        cost_savings = ((total - stats['api_calls'] * args.batch_size) / total * 100) if total > 0 else 0
+        
+        # Исправленный расчет экономии: процент категорий, обработанных без AI
+        cost_savings = (stats['exact_matches'] / total * 100) if total > 0 else 0
         
         print(f"\n=== РЕЗУЛЬТАТЫ ИЕРАРХИЧЕСКОГО СОПОСТАВЛЕНИЯ ===")
         print(f"Всего входных категорий: {total}")
@@ -133,7 +135,7 @@ async def run_hierarchical_matching(args):
         print(f"Не сопоставлено: {stats['no_matches']} ({stats['no_matches']/total*100:.1f}%)")
         print(f"Общий процент совпадений: {match_rate:.1f}%")
         print(f"API запросов: {stats['api_calls']}")
-        print(f"Экономия на AI: {cost_savings:.1f}% запросов сохранено")
+        print(f"Экономия от точных совпадений: {cost_savings:.1f}%")
         print(f"Время обработки: {processing_time:.2f} секунд")
         print("=" * 48)
         
@@ -149,7 +151,7 @@ AI сопоставлений: {stats['ai_matches']} ({stats['ai_matches']/total
 
 Оптимизация:
 API запросов: {stats['api_calls']}
-Экономия на AI: {cost_savings:.1f}% запросов сохранено
+Экономия от точных совпадений: {cost_savings:.1f}%
 Время обработки: {processing_time:.2f} секунд
 """
             
