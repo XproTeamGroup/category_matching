@@ -1,0 +1,195 @@
+{
+  "processed_at": "2025-09-11T13:26:51.867152",
+  "summary": {
+    "total_input": 12,
+    "total_matched": 0,
+    "total_unmatched": 12,
+    "percentage_matched": "0.00%",
+    "api_requests": 1,
+    "processing_time": "18.08s"
+  },
+  "matched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "unmatched_categories": {
+    "count": 12,
+    "items": [
+      {
+        "input_id": "2108",
+        "input_name": "Інтегральні",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Інтегральні",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2154",
+        "input_name": "Інші",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Аксесуари > Інші",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для аксессуаров шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2117",
+        "input_name": "Аксесуари",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Аксесуари > Візори > Аксесуари",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для аксессуаров шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2131",
+        "input_name": "Вітрові скла",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Аксесуари > Візори > Вітрові скла",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для визоров шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2152",
+        "input_name": "Окуляри",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Аксесуари > Окуляри",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для очков шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2153",
+        "input_name": "Хімія",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Аксесуари > Хімія",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для химии шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2110",
+        "input_name": "Відкриті",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Відкриті",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для открытых шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2114",
+        "input_name": "Дитячі",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Дитячі",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для детских шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2111",
+        "input_name": "Модульні",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Модульні",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для модульных шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2113",
+        "input_name": "Позашляховий",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Позашляховий",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для внедорожных шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2112",
+        "input_name": "Пригоди",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Пригоди",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для приключенческих шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": "2109",
+        "input_name": "Щелепні",
+        "input_path": "",
+        "input_full_path": "Мотоциклетні шоломи > Щелепні",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "В предоставленной новой структуре нет категории для челюстных шлемов",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 0,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 12,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 0,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

@@ -8,11 +8,11 @@ from datetime import datetime
 
 # --- Конфигурация ---
 NEW_CATEGORIES_FILE = 'new.json'
-OLD_CATEGORIES_FILE = 'old.json'
-OUTPUT_CSV_FILE = 'report/category_matches_report.csv'
-OUTPUT_JSON_FILE = 'report/category_matches_results.json'
-OUTPUT_STATS_FILE = 'report/category_matches_statistics.txt'
-CHUNK_SIZE = 20 # Количество старых категорий для обработки за один запрос к Claude
+OLD_CATEGORIES_FILE = '2.json'
+OUTPUT_CSV_FILE = 'report_2/category_matches_report.csv'
+OUTPUT_JSON_FILE = 'report_2/category_matches_results.json'
+OUTPUT_STATS_FILE = 'report_2/category_matches_statistics.txt'
+CHUNK_SIZE = 20 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
 CLAUDE_MODEL = "claude-3-5-haiku-20241022" # Можно использовать "claude-3-sonnet-20240229" для меньших затрат
 MAX_TOKENS_RESPONSE = 8000 # Максимальное количество токенов в ответе Claude
 TEMPERATURE = 0.0 # Температура для Claude (0.0 для более детерминированных ответов)
@@ -31,92 +31,146 @@ def load_categories(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+def flatten_categories(categories_data, parent_path_names=None):
+    """
+    Рекурсивно обходит иерархическую структуру категорий и возвращает плоский список всех категорий
+    с полными путями.
+    """
+    if parent_path_names is None:
+        parent_path_names = []
+    
+    flattened = []
+    
+    for category in categories_data:
+        current_path_names = parent_path_names + [category['name']]
+        full_path_name = " > ".join(current_path_names)
+        
+        # Добавляем текущую категорию
+        flattened.append({
+            'id': category['id'],
+            'name': category['name'],
+            'parent_id': category['parent_id'],
+            'full_path_name': full_path_name,
+            'has_children': len(category.get('children', [])) > 0
+        })
+        
+        # Рекурсивно обрабатываем дочерние категории
+        if category.get('children'):
+            flattened.extend(flatten_categories(category['children'], current_path_names))
+    
+    return flattened
+
+def get_leaf_categories_from_hierarchical(categories_data):
+    """
+    Определяет конечные категории из иерархической структуры (новый формат)
+    """
+    # Получаем плоский список всех категорий
+    all_categories = flatten_categories(categories_data)
+    
+    # Фильтруем только конечные категории (без детей)
+    leaf_categories = [cat for cat in all_categories if not cat['has_children']]
+    
+    return leaf_categories
+
+def get_leaf_categories_from_old_format(categories_data):
+    """
+    Определяет конечные категории из старого формата с path
+    """
+    # Создаем плоскую карту
+    flat_map = create_flat_category_map_from_old_format(categories_data)
+    
+    # Фильтруем только конечные категории (без детей)
+    leaf_categories = [cat for cat in flat_map.values() if not cat['has_children']]
+    
+    return leaf_categories
+
 def get_leaf_categories(categories_data):
     """
-    Определяет конечные категории (те, которые не являются родителями для других)
-    и возвращает их вместе с их полным путем в виде списка словарей.
+    Автоматически определяет формат и возвращает конечные категории
     """
-    parent_ids = set()
-    category_map = {cat['id']: cat for cat in categories_data}
-
-    for category in categories_data:
-        # Проверяем, является ли текущая категория родителем для какой-либо другой
-        # Путь дочерней категории должен начинаться с пути родителя + ID родителя
-        for other_category in categories_data:
-            if category['id'] == other_category['id']: # Не сравниваем категорию саму с собой
-                continue
-            
-            # Если id текущей категории присутствует в пути другой категории,
-            # и этот 'другой' путь длиннее, то текущая категория - родитель.
-            # Пример: path '36637>36638', id '36638'.
-            # Дочерний path: '36637>36638>36639'.
-            # Проверяем, что '36638' (id) является частью пути дочерней категории и не равно самой себе.
-            if f"{category['id']}" in other_category['path'] and len(other_category['path'].split('>')) > len(category['path'].split('>')):
-                parent_ids.add(category['id'])
-                break # Эта категория - родитель, можем идти к следующей
-
-    leaf_categories = []
-    for category in categories_data:
-        if category['id'] not in parent_ids:
-            # Создаем полный путь для удобства
-            path_parts = []
-            current_id = category['id']
-            while True:
-                current_cat = category_map.get(current_id)
-                if not current_cat:
-                    break
-                path_parts.insert(0, current_cat['name'])
-                
-                # Ищем родителя
-                parent_path_segment = None
-                if '>' in current_cat['path']:
-                    parent_path_segment = '>'.join(current_cat['path'].split('>')[:-1])
-                    
-                if parent_path_segment:
-                    # Находим ID родителя из сегмента пути
-                    parent_id = parent_path_segment.split('>')[-1]
-                    current_id = parent_id # Переходим к родителю
-                else: # Если нет знака '>', значит, это корневая категория
-                    break
-            
-            full_path_name = " > ".join(path_parts)
-            
-            leaf_categories.append({
-                'id': category['id'],
-                'name': category['name'],
-                'path': category['path'],
-                'full_path_name': full_path_name # Добавляем легкочитаемый полный путь
-            })
-    return leaf_categories
+    if not categories_data:
+        return []
+    
+    # Проверяем формат данных
+    first_item = categories_data[0] if isinstance(categories_data, list) else categories_data
+    
+    if 'children' in first_item:
+        # Новый иерархический формат
+        return get_leaf_categories_from_hierarchical(categories_data)
+    elif 'path' in first_item:
+        # Старый формат с path
+        return get_leaf_categories_from_old_format(categories_data)
+    else:
+        # Неизвестный формат
+        print("Warning: Unknown category format")
+        return []
 
 def chunk_list(lst, chunk_size):
     """Разбивает список на части (батчи)."""
     for i in range(0, len(lst), chunk_size):
         yield lst[i:i + chunk_size]
 
-def get_full_path_name(category_id, categories_data_map):
+def create_flat_category_map_from_hierarchical(categories_data):
+    """Создает плоскую карту всех категорий из иерархической структуры (новый формат)."""
+    all_categories = flatten_categories(categories_data)
+    # Приводим все ID к строкам для единообразия
+    return {str(cat['id']): cat for cat in all_categories}
+
+def create_flat_category_map_from_old_format(categories_data):
+    """Создает плоскую карту категорий из старого формата с path."""
+    category_map = {}
+    
+    for cat in categories_data:
+        # Строим полный путь для старого формата
+        path_parts = []
+        if 'path' in cat:
+            path_ids = cat['path'].split('>')
+            for path_id in path_ids:
+                # Найти категорию с таким ID
+                found_cat = next((c for c in categories_data if str(c['id']) == str(path_id)), None)
+                if found_cat:
+                    path_parts.append(found_cat['name'])
+        else:
+            path_parts = [cat['name']]
+        
+        full_path_name = " > ".join(path_parts)
+        
+        category_map[str(cat['id'])] = {
+            'id': str(cat['id']),
+            'name': cat['name'],
+            'path': cat.get('path', ''),
+            'full_path_name': full_path_name,
+            'has_children': False  # Определим позже
+        }
+    
+    # Определяем какие категории имеют детей
+    for cat in categories_data:
+        cat_id = str(cat['id'])
+        if 'path' in cat:
+            # Проверяем, есть ли категории с путем, который начинается с текущего пути + ID
+            current_path_prefix = cat['path'] + '>'
+            has_children = any(
+                other_cat.get('path', '').startswith(current_path_prefix) 
+                for other_cat in categories_data 
+                if str(other_cat['id']) != cat_id
+            )
+            category_map[cat_id]['has_children'] = has_children
+    
+    return category_map
+
+def get_full_path_name(category_id, categories_flat_map):
     """Возвращает полный читаемый путь для категории по её ID."""
-    path_parts = []
-    current_id = category_id
-    while True:
-        current_cat = categories_data_map.get(current_id)
-        if not current_cat:
-            break
-        path_parts.insert(0, current_cat['name'])
-        
-        parent_path = current_cat['path'].rsplit('>', 1)[0] # Получаем путь родителя
-        if parent_path == current_cat['path']: # Если path не изменился, это корневая категория
-            break
-        
-        # Находим ID родителя из path
-        parent_id = parent_path.rsplit('>', 1)[-1] if '>' in parent_path else parent_path
-        if parent_id == current_id: # Защита от зацикливания, если путь некорректно построен
-            break
-        current_id = parent_id
-        if current_id not in categories_data_map: # Если родитель не найден в карте
-            break
-            
-    return " > ".join(path_parts)
+    category = categories_flat_map.get(category_id)
+    if category:
+        return category['full_path_name']
+    return "Unknown category"
+
+def find_category_by_full_path(full_path_name, categories_flat_map):
+    """Находит категорию по полному пути и возвращает её ID."""
+    for cat_id, cat_data in categories_flat_map.items():
+        if cat_data['full_path_name'] == full_path_name:
+            return cat_id
+    return None
 
 def save_russian_statistics(total_input, matched, unmatched, percentage_matched, 
                           api_requests, execution_time, all_processed_results):
@@ -199,9 +253,13 @@ def run_matching_system():
     all_new_categories = load_categories(NEW_CATEGORIES_FILE)
     all_old_categories = load_categories(OLD_CATEGORIES_FILE)
 
-    # Создаем карты ID -> категория для быстрого доступа
-    new_categories_map = {cat['id']: cat for cat in all_new_categories}
-    old_categories_map = {cat['id']: cat for cat in all_old_categories}
+    # Создаем плоские карты категорий для быстрого доступа
+    new_categories_flat_map = create_flat_category_map_from_hierarchical(all_new_categories)
+    # Автоматически определяем формат старых категорий
+    if 'children' in all_old_categories[0]:
+        old_categories_flat_map = create_flat_category_map_from_hierarchical(all_old_categories)
+    else:
+        old_categories_flat_map = create_flat_category_map_from_old_format(all_old_categories)
     
     # 2. Получение конечных категорий
     new_leaf_categories = get_leaf_categories(all_new_categories)
@@ -231,13 +289,21 @@ def run_matching_system():
         print(f"Отправляем на обработку: {len(chunk)} категорий")
         print(f"ID категорий в чанке: {[cat['id'] for cat in chunk]}")
 
+        # Создаем словарь для быстрого поиска ID по полному пути
+        new_path_to_id_map = {lc['full_path_name']: lc['id'] for lc in new_leaf_categories}
+        
         # Формируем промпт
         prompt_template = f"""
-У меня есть существующая структура категорий. Ниже представлена полная иерархия всех конечных категорий, к которым могут быть привязаны продукты. Каждая строка представляет собой полный путь к конечной категории:
+У меня есть существующая структура категорий. Ниже представлена полная иерархия всех конечных категорий, к которым могут быть привязаны продукты. 
+
+ФОРМАТ: ID | Полный путь категории
 
 <NEW_STRUCTURE>
-{formatted_new_structure_str}
-</NEW_STRUCTURE>
+"""
+        for lc in new_leaf_categories:
+            prompt_template += f"{lc['id']} | {lc['full_path_name']}\n"
+        
+        prompt_template += f"""</NEW_STRUCTURE>
 
 Теперь у меня есть список категорий из старой системы, которые мне нужно сопоставить с вашей новой структурой.
 
@@ -248,33 +314,34 @@ def run_matching_system():
 4. Учитывайте ПОЛНЫЙ путь категории - если в старой системе "Дощовики > Взуття", это обувь для дождя, а не дождевики
 5. Если категория находится НЕ в своей семантической группе - укажите "Не найдено"
 
+ВАЖНО ДЛЯ MATCH_ID:
+- Используйте ТОЧНЫЙ ID из NEW_STRUCTURE (числовой ID, например "36639")
+- НЕ придумывайте ID - используйте только те, что указаны в NEW_STRUCTURE
+- Если не нашли подходящую категорию - указывайте match_id: "Не найдено"
+
 ПРИМЕРЫ ПРАВИЛЬНОГО СОПОСТАВЛЕНИЯ:
-- "Дощовики > Взуття" → найти категорию обуви (например "Екіпірування та одяг > Взуття > Дощова взуття")
-- "Дощовики > Штани" → найти категорию штанов (например "Екіпірування та одяг > Штани > Дощові штани") 
-- "Дощовики > Куртки" → найти категорию курток-дождевиков
-- НЕ сопоставляйте обувь с курткой или штаны с комбинезоном
+- "Дощовики > Взуття" → найти ID категории обуви из NEW_STRUCTURE
+- "Дощовики > Штани" → найти ID категории штанов из NEW_STRUCTURE
+- "Дощовики > Куртки" → найти ID категории курток из NEW_STRUCTURE
 
 КРИТЕРИИ ОТКЛОНЕНИЯ:
-- Коэффициент уверенности < 0.8 → "Не найдено"
-- Семантически неподходящая категория → "Не найдено"
-- Нет точного соответствия типу товара → "Не найдено"
+- Коэффициент уверенности < 0.8 → match_id: "Не найдено"
+- Семантически неподходящая категория → match_id: "Не найдено"
+- Нет точного соответствия типу товара → match_id: "Не найдено"
 
-Не придумывайте свою структуру, используйте ТОЛЬКО предоставленные категории.
+Не придумывайте свою структуру, используйте ТОЛЬКО предоставленные ID и пути из NEW_STRUCTURE.
 Не пропускайте категории - всегда давайте результат на каждую категорию. 
 
 Пожалуйста, выводите результат в формате JSON-массива объектов, где каждый объект имеет следующую структуру:
 {{
     "input_id": "ID старой категории",
-    "input_name": "Название старой категории",
-    "input_path": "Путь старой категории (как в исходном файле)",
+    "input_name": "Название старой категории", 
     "input_full_path": "Полный читаемый путь старой категории",
-    "match_id": "ID сопоставленной новой категории (из NEW_STRUCTURE) или 'Не найдено'",
-    "match_name": "Название сопоставленной новой категории или 'Не найдено'",
-    "match_path": "Путь сопоставленной новой категории (как в исходном файле) или 'Не найдено'",
-    "match_full_path": "Полный читаемый путь сопоставленной новой категории (как в NEW_STRUCTURE) или 'Не найдено'",
-    "confidence": "Оценка уверенности в совпадении (от 0.0 до 1.0, где 1.0 - высокая уверенность)",
-    "reasoning": "Краткое объяснение причины совпадения или отсутствия совпадения (например, 'Точное совпадение', 'Смысловое совпадение', 'Нет подходящей категории')",
-    "method": "Метод сопоставления (например, 'exact', 'semantic', 'general', 'unmatched')"
+    "match_id": "ТОЧНЫЙ ID из NEW_STRUCTURE (например '36639') или 'Не найдено'",
+    "match_full_path": "ТОЧНЫЙ полный путь из NEW_STRUCTURE или 'Не найдено'",
+    "confidence": Числовое значение от 0.0 до 1.0,
+    "reasoning": "Краткое объяснение",
+    "method": "exact/semantic/general/unmatched"
 }}
 
 Вот список старых категорий для сопоставления:
@@ -283,7 +350,7 @@ def run_matching_system():
 """
         for cat in chunk:
             # Передаем Claude ID и полный путь, чтобы он мог вернуть их в ответе
-            prompt_template += f"{cat['id']} | {cat['full_path_name']}\n"
+            prompt_template += f"ID {cat['id']} | {cat['full_path_name']}\n"
         prompt_template += "</OLD_CATEGORIES_TO_MATCH>"
 
         try:
@@ -315,11 +382,11 @@ def run_matching_system():
             # print(f"Первые 200 символов ответа: {json_str_to_parse[:200]}...")
 
             matches_chunk = json.loads(json_str_to_parse)
-            print(f"✓ JSON успешно распарсен! Получено результатов: {len(matches_chunk)}")
+            print(f"JSON успешно распарсен! Получено результатов: {len(matches_chunk)}")
             
             # КРИТИЧЕСКАЯ ПРОВЕРКА: количество результатов должно совпадать с отправленными
             if len(matches_chunk) != len(chunk):
-                print(f"⚠️  ВНИМАНИЕ: Несоответствие количества!")
+                print(f"ВНИМАНИЕ: Несоответствие количества!")
                 print(f"   Отправлено категорий: {len(chunk)}")
                 print(f"   Получено результатов: {len(matches_chunk)}")
                 print(f"   Потеряно категорий: {len(chunk) - len(matches_chunk)}")
@@ -338,7 +405,7 @@ def run_matching_system():
                             unmatched_results.append({
                                 'input_id': missing_cat['id'],
                                 'input_name': missing_cat['name'],
-                                'input_path': missing_cat['path'],
+                                'input_path': missing_cat.get('path', ''),
                                 'input_full_path': missing_cat['full_path_name'],
                                 'match_id': 'Missing from Claude Response',
                                 'match_name': 'Missing from Claude Response',
@@ -350,22 +417,57 @@ def run_matching_system():
                             })
                             print(f"   Добавлена пропущенная категория: {missing_id} - {missing_cat['name']}")
             else:
-                print(f"✓ Количество результатов совпадает с отправленными категориями")
+                print(f"Количество результатов совпадает с отправленными категориями")
             
             processed_in_chunk = 0
             matched_in_chunk = 0
             unmatched_in_chunk = 0
             
+            def validate_and_correct_match_id(item, new_categories_flat_map, new_path_to_id_map):
+                """Валидирует и корректирует match_id от AI"""
+                match_id = item.get('match_id', 'Не найдено')
+                match_full_path = item.get('match_full_path', 'Не найдено')
+                
+                # Если AI не нашел совпадения
+                if match_id in ['Не найдено', 'Не знайдено']:
+                    return match_id, 'Не найдено', 'Не найдено'
+                
+                # Проверяем, существует ли указанный ID в новых категориях
+                if match_id in new_categories_flat_map:
+                    # ID существует, проверяем соответствие полного пути
+                    expected_path = new_categories_flat_map[match_id]['full_path_name']
+                    if match_full_path != expected_path:
+                        print(f"   Исправляем match_full_path для ID {match_id}: '{match_full_path}' -> '{expected_path}'")
+                        match_full_path = expected_path
+                    return match_id, expected_path, expected_path
+                else:
+                    # ID не существует, возможно AI ошибся
+                    print(f"   Неверный match_id от AI: '{match_id}' не существует в новой структуре")
+                    
+                    # Пытаемся найти ID по полному пути, если AI указал правильный путь
+                    if match_full_path != 'Не найдено' and match_full_path in new_path_to_id_map:
+                        correct_id = new_path_to_id_map[match_full_path]
+                        print(f"   Исправляем match_id по пути: '{match_id}' -> '{correct_id}'")
+                        return correct_id, match_full_path, match_full_path
+                    else:
+                        print(f"   Не удалось исправить match_id, отмечаем как 'Не найдено'")
+                        return 'Не найдено', 'Не найдено', 'Не найдено'
+
             for item in matches_chunk:
                 processed_in_chunk += 1
                 old_cat_id = item['input_id']
                 old_cat_full_path = item['input_full_path'] # Используем полный путь из Claude
                 
-                # Достаем оригинальные данные из old_categories_map
-                original_old_cat = old_categories_map.get(old_cat_id)
+                # Валидируем и корректируем match_id
+                corrected_match_id, corrected_match_name, corrected_match_full_path = validate_and_correct_match_id(
+                    item, new_categories_flat_map, new_path_to_id_map
+                )
+                
+                # Достаем оригинальные данные из old_categories_flat_map
+                original_old_cat = old_categories_flat_map.get(old_cat_id)
                 
                 if not original_old_cat:
-                    print(f"⚠️  Предупреждение: ID {old_cat_id} от Claude не найден в исходных данных")
+                    print(f"Предупреждение: ID {old_cat_id} от Claude не найден в исходных данных")
                     # Если Claude вернул ID, которого нет в исходных данных (очень маловероятно)
                     item_for_report = {
                         'input_id': item.get('input_id'),
@@ -383,21 +485,27 @@ def run_matching_system():
                     unmatched_results.append(item_for_report)
                     unmatched_in_chunk += 1
                 else:
+                    # Получаем правильное название категории для match_name
+                    if corrected_match_id not in ['Не найдено', 'Не знайдено'] and corrected_match_id in new_categories_flat_map:
+                        corrected_match_name = new_categories_flat_map[corrected_match_id]['name']
+                    else:
+                        corrected_match_name = 'Не найдено'
+                    
                     item_for_report = {
                         'input_id': original_old_cat['id'],
                         'input_name': original_old_cat['name'],
-                        'input_path': original_old_cat['path'],
-                        'input_full_path': original_old_cat.get('full_path_name', get_full_path_name(original_old_cat['id'], old_categories_map)),
-                        'match_id': item.get('match_id', 'Не найдено'),
-                        'match_name': item.get('match_name', 'Не найдено'),
-                        'match_path': item.get('match_path', 'Не найдено'),
-                        'match_full_path': item.get('match_full_path', 'Не найдено'),
+                        'input_path': original_old_cat.get('path', ''),  # старая структура может не иметь path
+                        'input_full_path': original_old_cat.get('full_path_name', get_full_path_name(original_old_cat['id'], old_categories_flat_map)),
+                        'match_id': corrected_match_id,
+                        'match_name': corrected_match_name,
+                        'match_path': '',  # новая структура не использует старый формат path
+                        'match_full_path': corrected_match_full_path,
                         'confidence': item.get('confidence', 0.0),
                         'reasoning': item.get('reasoning', 'No reasoning provided'),
                         'method': item.get('method', 'unspecified')
                     }
                     
-                    if item_for_report['match_id'] not in ['Не найдено', 'Не знайдено']:
+                    if corrected_match_id not in ['Не найдено', 'Не знайдено']:
                         matched_results.append(item_for_report)
                         matched_in_chunk += 1
                     else:
@@ -405,7 +513,7 @@ def run_matching_system():
                         unmatched_in_chunk += 1
             
             chunk_end_time = time.time()
-            print(f"✓ Чанк {i+1} обработан за {chunk_end_time - chunk_start_time:.2f} секунд")
+            print(f"Чанк {i+1} обработан за {chunk_end_time - chunk_start_time:.2f} секунд")
             print(f"  Обработано: {processed_in_chunk}, Сопоставлено: {matched_in_chunk}, Не сопоставлено: {unmatched_in_chunk}")
             print(f"  Всего результатов на данный момент: {len(matched_results) + len(unmatched_results)}")
 
@@ -413,7 +521,7 @@ def run_matching_system():
 
         except json.JSONDecodeError as e:
             chunk_end_time = time.time()
-            print(f"❌ ОШИБКА ПАРСИНГА JSON в чанке {i + 1}!")
+            print(f"ОШИБКА ПАРСИНГА JSON в чанке {i + 1}!")
             print(f"   Время обработки чанка: {chunk_end_time - chunk_start_time:.2f} секунд")
             print(f"   Ошибка: {e}")
             print(f"   Длина ответа: {len(response_text)} символов")
@@ -427,7 +535,7 @@ def run_matching_system():
                 unmatched_results.append({
                     'input_id': cat['id'],
                     'input_name': cat['name'],
-                    'input_path': cat['path'],
+                    'input_path': cat.get('path', ''),
                     'input_full_path': cat['full_path_name'],
                     'match_id': 'Parsing Error',
                     'match_name': 'Parsing Error',
@@ -441,7 +549,7 @@ def run_matching_system():
 
         except Exception as e:  # Общий перехват для других непредвиденных ошибок, включая ValueError
             chunk_end_time = time.time()
-            print(f"❌ ОБЩАЯ ОШИБКА в чанке {i + 1}!")
+            print(f"ОБЩАЯ ОШИБКА в чанке {i + 1}!")
             print(f"   Время обработки чанка: {chunk_end_time - chunk_start_time:.2f} секунд")
             print(f"   Тип ошибки: {type(e).__name__}")
             print(f"   Ошибка: {e}")
@@ -459,7 +567,7 @@ def run_matching_system():
                 unmatched_results.append({
                     'input_id': cat['id'],
                     'input_name': cat['name'],
-                    'input_path': cat['path'],
+                    'input_path': cat.get('path', ''),
                     'input_full_path': cat['full_path_name'],
                     'match_id': 'General Error',
                     'match_name': 'General Error',
@@ -556,9 +664,9 @@ def run_matching_system():
                     "original_not_found": len([r for r in unmatched_final if r.get('match_id') == 'ERROR: Original not found'])
                 },
                 "by_confidence": {
-                    "high_confidence": len([r for r in matched_final if r.get('confidence', 0) >= 0.8]),
-                    "medium_confidence": len([r for r in matched_final if 0.5 <= r.get('confidence', 0) < 0.8]),
-                    "low_confidence": len([r for r in matched_final if r.get('confidence', 0) < 0.5])
+                    "high_confidence": len([r for r in matched_final if float(r.get('confidence', 0)) >= 0.8]),
+                    "medium_confidence": len([r for r in matched_final if 0.5 <= float(r.get('confidence', 0)) < 0.8]),
+                    "low_confidence": len([r for r in matched_final if float(r.get('confidence', 0)) < 0.5])
                 }
             }
         }
