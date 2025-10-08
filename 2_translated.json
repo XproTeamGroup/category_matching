@@ -1,40 +1,40 @@
 [
   {
     "id": 1311,
-    "name": "AKCESORIA ROWEROWE",
+    "name": "Велосипедні аксесуари",
     "parent_id": null,
     "children": [
       {
         "id": 1313,
-        "name": "Akcesoria",
+        "name": "Аксесуари",
         "parent_id": 1311,
         "children": [
           {
             "id": 1317,
-            "name": "Bagażniki Rowerowe",
+            "name": "Велосипедні багажники",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1356,
-            "name": "Bagażniki Samochodowe...",
+            "name": "Автомобільні багажники",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1314,
-            "name": "Bidony I Koszyki Rowerowe",
+            "name": "Велосипедні фляги та кошики",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1316,
-                "name": "Bidony",
+                "name": "Фляги",
                 "parent_id": 1314,
                 "children": []
               },
               {
                 "id": 1315,
-                "name": "Koszyki Na Bidon",
+                "name": "Кошики для пляшки",
                 "parent_id": 1314,
                 "children": []
               }
@@ -42,18 +42,18 @@
           },
           {
             "id": 1318,
-            "name": "Błotniki Rowerowe",
+            "name": "Велосипедні бризковики",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1340,
-            "name": "Chiptuning E-Roweru",
+            "name": "Тюнінг електровелосипеда",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1341,
-                "name": "SPEEDBOX",
+                "name": "Швидкісний ящик",
                 "parent_id": 1340,
                 "children": []
               }
@@ -61,48 +61,48 @@
           },
           {
             "id": 1319,
-            "name": "Dzwonki Rowerowe",
+            "name": "Велосипедні дзвоники",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1320,
-            "name": "Foteliki Dziecięce",
+            "name": "Дитячі крісельця",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1353,
-            "name": "Kierownice Rowerowe",
+            "name": "Кермо велосипедне",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1321,
-            "name": "Koszyki Na Kierownicę",
+            "name": "Кошики На Кермо",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1322,
-            "name": "Lampki Rowerowe",
+            "name": "Велосипедні ліхтарі",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1324,
-                "name": "Lampki Rowerowe Przednie",
+                "name": "Велосипедні передні ліхтарі",
                 "parent_id": 1322,
                 "children": []
               },
               {
                 "id": 1323,
-                "name": "Lampki Rowerowe Tylne",
+                "name": "Велосипедні задні ліхтарі",
                 "parent_id": 1322,
                 "children": []
               },
               {
                 "id": 1325,
-                "name": "Lampki Rowerowe Zestawy",
+                "name": "Велосипедні Ліхтарі Комплекти",
                 "parent_id": 1322,
                 "children": []
               }
@@ -110,48 +110,48 @@
           },
           {
             "id": 1326,
-            "name": "Liczniki Rowerowe",
+            "name": "Велосипедні лічильники",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1327,
-            "name": "Lusterka Rowerowe",
+            "name": "Дзеркала для велосипедів",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1328,
-            "name": "Narzędzia I Serwis",
+            "name": "Інструменти і Сервіс",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1332,
-                "name": "Centrownice Do Kół...",
+                "name": "Центрувальники для коліс",
                 "parent_id": 1328,
                 "children": []
               },
               {
                 "id": 1329,
-                "name": "Czyszczenie Roweru",
+                "name": "Чищення Велосипеда",
                 "parent_id": 1328,
                 "children": []
               },
               {
                 "id": 1331,
-                "name": "Klucze I Narzędzia...",
+                "name": "Ключі та інструменти",
                 "parent_id": 1328,
                 "children": []
               },
               {
                 "id": 1333,
-                "name": "Podnośniki Serwisowe",
+                "name": "Підіймачі сервісні",
                 "parent_id": 1328,
                 "children": []
               },
               {
                 "id": 1330,
-                "name": "Smary Rowerowe",
+                "name": "Мастила для велосипедів",
                 "parent_id": 1328,
                 "children": []
               }
@@ -159,18 +159,18 @@
           },
           {
             "id": 1334,
-            "name": "Okulary Rowerowe",
+            "name": "Велосипедні окуляри",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1336,
-                "name": "Okulary Fotochromowe",
+                "name": "Окуляри Фотохромні",
                 "parent_id": 1334,
                 "children": []
               },
               {
                 "id": 1335,
-                "name": "Okulary Polaryzacyjne",
+                "name": "Поляризаційні окуляри",
                 "parent_id": 1334,
                 "children": []
               }
@@ -178,72 +178,72 @@
           },
           {
             "id": 1355,
-            "name": "Opaski Odblaskowe",
+            "name": "Світловідбивні браслети",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1337,
-            "name": "Osłony, Protektory",
+            "name": "Захисні елементи",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1338,
-            "name": "Podnóżki Rowerowe",
+            "name": "Підніжки Велосипедні",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1357,
-            "name": "Pokrowce Na Kask",
+            "name": "Чохли На Шолом",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1354,
-            "name": "Pokrowce Na Rower",
+            "name": "Чохли На Велосипед",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1339,
-            "name": "Pompki Rowerowe",
+            "name": "Насоси Велосипедні",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1342,
-            "name": "Sakwy, Torby I Plecaki...",
+            "name": "Сідельні сумки, Сумки і Рюкзаки",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1352,
-            "name": "Stojaki, Wieszaki,...",
+            "name": "Стійки, вішаки",
             "parent_id": 1313,
             "children": []
           },
           {
             "id": 1343,
-            "name": "Uchwyty Rowerowe",
+            "name": "Велосипедні тримачі",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1344,
-                "name": "Rowerowe Uchwyty Na...",
+                "name": "Велосипедні тримачі",
                 "parent_id": 1343,
                 "children": []
               },
               {
                 "id": 1346,
-                "name": "Uchwyty Na Kubek",
+                "name": "Тримачі для чашок",
                 "parent_id": 1343,
                 "children": []
               },
               {
                 "id": 1345,
-                "name": "Uchwyty Na Licznik",
+                "name": "Тримачі на лічильник",
                 "parent_id": 1343,
                 "children": []
               }
@@ -251,30 +251,30 @@
           },
           {
             "id": 1347,
-            "name": "Zapięcia Rowerowe",
+            "name": "Велосипедні кріплення",
             "parent_id": 1313,
             "children": [
               {
                 "id": 1349,
-                "name": "Blokada Składana",
+                "name": "Блокада Складана",
                 "parent_id": 1347,
                 "children": []
               },
               {
                 "id": 1348,
-                "name": "Linki Zabezpieczające",
+                "name": "Страхувальні з'єднання",
                 "parent_id": 1347,
                 "children": []
               },
               {
                 "id": 1351,
-                "name": "Łańcuchy",
+                "name": "Ланцюги",
                 "parent_id": 1347,
                 "children": []
               },
               {
                 "id": 1350,
-                "name": "U-Locki",
+                "name": "Замки U-подібні",
                 "parent_id": 1347,
                 "children": []
               }
@@ -284,30 +284,30 @@
       },
       {
         "id": 1312,
-        "name": "Kaski Rowerowe",
+        "name": "Велосипедні шоломи",
         "parent_id": 1311,
         "children": []
       },
       {
         "id": 1368,
-        "name": "Obuwie Rowerowe",
+        "name": "Взуття для велосипеда",
         "parent_id": 1311,
         "children": [
           {
             "id": 1370,
-            "name": "Buty MTB",
+            "name": "Взуття для гірських велосипедів",
             "parent_id": 1368,
             "children": []
           },
           {
             "id": 1369,
-            "name": "Buty Szosowe",
+            "name": "Взуття шосейне",
             "parent_id": 1368,
             "children": []
           },
           {
             "id": 1371,
-            "name": "Buty Triathlonowe",
+            "name": "Взуття для тріатлону",
             "parent_id": 1368,
             "children": []
           }
@@ -315,60 +315,60 @@
       },
       {
         "id": 1358,
-        "name": "Odzież Rowerowa",
+        "name": "Одяг для велосипедистів",
         "parent_id": 1311,
         "children": [
           {
             "id": 1360,
-            "name": "Czapki Rowerowe",
+            "name": "Велосипедні шапки",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1359,
-            "name": "Koszulki I Bluzy Rowerowe",
+            "name": "Футболки і Велосипедні Світшоти",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1361,
-            "name": "Kurtki Rowerowe",
+            "name": "Велокуртки",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1362,
-            "name": "Maski, Kominiarki,...",
+            "name": "Маски, Балаклави",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1363,
-            "name": "Ochraniacze Rowerowe",
+            "name": "Велозахист",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1364,
-            "name": "Okulary Rowerowe",
+            "name": "Окуляри Велосипедні",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1365,
-            "name": "Rękawiczki Rowerowe",
+            "name": "Рукавиці Велосипедні",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1366,
-            "name": "Skarpety Rowerowe",
+            "name": "Шкарпетки Велосипедні",
             "parent_id": 1358,
             "children": []
           },
           {
             "id": 1367,
-            "name": "Spodenki I Spodnie...",
+            "name": "Шорти та штани",
             "parent_id": 1358,
             "children": []
           }
@@ -378,17 +378,17 @@
   },
   {
     "id": 1254,
-    "name": "CZĘŚCI ROWEROWE",
+    "name": "Велосипедні частини",
     "parent_id": null,
     "children": [
       {
         "id": 1256,
-        "name": "Amortyzatory Rowerowe",
+        "name": "Амортизатори Велосипедні",
         "parent_id": 1254,
         "children": [
           {
             "id": 1257,
-            "name": "Amortyzatory Rowerowe...",
+            "name": "Велосипедні амортизатори",
             "parent_id": 1256,
             "children": []
           }
@@ -396,60 +396,60 @@
       },
       {
         "id": 1258,
-        "name": "Dętki Rowerowe",
+        "name": "Велосипедні камери",
         "parent_id": 1254,
         "children": [
           {
             "id": 1260,
-            "name": "Dętki Rowerowe 12\"",
+            "name": "Велосипедні камери 12\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1259,
-            "name": "Dętki Rowerowe 16\"",
+            "name": "Велосипедні камери 16\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1261,
-            "name": "Dętki Rowerowe 20\"",
+            "name": "Велосипедні камери 20\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1262,
-            "name": "Dętki Rowerowe 24\"",
+            "name": "Велосипедні камери 24\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1263,
-            "name": "Dętki Rowerowe 26\"",
+            "name": "Велосипедні камери 26\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1264,
-            "name": "Dętki Rowerowe 27.5\"",
+            "name": "Велосипедні камери 27.5\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1265,
-            "name": "Dętki Rowerowe 28\"",
+            "name": "Велосипедні камери 28\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1266,
-            "name": "Dętki Rowerowe 29\"",
+            "name": "Велосипедні камери 29\"",
             "parent_id": 1258,
             "children": []
           },
           {
             "id": 1267,
-            "name": "System Bezdętkowy",
+            "name": "Система Безкамерна",
             "parent_id": 1258,
             "children": []
           }
@@ -457,42 +457,42 @@
       },
       {
         "id": 1255,
-        "name": "Gripy, Owijki, Chwyty...",
+        "name": "Групи, Обгортки, Захвати",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1268,
-        "name": "Hamulce Rowerowe",
+        "name": "Велосипедні гальма",
         "parent_id": 1254,
         "children": [
           {
             "id": 1270,
-            "name": "Akcesoria Hamulcowe",
+            "name": "Гальмівні аксесуари",
             "parent_id": 1268,
             "children": []
           },
           {
             "id": 1273,
-            "name": "Hamulce Rowerowe...",
+            "name": "Велосипедні гальма",
             "parent_id": 1268,
             "children": []
           },
           {
             "id": 1272,
-            "name": "Klocki Hamulcowe...",
+            "name": "Гальмівні колодки",
             "parent_id": 1268,
             "children": []
           },
           {
             "id": 1271,
-            "name": "Klocki Rowerowe Tarczowe",
+            "name": "Велосипедні дискові блоки",
             "parent_id": 1268,
             "children": []
           },
           {
             "id": 1269,
-            "name": "Tarcze Hamulcowe Rowerowe",
+            "name": "Гальмівні диски Велосипедні",
             "parent_id": 1268,
             "children": []
           }
@@ -500,48 +500,48 @@
       },
       {
         "id": 1274,
-        "name": "Kierownice Rowerowe",
+        "name": "Кермо для велосипедів",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1275,
-        "name": "Koła Rowerowe",
+        "name": "Велосипедні гуртки",
         "parent_id": 1254,
         "children": [
           {
             "id": 1277,
-            "name": "Części Serwisowe Do Kół",
+            "name": "Сервісні Частини Для Коліс",
             "parent_id": 1275,
             "children": []
           },
           {
             "id": 1276,
-            "name": "Koła Rowerowe Przednie",
+            "name": "Передні велосипедні колеса",
             "parent_id": 1275,
             "children": []
           },
           {
             "id": 1278,
-            "name": "Koła Rowerowe Tylne",
+            "name": "Велосипедні задні колеса",
             "parent_id": 1275,
             "children": []
           },
           {
             "id": 1279,
-            "name": "Obręcze Rowerowe",
+            "name": "Велосипедні обідки",
             "parent_id": 1275,
             "children": []
           },
           {
             "id": 1280,
-            "name": "Piasty Rowerowe",
+            "name": "Велосипедні втулки",
             "parent_id": 1275,
             "children": []
           },
           {
             "id": 1281,
-            "name": "Szprychy Rowerowe",
+            "name": "Велосипедні спиці",
             "parent_id": 1275,
             "children": []
           }
@@ -549,72 +549,72 @@
       },
       {
         "id": 1282,
-        "name": "Linki I Pancerze",
+        "name": "Посилання і Броні",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1283,
-        "name": "Manetki Rowerowe",
+        "name": "Велосипедні ручки",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1310,
-        "name": "Mostki Rowerowe",
+        "name": "Велосипедні мости",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1284,
-        "name": "Napęd Rowerowy",
+        "name": "Велосипедний привід",
         "parent_id": 1254,
         "children": [
           {
             "id": 1286,
-            "name": "Kasety I Wolnobiegi",
+            "name": "Касети та Вільні обертання",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1285,
-            "name": "Korby I Zębatki",
+            "name": "Шатуни і Зірочки",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1287,
-            "name": "Łańcuchy Rowerowe",
+            "name": "Велосипедні ланцюги",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1288,
-            "name": "Manetki Rowerowe",
+            "name": "Велосипедні манетки",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1289,
-            "name": "Napinacze I Rockringi",
+            "name": "Натягувачі та кільця",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1290,
-            "name": "Osie Korbowodu",
+            "name": "Осі Корбовода",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1292,
-            "name": "Przerzutki Rowerowe Tylne",
+            "name": "Велосипедні задні перемикачі",
             "parent_id": 1284,
             "children": []
           },
           {
             "id": 1291,
-            "name": "Przerzutki Rowerowe...",
+            "name": "Перемикачі Велосипедні",
             "parent_id": 1284,
             "children": []
           }
@@ -622,54 +622,54 @@
       },
       {
         "id": 1293,
-        "name": "Opony Rowerowe",
+        "name": "Велосипедні шини",
         "parent_id": 1254,
         "children": [
           {
             "id": 1295,
-            "name": "Opony Rowerowe 12\"",
+            "name": "Велосипедні шини 12\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1294,
-            "name": "Opony Rowerowe 16\"",
+            "name": "Колеса Велосипедні 16\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1296,
-            "name": "Opony Rowerowe 20\"",
+            "name": "Велосипедні шини 20\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1297,
-            "name": "Opony Rowerowe 24\"",
+            "name": "Велосипедні шини 24\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1298,
-            "name": "Opony Rowerowe 26\"",
+            "name": "Велосипедні шини 26\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1299,
-            "name": "Opony Rowerowe 27.5\"",
+            "name": "Велосипедні шини 27.5\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1300,
-            "name": "Opony Rowerowe 28\"",
+            "name": "Велосипедні шини 28\"",
             "parent_id": 1293,
             "children": []
           },
           {
             "id": 1301,
-            "name": "Opony Rowerowe 29\"",
+            "name": "Велосипедні шини 29\"",
             "parent_id": 1293,
             "children": []
           }
@@ -677,18 +677,18 @@
       },
       {
         "id": 1302,
-        "name": "Pedały Rowerowe",
+        "name": "Педалі Велосипедні",
         "parent_id": 1254,
         "children": [
           {
             "id": 1303,
-            "name": "Pedały Rowerowe SPD",
+            "name": "Педалі Велосипедні SPD",
             "parent_id": 1302,
             "children": []
           },
           {
             "id": 1304,
-            "name": "Pedały Rowerowe...",
+            "name": "Педалі Велосипедні",
             "parent_id": 1302,
             "children": []
           }
@@ -696,31 +696,31 @@
       },
       {
         "id": 1305,
-        "name": "Ramy Rowerowe",
+        "name": "Рами Велосипедні",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1308,
-        "name": "Siodełka Rowerowe",
+        "name": "Велосипедні сідельця",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1306,
-        "name": "Stery Rowerowe",
+        "name": "Велосипедні кермові системи",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1309,
-        "name": "Sztyce Rowerowe",
+        "name": "Велосипедні сідла",
         "parent_id": 1254,
         "children": []
       },
       {
         "id": 1307,
-        "name": "Wsporniki Kierownicy",
+        "name": "Кронштейни керма",
         "parent_id": 1254,
         "children": []
       }
@@ -728,77 +728,77 @@
   },
   {
     "id": 996,
-    "name": "DLA MOTOCYKLA",
+    "name": "Для мотоцикла",
     "parent_id": null,
     "children": [
       {
         "id": 998,
-        "name": "Bagaż",
+        "name": "Багаж",
         "parent_id": 996,
         "children": [
           {
             "id": 1000,
-            "name": "Inne",
+            "name": "Інше",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 999,
-            "name": "Kufry",
+            "name": "Валізи",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1001,
-            "name": "Pasy Narzędziowe",
+            "name": "Інструментальні ремені",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1002,
-            "name": "Plecaki",
+            "name": "Рюкзаки",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1003,
-            "name": "Role Bagażowe",
+            "name": "Багажні ролі",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1004,
-            "name": "Sakwy",
+            "name": "Сумки",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1008,
-            "name": "Siatki",
+            "name": "Сітки",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1005,
-            "name": "Tankbagi",
+            "name": "Танкові сумки",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1006,
-            "name": "Torby",
+            "name": "Сумки",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1007,
-            "name": "Torby Narzędziowe",
+            "name": "Сумки для інструментів",
             "parent_id": 998,
             "children": []
           },
           {
             "id": 1009,
-            "name": "Uchwyty/Stelaże Bagażu",
+            "name": "Тримачі/Каркаси Багажу",
             "parent_id": 998,
             "children": []
           }
@@ -806,40 +806,40 @@
       },
       {
         "id": 1010,
-        "name": "Części Silnikowe",
+        "name": "Моторні частини",
         "parent_id": 996,
         "children": [
           {
             "id": 1017,
-            "name": "Części Rozrządu",
+            "name": "Частини розподільного механізму",
             "parent_id": 1010,
             "children": [
               {
                 "id": 1022,
-                "name": "Łańcuszki Rozrządu",
+                "name": "Ланцюги розподільного валу",
                 "parent_id": 1017,
                 "children": []
               },
               {
                 "id": 1018,
-                "name": "Płytki Zaworowe",
+                "name": "Клапанні плитки",
                 "parent_id": 1017,
                 "children": [
                   {
                     "id": 1020,
-                    "name": "Komplety 5 Szt",
+                    "name": "Комплект 5 шт.",
                     "parent_id": 1018,
                     "children": []
                   },
                   {
                     "id": 1019,
-                    "name": "Komplety Dla Serwisu",
+                    "name": "Комплекти Для Сервісу",
                     "parent_id": 1018,
                     "children": []
                   },
                   {
                     "id": 1021,
-                    "name": "Płytki Na Sztuki",
+                    "name": "Плитки На Штуки",
                     "parent_id": 1018,
                     "children": []
                   }
@@ -847,24 +847,24 @@
               },
               {
                 "id": 1023,
-                "name": "Spinki/Zakuwki",
+                "name": "Застібки/Зажими",
                 "parent_id": 1017,
                 "children": []
               },
               {
                 "id": 1024,
-                "name": "Uszczelniacze Zaworowe",
+                "name": "Ущільнювачі клапанів",
                 "parent_id": 1017,
                 "children": [
                   {
                     "id": 1026,
-                    "name": "Zawory Ssące",
+                    "name": "Клапани Всмоктуючі",
                     "parent_id": 1024,
                     "children": []
                   },
                   {
                     "id": 1025,
-                    "name": "Zawory Wydechowe",
+                    "name": "Клапани Випускні",
                     "parent_id": 1024,
                     "children": []
                   }
@@ -872,13 +872,13 @@
               },
               {
                 "id": 1027,
-                "name": "Wałek Rozrządu",
+                "name": "Розподільний вал",
                 "parent_id": 1017,
                 "children": []
               },
               {
                 "id": 1028,
-                "name": "Zawory",
+                "name": "Клапани",
                 "parent_id": 1017,
                 "children": []
               }
@@ -886,36 +886,36 @@
           },
           {
             "id": 1011,
-            "name": "Korbowody",
+            "name": "Корбові механізми",
             "parent_id": 1010,
             "children": [
               {
                 "id": 1013,
-                "name": "Korbowody",
+                "name": "Шатуни",
                 "parent_id": 1011,
                 "children": []
               },
               {
                 "id": 1012,
-                "name": "Łożyska Korbowodów",
+                "name": "Підшипники шатунів",
                 "parent_id": 1011,
                 "children": []
               },
               {
                 "id": 1014,
-                "name": "Panewki",
+                "name": "Підшипники кочення",
                 "parent_id": 1011,
                 "children": []
               },
               {
                 "id": 1015,
-                "name": "Podkładki",
+                "name": "підкладки",
                 "parent_id": 1011,
                 "children": []
               },
               {
                 "id": 1016,
-                "name": "Sworznie Korbowodów",
+                "name": "Шатуни пальці",
                 "parent_id": 1011,
                 "children": []
               }
@@ -923,96 +923,96 @@
           },
           {
             "id": 1029,
-            "name": "Sprzęgła",
+            "name": "Зчеплення",
             "parent_id": 1010,
             "children": [
               {
                 "id": 1031,
-                "name": "Dociski",
+                "name": "Затискачі",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1030,
-                "name": "Dźwignie Sprzęgła",
+                "name": "Важелі Зчеплення",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1032,
-                "name": "Kosze",
+                "name": "кошики",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1033,
-                "name": "Linki Sprzęgła",
+                "name": "Посилання Зчеплення",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1034,
-                "name": "Narzędzie Do Sprzęgła",
+                "name": "Інструмент для зчеплення",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1035,
-                "name": "Pokrywa Sprzęgła",
+                "name": "Кришка зчеплення",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1036,
-                "name": "Przekładki",
+                "name": "Проміжні деталі",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1037,
-                "name": "Reduktory Luzu",
+                "name": "Редуктори вільного ходу",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1038,
-                "name": "Sprężyny",
+                "name": "Пружини",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1039,
-                "name": "Sprzęgła Kompletne",
+                "name": "Зчеплення Комплектні",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1040,
-                "name": "Tarcze Cierne",
+                "name": "Фрикційні диски",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1041,
-                "name": "Uszczelki Dekla /...",
+                "name": "Ущільнювачі Кришки",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1042,
-                "name": "Zabierak Sprzęgła",
+                "name": "Знімач зчеплення",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1043,
-                "name": "Zestaw Naprawczy Pompy...",
+                "name": "Ремонтний комплект насоса",
                 "parent_id": 1029,
                 "children": []
               },
               {
                 "id": 1044,
-                "name": "Zestaw Naprawczy...",
+                "name": "Ремонтний комплект",
                 "parent_id": 1029,
                 "children": []
               }
@@ -1020,30 +1020,30 @@
           },
           {
             "id": 1045,
-            "name": "Tłoki",
+            "name": "Поршні",
             "parent_id": 1010,
             "children": [
               {
                 "id": 1047,
-                "name": "Pierścienie",
+                "name": "Каблучки",
                 "parent_id": 1045,
                 "children": []
               },
               {
                 "id": 1046,
-                "name": "Sworznie Tłoka",
+                "name": "Штифти Штока",
                 "parent_id": 1045,
                 "children": []
               },
               {
                 "id": 1048,
-                "name": "Tłoki",
+                "name": "Поршні",
                 "parent_id": 1045,
                 "children": []
               },
               {
                 "id": 1049,
-                "name": "Zapinki Tłoka",
+                "name": "Застібки Тлока",
                 "parent_id": 1045,
                 "children": []
               }
@@ -1051,42 +1051,42 @@
           },
           {
             "id": 1050,
-            "name": "Tuleje Cylindra",
+            "name": "Гільзи Циліндра",
             "parent_id": 1010,
             "children": []
           },
           {
             "id": 1051,
-            "name": "Uszczelki Silnika",
+            "name": "Ущільнювачі двигуна",
             "parent_id": 1010,
             "children": [
               {
                 "id": 1053,
-                "name": "Komplety Uszczelek",
+                "name": "Комплекти ущільнювачів",
                 "parent_id": 1051,
                 "children": []
               },
               {
                 "id": 1052,
-                "name": "Na Dół Silnika",
+                "name": "До низу двигуна",
                 "parent_id": 1051,
                 "children": []
               },
               {
                 "id": 1054,
-                "name": "Na Górę Silnika Top-End",
+                "name": "На Верх Двигуна Top-End",
                 "parent_id": 1051,
                 "children": []
               },
               {
                 "id": 1055,
-                "name": "Uszczelki Dekla Zapłonu",
+                "name": "Ущільнювачі Кришки Запалення",
                 "parent_id": 1051,
                 "children": []
               },
               {
                 "id": 1056,
-                "name": "Uszczelki Głowicy I...",
+                "name": "Ущільнювачі головки циліндрів",
                 "parent_id": 1051,
                 "children": []
               }
@@ -1094,30 +1094,30 @@
           },
           {
             "id": 1057,
-            "name": "Wały Korbowe",
+            "name": "вали колінчасті",
             "parent_id": 1010,
             "children": [
               {
                 "id": 1059,
-                "name": "Łożyska Na Wał Korbowy",
+                "name": "Підшипники на колінвал",
                 "parent_id": 1057,
                 "children": []
               },
               {
                 "id": 1058,
-                "name": "Wały Korbowe",
+                "name": "Колінвали",
                 "parent_id": 1057,
                 "children": []
               },
               {
                 "id": 1060,
-                "name": "Zestaw Łożysk I...",
+                "name": "Набір підшипників",
                 "parent_id": 1057,
                 "children": []
               },
               {
                 "id": 1061,
-                "name": "Zestawy Uszczelek",
+                "name": "Комплекти ущільнювачів",
                 "parent_id": 1057,
                 "children": []
               }
@@ -1125,7 +1125,7 @@
           },
           {
             "id": 1062,
-            "name": "Zestaw Naprawczy Pompy...",
+            "name": "Комплект ремонтний насоса",
             "parent_id": 1010,
             "children": []
           }
@@ -1133,24 +1133,24 @@
       },
       {
         "id": 1063,
-        "name": "Filtry",
+        "name": "Фільтри",
         "parent_id": 996,
         "children": [
           {
             "id": 1065,
-            "name": "Filtry Oleju",
+            "name": "Масляні фільтри",
             "parent_id": 1063,
             "children": []
           },
           {
             "id": 1064,
-            "name": "Filtry Paliwa",
+            "name": "Фільтри Паливні",
             "parent_id": 1063,
             "children": []
           },
           {
             "id": 1066,
-            "name": "Filtry Powietrza",
+            "name": "Повітряні фільтри",
             "parent_id": 1063,
             "children": []
           }
@@ -1158,53 +1158,53 @@
       },
       {
         "id": 1067,
-        "name": "Nadwozie",
+        "name": "Кузов",
         "parent_id": 996,
         "children": [
           {
             "id": 1069,
-            "name": "Adapter...",
+            "name": "Адаптер",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1068,
-            "name": "Balancery",
+            "name": "Балансери",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1070,
-            "name": "Boczne Panele",
+            "name": "Бокові панелі",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1071,
-            "name": "Crash Pady",
+            "name": "Захисні накладки",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1072,
-            "name": "Dźwignie Zmiany Biegów",
+            "name": "Важелі Зміни Передач",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1073,
-            "name": "Gmole",
+            "name": "Гноми",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1074,
-            "name": "Hand-Bary",
+            "name": "Ручні бари",
             "parent_id": 1067,
             "children": [
               {
                 "id": 1075,
-                "name": "Kit Montażowy",
+                "name": "Комплект монтажний",
                 "parent_id": 1074,
                 "children": []
               }
@@ -1212,30 +1212,30 @@
           },
           {
             "id": 1100,
-            "name": "Inne",
+            "name": "Інше",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1076,
-            "name": "Kierownice",
+            "name": "Кермо",
             "parent_id": 1067,
             "children": [
               {
                 "id": 1078,
-                "name": "Dystanse Do Kierownicy",
+                "name": "Відстань до керма",
                 "parent_id": 1076,
                 "children": []
               },
               {
                 "id": 1077,
-                "name": "Osłona Kierownicy",
+                "name": "Захист керма",
                 "parent_id": 1076,
                 "children": []
               },
               {
                 "id": 1079,
-                "name": "Zestaw Montażowy...",
+                "name": "Монтажний комплект",
                 "parent_id": 1076,
                 "children": []
               }
@@ -1243,60 +1243,60 @@
           },
           {
             "id": 1080,
-            "name": "Linki Gazu",
+            "name": "Газові посилання",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1081,
-            "name": "Lusterka",
+            "name": "Дзеркала",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1082,
-            "name": "Manetki",
+            "name": "Манекени",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1083,
-            "name": "Mocowanie Tablic Rej.",
+            "name": "Кріплення Реєстраційних Табличок",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1093,
-            "name": "Osłony",
+            "name": "Захисні пристрої",
             "parent_id": 1067,
             "children": [
               {
                 "id": 1098,
-                "name": "Chłodnicy",
+                "name": "Радіатори",
                 "parent_id": 1093,
                 "children": []
               },
               {
                 "id": 1094,
-                "name": "Inne",
+                "name": "Інші",
                 "parent_id": 1093,
                 "children": []
               },
               {
                 "id": 1095,
-                "name": "Osłony Oświetlenia",
+                "name": "Захисні Освітлення",
                 "parent_id": 1093,
                 "children": []
               },
               {
                 "id": 1096,
-                "name": "Oświetlenia",
+                "name": "Освітлення",
                 "parent_id": 1093,
                 "children": []
               },
               {
                 "id": 1097,
-                "name": "Silnika",
+                "name": "Двигун",
                 "parent_id": 1093,
                 "children": []
               }
@@ -1304,30 +1304,30 @@
           },
           {
             "id": 1084,
-            "name": "Plastiki",
+            "name": "Пластмаси",
             "parent_id": 1067,
             "children": [
               {
                 "id": 1086,
-                "name": "Błotniki",
+                "name": "Бризковики",
                 "parent_id": 1084,
                 "children": []
               },
               {
                 "id": 1085,
-                "name": "Komplety Plastików",
+                "name": "Набори пластиків",
                 "parent_id": 1084,
                 "children": []
               },
               {
                 "id": 1087,
-                "name": "Osłony Chłodnicy",
+                "name": "Захисти радіатора",
                 "parent_id": 1084,
                 "children": []
               },
               {
                 "id": 1088,
-                "name": "Pola Startowe",
+                "name": "Стартові поля",
                 "parent_id": 1084,
                 "children": []
               }
@@ -1335,31 +1335,31 @@
           },
           {
             "id": 1089,
-            "name": "Podnóżki",
+            "name": "Підніжки",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1090,
-            "name": "Podświetlenie Tablic Rej.",
+            "name": "Підсвічування Реєстраційних Таблиць",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1091,
-            "name": "Rolki Ze Ślizgaczem",
+            "name": "Ковзани З Полозом",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1092,
-            "name": "Siedzenia",
+            "name": "Сидіння",
             "parent_id": 1067,
             "children": []
           },
           {
             "id": 1099,
-            "name": "Uchwyt/Belka GPS",
+            "name": "Тримач/Балка GPS",
             "parent_id": 1067,
             "children": []
           }
@@ -1367,84 +1367,84 @@
       },
       {
         "id": 1101,
-        "name": "Naklejki I Tankpady",
+        "name": "Наклейки та тачпади",
         "parent_id": 996,
         "children": [
           {
             "id": 1114,
-            "name": "Kleje I Zestawy",
+            "name": "Клеї та набори",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1103,
-            "name": "Na Bak",
+            "name": "на банк",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1102,
-            "name": "Na Czachę",
+            "name": "На голову",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1104,
-            "name": "Na Felgi",
+            "name": "На диски",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1105,
-            "name": "Na Kask",
+            "name": "На шолом",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1106,
-            "name": "Na Półki Kierownicy",
+            "name": "На полиці Керівника",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1107,
-            "name": "Na Wizjer",
+            "name": "На вигляд",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1108,
-            "name": "Na Wlew Paliwa",
+            "name": "На заправку",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1109,
-            "name": "Naklejki 3D",
+            "name": "Наклейки 3D",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1110,
-            "name": "Ochronne",
+            "name": "Захисні",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1111,
-            "name": "Okleiny Plastików",
+            "name": "Пластикові плівки",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1112,
-            "name": "Paski Na Felgi",
+            "name": "Смужки На Диски",
             "parent_id": 1101,
             "children": []
           },
           {
             "id": 1113,
-            "name": "Różne",
+            "name": "Різне",
             "parent_id": 1101,
             "children": []
           }
@@ -1452,18 +1452,18 @@
       },
       {
         "id": 1115,
-        "name": "Narzędzia",
+        "name": "Інструменти",
         "parent_id": 996,
         "children": [
           {
             "id": 1117,
-            "name": "Klucze, Łyżki",
+            "name": "Для першої назви: ключі\nДля другої назви: ложки",
             "parent_id": 1115,
             "children": []
           },
           {
             "id": 1116,
-            "name": "Zestaw Naprawczy Do Opon",
+            "name": "Комплект для ремонту шин",
             "parent_id": 1115,
             "children": []
           }
@@ -1471,72 +1471,72 @@
       },
       {
         "id": 1118,
-        "name": "Oleje Smary Płyny",
+        "name": "Оливи Мастила Рідини",
         "parent_id": 996,
         "children": [
           {
             "id": 1120,
-            "name": "Chemia Warsztatowa",
+            "name": "Хімія Warsztatowa",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1119,
-            "name": "Dodatki",
+            "name": "Додатки",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1121,
-            "name": "Gama Rowerowa",
+            "name": "Велосипедна гама",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1122,
-            "name": "Oleje Do Amortyzatorów",
+            "name": "Олії для амортизаторів",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1123,
-            "name": "Oleje Do Filtrów",
+            "name": "Олії для фільтрів",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1124,
-            "name": "Oleje Przekładniowe",
+            "name": "Трансмісійні олії",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1125,
-            "name": "Oleje Silnikowe",
+            "name": "Моторні олії",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1126,
-            "name": "Płyny Do Chłodnic",
+            "name": "Рідини для радіаторів",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1127,
-            "name": "Płyny Hamulcowe",
+            "name": "Гальмівні рідини",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1128,
-            "name": "Smary Do Łańcuchów",
+            "name": "Мастила для ланцюгів",
             "parent_id": 1118,
             "children": []
           },
           {
             "id": 1129,
-            "name": "Środki Czyszczące I...",
+            "name": "Засоби Миючі",
             "parent_id": 1118,
             "children": []
           }
@@ -1544,18 +1544,18 @@
       },
       {
         "id": 1130,
-        "name": "Pokrowce",
+        "name": "Чохли",
         "parent_id": 996,
         "children": [
           {
             "id": 1132,
-            "name": "Do Wewnątrz",
+            "name": "До середини",
             "parent_id": 1130,
             "children": []
           },
           {
             "id": 1131,
-            "name": "Na Zewnątrz",
+            "name": "Зовні",
             "parent_id": 1130,
             "children": []
           }
@@ -1563,24 +1563,24 @@
       },
       {
         "id": 1218,
-        "name": "Pozostałe",
+        "name": "Інші",
         "parent_id": 996,
         "children": [
           {
             "id": 1220,
-            "name": "Liczniki Motogodzin",
+            "name": "Лічильники мотогодин",
             "parent_id": 1218,
             "children": []
           },
           {
             "id": 1219,
-            "name": "Stojak Pod Motocykl",
+            "name": "Підставка під мотоцикл",
             "parent_id": 1218,
             "children": []
           },
           {
             "id": 1221,
-            "name": "Sygnał Dźwiękowy",
+            "name": "Звуковий сигнал",
             "parent_id": 1218,
             "children": []
           }
@@ -1588,18 +1588,18 @@
       },
       {
         "id": 1139,
-        "name": "Świece I Fajki",
+        "name": "Свічки і Люльки",
         "parent_id": 996,
         "children": [
           {
             "id": 1141,
-            "name": "Fajki Zapłonowe",
+            "name": "Свічки запалювання",
             "parent_id": 1139,
             "children": []
           },
           {
             "id": 1140,
-            "name": "Świece Zapłonowe",
+            "name": "Свічки запалювання",
             "parent_id": 1139,
             "children": []
           }
@@ -1607,36 +1607,36 @@
       },
       {
         "id": 1133,
-        "name": "Szyby",
+        "name": "Скло",
         "parent_id": 996,
         "children": [
           {
             "id": 1135,
-            "name": "Akcesoria",
+            "name": "Аксесуари",
             "parent_id": 1133,
             "children": []
           },
           {
             "id": 1134,
-            "name": "Deflektory",
+            "name": "Дефлектори",
             "parent_id": 1133,
             "children": []
           },
           {
             "id": 1136,
-            "name": "Szyby Dedykowane",
+            "name": "Спеціальні вікна",
             "parent_id": 1133,
             "children": []
           },
           {
             "id": 1137,
-            "name": "Szyby Uniwersalne",
+            "name": "Скло універсальне",
             "parent_id": 1133,
             "children": []
           },
           {
             "id": 1138,
-            "name": "Zestawy Montażowe",
+            "name": "Монтажні комплекти",
             "parent_id": 1133,
             "children": []
           }
@@ -1644,59 +1644,59 @@
       },
       {
         "id": 997,
-        "name": "Uchwyty Na Telefon I GPS",
+        "name": "Тримачі На Телефон І GPS",
         "parent_id": 996,
         "children": []
       },
       {
         "id": 1142,
-        "name": "Układ Elektryczny",
+        "name": "Електрична система",
         "parent_id": 996,
         "children": [
           {
             "id": 1144,
-            "name": "Akumulatory",
+            "name": "Акумулятори",
             "parent_id": 1142,
             "children": [
               {
                 "id": 1146,
-                "name": "Bezobsługowe",
+                "name": "Безобслуговувальні",
                 "parent_id": 1144,
                 "children": []
               },
               {
                 "id": 1151,
-                "name": "Inne",
+                "name": "Інше",
                 "parent_id": 1144,
                 "children": []
               },
               {
                 "id": 1145,
-                "name": "Litowo Jonowe",
+                "name": "Літій-йонні",
                 "parent_id": 1144,
                 "children": []
               },
               {
                 "id": 1147,
-                "name": "Obsługowe",
+                "name": "Обслуговуючі",
                 "parent_id": 1144,
                 "children": []
               },
               {
                 "id": 1148,
-                "name": "Ogrodowe",
+                "name": "Садові",
                 "parent_id": 1144,
                 "children": []
               },
               {
                 "id": 1149,
-                "name": "Żelowe",
+                "name": "Гелеві",
                 "parent_id": 1144,
                 "children": []
               },
               {
                 "id": 1150,
-                "name": "Żelowe Bezobsługowe",
+                "name": "Гелеві Безобслуговувані",
                 "parent_id": 1144,
                 "children": []
               }
@@ -1704,31 +1704,31 @@
           },
           {
             "id": 1154,
-            "name": "Inne",
+            "name": "Інші",
             "parent_id": 1142,
             "children": []
           },
           {
             "id": 1143,
-            "name": "Lampy I Kierunkowskazy",
+            "name": "Лампи та покажчики повороту",
             "parent_id": 1142,
             "children": []
           },
           {
             "id": 1152,
-            "name": "Ładowarki Akumulatorów",
+            "name": "Зарядні пристрої для акумуляторів",
             "parent_id": 1142,
             "children": []
           },
           {
             "id": 1155,
-            "name": "Uchwyty Na Telefon",
+            "name": "Тримачі Для Телефону",
             "parent_id": 1142,
             "children": []
           },
           {
             "id": 1153,
-            "name": "Żarówki",
+            "name": "Лампочки",
             "parent_id": 1142,
             "children": []
           }
@@ -1736,47 +1736,47 @@
       },
       {
         "id": 1156,
-        "name": "Układ Hamulcowy",
+        "name": "Гальмівна система",
         "parent_id": 996,
         "children": [
           {
             "id": 1158,
-            "name": "Dźwignie Hamulca",
+            "name": "Важелі гальма",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1157,
-            "name": "Klamra Do Tarczy",
+            "name": "Скоба До Щита",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1159,
-            "name": "Klocki Hamulcowe Do...",
+            "name": "Гальмівні колодки для",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1160,
-            "name": "Klocki Hamulcowe...",
+            "name": "Гальмівні колодки",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1161,
-            "name": "Przewody Hamulcowe",
+            "name": "Гальмівні проводи",
             "parent_id": 1156,
             "children": [
               {
                 "id": 1163,
-                "name": "Przednia Oś",
+                "name": "Передня вісь",
                 "parent_id": 1161,
                 "children": []
               },
               {
                 "id": 1162,
-                "name": "Tylna Oś",
+                "name": "Задня вісь",
                 "parent_id": 1161,
                 "children": []
               }
@@ -1784,42 +1784,42 @@
           },
           {
             "id": 1164,
-            "name": "Smar Do Zacisków",
+            "name": "Мастило для затискачів",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1165,
-            "name": "Szczęki Hamulcowe",
+            "name": "Гальмівні щелепи",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1166,
-            "name": "Tarcze Hamulcowe...",
+            "name": "Гальмівні диски",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1170,
-            "name": "Zestaw Naprawczy Pompy...",
+            "name": "Ремонтний комплект насоса",
             "parent_id": 1156,
             "children": []
           },
           {
             "id": 1167,
-            "name": "Zestaw Naprawczy Zacisku",
+            "name": "Ремонтний комплект супорта",
             "parent_id": 1156,
             "children": [
               {
                 "id": 1169,
-                "name": "Przedniego",
+                "name": "Передній",
                 "parent_id": 1167,
                 "children": []
               },
               {
                 "id": 1168,
-                "name": "Tylnego",
+                "name": "задній",
                 "parent_id": 1167,
                 "children": []
               }
@@ -1829,59 +1829,59 @@
       },
       {
         "id": 1171,
-        "name": "Układ Napędowy",
+        "name": "Привідна система",
         "parent_id": 996,
         "children": [
           {
             "id": 1173,
-            "name": "Komplety Napędowe",
+            "name": "Комплекти приводні",
             "parent_id": 1171,
             "children": []
           },
           {
             "id": 1172,
-            "name": "Łańcuchy Napędowe",
+            "name": "Ланцюги приводні",
             "parent_id": 1171,
             "children": []
           },
           {
             "id": 1174,
-            "name": "Paski Napędowe",
+            "name": "Приводні ремені",
             "parent_id": 1171,
             "children": []
           },
           {
             "id": 1175,
-            "name": "Rola Łańcucha",
+            "name": "Роль Ланцюга",
             "parent_id": 1171,
             "children": []
           },
           {
             "id": 1177,
-            "name": "Ślizg Łańcucha",
+            "name": "Ковзання ланцюга",
             "parent_id": 1171,
             "children": []
           },
           {
             "id": 1176,
-            "name": "Spinki/Zakuwki",
+            "name": "Шпильки/Затискачі",
             "parent_id": 1171,
             "children": []
           },
           {
             "id": 1179,
-            "name": "Zębatki",
+            "name": "Шестерні",
             "parent_id": 1171,
             "children": [
               {
                 "id": 1181,
-                "name": "Zębatki Przednie",
+                "name": "Передні зубчасті колеса",
                 "parent_id": 1179,
                 "children": []
               },
               {
                 "id": 1180,
-                "name": "Zębatki Tylne",
+                "name": "Задні шестерні",
                 "parent_id": 1179,
                 "children": []
               }
@@ -1889,7 +1889,7 @@
           },
           {
             "id": 1178,
-            "name": "Zestawy Napędowe",
+            "name": "Силові агрегати",
             "parent_id": 1171,
             "children": []
           }
@@ -1897,41 +1897,41 @@
       },
       {
         "id": 1182,
-        "name": "Układ Paliwowy",
+        "name": "Паливна система",
         "parent_id": 996,
         "children": [
           {
             "id": 1188,
-            "name": "Akcesoria",
+            "name": "Аксесуари",
             "parent_id": 1182,
             "children": []
           },
           {
             "id": 1183,
-            "name": "Dysze Gaźników",
+            "name": "Сопла карбюраторів",
             "parent_id": 1182,
             "children": [
               {
                 "id": 1185,
-                "name": "Dysze Dellorto",
+                "name": "Карбюратори Dellorto",
                 "parent_id": 1183,
                 "children": []
               },
               {
                 "id": 1184,
-                "name": "Dysze Keihin",
+                "name": "Карбюратори Keihin",
                 "parent_id": 1183,
                 "children": []
               },
               {
                 "id": 1186,
-                "name": "Dysze Mikuni",
+                "name": "Sopła Mikuni",
                 "parent_id": 1183,
                 "children": []
               },
               {
                 "id": 1187,
-                "name": "Komplety Dysz",
+                "name": "Комплекти форсунок",
                 "parent_id": 1183,
                 "children": []
               }
@@ -1939,37 +1939,37 @@
           },
           {
             "id": 1189,
-            "name": "Kontroler Paliwa",
+            "name": "Контролер Палива",
             "parent_id": 1182,
             "children": []
           },
           {
             "id": 1190,
-            "name": "Membrana Zaworu...",
+            "name": "Мембрана Клапана",
             "parent_id": 1182,
             "children": []
           },
           {
             "id": 1191,
-            "name": "Rozpylacz Do Gaźnika",
+            "name": "Розпилювач до карбюратора",
             "parent_id": 1182,
             "children": []
           },
           {
             "id": 1192,
-            "name": "Sterownik Zarządzania...",
+            "name": "Контролер керування",
             "parent_id": 1182,
             "children": []
           },
           {
             "id": 1193,
-            "name": "Zbiornik Paliwa",
+            "name": "Паливний бак",
             "parent_id": 1182,
             "children": []
           },
           {
             "id": 1194,
-            "name": "Zestaw Naprawczy Gaźnika",
+            "name": "Ремонтний комплект карбюратора",
             "parent_id": 1182,
             "children": []
           }
@@ -1977,66 +1977,66 @@
       },
       {
         "id": 1195,
-        "name": "Układ Wydechowy",
+        "name": "Система випуску",
         "parent_id": 996,
         "children": [
           {
             "id": 1197,
-            "name": "Akcesoria",
+            "name": "Аксесуари",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1196,
-            "name": "Db-Killery",
+            "name": "Бази даних-Вбивці",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1198,
-            "name": "Dyfuzory",
+            "name": "Дифузори",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1199,
-            "name": "Eliminator...",
+            "name": "Знищувач",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1200,
-            "name": "Flansza Mocująca",
+            "name": "Кріпильна планка",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1201,
-            "name": "Kolektory",
+            "name": "колектори",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1202,
-            "name": "Końcówki (Slip-One)",
+            "name": "Кінцівки (Slip-One)",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1203,
-            "name": "Pełny Układ (Full-System)",
+            "name": "Повний Комплект",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1204,
-            "name": "Rura Dolotowa",
+            "name": "Труба Впускна",
             "parent_id": 1195,
             "children": []
           },
           {
             "id": 1205,
-            "name": "Tłumiki Motocyklowe",
+            "name": "Глушники Мотоциклетні",
             "parent_id": 1195,
             "children": []
           }
@@ -2044,72 +2044,72 @@
       },
       {
         "id": 1206,
-        "name": "Urządzenia Diagnostyczne",
+        "name": "Діагностичні пристрої",
         "parent_id": 996,
         "children": []
       },
       {
         "id": 1207,
-        "name": "Zabezpieczenia...",
+        "name": "Захисні пристрої",
         "parent_id": 996,
         "children": [
           {
             "id": 1209,
-            "name": "Blokady Bez Alarmu",
+            "name": "Блокування Без Сигналу",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1208,
-            "name": "Blokady Z Alarmem",
+            "name": "Блокади з Сигналізацією",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1210,
-            "name": "Kłódki",
+            "name": "Навісні замки",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1211,
-            "name": "Linki",
+            "name": "Посилання",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1212,
-            "name": "Łańcuchy",
+            "name": "Ланцюги",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1213,
-            "name": "Pozostałe",
+            "name": "Інше",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1214,
-            "name": "Przypominacze",
+            "name": "Нагадувачі",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1215,
-            "name": "Uchwyty",
+            "name": "Ручки",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1216,
-            "name": "Zapięcia",
+            "name": "Застібки",
             "parent_id": 1207,
             "children": []
           },
           {
             "id": 1217,
-            "name": "Zestawy",
+            "name": "Набори",
             "parent_id": 1207,
             "children": []
           }
@@ -2117,83 +2117,83 @@
       },
       {
         "id": 1222,
-        "name": "Zawieszenie",
+        "name": "Підвіска",
         "parent_id": 996,
         "children": [
           {
             "id": 1224,
-            "name": "Kiwaczki",
+            "name": "Дитячі погремушки",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1223,
-            "name": "Launch Control",
+            "name": "Запуск керування",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1225,
-            "name": "Łożyska Amortyzatora...",
+            "name": "Підшипники амортизатора",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1226,
-            "name": "Łożyska Główki Ramy",
+            "name": "Підшипники Головної Рами",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1227,
-            "name": "Łożyska Wahacza",
+            "name": "Підшипники важеля",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1228,
-            "name": "Osłony Amortyzatorów",
+            "name": "Захисти Амортизаторів",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1229,
-            "name": "Osłony Teleskopów",
+            "name": "Телескопічні захисні кришки",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1230,
-            "name": "Pokrętła Zawieszenia",
+            "name": "Елементи підвіски",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1231,
-            "name": "Simmeringi Teleskopów",
+            "name": "Телескопічні кільця",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1232,
-            "name": "Trzymak Opony",
+            "name": "Утримувач Шини",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1233,
-            "name": "Tulejki Dystansowe Kół",
+            "name": "Розпірні втулки коліс",
             "parent_id": 1222,
             "children": [
               {
                 "id": 1235,
-                "name": "Przednich",
+                "name": "передні",
                 "parent_id": 1233,
                 "children": []
               },
               {
                 "id": 1234,
-                "name": "Tylnich",
+                "name": "Задні",
                 "parent_id": 1233,
                 "children": []
               }
@@ -2201,42 +2201,42 @@
           },
           {
             "id": 1236,
-            "name": "Uszczelniacze...",
+            "name": "Ущільнювачі",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1237,
-            "name": "Zestaw Linkeage...",
+            "name": "Набір з'єднання",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1238,
-            "name": "Zestaw Łożysk A-Arm...",
+            "name": "Комплект підшипників A-Arm",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1239,
-            "name": "Zestaw Łożysk Tylnego...",
+            "name": "Комплект підшипників заднього",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1243,
-            "name": "Zestaw Naprawczy Koła",
+            "name": "Комплект Ремонтний Колеса",
             "parent_id": 1222,
             "children": [
               {
                 "id": 1245,
-                "name": "Przedniego",
+                "name": "передній",
                 "parent_id": 1243,
                 "children": []
               },
               {
                 "id": 1244,
-                "name": "Tylnego",
+                "name": "Задній",
                 "parent_id": 1243,
                 "children": []
               }
@@ -2244,24 +2244,24 @@
           },
           {
             "id": 1246,
-            "name": "Zestaw Naprawczy Wahacza",
+            "name": "Комплект ремонтний важеля",
             "parent_id": 1222,
             "children": []
           },
           {
             "id": 1240,
-            "name": "Zestaw Naprawczy...",
+            "name": "Ремонтний комплект",
             "parent_id": 1222,
             "children": [
               {
                 "id": 1242,
-                "name": "Dolnego",
+                "name": "Нижній",
                 "parent_id": 1240,
                 "children": []
               },
               {
                 "id": 1241,
-                "name": "Górnego",
+                "name": "Верхнього",
                 "parent_id": 1240,
                 "children": []
               }
@@ -2269,7 +2269,7 @@
           },
           {
             "id": 1247,
-            "name": "Zestaw Simmeringów I...",
+            "name": "Набір Simmeringів",
             "parent_id": 1222,
             "children": []
           }
@@ -2279,70 +2279,70 @@
   },
   {
     "id": 867,
-    "name": "DLA MOTOCYKLISTY",
+    "name": "Для мотоциклістів",
     "parent_id": null,
     "children": [
       {
         "id": 886,
-        "name": "Akcesoria Motocyklowe",
+        "name": "Мотоциклетні аксесуари",
         "parent_id": 867,
         "children": []
       },
       {
         "id": 868,
-        "name": "Buty Motocyklowe",
+        "name": "Черевики Мотоциклетні",
         "parent_id": 867,
         "children": [
           {
             "id": 871,
-            "name": "Akcesoria",
+            "name": "Аксесуари",
             "parent_id": 868,
             "children": [
               {
                 "id": 873,
-                "name": "KITy BOA",
+                "name": "Креативні Інноваційні Технології бойова обмежена анімація",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 872,
-                "name": "Klamry",
+                "name": "Затискачі",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 874,
-                "name": "Paski",
+                "name": "Ремінці",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 875,
-                "name": "Podeszwy",
+                "name": "Підошви",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 876,
-                "name": "Pozostałe",
+                "name": "Інші",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 877,
-                "name": "Slidery",
+                "name": "Повзунки",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 878,
-                "name": "Sznurówki",
+                "name": "Шнурівки",
                 "parent_id": 871,
                 "children": []
               },
               {
                 "id": 879,
-                "name": "Wkładki",
+                "name": "Прокладки",
                 "parent_id": 871,
                 "children": []
               }
@@ -2350,12 +2350,12 @@
           },
           {
             "id": 869,
-            "name": "Buty Crossowe",
+            "name": "Взуття для кросфіту",
             "parent_id": 868,
             "children": [
               {
                 "id": 870,
-                "name": "Buty Dziecięce",
+                "name": "Дитяче взуття",
                 "parent_id": 869,
                 "children": []
               }
@@ -2363,37 +2363,37 @@
           },
           {
             "id": 880,
-            "name": "Buty Damskie",
+            "name": "Жіноче взуття",
             "parent_id": 868,
             "children": []
           },
           {
             "id": 881,
-            "name": "Buty Enduro",
+            "name": "Взуття для ендуро",
             "parent_id": 868,
             "children": []
           },
           {
             "id": 882,
-            "name": "Buty Miejskie",
+            "name": "Міські черевики",
             "parent_id": 868,
             "children": []
           },
           {
             "id": 883,
-            "name": "Buty Sportowe",
+            "name": "Спортивне взуття",
             "parent_id": 868,
             "children": []
           },
           {
             "id": 884,
-            "name": "Buty Trialowe",
+            "name": "Взуття для тріалу",
             "parent_id": 868,
             "children": []
           },
           {
             "id": 885,
-            "name": "Buty Turystyczne",
+            "name": "Взуття туристичне",
             "parent_id": 868,
             "children": []
           }
@@ -2401,36 +2401,36 @@
       },
       {
         "id": 887,
-        "name": "Gadżety I Prezenty",
+        "name": "Гаджети і Подарунки",
         "parent_id": 867,
         "children": [
           {
             "id": 889,
-            "name": "Breloczki",
+            "name": "Брелоки",
             "parent_id": 887,
             "children": []
           },
           {
             "id": 888,
-            "name": "Czapki Z Daszkiem",
+            "name": "Кепки",
             "parent_id": 887,
             "children": []
           },
           {
             "id": 890,
-            "name": "Inne",
+            "name": "Інше",
             "parent_id": 887,
             "children": []
           },
           {
             "id": 891,
-            "name": "Naklejki",
+            "name": "Наклейки",
             "parent_id": 887,
             "children": []
           },
           {
             "id": 892,
-            "name": "Odzież",
+            "name": "Одяг",
             "parent_id": 887,
             "children": []
           }
@@ -2438,12 +2438,12 @@
       },
       {
         "id": 893,
-        "name": "Gogle",
+        "name": "Окуляри",
         "parent_id": 867,
         "children": [
           {
             "id": 894,
-            "name": "Akcesoria",
+            "name": "Аксесуари",
             "parent_id": 893,
             "children": []
           }
@@ -2451,125 +2451,125 @@
       },
       {
         "id": 895,
-        "name": "Kaski",
+        "name": "Шоломи",
         "parent_id": 867,
         "children": [
           {
             "id": 897,
-            "name": "Akcesoria Do Kasków",
+            "name": "Аксесуари до шоломів",
             "parent_id": 895,
             "children": [
               {
                 "id": 899,
-                "name": "Blendy",
+                "name": "Суміші",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 898,
-                "name": "Boczki Do Kasków",
+                "name": "Бічні накладки до шоломів",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 900,
-                "name": "Część Szczękowa",
+                "name": "Щелепова частина",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 901,
-                "name": "Daszki",
+                "name": "Дашки",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 902,
-                "name": "Deflektory Nosa",
+                "name": "Дефлектори Носа",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 903,
-                "name": "Mechanizm Wizjera",
+                "name": "Механізм приціла",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 904,
-                "name": "Obiektyw Gogli",
+                "name": "об'єктив окулярів",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 905,
-                "name": "Osłony Podbródka",
+                "name": "Підборідні захисти",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 906,
-                "name": "Osłony Szczęki",
+                "name": "Захист щелепи",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 907,
-                "name": "Pinlocki",
+                "name": "Шпильки",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 908,
-                "name": "Poduszki Policzkowe",
+                "name": "Подушки щічні",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 909,
-                "name": "Pozostałe",
+                "name": "Інші",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 910,
-                "name": "Spoilery",
+                "name": "Спойлери",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 911,
-                "name": "Śruby / Paski / Rolki...",
+                "name": "Болти / Ремені / Ролики",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 912,
-                "name": "Wentylacja",
+                "name": "Вентиляція",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 913,
-                "name": "Wizjery",
+                "name": "Оглядові пристрої",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 914,
-                "name": "Wypełnienie / Wykładanie",
+                "name": "Заповнення / Викладання",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 915,
-                "name": "Wywietrzniki",
+                "name": "Вентиляційні отвори",
                 "parent_id": 897,
                 "children": []
               },
               {
                 "id": 916,
-                "name": "Zatyczki",
+                "name": "Корки",
                 "parent_id": 897,
                 "children": []
               }
@@ -2577,37 +2577,37 @@
           },
           {
             "id": 896,
-            "name": "Kaski Dziecięce",
+            "name": "Дитячі каски",
             "parent_id": 895,
             "children": []
           },
           {
             "id": 917,
-            "name": "Kaski Integralne",
+            "name": "Інтегральні шоломи",
             "parent_id": 895,
             "children": []
           },
           {
             "id": 918,
-            "name": "Kaski Modularne",
+            "name": "Модульні шоломи",
             "parent_id": 895,
             "children": []
           },
           {
             "id": 919,
-            "name": "Kaski Off Road",
+            "name": "Захисні шоломи для бездоріжжя",
             "parent_id": 895,
             "children": []
           },
           {
             "id": 920,
-            "name": "Kaski Otwarte - JET",
+            "name": "Шоломи Відкриті JET",
             "parent_id": 895,
             "children": []
           },
           {
             "id": 921,
-            "name": "Kaski Szczękowe",
+            "name": "Шоломи щелепні",
             "parent_id": 895,
             "children": []
           }
@@ -2615,54 +2615,54 @@
       },
       {
         "id": 922,
-        "name": "Ochraniacze",
+        "name": "Захисники",
         "parent_id": 867,
         "children": [
           {
             "id": 924,
-            "name": "Ochraniacze Bioder",
+            "name": "Захисники стегон",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 923,
-            "name": "Ochraniacze Kolan",
+            "name": "Наколінники",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 925,
-            "name": "Ochraniacze Na Łokcie",
+            "name": "Накладки на лікті",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 926,
-            "name": "Ochraniacze Na Plecy",
+            "name": "Захисники На Спину",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 927,
-            "name": "Ochraniacze Ramion",
+            "name": "Захисники Рук",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 928,
-            "name": "Ślizgi Do Butow",
+            "name": "Вкладиші для взуття",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 929,
-            "name": "Ślizgi Do Spodni",
+            "name": "Ковзні До Штанів",
             "parent_id": 922,
             "children": []
           },
           {
             "id": 930,
-            "name": "Zbroje",
+            "name": "Обладунки",
             "parent_id": 922,
             "children": []
           }
@@ -2670,47 +2670,47 @@
       },
       {
         "id": 931,
-        "name": "Odzież",
+        "name": "Одяг",
         "parent_id": 867,
         "children": [
           {
             "id": 933,
-            "name": "Akcesoria",
+            "name": "Аксесуари",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 932,
-            "name": "Bluzy - Polary -...",
+            "name": "Bluzy - Толстовки\nPolary - Фліси",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 934,
-            "name": "Chusty",
+            "name": "Хустки",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 935,
-            "name": "Kamizelki",
+            "name": "Жилети",
             "parent_id": 931,
             "children": [
               {
                 "id": 937,
-                "name": "Odblaskowe",
+                "name": "Світловідбивний",
                 "parent_id": 935,
                 "children": []
               },
               {
                 "id": 936,
-                "name": "Skórzane",
+                "name": "шкіряні",
                 "parent_id": 935,
                 "children": []
               },
               {
                 "id": 938,
-                "name": "Termiczne",
+                "name": "Термічне",
                 "parent_id": 935,
                 "children": []
               }
@@ -2718,24 +2718,24 @@
           },
           {
             "id": 939,
-            "name": "Kołnierze",
+            "name": "Комірці",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 940,
-            "name": "Kombinezony",
+            "name": "Комбінезони",
             "parent_id": 931,
             "children": [
               {
                 "id": 942,
-                "name": "Kombinezony 1-Częściowe",
+                "name": "Комбінезони одночастинні",
                 "parent_id": 940,
                 "children": []
               },
               {
                 "id": 941,
-                "name": "Kombinezony 2-Częściowe",
+                "name": "Комбінезони 2-Елементні",
                 "parent_id": 940,
                 "children": []
               }
@@ -2743,42 +2743,42 @@
           },
           {
             "id": 943,
-            "name": "Kominiarki",
+            "name": "Лижні маски",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 944,
-            "name": "Koszule",
+            "name": "Сорочки",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 945,
-            "name": "Koszulki",
+            "name": "Футболки",
             "parent_id": 931,
             "children": [
               {
                 "id": 947,
-                "name": "Na Ramiączkach",
+                "name": "На бретельках",
                 "parent_id": 945,
                 "children": []
               },
               {
                 "id": 946,
-                "name": "T-Shirty",
+                "name": "Футболки",
                 "parent_id": 945,
                 "children": []
               },
               {
                 "id": 948,
-                "name": "T-Shirty Polo",
+                "name": "Футболки Polo",
                 "parent_id": 945,
                 "children": []
               },
               {
                 "id": 949,
-                "name": "Z Długim Rękawem",
+                "name": "З довгим рукавом",
                 "parent_id": 945,
                 "children": []
               }
@@ -2786,23 +2786,23 @@
           },
           {
             "id": 950,
-            "name": "Kurtki Motocyklowe",
+            "name": "Мотоциклетні куртки",
             "parent_id": 931,
             "children": [
               {
                 "id": 954,
-                "name": "Kurtki Skórzane",
+                "name": "Шкіряні куртки",
                 "parent_id": 950,
                 "children": [
                   {
                     "id": 956,
-                    "name": "Kurtki Damskie",
+                    "name": "Жіночі куртки",
                     "parent_id": 954,
                     "children": []
                   },
                   {
                     "id": 955,
-                    "name": "Kurtki Męskie",
+                    "name": "Чоловічі куртки",
                     "parent_id": 954,
                     "children": []
                   }
@@ -2810,18 +2810,18 @@
               },
               {
                 "id": 951,
-                "name": "Kurtki Tekstylne",
+                "name": "Текстильні куртки",
                 "parent_id": 950,
                 "children": [
                   {
                     "id": 953,
-                    "name": "Kurtki Damskie",
+                    "name": "Жіночі куртки",
                     "parent_id": 951,
                     "children": []
                   },
                   {
                     "id": 952,
-                    "name": "Kurtki Męskie",
+                    "name": "Чоловічі куртки",
                     "parent_id": 951,
                     "children": []
                   }
@@ -2831,48 +2831,48 @@
           },
           {
             "id": 957,
-            "name": "Maski Filtrujące",
+            "name": "Фільтрувальні маски",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 958,
-            "name": "Odzież Dziecięca",
+            "name": "Дитячий одяг",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 959,
-            "name": "Odzież Off Road",
+            "name": "Одяг Поза Дорогою",
             "parent_id": 931,
             "children": [
               {
                 "id": 961,
-                "name": "Bluzy Off Road",
+                "name": "Світшоти Позашляхові",
                 "parent_id": 959,
                 "children": []
               },
               {
                 "id": 960,
-                "name": "Koszulki Off Road",
+                "name": "Футболки Позашляховик",
                 "parent_id": 959,
                 "children": []
               },
               {
                 "id": 962,
-                "name": "Kurtki Off Road",
+                "name": "Куртки позашляхові",
                 "parent_id": 959,
                 "children": []
               },
               {
                 "id": 963,
-                "name": "Rękawice Off Road",
+                "name": "Рукавиці для позашляхового руху",
                 "parent_id": 959,
                 "children": []
               },
               {
                 "id": 964,
-                "name": "Spodnie Off Road",
+                "name": "Штани для бездоріжжя",
                 "parent_id": 959,
                 "children": []
               }
@@ -2880,30 +2880,30 @@
           },
           {
             "id": 965,
-            "name": "Odzież Przeciwdeszczowa",
+            "name": "Одяг Протидощовий",
             "parent_id": 931,
             "children": [
               {
                 "id": 967,
-                "name": "Kombinezony...",
+                "name": "Комбінезони",
                 "parent_id": 965,
                 "children": []
               },
               {
                 "id": 966,
-                "name": "Kurtki Przeciwdeszczowe",
+                "name": "Дощовики",
                 "parent_id": 965,
                 "children": []
               },
               {
                 "id": 968,
-                "name": "Nakładki...",
+                "name": "Накладки",
                 "parent_id": 965,
                 "children": []
               },
               {
                 "id": 969,
-                "name": "Spodnie Przeciwdeszczowe",
+                "name": "Штани Дощовий",
                 "parent_id": 965,
                 "children": []
               }
@@ -2911,47 +2911,47 @@
           },
           {
             "id": 970,
-            "name": "Odzież Termoaktywna",
+            "name": "Термоактивний одяг",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 971,
-            "name": "Pasy Nerkowe",
+            "name": "Ниркові ремені",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 972,
-            "name": "Rękawice Motocyklowe",
+            "name": "Мотоциклетні рукавиці",
             "parent_id": 931,
             "children": [
               {
                 "id": 974,
-                "name": "Rękawice Damskie",
+                "name": "Рукавиці жіночі",
                 "parent_id": 972,
                 "children": [
                   {
                     "id": 976,
-                    "name": "Rękawice Crossowe",
+                    "name": "Рукавиці Кросові",
                     "parent_id": 974,
                     "children": []
                   },
                   {
                     "id": 975,
-                    "name": "Rękawice Skórzane",
+                    "name": "Шкіряні рукавиці",
                     "parent_id": 974,
                     "children": []
                   },
                   {
                     "id": 977,
-                    "name": "Rękawice Sportowe",
+                    "name": "Спортивні рукавиці",
                     "parent_id": 974,
                     "children": []
                   },
                   {
                     "id": 978,
-                    "name": "Rękawice Turystyczne",
+                    "name": "Туристичні рукавиці",
                     "parent_id": 974,
                     "children": []
                   }
@@ -2959,48 +2959,48 @@
               },
               {
                 "id": 973,
-                "name": "Rękawice Dziecięce",
+                "name": "Дитячі рукавиці",
                 "parent_id": 972,
                 "children": []
               },
               {
                 "id": 979,
-                "name": "Rękawice Męskie",
+                "name": "Чоловічі рукавиці",
                 "parent_id": 972,
                 "children": [
                   {
                     "id": 981,
-                    "name": "Rękawice Crossowe",
+                    "name": "Рукавиці для кросу",
                     "parent_id": 979,
                     "children": []
                   },
                   {
                     "id": 980,
-                    "name": "Rękawice Miejskie",
+                    "name": "Міські рукавиці",
                     "parent_id": 979,
                     "children": []
                   },
                   {
                     "id": 982,
-                    "name": "Rękawice Skórzane",
+                    "name": "Шкіряні рукавиці",
                     "parent_id": 979,
                     "children": []
                   },
                   {
                     "id": 983,
-                    "name": "Rękawice Sportowe",
+                    "name": "Спортивні рукавиці",
                     "parent_id": 979,
                     "children": []
                   },
                   {
                     "id": 984,
-                    "name": "Rękawice Turystyczne",
+                    "name": "Туристичні рукавиці",
                     "parent_id": 979,
                     "children": []
                   },
                   {
                     "id": 985,
-                    "name": "Rękawice Zimowe",
+                    "name": "Зимові рукавиці",
                     "parent_id": 979,
                     "children": []
                   }
@@ -3010,35 +3010,35 @@
           },
           {
             "id": 986,
-            "name": "Skarpety Motocyklowe",
+            "name": "Шкарпетки Мотоциклетні",
             "parent_id": 931,
             "children": []
           },
           {
             "id": 987,
-            "name": "Spodnie Motocyklowe",
+            "name": "Штани Мотоциклетні",
             "parent_id": 931,
             "children": [
               {
                 "id": 991,
-                "name": "Spodnie Jeansowe",
+                "name": "Джинсові штани",
                 "parent_id": 987,
                 "children": []
               },
               {
                 "id": 988,
-                "name": "Spodnie Skórzane",
+                "name": "Шкіряні штани",
                 "parent_id": 987,
                 "children": [
                   {
                     "id": 990,
-                    "name": "Spodnie Damskie",
+                    "name": "Жіночі штани",
                     "parent_id": 988,
                     "children": []
                   },
                   {
                     "id": 989,
-                    "name": "Spodnie Męskie",
+                    "name": "Штани Чоловічі",
                     "parent_id": 988,
                     "children": []
                   }
@@ -3046,18 +3046,18 @@
               },
               {
                 "id": 992,
-                "name": "Spodnie Tekstylne",
+                "name": "Текстильні штани",
                 "parent_id": 987,
                 "children": [
                   {
                     "id": 994,
-                    "name": "Spodnie Damskie",
+                    "name": "Штани Жіночі",
                     "parent_id": 992,
                     "children": []
                   },
                   {
                     "id": 993,
-                    "name": "Spodnie Męskie",
+                    "name": "Чоловічі штани",
                     "parent_id": 992,
                     "children": []
                   }
@@ -3067,7 +3067,7 @@
           },
           {
             "id": 995,
-            "name": "Szelki",
+            "name": "Підтяжки",
             "parent_id": 931,
             "children": []
           }
@@ -3077,41 +3077,41 @@
   },
   {
     "id": 1372,
-    "name": "PROMOCJE",
+    "name": "Акції",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1248,
-    "name": "ROWERY",
+    "name": "Велосипеди",
     "parent_id": null,
     "children": [
       {
         "id": 1252,
-        "name": "ROWERY",
+        "name": "Велосипеди",
         "parent_id": 1248,
         "children": []
       },
       {
         "id": 1253,
-        "name": "ROWERY DLA DZIECI",
+        "name": "Велосипеди для дітей",
         "parent_id": 1248,
         "children": []
       },
       {
         "id": 1249,
-        "name": "ROWERY ELEKTRYCZNE",
+        "name": "Електричні велосипеди",
         "parent_id": 1248,
         "children": [
           {
             "id": 1251,
-            "name": "MTB",
+            "name": "Гірський велосипед",
             "parent_id": 1249,
             "children": []
           },
           {
             "id": 1250,
-            "name": "Trekking I Miejskie",
+            "name": "Похід і Міські",
             "parent_id": 1249,
             "children": []
           }

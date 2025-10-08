@@ -1,18 +1,18 @@
 [
   {
     "id": 1505,
-    "name": "Blokady tarcz",
+    "name": "Блокування щитів",
     "parent_id": 1505,
     "children": [
       {
         "id": 1506,
-        "name": "Klocki",
+        "name": "Будівельні блоки",
         "parent_id": 1505,
         "children": []
       },
       {
         "id": 1507,
-        "name": "Szczęki",
+        "name": "Щелепи",
         "parent_id": 1505,
         "children": []
       }
@@ -20,36 +20,36 @@
   },
   {
     "id": 1492,
-    "name": "Gogle",
+    "name": "Окуляри захисні",
     "parent_id": 1492,
     "children": [
       {
         "id": 1488,
-        "name": "Integralne",
+        "name": "Цілісні",
         "parent_id": 1492,
         "children": []
       },
       {
         "id": 1491,
-        "name": "Kominiarki",
+        "name": "Балаклави",
         "parent_id": 1492,
         "children": []
       },
       {
         "id": 1487,
-        "name": "MX - Cross/Enduro",
+        "name": "Мотокрос/Ендуро",
         "parent_id": 1492,
         "children": []
       },
       {
         "id": 1489,
-        "name": "Otwarte",
+        "name": "Відкриті",
         "parent_id": 1492,
         "children": []
       },
       {
         "id": 1490,
-        "name": "Szczękowe",
+        "name": "Щелепні",
         "parent_id": 1492,
         "children": []
       }
@@ -57,54 +57,54 @@
   },
   {
     "id": 1501,
-    "name": "Inne",
+    "name": "Інше",
     "parent_id": 1501,
     "children": [
       {
         "id": 1493,
-        "name": "Alarmy",
+        "name": "Сигналізації",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1494,
-        "name": "Breloki",
+        "name": "Брелоки",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1495,
-        "name": "Czyściki piast",
+        "name": "Очисники маточин",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1496,
-        "name": "Kubki",
+        "name": "Чашки",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1497,
-        "name": "Nakrętki zaworków",
+        "name": "Кришки клапанів",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1498,
-        "name": "Ramki tablic rejestr.",
+        "name": "Рамки таблиць реєстр",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1499,
-        "name": "Siatki bagażowe",
+        "name": "Сітки багажні",
         "parent_id": 1501,
         "children": []
       },
       {
         "id": 1500,
-        "name": "Taśmy odblaskowe na felgi",
+        "name": "Світловідбивні стрічки на диски",
         "parent_id": 1501,
         "children": []
       }
@@ -112,30 +112,30 @@
   },
   {
     "id": 1522,
-    "name": "LED",
+    "name": "Світлодіодні",
     "parent_id": 1522,
     "children": []
   },
   {
     "id": 1517,
-    "name": "Nakrętki zaworków",
+    "name": "Кришки клапанів",
     "parent_id": 1517,
     "children": [
       {
         "id": 1515,
-        "name": "dętki",
+        "name": "камери",
         "parent_id": 1517,
         "children": []
       },
       {
         "id": 1516,
-        "name": "fartuchy | zaworki",
+        "name": "fartuchy - фартухи\nzaworki - клапани",
         "parent_id": 1517,
         "children": []
       },
       {
         "id": 1514,
-        "name": "opony",
+        "name": "шини",
         "parent_id": 1517,
         "children": []
       }
@@ -143,264 +143,264 @@
   },
   {
     "id": 1527,
-    "name": "Opaski zaciskowe",
+    "name": "Хомути затискні",
     "parent_id": 1527,
     "children": [
       {
         "id": 1397,
-        "name": "AKCESORIA",
+        "name": "Аксесуари",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1398,
-        "name": "AKUMULATORY, ŁADOWARKI",
+        "name": "акумулятори, зарядні пристрої",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1399,
-        "name": "BEZPIECZNIKI",
+        "name": "Запобіжники",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1395,
-        "name": "CZĘŚCI ATV",
+        "name": "Запчастини ATV",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1393,
-        "name": "CZĘŚCI JAWA 50",
+        "name": "Частини Jawa 50",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1390,
-        "name": "CZĘŚCI MZ ETZ, TS, ES",
+        "name": "Деталі MZ ETZ, TS, ES",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1392,
-        "name": "CZĘŚCI ROMET, KOMAR",
+        "name": "Деталі Romet, Komar",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1379,
-        "name": "CZĘŚCI SIMSON",
+        "name": "Частини Simson",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1394,
-        "name": "CZĘŚCI SKUTERY, MOTOROWERY",
+        "name": "Деталі скутери, мопеди",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1391,
-        "name": "CZĘŚCI WSK, WFM, SHL",
+        "name": "Деталі WSK, WFM, SHL",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1400,
-        "name": "FILTRY PALIWA",
+        "name": "Фільтри палива",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1401,
-        "name": "FILTRY POWIETRZA",
+        "name": "Фільтри повітря",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1402,
-        "name": "GUMY KIEROWNICY",
+        "name": "Кермові гуми",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1403,
-        "name": "HAMULCE",
+        "name": "гальма",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1396,
-        "name": "KASKI MOTOCYKLOWE",
+        "name": "Мотоциклетні шоломи",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1404,
-        "name": "KIEROWNICE",
+        "name": "кермо",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1523,
-        "name": "Końcówki elektryczne",
+        "name": "Електричні закінчення",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1405,
-        "name": "KUFRY",
+        "name": "Валізи",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1524,
-        "name": "Kulki łożyskowe",
+        "name": "Кульки підшипникові",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1406,
-        "name": "LITERATURA",
+        "name": "Література",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1407,
-        "name": "LUSTERKA",
+        "name": "Дзеркала",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1408,
-        "name": "ŁOŻYSKA",
+        "name": "Підшипники",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1384,
-        "name": "NAKLEJKI",
+        "name": "Наклейки",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1525,
-        "name": "Nakrętki",
+        "name": "Кришки",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1409,
-        "name": "NARZĘDZIA",
+        "name": "Інструменти",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1526,
-        "name": "Nity",
+        "name": "Заклепки",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1425,
-        "name": "NOWOŚCI",
+        "name": "Новинки",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1410,
-        "name": "ODZIEŻ",
+        "name": "Одяг",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1411,
-        "name": "OGUMIENIE",
+        "name": "шини",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1412,
-        "name": "OLEJE | CHEMIA",
+        "name": "Олії | Хімія",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1413,
-        "name": "ORINGI",
+        "name": "Ущільнювачі",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1414,
-        "name": "OSŁONY DŁONI",
+        "name": "Захисні рукавиці",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1415,
-        "name": "OŚWIETLENIE",
+        "name": "Освітлення",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1416,
-        "name": "PASKI NAPĘDOWE",
+        "name": "Ремені приводні",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1426,
-        "name": "PROMOCJE",
+        "name": "Знижки",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1417,
-        "name": "PRZEWODY PALIWA",
+        "name": "Паливні проводи",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1418,
-        "name": "PRZEWODY ZAPŁONOWE",
+        "name": "Провідники запалювання",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1419,
-        "name": "SEGERY",
+        "name": "Годинники",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1420,
-        "name": "SIMERINGI",
+        "name": "підшипники",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1422,
-        "name": "ŚWIECE | FAJKI",
+        "name": "ŚWIECE | FAJKI\nСвічки | Люльки",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1421,
-        "name": "SYGNAŁY DŹWIĘKOWE",
+        "name": "Звукові сигнали",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1424,
-        "name": "UNIWERSALNE",
+        "name": "Універсальні",
         "parent_id": 1527,
         "children": []
       },
       {
         "id": 1423,
-        "name": "ŻARÓWKI",
+        "name": "Лампочки",
         "parent_id": 1527,
         "children": []
       }
@@ -408,12 +408,12 @@
   },
   {
     "id": 1519,
-    "name": "przerywacze kierunkowskazów",
+    "name": "переривачі покажчиків повороту",
     "parent_id": 1519,
     "children": [
       {
         "id": 1518,
-        "name": "kierunkowskazy",
+        "name": "показники поворотів",
         "parent_id": 1519,
         "children": []
       }
@@ -421,36 +421,36 @@
   },
   {
     "id": 1513,
-    "name": "Rękawice",
+    "name": "Рукавиці",
     "parent_id": 1513,
     "children": [
       {
         "id": 1509,
-        "name": "Bluzy",
+        "name": "Худі",
         "parent_id": 1513,
         "children": []
       },
       {
         "id": 1510,
-        "name": "Czapki",
+        "name": "Шапки",
         "parent_id": 1513,
         "children": []
       },
       {
         "id": 1511,
-        "name": "Kominiarki",
+        "name": "Шапки-балаклави",
         "parent_id": 1513,
         "children": []
       },
       {
         "id": 1512,
-        "name": "Koszulki",
+        "name": "футболки",
         "parent_id": 1513,
         "children": []
       },
       {
         "id": 1508,
-        "name": "Koszulki firmowe",
+        "name": "Корпоративні футболки",
         "parent_id": 1513,
         "children": []
       }
@@ -458,18 +458,18 @@
   },
   {
     "id": 1504,
-    "name": "Stożkowe",
+    "name": "Конусні",
     "parent_id": 1504,
     "children": [
       {
         "id": 1502,
-        "name": "Dedykowane",
+        "name": "Присвячені",
         "parent_id": 1504,
         "children": []
       },
       {
         "id": 1503,
-        "name": "Gąbkowe uniwersalne",
+        "name": "Губчасті універсальні",
         "parent_id": 1504,
         "children": []
       }
@@ -477,12 +477,12 @@
   },
   {
     "id": 1521,
-    "name": "świece zapłonowe",
+    "name": "свічки запалювання",
     "parent_id": 1521,
     "children": [
       {
         "id": 1520,
-        "name": "fajki",
+        "name": "люльки",
         "parent_id": 1521,
         "children": []
       }
@@ -490,60 +490,60 @@
   },
   {
     "id": 1389,
-    "name": "Uszczelki",
+    "name": "Ущільнювачі",
     "parent_id": 1389,
     "children": [
       {
         "id": 1380,
-        "name": "Elektryka | Oświetlenie",
+        "name": "Електрика | Освітлення",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1381,
-        "name": "Gaźnik",
+        "name": "Карбюратор",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1382,
-        "name": "Linki",
+        "name": "Посилання",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1383,
-        "name": "Nadwozie | Zawieszenie | Rama",
+        "name": "Кузов | Підвіска | Рама",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1427,
-        "name": "Naklejki",
+        "name": "Наклейки",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1385,
-        "name": "Silnik",
+        "name": "Двигун",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1386,
-        "name": "Tuning",
+        "name": "Тюнінг",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1387,
-        "name": "Układ napędowy",
+        "name": "Привідна система",
         "parent_id": 1389,
         "children": []
       },
       {
         "id": 1388,
-        "name": "Układ wydechowy",
+        "name": "Система випуску",
         "parent_id": 1389,
         "children": []
       }
@@ -551,54 +551,54 @@
   },
   {
     "id": 1436,
-    "name": "Uszczelki",
+    "name": "Ущільнювачі",
     "parent_id": 1436,
     "children": [
       {
         "id": 1428,
-        "name": "Elektryka i Oświetlenie",
+        "name": "Електрика та Освітлення",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1429,
-        "name": "Gaźnik",
+        "name": "Карбюратор",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1430,
-        "name": "Linki",
+        "name": "Посилання",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1431,
-        "name": "Nadwozie, Zawieszenie, Rama",
+        "name": "Кузов, Підвіска, Рама",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1432,
-        "name": "Naklejki",
+        "name": "Наліпки",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1433,
-        "name": "Silnik",
+        "name": "Двигун",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1434,
-        "name": "Układ napędowy",
+        "name": "Силова передача",
         "parent_id": 1436,
         "children": []
       },
       {
         "id": 1435,
-        "name": "Układ wydechowy",
+        "name": "Система випуску",
         "parent_id": 1436,
         "children": []
       }
@@ -606,42 +606,42 @@
   },
   {
     "id": 1443,
-    "name": "Uszczelki",
+    "name": "Ущільнювачі",
     "parent_id": 1443,
     "children": [
       {
         "id": 1437,
-        "name": "Elektryka | Oświetlenie",
+        "name": "Електрика | Освітлення",
         "parent_id": 1443,
         "children": []
       },
       {
         "id": 1438,
-        "name": "Gaźnik",
+        "name": "Карбюратор",
         "parent_id": 1443,
         "children": []
       },
       {
         "id": 1439,
-        "name": "Linki",
+        "name": "Посилання",
         "parent_id": 1443,
         "children": []
       },
       {
         "id": 1440,
-        "name": "Nadwozie | Zawieszenie | Rama",
+        "name": "Надбудова | Підвіска | Рама",
         "parent_id": 1443,
         "children": []
       },
       {
         "id": 1441,
-        "name": "Naklejki",
+        "name": "Наклейки",
         "parent_id": 1443,
         "children": []
       },
       {
         "id": 1442,
-        "name": "Silnik",
+        "name": "Двигун",
         "parent_id": 1443,
         "children": []
       }
@@ -649,42 +649,42 @@
   },
   {
     "id": 1450,
-    "name": "Uszczelki",
+    "name": "Ущільнювачі",
     "parent_id": 1450,
     "children": [
       {
         "id": 1444,
-        "name": "Elektryka | Oświetlenie",
+        "name": "Електрика | Освітлення",
         "parent_id": 1450,
         "children": []
       },
       {
         "id": 1445,
-        "name": "Gaźnik",
+        "name": "Карбюратор",
         "parent_id": 1450,
         "children": []
       },
       {
         "id": 1446,
-        "name": "Linki",
+        "name": "Посилання",
         "parent_id": 1450,
         "children": []
       },
       {
         "id": 1447,
-        "name": "Nadwozie | Zawieszenie | Rama",
+        "name": "Надбудова | Підвіска | Рама",
         "parent_id": 1450,
         "children": []
       },
       {
         "id": 1448,
-        "name": "Naklejki",
+        "name": "Наклейки",
         "parent_id": 1450,
         "children": []
       },
       {
         "id": 1449,
-        "name": "Silnik",
+        "name": "Двигун",
         "parent_id": 1450,
         "children": []
       }
@@ -692,42 +692,42 @@
   },
   {
     "id": 1457,
-    "name": "Uszczelki",
+    "name": "Ущільнювачі",
     "parent_id": 1457,
     "children": [
       {
         "id": 1451,
-        "name": "Elektryka | Oświetlenie",
+        "name": "Електрика | Освітлення",
         "parent_id": 1457,
         "children": []
       },
       {
         "id": 1452,
-        "name": "Gaźnik",
+        "name": "Карбюратор",
         "parent_id": 1457,
         "children": []
       },
       {
         "id": 1453,
-        "name": "Linki",
+        "name": "Посилання",
         "parent_id": 1457,
         "children": []
       },
       {
         "id": 1454,
-        "name": "Nadwozie | Zawieszenie | Rama",
+        "name": "Кузов | Підвіска | Рама",
         "parent_id": 1457,
         "children": []
       },
       {
         "id": 1455,
-        "name": "Naklejki",
+        "name": "Наліпки",
         "parent_id": 1457,
         "children": []
       },
       {
         "id": 1456,
-        "name": "Silnik",
+        "name": "Двигун",
         "parent_id": 1457,
         "children": []
       }
@@ -735,174 +735,174 @@
   },
   {
     "id": 1486,
-    "name": "Zębatki, Łańcuchy",
+    "name": "Зубчасті колеса, Ланцюги",
     "parent_id": 1486,
     "children": [
       {
         "id": 1458,
-        "name": "Amortyzatory",
+        "name": "Амортизатори",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1459,
-        "name": "Cylindry, Głowice, Tłoki, Pierścienie",
+        "name": "Циліндри, Головки, Поршні, Кільця",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1460,
-        "name": "Czujniki",
+        "name": "Датчики",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1461,
-        "name": "Elementy nadwozia",
+        "name": "Елементи кузова",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1462,
-        "name": "Filtry powietrza",
+        "name": "Повітряні фільтри",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1463,
-        "name": "Gaźniki, Kraniki",
+        "name": "карбюратори, крани",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1464,
-        "name": "Hamulce",
+        "name": "Гальма",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1465,
-        "name": "Kierownice",
+        "name": "Кермо",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1466,
-        "name": "Klamki",
+        "name": "Дверні ручки",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1467,
-        "name": "Koła",
+        "name": "кола",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1468,
-        "name": "Linki",
+        "name": "Посилання",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1469,
-        "name": "Moduły, Cewki. Regulatory",
+        "name": "Модулі, Котушки. Регулятори",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1470,
-        "name": "Naklejki",
+        "name": "Наклейки",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1471,
-        "name": "Napędy licznika",
+        "name": "Привід лічильника",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1472,
-        "name": "Oświetlenie",
+        "name": "Освітлення",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1473,
-        "name": "Paski napędowe",
+        "name": "Приводні ремені",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1474,
-        "name": "Pompy oleju",
+        "name": "Оливні насоси",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1475,
-        "name": "Pompy wody",
+        "name": "Водяні насоси",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1476,
-        "name": "Przełączniki",
+        "name": "Перемикачі",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1477,
-        "name": "Rozruszniki",
+        "name": "Стартери",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1478,
-        "name": "Silniki",
+        "name": "Двигуни",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1479,
-        "name": "Sprzęgła",
+        "name": "Зчеплення",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1480,
-        "name": "Stacyjki",
+        "name": "Станції",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1481,
-        "name": "Statory",
+        "name": "Статори",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1482,
-        "name": "Tłumiki",
+        "name": "Глушники",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1483,
-        "name": "Uszczelki",
+        "name": "Ущільнювачі",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1484,
-        "name": "Wały",
+        "name": "Вали",
         "parent_id": 1486,
         "children": []
       },
       {
         "id": 1485,
-        "name": "Wariatory, Rolki",
+        "name": "Wariatory - варіатори\nRolki - ролики",
         "parent_id": 1486,
         "children": []
       }

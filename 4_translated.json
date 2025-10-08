@@ -1,12 +1,12 @@
 [
   {
     "id": 1714,
-    "name": "Akumulatory - Przetwornice - ładowarki - Boost",
+    "name": "акумулятори - перетворювачі - зарядні пристрої - підсилення",
     "parent_id": null,
     "children": [
       {
         "id": 1803,
-        "name": "Akumulatory",
+        "name": "Акумулятори",
         "parent_id": 1714,
         "children": []
       }
@@ -14,156 +14,156 @@
   },
   {
     "id": 1724,
-    "name": "Baxter Performance",
+    "name": "Продуктивність Baxter",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1723,
-    "name": "Części MOPAR",
+    "name": "Частини MOPAR",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1679,
-    "name": "Elementy Nadwozia i podwozia | Bagażniki, zderzaki, osłony",
+    "name": "Елементи кузова і шасі | Багажники, бампери, захисти",
     "parent_id": null,
     "children": [
       {
         "id": 1680,
-        "name": "Akcesoria nadwozia",
+        "name": "Аксесуари кузова",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1697,
-        "name": "Akcesoria paki",
+        "name": "Аксесуари для пакування",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1683,
-        "name": "Bagażniki dachowe i wyposażenie",
+        "name": "Дахові багажники та обладнання",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1699,
-        "name": "Bagażniki na pakę",
+        "name": "Кріплення на вантажний відсік",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1694,
-        "name": "Bull bary",
+        "name": "Бичачі дуги",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1689,
-        "name": "Dachy",
+        "name": "Дахи",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1685,
-        "name": "Drzwi i lusterka",
+        "name": "Двері і дзеркала",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1702,
-        "name": "Emblematy - znaczki samochodowe",
+        "name": "Емблеми - автомобільні значки",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1701,
-        "name": "Klapki wlewu paliwa",
+        "name": "Кришка заливної горловини",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1690,
-        "name": "Maski i grile",
+        "name": "Маски і решітки",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1684,
-        "name": "Mocowania do Samochodów - uchwyty do szekli do szarpania, haki do holowania",
+        "name": "Кріплення для автомобілів - кріплення до строп для буксирування, гаки для буксирування",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1688,
-        "name": "Mocowania koła zapasowego",
+        "name": "Кріплення запасного колеса",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1691,
-        "name": "Osłony 4x4",
+        "name": "Захисні екрани повнопривідні",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1700,
-        "name": "Osłony dyferencjału - mostów",
+        "name": "Захисні кожухи диференціала - мостів",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1682,
-        "name": "Płyty montażowe wyciągarki",
+        "name": "Монтажні пластини лебідки",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1695,
-        "name": "Pokrowce na samochód",
+        "name": "Чохли на автомобіль",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1698,
-        "name": "Pokrywy paki | Rolety",
+        "name": "Кришки багажника | Ролети",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1687,
-        "name": "Poszerzenia i nadkola",
+        "name": "Розширення і надколеса",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1681,
-        "name": "Progi i stopnie",
+        "name": "Пороги і ступені",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1693,
-        "name": "Relokacje tablic",
+        "name": "Переміщення таблиць",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1692,
-        "name": "Spinki, Śrubki",
+        "name": "Шпильки, Гвинтики",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1696,
-        "name": "Zabudowy paki | Hardtopy",
+        "name": "Кузовні елементи | Жорсткі накриття",
         "parent_id": 1679,
         "children": []
       },
       {
         "id": 1686,
-        "name": "Zderzaki i orurowania",
+        "name": "Бампери та труби",
         "parent_id": 1679,
         "children": []
       }
@@ -171,72 +171,72 @@
   },
   {
     "id": 1711,
-    "name": "Felgi, Dystanse, Opony",
+    "name": "Диски, Проставки, Шини",
     "parent_id": null,
     "children": [
       {
         "id": 1770,
-        "name": "Akcesoria do opon",
+        "name": "Аксесуари для шин",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1766,
-        "name": "Dystanse",
+        "name": "Дистанції",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1774,
-        "name": "Felgi aluminiowe",
+        "name": "Алюмінієві диски",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1773,
-        "name": "Felgi stalowe",
+        "name": "Сталеві диски",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1768,
-        "name": "Kołpaki Dekielki",
+        "name": "Ковпаки Кришки",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1769,
-        "name": "Łańcuchy na koła",
+        "name": "Ланцюги на колеса",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1767,
-        "name": "Opony",
+        "name": "Шини",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1775,
-        "name": "Pierścienie centrujące",
+        "name": "Центрувальні кільця",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1772,
-        "name": "Pokrowce na koła",
+        "name": "Чохли на колеса",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1765,
-        "name": "Śruby i nakrętki",
+        "name": "Болти і гайки",
         "parent_id": 1711,
         "children": []
       },
       {
         "id": 1771,
-        "name": "Zestawy naprawcze",
+        "name": "Ремонтні набори",
         "parent_id": 1711,
         "children": []
       }
@@ -244,30 +244,30 @@
   },
   {
     "id": 1713,
-    "name": "INTERKOMY - krótkofalówki - CB Radia",
+    "name": "радіостанції короткохвильові - CB радіостанції",
     "parent_id": null,
     "children": [
       {
         "id": 1799,
-        "name": "Cardo interkomy",
+        "name": "Внутрішні системи зв'язку Cardo",
         "parent_id": 1713,
         "children": []
       },
       {
         "id": 1802,
-        "name": "CB RADIA",
+        "name": "Радіостанції CB",
         "parent_id": 1713,
         "children": []
       },
       {
         "id": 1801,
-        "name": "FreedConn",
+        "name": "Вільне Підключення",
         "parent_id": 1713,
         "children": []
       },
       {
         "id": 1800,
-        "name": "Midland",
+        "name": "Центральний регіон",
         "parent_id": 1713,
         "children": []
       }
@@ -275,120 +275,120 @@
   },
   {
     "id": 1709,
-    "name": "Kanistry zbiorniki mocowania",
+    "name": "Каністри резервуари кріплення",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1706,
-    "name": "Kompresory i osprzęt",
+    "name": "Компресори та приладдя",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1612,
-    "name": "LINY - ZAWIESIA - PASY KINETYCZNE SYNTETYCZNE - SZEKLE - ZBLOCZA",
+    "name": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки",
     "parent_id": null,
     "children": [
       {
         "id": 1582,
-        "name": "Ekspandory",
+        "name": "Розширювачі",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1576,
-        "name": "Haki",
+        "name": "Гаки",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1571,
-        "name": "LINY i TAŚMY KINETYCZNE",
+        "name": "Канати і кінетичні стрічки",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1578,
-        "name": "Liny stalowe",
+        "name": "Сталеві троси",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1572,
-        "name": "Liny syntetyczne",
+        "name": "Синтетичні мотузки",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1584,
-        "name": "Narzędzia i akcesoria do lin",
+        "name": "Інструменти та аксесуари для мотузок",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1570,
-        "name": "Pasy do drzew - Zawiesia",
+        "name": "Пояси для дерев - підвіски",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1580,
-        "name": "Pasy Transportowe lawetowe",
+        "name": "Транспортні ремені для евакуатора",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1585,
-        "name": "Podnośniki",
+        "name": "Підіймачі",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1583,
-        "name": "Prowadnice do wyciągarek",
+        "name": "Напрямні для витягувачів",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1581,
-        "name": "Quick Fist Uchwyty",
+        "name": "Швидкий Міцний Тримачі",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1574,
-        "name": "Szekle",
+        "name": "лещата",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1573,
-        "name": "Szekle miękkie - z liny syntetycznej",
+        "name": "Гаки м'які - з синтетичного троса",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1579,
-        "name": "Trytytki, Wrapy, taśmy naprawcze",
+        "name": "Стрічки, Обгортки, стрічки для ремонту",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1575,
-        "name": "Uchwyty do szekli i haka",
+        "name": "Кріплення для гаків і скоб",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1577,
-        "name": "Zblocza do wyciągarki",
+        "name": "Блоки для підйомника",
         "parent_id": 1612,
         "children": []
       },
       {
         "id": 1586,
-        "name": "Zestawy do wyciągania",
+        "name": "Набори для витягування",
         "parent_id": 1612,
         "children": []
       }
@@ -396,144 +396,144 @@
   },
   {
     "id": 1719,
-    "name": "Modele RC",
+    "name": "Радіокеровані моделі",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1549,
-    "name": "MUDKILLER",
+    "name": "Брудовбивця",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1613,
-    "name": "Namioty Dachowe, Rolety i Akcesoria",
+    "name": "Наметі Дахові, Ролети та Аксесуари",
     "parent_id": null,
     "children": [
       {
         "id": 1623,
-        "name": "Akcesoria do namiotów",
+        "name": "Аксесуари до наметів",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1627,
-        "name": "Aneksy - Przedsionki do namiotów",
+        "name": "Додатки - Тамбури до наметів",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1631,
-        "name": "Kabiny Prysznicowe",
+        "name": "Душові кабіни",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1625,
-        "name": "Markizy HEX | Batwing | Foxwing",
+        "name": "Маркізи HEX | Кажанове крило | Лисяче крило",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1624,
-        "name": "Markizy Standardowe | Zadaszenia wyprawowe",
+        "name": "Стандартні маркізи | Експедиційні навіси",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1628,
-        "name": "Moskitiera",
+        "name": "Москітна сітка",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1619,
-        "name": "Namiot dachowy 2 osobowy",
+        "name": "Намет дахівка 2 особи",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1620,
-        "name": "Namiot dachowy 3 osobowy",
+        "name": "Намет даховий 3-місний",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1621,
-        "name": "Namiot dachowy 4 osobowy",
+        "name": "Намет дахівка 4-місний",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1622,
-        "name": "Namiot dachowy 6 osobowy",
+        "name": "Намет дахівка 6 місць",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1614,
-        "name": "Namioty Dachowe",
+        "name": "Дахові намети",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1617,
-        "name": "Namioty dachowe dla Rodzin",
+        "name": "Наметові дахові для Сімей",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1618,
-        "name": "Namioty dachowe PREMIUM | VIP",
+        "name": "Намети дахові Преміум | ВІП",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1616,
-        "name": "Namioty W Miękkiej Obudowie",
+        "name": "Намети у м'якому корпусі",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1615,
-        "name": "Namioty w Twardej Obudowie",
+        "name": "Намети в твердому корпусі",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1630,
-        "name": "Ogrzewanie postojowe",
+        "name": "Стоянкове опалення",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1634,
-        "name": "Prysznice",
+        "name": "Душі",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1626,
-        "name": "Ściany boczne do markiz",
+        "name": "Бокові стінки до маркіз",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1633,
-        "name": "Składane krzesła i stoły na wyprawy",
+        "name": "Розкладні стільці і столи для подорожей",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1629,
-        "name": "Śpiwory, materace, poduszki, karimaty",
+        "name": "Спальні мішки, матраси, подушки, карімати",
         "parent_id": 1613,
         "children": []
       },
       {
         "id": 1632,
-        "name": "Toalety przenośne",
+        "name": "Туалети пересувні",
         "parent_id": 1613,
         "children": []
       }
@@ -541,114 +541,114 @@
   },
   {
     "id": 1721,
-    "name": "ODZIEŻ - Kaski, wodery...",
+    "name": "Одяг",
     "parent_id": null,
     "children": [
       {
         "id": 1818,
-        "name": "Bluzy",
+        "name": "Світшоти",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1816,
-        "name": "BLUZY I KOSZULKI",
+        "name": "Толстовки і футболки",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1805,
-        "name": "Buty OFF-ROAD",
+        "name": "Взуття позашляхове",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1815,
-        "name": "CKX Titan",
+        "name": "Titan",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1817,
-        "name": "Czapki",
+        "name": "Шапки",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1813,
-        "name": "Finntrail - wodery i odzież wododporna",
+        "name": "Finntrail - вейдерси та водостійкий одяг",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1820,
-        "name": "FORMA",
+        "name": "Форма",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1807,
-        "name": "Gadżety Szekla4x4",
+        "name": "Гаджети Шекла4x4",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1808,
-        "name": "Gogle",
+        "name": "Окуляри",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1806,
-        "name": "Impregnaty Nikwax do Obuwia i Odzieży",
+        "name": "Імпрегнати Nikwax для взуття та одягу",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1809,
-        "name": "Kaski Rescue sporty ekstremalne",
+        "name": "Захисні шоломи рятувальні екстремальні спорти",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1810,
-        "name": "KASKI SAMOCHODOWE",
+        "name": "Автомобільні шоломи",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1811,
-        "name": "Kominiarki",
+        "name": "Балаклави",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1821,
-        "name": "LS2",
+        "name": "захисний шолом для мотоциклістів",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1812,
-        "name": "Nakolanniki Ochraniacze Kolan",
+        "name": "Наколінники Захисники Колін",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1804,
-        "name": "Odzież robocza - rękawice, spodnie, bluzy BLAKLADER",
+        "name": "Робочий одяг - рукавиці, штани, світшоти BLAKLADER",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1814,
-        "name": "Rękawice",
+        "name": "Рукавиці",
         "parent_id": 1721,
         "children": []
       },
       {
         "id": 1819,
-        "name": "Spodnie",
+        "name": "Штани",
         "parent_id": 1721,
         "children": []
       }
@@ -656,114 +656,114 @@
   },
   {
     "id": 1710,
-    "name": "Oleje - Impregnaty - Smary - lakiery - Chemia",
+    "name": "Олії - Просочення - Мастила - Лаки - Хімія",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1528,
-    "name": "Oświetlenie | Lampy LED",
+    "name": "Освітлення | LED лампи",
     "parent_id": null,
     "children": [
       {
         "id": 1541,
-        "name": "ARB LINX",
+        "name": "лінійка деревина",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1537,
-        "name": "Belki ostrzegawcze do pojazdów specjalnych",
+        "name": "Попереджувальні балки для спеціальних транспортних засобів",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1536,
-        "name": "Kierunkowskazy i podświetlenia tablicy",
+        "name": "Покажчики повороту і підсвітка панелі приладів",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1532,
-        "name": "Lampy LED - małe i do zabudowy",
+        "name": "Світлодіодні лампи - малі і вбудовані",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1530,
-        "name": "Lampy LED - Okrągłe",
+        "name": "Світлодіодні лампи - Круглі",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1540,
-        "name": "Lampy warsztatowe",
+        "name": "Лампи для майстерень",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1542,
-        "name": "Latarki Czołówki",
+        "name": "Налобні ліхтарі",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1538,
-        "name": "Ośweitlenie wnętrza",
+        "name": "Освітлення інтер'єру",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1547,
-        "name": "Oświetlenie biwakowe / camperowe",
+        "name": "Освітлення для кемпінгу / табору",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1529,
-        "name": "Panele LED Light Bar",
+        "name": "Світлодіодні панелі світильник-лінійка",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1531,
-        "name": "Reflektory LED i lampy podstawowe",
+        "name": "Світлодіодні фари та основні лампи",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1539,
-        "name": "Sygnały dzwiękowe",
+        "name": "Звукові сигнали",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1548,
-        "name": "Tylne lampy",
+        "name": "Задні ліхтарі",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1534,
-        "name": "Uchwyty mocowania oświetlenia",
+        "name": "Кріплення для освітлення",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1533,
-        "name": "Włączniki kable przekaźniki akcesoria",
+        "name": "Вмикачі кабелі реле аксесуари",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1535,
-        "name": "Żarówki Samochodowe",
+        "name": "Автомобільні лампочки",
         "parent_id": 1528,
         "children": []
       },
       {
         "id": 1728,
-        "name": "Zestawy Lamp LED dedykowanych do samochodów",
+        "name": "Набори світлодіодних ламп для автомобілів",
         "parent_id": 1528,
         "children": []
       }
@@ -771,77 +771,77 @@
   },
   {
     "id": 1712,
-    "name": "Outdoor - Akcesoria turystyczne i biwakowe",
+    "name": "Туристичні та кемпінгові аксесуари",
     "parent_id": null,
     "children": [
       {
         "id": 1793,
-        "name": "APTECZKI",
+        "name": "Аптечки",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1791,
-        "name": "Hamaki - Tickettothemoon",
+        "name": "Гамаки - Квиток до місяця",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1786,
-        "name": "Impregnaty",
+        "name": "Просочення",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1785,
-        "name": "Krzesiwa i Zapalniczki",
+        "name": "Кремені та Запальнички",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1781,
-        "name": "Krzesła i Stoły",
+        "name": "Стільці та Столи",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1787,
-        "name": "Kubki termiczne i termosy",
+        "name": "Термокружки і термоси",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1788,
-        "name": "Kuchenki, grille i ekspresy",
+        "name": "Кухонні плити, гриль та кавоварки",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1778,
-        "name": "Latarki,czołówki i lampy campingowe",
+        "name": "Ліхтарі, налобні ліхтарі та кемпінгові лампи",
         "parent_id": 1712,
         "children": [
           {
             "id": 1546,
-            "name": "Baterie Akumulatory do latarek",
+            "name": "Батареї акумулятори для ліхтарів",
             "parent_id": 1778,
             "children": []
           },
           {
             "id": 1544,
-            "name": "Czołówki",
+            "name": "Передні панелі",
             "parent_id": 1778,
             "children": []
           },
           {
             "id": 1545,
-            "name": "Lampy Campingowe i Warsztatowe",
+            "name": "Ліхтарі кемпінгові та warsztatowe",
             "parent_id": 1778,
             "children": []
           },
           {
             "id": 1543,
-            "name": "Latarki",
+            "name": "Ліхтарі",
             "parent_id": 1778,
             "children": []
           }
@@ -849,91 +849,91 @@
       },
       {
         "id": 1792,
-        "name": "Lodówki samochodowe",
+        "name": "Автомобільні холодильники",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1795,
-        "name": "Ładowarki do sprzętu przenośnego",
+        "name": "Зарядні пристрої для портативного обладнання",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1779,
-        "name": "Maczety Toporki Siekiery",
+        "name": "Мачете Топірці Сокири",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1782,
-        "name": "Multitoole",
+        "name": "Багатофункціональні інструменти",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1790,
-        "name": "Naczynia i niezbędniki",
+        "name": "Посуд і кухонне начиння",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1776,
-        "name": "Narzędzia",
+        "name": "Інструменти",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1780,
-        "name": "Noże",
+        "name": "Ножі",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1783,
-        "name": "Ostrzałki",
+        "name": "Точилки",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1789,
-        "name": "Piły",
+        "name": "Пилки",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1796,
-        "name": "Prysznic turystyczne",
+        "name": "Душ туристичний",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1784,
-        "name": "Saperki łopaty",
+        "name": "Саперні лопати",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1777,
-        "name": "Silver Tape - taśmy mccgyver",
+        "name": "Срібна Стрічка - стрічки McGyver",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1797,
-        "name": "Śpiwory i karimaty",
+        "name": "Спальні мішки і килимки",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1794,
-        "name": "Środki na owady",
+        "name": "Засоби від комах",
         "parent_id": 1712,
         "children": []
       },
       {
         "id": 1798,
-        "name": "Toalety Kampingowe",
+        "name": "Туалети для кемпінгу",
         "parent_id": 1712,
         "children": []
       }
@@ -941,71 +941,71 @@
   },
   {
     "id": 1718,
-    "name": "Panele instalacje fotowoltaiczne",
+    "name": "Панелі фотовольтаїчні установки",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1716,
-    "name": "PŁUGI",
+    "name": "Плуги",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1726,
-    "name": "Polecane",
+    "name": "Рекомендовані",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1722,
-    "name": "QUADY - części i akcesoria",
+    "name": "Квадроцикли - частини і аксесуари",
     "parent_id": null,
     "children": [
       {
         "id": 1934,
-        "name": "Access części",
+        "name": "Деталі доступу",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1946,
-        "name": "ACERBIS",
+        "name": "аксесуари",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1979,
-        "name": "Adaptery do zamiatarki",
+        "name": "Адаптери до підмітальної машини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1980,
-        "name": "Adaptery montażowe",
+        "name": "Монтажні адаптери",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1941,
-        "name": "Akcesoria do felg",
+        "name": "Аксесуари для дисків",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1922,
-        "name": "Akcesoria pasujące tylko do UTV",
+        "name": "Аксесуари підходящі тільки до UTV",
         "parent_id": 1722,
         "children": [
           {
             "id": 1923,
-            "name": "Głośniki do Quadów i UTV",
+            "name": "Гучномовці до Quadів і UTV",
             "parent_id": 1922,
             "children": []
           },
           {
             "id": 1924,
-            "name": "Nagrzewnice do UTV",
+            "name": "Нагрівачі для UTV",
             "parent_id": 1922,
             "children": []
           }
@@ -1013,216 +1013,216 @@
       },
       {
         "id": 1823,
-        "name": "Akcesoria zimowe grzane",
+        "name": "Зимові аксесуари з підігрівом",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1943,
-        "name": "Arctic Cat części",
+        "name": "Arctic Cat частини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1952,
-        "name": "BERCOMAC",
+        "name": "Обладнання комунальне",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1957,
-        "name": "BULLDOG",
+        "name": "Бульдог",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1970,
-        "name": "Części",
+        "name": "Частини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1956,
-        "name": "Części do pługów",
+        "name": "Деталі до плугів",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1975,
-        "name": "Części zamienne",
+        "name": "Запасні частини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1962,
-        "name": "DAX",
+        "name": "Індекс акцій",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1871,
-        "name": "Dyferencjał Quada",
+        "name": "Диференціал Quad",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1986,
-        "name": "Dystanse XRW",
+        "name": "Дистанції XRW",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1920,
-        "name": "Elektryka",
+        "name": "Електроніка",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1964,
-        "name": "FASST Flex",
+        "name": "Гнучкий Fasst",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1944,
-        "name": "Felgi Access",
+        "name": "Диски Access",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1978,
-        "name": "Felgi Linhai",
+        "name": "Диски Linhai",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1942,
-        "name": "Felgi Segway",
+        "name": "Диски Segway",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1965,
-        "name": "Felgi TGB",
+        "name": "Диски TGB",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1947,
-        "name": "Filtry",
+        "name": "Фільтри",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1827,
-        "name": "Filtry powietrza ATV",
+        "name": "Повітряні фільтри ATV",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1966,
-        "name": "FIMCO Rozsiewacz",
+        "name": "Розкидач FIMCO",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1950,
-        "name": "FOX",
+        "name": "Лисиця",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1939,
-        "name": "FREED CONN",
+        "name": "Звільнене Підключення",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1854,
-        "name": "Gąsienice do Quadów",
+        "name": "Гусениці для Quadów",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1968,
-        "name": "Gaśnica",
+        "name": "Вогнегасник",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1963,
-        "name": "Grafika Segway",
+        "name": "Графіка Segway",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1988,
-        "name": "Gumowce",
+        "name": "Гумові вироби",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1969,
-        "name": "ITP",
+        "name": "Інформаційно-технічне планування",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1960,
-        "name": "Kabiny UTV",
+        "name": "Кабіни UTV",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1855,
-        "name": "Klocki Tarcze hamulcowe do Quada",
+        "name": "Блоки Гальмівні диски для Quad",
         "parent_id": 1722,
         "children": [
           {
             "id": 1856,
-            "name": "Klocki hamulcowe Delta do quada",
+            "name": "Колодки гальмівні Delta для квада",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1857,
-            "name": "Klocki hamulcowe EBC do quada",
+            "name": "Гальмівні колодки EBC для квадроцикла",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1860,
-            "name": "Klocki hamulcowe EPI",
+            "name": "Гальмівні колодки EPI",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1858,
-            "name": "Tarcze hamulcowe EBC do quada",
+            "name": "Гальмівні диски EBC для квадроцикла",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1859,
-            "name": "Tarcze hamulcowe FRIXION",
+            "name": "Гальмівні диски FRIXION",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1863,
-            "name": "Zaciski hamulcowe do Quadów",
+            "name": "Гальмівні затискачі для квадроциклів",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1861,
-            "name": "ZESTAWY NAPRAWCZE POMPY HAMULCOWEJ ATV",
+            "name": "Ремонтні комплекти гальмівного насоса ATV",
             "parent_id": 1855,
             "children": []
           },
           {
             "id": 1862,
-            "name": "Zestawy naprawcze zacisku",
+            "name": "Ремонтні комплекти супорта",
             "parent_id": 1855,
             "children": []
           }
@@ -1230,132 +1230,132 @@
       },
       {
         "id": 1990,
-        "name": "Kombinezony skuter śnieżny",
+        "name": "Комбінезони для снігохода",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1949,
-        "name": "Końcówki drążków do quada",
+        "name": "Кінцівки тяг для квада",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1972,
-        "name": "Kore wlewu",
+        "name": "Котел зливу",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1921,
-        "name": "Kosiarki do Quadów ATV",
+        "name": "Газонокосарки для Quadів ATV",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1826,
-        "name": "Kufry Skrzynie TORBY",
+        "name": "Валізи Скрині Сумки",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1936,
-        "name": "Linhai części",
+        "name": "Лінійні частини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1937,
-        "name": "Łożyska",
+        "name": "Підшипники",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1974,
-        "name": "MAXIMA Racing Oil",
+        "name": "Гоночна олива",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1853,
-        "name": "Mocowania bagażu wyposażenia",
+        "name": "Кріплення багажу обладнання",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1984,
-        "name": "Motocyklowe",
+        "name": "Мотоциклетні",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1959,
-        "name": "Narzędzia ACCESS",
+        "name": "Інструменти ACCESS",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1958,
-        "name": "Narzędzia ARCTIC CAT",
+        "name": "Інструменти ARCTIC CAT",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1951,
-        "name": "Narzędzia LINHAI",
+        "name": "Інструменти LINHAI",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1961,
-        "name": "Narzędzia SEGWAY",
+        "name": "Знаряддя SEGWAY",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1940,
-        "name": "Narzędzia TGB",
+        "name": "Інструменти TGB",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1989,
-        "name": "Odzież polarowa",
+        "name": "Одяг флісовий",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1865,
-        "name": "OEM Suzuki Yamaha Kawasaki Honda Can-am Polaris",
+        "name": "Оригінальне обладнання виробника",
         "parent_id": 1722,
         "children": [
           {
             "id": 1870,
-            "name": "BRP Can-am",
+            "name": "Привід бокового транспортного засобу",
             "parent_id": 1865,
             "children": []
           },
           {
             "id": 1869,
-            "name": "KAWASAKI QUADY",
+            "name": "Квадроцикли Kawasaki",
             "parent_id": 1865,
             "children": []
           },
           {
             "id": 1868,
-            "name": "OEM HONDA",
+            "name": "Оригінальне обладнання виробника Honda",
             "parent_id": 1865,
             "children": []
           },
           {
             "id": 1867,
-            "name": "SUZUKI QUADY",
+            "name": "Квадроцикли",
             "parent_id": 1865,
             "children": []
           },
           {
             "id": 1866,
-            "name": "Yamaha",
+            "name": "Музичні інструменти",
             "parent_id": 1865,
             "children": []
           }
@@ -1363,107 +1363,107 @@
       },
       {
         "id": 1864,
-        "name": "Oleje smary FILTRY do ATV",
+        "name": "Оливи мастила ФІЛЬТРИ до ATV",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1828,
-        "name": "Osłony, podłogi, zderzaki, płyty montażowe wyciągarki",
+        "name": "Захисні щитки, підлоги, бампери, монтажні пластини лебідки",
         "parent_id": 1722,
         "children": [
           {
             "id": 1845,
-            "name": "Bumpery Zderzaki",
+            "name": "Бампери Бамперні",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1847,
-            "name": "Dodatkowy Bak Paliw ATV",
+            "name": "Додатковий Бак Пального ATV",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1849,
-            "name": "Kule haka i mocowania",
+            "name": "Кулі гака та кріплення",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1842,
-            "name": "Nerf bary do quadów",
+            "name": "Гумові бруси для квадроциклів",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1851,
-            "name": "Osłony aluminiowe Moose",
+            "name": "Алюмінієві захисти Moose",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1829,
-            "name": "Osłony aluminiowe ZYGO",
+            "name": "Алюмінієві кожухи ZYGO",
             "parent_id": 1828,
             "children": [
               {
                 "id": 1837,
-                "name": "Osłony Aluminiowe ACCESS",
+                "name": "Алюмінієві захисти ACCESS",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1832,
-                "name": "Osłony Aluminiowe Arctic Cat",
+                "name": "Алюмінієві захисти Arctic Cat",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1833,
-                "name": "Osłony Aluminiowe Can Am",
+                "name": "Алюмінієві захисти Can Am",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1839,
-                "name": "OSŁONY ALUMINIOWE DO CFMOTO",
+                "name": "Алюмінієві захисні елементи для CFMOTO",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1831,
-                "name": "Osłony Aluminiowe Honda",
+                "name": "Алюмінієві захисти Honda",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1834,
-                "name": "Osłony Aluminiowe Kawasaki",
+                "name": "Алюмінієві захисти Kawasaki",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1838,
-                "name": "Osłony Aluminiowe KYMCO",
+                "name": "Алюмінієві захисти KYMCO",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1835,
-                "name": "Osłony Aluminiowe Polaris",
+                "name": "Алюмінієві Захисти Polaris",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1836,
-                "name": "Osłony Aluminiowe Suzuki",
+                "name": "Алюмінієві щитки Suzuki",
                 "parent_id": 1829,
                 "children": []
               },
               {
                 "id": 1830,
-                "name": "Osłony Aluminiowe Yamaha",
+                "name": "Алюмінієві захисти Yamaha",
                 "parent_id": 1829,
                 "children": []
               }
@@ -1471,49 +1471,49 @@
           },
           {
             "id": 1840,
-            "name": "Osłony Iron Baltic",
+            "name": "Захисти Iron Baltic",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1848,
-            "name": "Osłony Lamp",
+            "name": "Захисні кожухи ламп",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1843,
-            "name": "Osłony na ręce",
+            "name": "Захисні рукавиці",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1852,
-            "name": "Osłony podwozia Shark",
+            "name": "Захисні щитки підвіски Shark",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1846,
-            "name": "Osłony spodu do osiek",
+            "name": "Захисні щитки днища для осей",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1844,
-            "name": "Owiewki do quadów",
+            "name": "Обтічники для квадроциклів",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1841,
-            "name": "Płyty montażowe do wyciągarek ATV",
+            "name": "Монтажні пластини для лебідок ATV",
             "parent_id": 1828,
             "children": []
           },
           {
             "id": 1850,
-            "name": "Poszerzenia Błotników / Overfenders",
+            "name": "Розширювачі крил",
             "parent_id": 1828,
             "children": []
           }
@@ -1521,108 +1521,108 @@
       },
       {
         "id": 1985,
-        "name": "Owiewki",
+        "name": "Повітровідбійники",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1825,
-        "name": "Pługi do Quadów",
+        "name": "Плуги для Quadów",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1976,
-        "name": "Pokrowiec ATV",
+        "name": "Чохол для квадроцикла",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1971,
-        "name": "Poszerzenia błotników do quadów",
+        "name": "Розширення крил для квадроциклів",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1954,
-        "name": "Power box BIG GUN",
+        "name": "Потужний короб Біг Ган",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1872,
-        "name": "Powłoki Ochronne do Quadów",
+        "name": "Захисні накладки для Quadów",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1955,
-        "name": "Przegub do quadów",
+        "name": "Шарнір для квадроциклів",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1822,
-        "name": "Przyczepy do Quadów",
+        "name": "Причепи до квадроциклів",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1967,
-        "name": "Rama quada",
+        "name": "Квадратна рама",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1992,
-        "name": "Relokator chłodnicy",
+        "name": "Переміщувач радіатора",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1973,
-        "name": "RPM Dominator",
+        "name": "Оберти Домінатор",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1938,
-        "name": "Segway części",
+        "name": "Segway частини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1914,
-        "name": "Silnik i osprzęt",
+        "name": "Двигун і обладнання",
         "parent_id": 1722,
         "children": [
           {
             "id": 1919,
-            "name": "Bendix",
+            "name": "Деталі системи",
             "parent_id": 1914,
             "children": []
           },
           {
             "id": 1918,
-            "name": "Cylindry i Zestawy Cylindrowe",
+            "name": "Циліндри та Циліндрові Комплекти",
             "parent_id": 1914,
             "children": []
           },
           {
             "id": 1916,
-            "name": "Korbowody",
+            "name": "Колінвали",
             "parent_id": 1914,
             "children": []
           },
           {
             "id": 1917,
-            "name": "Tłoki i sworznie",
+            "name": "Поршні і штанги",
             "parent_id": 1914,
             "children": []
           },
           {
             "id": 1915,
-            "name": "Uszczelki do quadów",
+            "name": "Ущільнювачі до квадроциклів",
             "parent_id": 1914,
             "children": []
           }
@@ -1630,77 +1630,77 @@
       },
       {
         "id": 1824,
-        "name": "Solarki Snowblowery itp.",
+        "name": "Снігоочисники та інші",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1987,
-        "name": "SP Connect",
+        "name": "Підключення",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1977,
-        "name": "Stabilizatory skrętu PRECISION",
+        "name": "Стабілізатори повороту PRECISION",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1983,
-        "name": "Szyby LS2",
+        "name": "Шибки LS2",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1935,
-        "name": "TGB części",
+        "name": "TGB частини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1925,
-        "name": "Tuning i modyfikacje",
+        "name": "Тюнінг і модифікації",
         "parent_id": 1722,
         "children": [
           {
             "id": 1933,
-            "name": "Alarm do quada",
+            "name": "Сигналізація до квадроцикла",
             "parent_id": 1925,
             "children": []
           },
           {
             "id": 1929,
-            "name": "CHŁODNICA OLEJU",
+            "name": "Радіатор мастила",
             "parent_id": 1925,
             "children": []
           },
           {
             "id": 1928,
-            "name": "Snorkle quadowe",
+            "name": "Бокові снорклі для квадроциклів",
             "parent_id": 1925,
             "children": []
           },
           {
             "id": 1927,
-            "name": "Tuning Can-am",
+            "name": "Тюнінг Can-am",
             "parent_id": 1925,
             "children": []
           },
           {
             "id": 1930,
-            "name": "Układy wydechowe do quadów Tunery paliwa EFI",
+            "name": "Вихлопні системи для квадроциклів Паливні тюнери EFI",
             "parent_id": 1925,
             "children": [
               {
                 "id": 1931,
-                "name": "Big Gun",
+                "name": "Великий Гармата",
                 "parent_id": 1930,
                 "children": []
               },
               {
                 "id": 1932,
-                "name": "RJWC tłumiki",
+                "name": "глушники",
                 "parent_id": 1930,
                 "children": []
               }
@@ -1708,7 +1708,7 @@
           },
           {
             "id": 1926,
-            "name": "Zestawy przeniesienia chłodnicy do quada",
+            "name": "Набори перенесення радіатора до квада",
             "parent_id": 1925,
             "children": []
           }
@@ -1716,65 +1716,65 @@
       },
       {
         "id": 1981,
-        "name": "Uchwyty ATV",
+        "name": "Ручки ATV",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1874,
-        "name": "Układ chłodzenia do Quada",
+        "name": "Система охолодження для Quad",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1897,
-        "name": "Układ napędowy do Quada",
+        "name": "Привідна система для Quad",
         "parent_id": 1722,
         "children": [
           {
             "id": 1913,
-            "name": "Dyferencjał",
+            "name": "Диференціал",
             "parent_id": 1897,
             "children": []
           },
           {
             "id": 1898,
-            "name": "Krzyżak wału napędowego",
+            "name": "Хрестоподібний шарнір карданного валу",
             "parent_id": 1897,
             "children": []
           },
           {
             "id": 1899,
-            "name": "OSŁONY PRZEGUBÓW manszety do quada",
+            "name": "Захисні чохли для зчленувань манжети до квада",
             "parent_id": 1897,
             "children": []
           },
           {
             "id": 1900,
-            "name": "PASKI NAPĘDOWE do quadów",
+            "name": "Приводні паси для квадроциклів",
             "parent_id": 1897,
             "children": [
               {
                 "id": 1901,
-                "name": "DAYCO paski napędowe",
+                "name": "Приводні ремені",
                 "parent_id": 1900,
                 "children": []
               },
               {
                 "id": 1903,
-                "name": "GATES",
+                "name": "Ворота",
                 "parent_id": 1900,
                 "children": []
               },
               {
                 "id": 1902,
-                "name": "OEM Oryginalne Paski Napędowe",
+                "name": "Оригінальні приводні паски",
                 "parent_id": 1900,
                 "children": []
               },
               {
                 "id": 1904,
-                "name": "Pasek TGB",
+                "name": "Пасок TGB",
                 "parent_id": 1900,
                 "children": []
               }
@@ -1782,24 +1782,24 @@
           },
           {
             "id": 1905,
-            "name": "Półosie do quadów atv",
+            "name": "Напіввісі для квадроциклів ATV",
             "parent_id": 1897,
             "children": [
               {
                 "id": 1907,
-                "name": "Półosie do quadów",
+                "name": "Напіввісі для квадроциклів",
                 "parent_id": 1905,
                 "children": []
               },
               {
                 "id": 1908,
-                "name": "Półosie EPI",
+                "name": "Напіввісі EPI",
                 "parent_id": 1905,
                 "children": []
               },
               {
                 "id": 1906,
-                "name": "Półosie Gorilla",
+                "name": "Напівосі Gorilla",
                 "parent_id": 1905,
                 "children": []
               }
@@ -1807,25 +1807,25 @@
           },
           {
             "id": 1909,
-            "name": "Przeguby do quadów",
+            "name": "Шарніри для квадроциклів",
             "parent_id": 1897,
             "children": []
           },
           {
             "id": 1912,
-            "name": "Sprężyny sprzęgła do quadów",
+            "name": "Пружини зчеплення для квадроциклів",
             "parent_id": 1897,
             "children": []
           },
           {
             "id": 1910,
-            "name": "Tuningowe zestawy sprzęgła",
+            "name": "Тюнінгові комплекти зчеплення",
             "parent_id": 1897,
             "children": []
           },
           {
             "id": 1911,
-            "name": "Zestawy naprawcze przegubów",
+            "name": "Ремонтні комплекти шарнірів",
             "parent_id": 1897,
             "children": []
           }
@@ -1833,71 +1833,71 @@
       },
       {
         "id": 1991,
-        "name": "Wideorejestrator",
+        "name": "Відеореєстратор",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1948,
-        "name": "Wszystkie produkty",
+        "name": "Всі продукти",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1953,
-        "name": "Wydechy BIG GUN",
+        "name": "Вихлопи BIG GUN",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1873,
-        "name": "Zabezpieczenia do Quadów",
+        "name": "Захисні пристрої для Quadów",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1982,
-        "name": "Zamiatarki",
+        "name": "Підмітальні машини",
         "parent_id": 1722,
         "children": []
       },
       {
         "id": 1875,
-        "name": "Zawieszenie / Układ Kierowniczy Quad",
+        "name": "Підвіска / Кермова система Quad",
         "parent_id": 1722,
         "children": [
           {
             "id": 1878,
-            "name": "Drążki kierownicze do quadów",
+            "name": "Кермові тяги для квадроциклів",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1877,
-            "name": "Kierownice ATV",
+            "name": "Кермо квадроцикла",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1880,
-            "name": "Końcówki drążków kierowniczych",
+            "name": "Кінцівки кермових тяг",
             "parent_id": 1875,
             "children": [
               {
                 "id": 1882,
-                "name": "EPI końcówki drążków kierowniczych",
+                "name": "кінцівки кермових тяг",
                 "parent_id": 1880,
                 "children": []
               },
               {
                 "id": 1883,
-                "name": "Końcówki Allballs",
+                "name": "Закінчення Allballs",
                 "parent_id": 1880,
                 "children": []
               },
               {
                 "id": 1881,
-                "name": "Suzuki - końcówki OEM",
+                "name": "кінцівки виробника",
                 "parent_id": 1880,
                 "children": []
               }
@@ -1905,72 +1905,72 @@
           },
           {
             "id": 1896,
-            "name": "Lusterka do quada",
+            "name": "дзеркала для квадроцикла",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1895,
-            "name": "Łączniki stabilizatora",
+            "name": "З'єднувачі стабілізатора",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1893,
-            "name": "Łożyska dolne kierownicy",
+            "name": "Нижні підшипники керма",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1879,
-            "name": "Łożyska kolumny kierownicy ATV",
+            "name": "Підшипники рульової колонки ATV",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1887,
-            "name": "Łożyska kół",
+            "name": "Підшипники коліс",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1876,
-            "name": "Manetki ATV",
+            "name": "Кермові важелі для квадроцикла",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1894,
-            "name": "Manetki podgrzewane",
+            "name": "Підігріті манекени",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1886,
-            "name": "Niezależne tylne zawieszenie - zestawy naprawcze",
+            "name": "Незалежна задня підвіска - ремонтні комплекти",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1892,
-            "name": "Ośka wachacz tylny",
+            "name": "Вісь важіль задній",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1888,
-            "name": "Sprężyny zawieszenia ATV Quad",
+            "name": "Пружини підвіски ATV Quad",
             "parent_id": 1875,
             "children": [
               {
                 "id": 1889,
-                "name": "Sprężyny High Lifter",
+                "name": "Пружини High Lifter",
                 "parent_id": 1888,
                 "children": []
               },
               {
                 "id": 1890,
-                "name": "Sprężyny zawieszenia EPI",
+                "name": "Пружини підвіски",
                 "parent_id": 1888,
                 "children": []
               }
@@ -1978,19 +1978,19 @@
           },
           {
             "id": 1884,
-            "name": "Sworznie - Końcówki wahaczy",
+            "name": "Штифти - кінцівки важелів",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1891,
-            "name": "Tuleje tylnej Piasty / zwrotnicy",
+            "name": "Втулки заднього маточини / поворотного кулака",
             "parent_id": 1875,
             "children": []
           },
           {
             "id": 1885,
-            "name": "Zestaw naprawczy wahaczy",
+            "name": "Ремонтний комплект важелів",
             "parent_id": 1875,
             "children": []
           }
@@ -1998,7 +1998,7 @@
       },
       {
         "id": 1945,
-        "name": "Zderzaki do quadów",
+        "name": "Бампери для квадроциклів",
         "parent_id": 1722,
         "children": []
       }
@@ -2006,78 +2006,78 @@
   },
   {
     "id": 1703,
-    "name": "Ramy do samochodów 4x4 i Reperaturki",
+    "name": "Рами до автомобілів 4x4 і Ремонтні набори",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1720,
-    "name": "Silnik turbo SWAP",
+    "name": "Турбо двигун заміна",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1707,
-    "name": "Skrzynie i Torby Wyprawowe",
+    "name": "Скрині і Похідні Сумки",
     "parent_id": null,
     "children": [
       {
         "id": 1758,
-        "name": "Kufry i torby do Quadów",
+        "name": "Куфри і сумки до Quad",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1760,
-        "name": "MOLLE torby i akcesoria",
+        "name": "Torby MOLLE і аксесуари",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1763,
-        "name": "Organizery bagażowe",
+        "name": "Органайзери для багажу",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1764,
-        "name": "Skrzynie aluminiowe",
+        "name": "Алюмінієві скрині",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1756,
-        "name": "Skrzynie Nomad FOX Wyprawowe",
+        "name": "Скрині Nomad FOX експедиційні",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1761,
-        "name": "Torby na koło",
+        "name": "Сумки для велосипеда",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1759,
-        "name": "Torby WARN",
+        "name": "Сумки WARN",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1762,
-        "name": "Torby Wodoszczelne wyprawowe",
+        "name": "Водонепроникні похідні сумки",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1755,
-        "name": "WolfCase Skrzynie transportowe",
+        "name": "Транспортні ящики",
         "parent_id": 1707,
         "children": []
       },
       {
         "id": 1757,
-        "name": "XG CARGO torby",
+        "name": "XG CARGO сумки",
         "parent_id": 1707,
         "children": []
       }
@@ -2085,77 +2085,77 @@
   },
   {
     "id": 1717,
-    "name": "Solarki, Siewniki, Rozsiewacze nawozów",
+    "name": "Автоцистерни, Сівалки, Розсіювачі добрив",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1708,
-    "name": "Trapy i Najazdy",
+    "name": "Трапи та напади",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1678,
-    "name": "Układ chłodzenia",
+    "name": "Система охолодження",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1715,
-    "name": "Układ hamulcowy | klocki, tarcze, zaciski...",
+    "name": "Гальмівна система | колодки, диски, супорти",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1658,
-    "name": "Układ Napędowy",
+    "name": "Трансмісійна система",
     "parent_id": null,
     "children": [
       {
         "id": 1661,
-        "name": "Blokady mostu, dyferencjały i przełożenia",
+        "name": "Блокування мосту, диференціали і передачі",
         "parent_id": 1658,
         "children": [
           {
             "id": 1668,
-            "name": "Akcesoria do Blokad",
+            "name": "Аксесуари до блокад",
             "parent_id": 1661,
             "children": []
           },
           {
             "id": 1665,
-            "name": "ASHCROFT blokady",
+            "name": "блокади",
             "parent_id": 1661,
             "children": []
           },
           {
             "id": 1663,
-            "name": "Blokady ARB",
+            "name": "Блокади ARB",
             "parent_id": 1661,
             "children": []
           },
           {
             "id": 1667,
-            "name": "HF Air Locker Blokady",
+            "name": "Повітряні Блокування",
             "parent_id": 1661,
             "children": []
           },
           {
             "id": 1664,
-            "name": "Kompresory do blokad",
+            "name": "Компресори для блокувань",
             "parent_id": 1661,
             "children": []
           },
           {
             "id": 1666,
-            "name": "Przełożenia",
+            "name": "Передачі",
             "parent_id": 1661,
             "children": []
           },
           {
             "id": 1662,
-            "name": "TRE4x4 Blokady",
+            "name": "Блокування 4x4",
             "parent_id": 1661,
             "children": []
           }
@@ -2163,67 +2163,67 @@
       },
       {
         "id": 1659,
-        "name": "Dystanse na wał napędowy",
+        "name": "Відстані на вал приводу",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1677,
-        "name": "Krzyżaki",
+        "name": "хрестоносці",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1672,
-        "name": "Mosty",
+        "name": "Мости",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1675,
-        "name": "Osłony dyferencjału",
+        "name": "Захисні кожухи диференціала",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1673,
-        "name": "Półosie",
+        "name": "Напіввісі",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1660,
-        "name": "Przeguby",
+        "name": "Шарніри",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1670,
-        "name": "SPRZĘGIEŁKA PIast",
+        "name": "з'єднувальна частина",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1669,
-        "name": "Sprzęgła Tuningowe Wzmocnione",
+        "name": "Зчеплення Тюнінгові Посилені",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1671,
-        "name": "Wały napędowe",
+        "name": "Вали приводні",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1674,
-        "name": "Zestawy montażowe",
+        "name": "Монтажні комплекти",
         "parent_id": 1658,
         "children": []
       },
       {
         "id": 1676,
-        "name": "Zestawy Naprawcze układu napędowego",
+        "name": "Ремонтні комплекти приводної системи",
         "parent_id": 1658,
         "children": []
       }
@@ -2231,36 +2231,36 @@
   },
   {
     "id": 1705,
-    "name": "Układ wydechowy i dolotowy",
+    "name": "Система випуску та впуску",
     "parent_id": null,
     "children": [
       {
         "id": 1750,
-        "name": "akcesoria do snorkli - filtry itd",
+        "name": "аксесуари для снорклінгу - фільтри тощо",
         "parent_id": 1705,
         "children": []
       },
       {
         "id": 1754,
-        "name": "Intercooler",
+        "name": "Проміжний охолоджувач",
         "parent_id": 1705,
         "children": []
       },
       {
         "id": 1751,
-        "name": "Snorkle",
+        "name": "Трубка для пірнання",
         "parent_id": 1705,
         "children": []
       },
       {
         "id": 1753,
-        "name": "Układ dolotowy",
+        "name": "Система впуску",
         "parent_id": 1705,
         "children": []
       },
       {
         "id": 1752,
-        "name": "Układ wydechowy",
+        "name": "Система випуску",
         "parent_id": 1705,
         "children": []
       }
@@ -2268,119 +2268,119 @@
   },
   {
     "id": 1704,
-    "name": "Wnętrze - organizacja bagażu, zabudowy, stoliki...",
+    "name": "Інтер'єр - організація багажу, забудови, столики",
     "parent_id": null,
     "children": [
       {
         "id": 1736,
-        "name": "Akcesoria wnętrza",
+        "name": "Аксесуари для інтер'єру",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1733,
-        "name": "Dywaniki i wykładziny",
+        "name": "Килимки і покриття",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1734,
-        "name": "Fotele i pokrowce",
+        "name": "Крісла і чохли",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1743,
-        "name": "Foteliki samochdoowe dla dzieci Sparco",
+        "name": "Автокрісла Sparco для дітей",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1748,
-        "name": "GARMIN, Tomtom i inne",
+        "name": "GPS-навігатори та інші",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1747,
-        "name": "Kamery Gimbal i inne",
+        "name": "Підвісні та інші камери",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1735,
-        "name": "Konsola dachowa",
+        "name": "Консоль даху",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1731,
-        "name": "OBD - interfejs diagnostyczny",
+        "name": "інтерфейс діагностичний",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1729,
-        "name": "Organizacja bagażu | Zabudowy",
+        "name": "Організація багажу | Забудови",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1745,
-        "name": "Pedal Commander",
+        "name": "Педальний Командир",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1744,
-        "name": "Przechyłomierze",
+        "name": "Нахиломіри",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1737,
-        "name": "Radia samochodowe",
+        "name": "Автомобільні радіо",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1749,
-        "name": "Skrzynie i torby",
+        "name": "Скрині та сумки",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1732,
-        "name": "Stoliki na drzwi",
+        "name": "Столики на двері",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1738,
-        "name": "Uchwyty i mocowania do smartfonów i innych urządzeń",
+        "name": "Тримачі та кріплення до смартфонів та інших пристроїв",
         "parent_id": 1704,
         "children": [
           {
             "id": 1741,
-            "name": "Brodit uchwyty",
+            "name": "Кріплення тримачі",
             "parent_id": 1738,
             "children": []
           },
           {
             "id": 1740,
-            "name": "POPULARNE UCHWYTY",
+            "name": "Популярні ручки",
             "parent_id": 1738,
             "children": []
           },
           {
             "id": 1742,
-            "name": "Quad lock",
+            "name": "Замок з чотирма точками кріплення",
             "parent_id": 1738,
             "children": []
           },
           {
             "id": 1739,
-            "name": "Uchwyt Wrangler JL na telefon",
+            "name": "Тримач Wrangler JL для телефона",
             "parent_id": 1738,
             "children": []
           }
@@ -2388,13 +2388,13 @@
       },
       {
         "id": 1730,
-        "name": "Uchwyty i rączki",
+        "name": "Ручки та держаки",
         "parent_id": 1704,
         "children": []
       },
       {
         "id": 1746,
-        "name": "Zabudowy",
+        "name": "Забудови (споруди)",
         "parent_id": 1704,
         "children": []
       }
@@ -2402,179 +2402,179 @@
   },
   {
     "id": 1550,
-    "name": "Wyciągarki",
+    "name": "Лебідки",
     "parent_id": null,
     "children": [
       {
         "id": 1567,
-        "name": "Części do wyciągarek",
+        "name": "Деталі до витяжників",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1553,
-        "name": "Do Pomocy Drogowej | Lawety",
+        "name": "До дорожньої допомоги | Евакуатори",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1557,
-        "name": "do Quada | ATV",
+        "name": "до квадроциклів | АТV",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1562,
-        "name": "Heble - wyłączniki prądu",
+        "name": "Електричні вимикачі",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1593,
-        "name": "Holowanie",
+        "name": "Буксирування",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1590,
-        "name": "Kotwice",
+        "name": "Якорі",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1569,
-        "name": "Liny Syntetyczne Kinetyczne i Pasy do drzew",
+        "name": "Синтетичні кінетичні троси та ремені для дерев",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1561,
-        "name": "Piloty do wyciągarek",
+        "name": "Пульти для підйомників",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1564,
-        "name": "Płyty do wyciągarek do Quadów",
+        "name": "Плити для витягачів до Quad",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1563,
-        "name": "Płyty do wyciągarek do Samochodów",
+        "name": "Пластини для витяжок до автомобілів",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1568,
-        "name": "PODNOŚNIKI OFFROAD HI LIFT farmjack",
+        "name": "Підйомники бездоріжжя Hi-Lift farmjack",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1592,
-        "name": "POKROWCE na wyciągarki",
+        "name": "Чохли на лебідки",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1588,
-        "name": "Pozostałe akcesoria do wyciągarek",
+        "name": "Інші аксесуари до лебідок",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1565,
-        "name": "Przekaźniki do wyciągarek",
+        "name": "Реле для лебідок",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1559,
-        "name": "Przenośne wyciągarki",
+        "name": "Портативні лебідки",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1566,
-        "name": "Ślizgi i Rolki Prowadnice do wyciągarki",
+        "name": "Ковзанки і Роликові напрямні для підйомника",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1589,
-        "name": "Szczotki do wyciągarek",
+        "name": "Щітки для витягувачів",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1587,
-        "name": "Szekle Zblocza haki uchwyty",
+        "name": "Скоби Защіпки гаки тримачі",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1601,
-        "name": "Uciąg",
+        "name": "Витяг",
         "parent_id": 1550,
         "children": [
           {
             "id": 1606,
-            "name": "Wyciągarka 12000 lbs",
+            "name": "Лебідка 12000 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1607,
-            "name": "Wyciągarka 13000 lbs",
+            "name": "Лебідка 13000 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1608,
-            "name": "Wyciągarka 13500 lbs",
+            "name": "Лебідка 13500 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1609,
-            "name": "Wyciągarka 15000 lbs",
+            "name": "Лебідка 15000 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1610,
-            "name": "Wyciągarka 18000 lbs",
+            "name": "Лебідка 18000 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1603,
-            "name": "Wyciągarka 2500 lbs",
+            "name": "Лебідка 2500 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1602,
-            "name": "Wyciągarka 3500 lbs",
+            "name": "Лебідка 3500 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1611,
-            "name": "Wyciągarka 5T",
+            "name": "Лебідка 5T",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1604,
-            "name": "Wyciągarka 6000 lbs",
+            "name": "Лебідка 6000 фунтів",
             "parent_id": 1601,
             "children": []
           },
           {
             "id": 1605,
-            "name": "Wyciągarka 8000 lbs",
+            "name": "Лебідка 8000 фунтів",
             "parent_id": 1601,
             "children": []
           }
@@ -2582,91 +2582,91 @@
       },
       {
         "id": 1596,
-        "name": "Wyciągarka do terenówki",
+        "name": "Лебідка для позашляховика",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1595,
-        "name": "Wyciągarka Elektryczna 12V",
+        "name": "Електрична лебідка 12В",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1556,
-        "name": "Wyciągarka hydrauliczna",
+        "name": "Гідравлічна лебідка",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1598,
-        "name": "Wyciągarka na hak",
+        "name": "Лебідка на гак",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1600,
-        "name": "Wyciągarka z liną stalową",
+        "name": "Лебідка зі сталевим тросом",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1599,
-        "name": "Wyciągarka z Liną syntetyczną",
+        "name": "Лебідка з синтетичним тросом",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1552,
-        "name": "Wyciągarki 24V",
+        "name": "Витяжні пристрої 24В",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1555,
-        "name": "Wyciągarki dla myśliwego | do wciągania zwierzyny",
+        "name": "Лебідки для мисливця | для піднімання дичини",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1554,
-        "name": "Wyciągarki do ciężarówek",
+        "name": "Підйомники для вантажівок",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1551,
-        "name": "WYCIĄGARKI ELEKTRYCZNE",
+        "name": "Електричні лебідки",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1594,
-        "name": "Wyciągarki elektryczne 220V",
+        "name": "Електричні лебідки 220В",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1560,
-        "name": "Wyciągarki elektryczne 230V",
+        "name": "Електричні лебідки 230В",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1558,
-        "name": "Wyciągarki ręczne kifor KIRFOR - Tirfor korbowe",
+        "name": "Ручні лебідки кормові",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1597,
-        "name": "Wyciągarki warsztatowe",
+        "name": "Майстерні витяжні пристрої",
         "parent_id": 1550,
         "children": []
       },
       {
         "id": 1591,
-        "name": "Żurawie",
+        "name": "Журавлі",
         "parent_id": 1550,
         "children": []
       }
@@ -2674,48 +2674,48 @@
   },
   {
     "id": 1725,
-    "name": "WYPRZEDAŻE / PROMOCJE / ZESTAWY",
+    "name": "Розпродаж / Акції / Комплекти",
     "parent_id": null,
     "children": []
   },
   {
     "id": 1727,
-    "name": "ZABAWKI - KUPONY - NAKLEJKI PREZENTY",
+    "name": "Іграшки - Купони - Наклейки Подарунки",
     "parent_id": null,
     "children": [
       {
         "id": 1996,
-        "name": "Czapki z daszkiem",
+        "name": "Кепки",
         "parent_id": 1727,
         "children": []
       },
       {
         "id": 1995,
-        "name": "Koszulki Bluzy",
+        "name": "Футболки Толстовки",
         "parent_id": 1727,
         "children": []
       },
       {
         "id": 1993,
-        "name": "Kupony Podarunkowe",
+        "name": "Подарункові купони",
         "parent_id": 1727,
         "children": []
       },
       {
         "id": 1994,
-        "name": "Naklejki Offroad - zabawne",
+        "name": "Наклейки Offroad - смішні",
         "parent_id": 1727,
         "children": []
       },
       {
         "id": 1998,
-        "name": "Pluszaki i Zabawki i GRY",
+        "name": "Плюшеві іграшки, Іграшки та Ігри",
         "parent_id": 1727,
         "children": []
       },
       {
         "id": 1997,
-        "name": "WIESZAK i BrelokiI - JEEP",
+        "name": "Вішак і Брелоки - Jeep",
         "parent_id": 1727,
         "children": []
       }
@@ -2723,138 +2723,138 @@
   },
   {
     "id": 1635,
-    "name": "Zawieszenia - amortyzatory, sprężyny, lifty",
+    "name": "підвіски, амортизатори, ресори, підйомники",
     "parent_id": null,
     "children": [
       {
         "id": 1639,
-        "name": "Amortyzatory",
+        "name": "Амортизатори",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1638,
-        "name": "Amortyzatory skrętu",
+        "name": "Амортизатори повороту",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1640,
-        "name": "Coilovers",
+        "name": "Котушкові підвіски",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1651,
-        "name": "Części serwisowe",
+        "name": "Сервісні частини",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1648,
-        "name": "Drążki kierownicze",
+        "name": "Кермові тяги",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1644,
-        "name": "Drążki Panharda",
+        "name": "Штанги Panhard",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1649,
-        "name": "Drążki skrętne",
+        "name": "Скручені стрижні",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1650,
-        "name": "Inne elementy zawieszenia",
+        "name": "Інші елементи підвіски",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1636,
-        "name": "Lifty - zestawy",
+        "name": "Підйомники - комплекти",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1655,
-        "name": "Mocowania amortyzatorów skrętu",
+        "name": "Кріплення амортизаторів повороту",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1654,
-        "name": "Mocowania drążków Panharda",
+        "name": "кріплення Panhard тяг",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1653,
-        "name": "Odboje",
+        "name": "Відбійники",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1642,
-        "name": "Pasy ograniczające skok zawieszenia",
+        "name": "Пояси обмежуючі стрибок підвіски",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1656,
-        "name": "Podkładki pod sprężyny",
+        "name": "Підкладки під пружини",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1641,
-        "name": "Poliuretany",
+        "name": "Поліуретани",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1657,
-        "name": "Przekładnie kierownicze",
+        "name": "Рульові передачі",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1647,
-        "name": "Resory",
+        "name": "Ресори",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1643,
-        "name": "Sprężyny",
+        "name": "Пружини",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1646,
-        "name": "Stabilizatory i łączniki stabilizatora",
+        "name": "Стабілізатори і з'єднувачі стабілізатора",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1645,
-        "name": "Wahacze",
+        "name": "важелі",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1652,
-        "name": "Wąsy przekładni",
+        "name": "Вуса передачі",
         "parent_id": 1635,
         "children": []
       },
       {
         "id": 1637,
-        "name": "Zestawy naprawcze amortyzatorów",
+        "name": "Ремонтні комплекти амортизаторів",
         "parent_id": 1635,
         "children": []
       }

@@ -1,0 +1,2176 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name_ua": "Мотоцикли та квадроцикли",
+      "name_original": "DLA MOTOCYKLA / QUADY",
+      "seo_url": "motocykly-ta-kvadrocykly",
+      "children": [
+        {
+          "id": 101,
+          "name_ua": "Частини для мотоциклів",
+          "name_original": "CZÄ˜ÅšCI ROWEROWE / DLA MOTOCYKLA",
+          "seo_url": "chastyny-motocykliv",
+          "children": [
+            {
+              "id": 10101,
+              "name_ua": "Двигун і трансмісія",
+              "name_original": "CzÄ™Å›ci Silnikowe / SprzÄ™gÅ‚a",
+              "seo_url": "dvygun-transmisiya",
+              "children": [
+                {
+                  "id": 1010101,
+                  "name_ua": "Поршні та циліндри",
+                  "name_original": "TÅ‚oki / Tuleje Cylindra"
+                },
+                {
+                  "id": 1010102,
+                  "name_ua": "Колінчастий вал та шатуни",
+                  "name_original": "WaÅ‚y Korbowe / Korbowody"
+                },
+                {
+                  "id": 1010103,
+                  "name_ua": "Зчеплення",
+                  "name_original": "SprzÄ™gÅ‚a"
+                },
+                {
+                  "id": 1010104,
+                  "name_ua": "Газорозподільний механізм",
+                  "name_original": "CzÄ™Å›ci RozrzÄ…du"
+                },
+                {
+                  "id": 1010105,
+                  "name_ua": "Прокладки двигуна",
+                  "name_original": "Uszczelki Silnika"
+                }
+              ]
+            },
+            {
+              "id": 10102,
+              "name_ua": "Гальмівна система",
+              "name_original": "UkÅ‚ad Hamulcowy / Hamulce",
+              "seo_url": "galmivna-systema",
+              "children": [
+                {
+                  "id": 1010201,
+                  "name_ua": "Гальмівні колодки",
+                  "name_original": "Klocki Hamulcowe"
+                },
+                {
+                  "id": 1010202,
+                  "name_ua": "Гальмівні диски",
+                  "name_original": "Tarcze Hamulcowe"
+                },
+                {
+                  "id": 1010203,
+                  "name_ua": "Гальмівні шланги",
+                  "name_original": "Przewody Hamulcowe"
+                },
+                {
+                  "id": 1010204,
+                  "name_ua": "Ремкомплекти",
+                  "name_original": "Zestaw Naprawczy"
+                }
+              ]
+            },
+            {
+              "id": 10103,
+              "name_ua": "Трансмісія та привід",
+              "name_original": "UkÅ‚ad NapÄ™dowy",
+              "seo_url": "transmisiya-pryvid",
+              "children": [
+                {
+                  "id": 1010301,
+                  "name_ua": "Ланцюги приводу",
+                  "name_original": "ÅaÅ„cuchy NapÄ™dowe"
+                },
+                {
+                  "id": 1010302,
+                  "name_ua": "Зірочки",
+                  "name_original": "ZÄ™batki"
+                },
+                {
+                  "id": 1010303,
+                  "name_ua": "Комплекти приводу",
+                  "name_original": "Komplety NapÄ™dowe"
+                },
+                {
+                  "id": 1010304,
+                  "name_ua": "Приводні ремені",
+                  "name_original": "Paski NapÄ™dowe"
+                }
+              ]
+            },
+            {
+              "id": 10104,
+              "name_ua": "Паливна система",
+              "name_original": "UkÅ‚ad Paliwowy",
+              "seo_url": "palyva-systema",
+              "children": [
+                {
+                  "id": 1010401,
+                  "name_ua": "Карбюратори та жиклери",
+                  "name_original": "GaÅºniki / Dysze GaÅºnikÃ³w"
+                },
+                {
+                  "id": 1010402,
+                  "name_ua": "Паливні фільтри",
+                  "name_original": "Filtry Paliwa"
+                },
+                {
+                  "id": 1010403,
+                  "name_ua": "Паливні баки",
+                  "name_original": "Zbiornik Paliwa"
+                }
+              ]
+            },
+            {
+              "id": 10105,
+              "name_ua": "Вихлопна система",
+              "name_original": "UkÅ‚ad Wydechowy",
+              "seo_url": "vyhlop",
+              "children": [
+                {
+                  "id": 1010501,
+                  "name_ua": "Глушники",
+                  "name_original": "TÅ‚umiki Motocyklowe"
+                },
+                {
+                  "id": 1010502,
+                  "name_ua": "Колектори",
+                  "name_original": "Kolektory"
+                },
+                {
+                  "id": 1010503,
+                  "name_ua": "Повні системи",
+                  "name_original": "PeÅ‚ny UkÅ‚ad (Full-System)"
+                }
+              ]
+            },
+            {
+              "id": 10106,
+              "name_ua": "Підвіска",
+              "name_original": "Zawieszenie",
+              "seo_url": "pidviska",
+              "children": [
+                {
+                  "id": 1010601,
+                  "name_ua": "Підшипники",
+                  "name_original": "ÅoÅ¼yska"
+                },
+                {
+                  "id": 1010602,
+                  "name_ua": "Сальники",
+                  "name_original": "Simmeringi / Uszczelniacze"
+                },
+                {
+                  "id": 1010603,
+                  "name_ua": "Ремкомплекти",
+                  "name_original": "Zestaw Naprawczy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name_ua": "Кузов та аксесуари",
+          "name_original": "Nadwozie / Akcesoria",
+          "seo_url": "kuzov-aksesuary",
+          "children": [
+            {
+              "id": 10201,
+              "name_ua": "Пластик та обвіси",
+              "name_original": "Plastiki / Owiewki",
+              "seo_url": "plastyk-obvisy"
+            },
+            {
+              "id": 10202,
+              "name_ua": "Дзеркала",
+              "name_original": "Lusterka",
+              "seo_url": "dzerkala"
+            },
+            {
+              "id": 10203,
+              "name_ua": "Захист та краш-пади",
+              "name_original": "Crash Pady / Gmole / OsÅ‚ony",
+              "seo_url": "zahyst"
+            },
+            {
+              "id": 10204,
+              "name_ua": "Багажники та кофри",
+              "name_original": "BagaÅ¼ / Kufry",
+              "seo_url": "bagazhnyky-kofry"
+            },
+            {
+              "id": 10205,
+              "name_ua": "Вітрові скла",
+              "name_original": "Szyby",
+              "seo_url": "vitrovi-skla"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name_ua": "Електрика та освітлення",
+          "name_original": "UkÅ‚ad Elektryczny / OÅ›wietlenie",
+          "seo_url": "elektryka-osvitlennya",
+          "children": [
+            {
+              "id": 10301,
+              "name_ua": "Акумулятори",
+              "name_original": "Akumulatory",
+              "seo_url": "akumulyatory"
+            },
+            {
+              "id": 10302,
+              "name_ua": "Освітлення LED",
+              "name_original": "Lampy LED / OÅ›wietlenie",
+              "seo_url": "led-osvitlennya"
+            },
+            {
+              "id": 10303,
+              "name_ua": "Лампи та покажчики",
+              "name_original": "Lampy I Kierunkowskazy",
+              "seo_url": "lampy-pokazhchyky"
+            },
+            {
+              "id": 10304,
+              "name_ua": "Свічки запалення",
+              "name_original": "Åšwiece ZapÅ‚onowe",
+              "seo_url": "svichky-zapalennya"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "name_ua": "Фільтри та олії",
+          "name_original": "Filtry / Oleje",
+          "seo_url": "filtry-oliyi",
+          "children": [
+            {
+              "id": 10401,
+              "name_ua": "Повітряні фільтри",
+              "name_original": "Filtry Powietrza",
+              "seo_url": "povitriani-filtry"
+            },
+            {
+              "id": 10402,
+              "name_ua": "Масляні фільтри",
+              "name_original": "Filtry Oleju",
+              "seo_url": "maslyani-filtry"
+            },
+            {
+              "id": 10403,
+              "name_ua": "Моторні олії",
+              "name_original": "Oleje Silnikowe",
+              "seo_url": "motorni-oliyi"
+            },
+            {
+              "id": 10404,
+              "name_ua": "Трансмісійні олії",
+              "name_original": "Oleje PrzekÅ‚adniowe",
+              "seo_url": "transmisiyni-oliyi"
+            },
+            {
+              "id": 10405,
+              "name_ua": "Хімія та мастила",
+              "name_original": "Chemia / Smary",
+              "seo_url": "himiya-mastyla"
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name_ua": "Квадроцикли - частини",
+          "name_original": "QUADY - czÄ™Å›ci i akcesoria",
+          "seo_url": "kvadrocykly-chastyny",
+          "children": [
+            {
+              "id": 10501,
+              "name_ua": "Гальма для квадроциклів",
+              "name_original": "Hamulce / Klocki Tarcze",
+              "seo_url": "galma-kvadrocykly"
+            },
+            {
+              "id": 10502,
+              "name_ua": "Трансмісія квадроциклів",
+              "name_original": "UkÅ‚ad napÄ™dowy / SprzÄ™gÅ‚a",
+              "seo_url": "transmisiya-kvadrocykly"
+            },
+            {
+              "id": 10503,
+              "name_ua": "Підвіска та керування",
+              "name_original": "Zawieszenie / UkÅ‚ad Kierowniczy",
+              "seo_url": "pidviska-keruvannya-quad"
+            },
+            {
+              "id": 10504,
+              "name_ua": "Захист квадроциклів",
+              "name_original": "OsÅ‚ony / Zderzaki",
+              "seo_url": "zahyst-kvadrocykly"
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name_ua": "Наклейки та графіка",
+          "name_original": "Naklejki I Tankpady",
+          "seo_url": "nakleyky-grafika",
+          "children": [
+            {
+              "id": 10601,
+              "name_ua": "Танк-педи",
+              "name_original": "Na Bak / Tankpady"
+            },
+            {
+              "id": 10602,
+              "name_ua": "Наклейки на диски",
+              "name_original": "Na Felgi / Paski Na Felgi"
+            },
+            {
+              "id": 10603,
+              "name_ua": "Захисні плівки",
+              "name_original": "Ochronne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name_ua": "Екіпіровка мотоцикліста",
+      "name_original": "DLA MOTOCYKLISTY",
+      "seo_url": "ekipirovka-motocyklista",
+      "children": [
+        {
+          "id": 201,
+          "name_ua": "Шоломи",
+          "name_original": "Kaski",
+          "seo_url": "sholomy",
+          "children": [
+            {
+              "id": 20101,
+              "name_ua": "Інтегральні шоломи",
+              "name_original": "Kaski Integralne",
+              "seo_url": "integralni-sholomy"
+            },
+            {
+              "id": 20102,
+              "name_ua": "Модульні шоломи",
+              "name_original": "Kaski Modularne",
+              "seo_url": "modulni-sholomy"
+            },
+            {
+              "id": 20103,
+              "name_ua": "Кросові шоломи",
+              "name_original": "Kaski Off Road",
+              "seo_url": "krosovi-sholomy"
+            },
+            {
+              "id": 20104,
+              "name_ua": "Відкриті шоломи",
+              "name_original": "Kaski Otwarte - JET",
+              "seo_url": "vidkryti-sholomy"
+            },
+            {
+              "id": 20105,
+              "name_ua": "Дитячі шоломи",
+              "name_original": "Kaski DzieciÄ™ce",
+              "seo_url": "dytyachi-sholomy"
+            },
+            {
+              "id": 20106,
+              "name_ua": "Аксесуари до шоломів",
+              "name_original": "Akcesoria Do KaskÃ³w",
+              "seo_url": "aksesuary-sholomiv"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "name_ua": "Мотокуртки",
+          "name_original": "Kurtki Motocyklowe",
+          "seo_url": "motokurtky",
+          "children": [
+            {
+              "id": 20201,
+              "name_ua": "Шкіряні куртки чоловічі",
+              "name_original": "Kurtki SkÃ³rzane MÄ™skie",
+              "seo_url": "shkiryani-cholovichi"
+            },
+            {
+              "id": 20202,
+              "name_ua": "Шкіряні куртки жіночі",
+              "name_original": "Kurtki SkÃ³rzane Damskie",
+              "seo_url": "shkiryani-zhinochi"
+            },
+            {
+              "id": 20203,
+              "name_ua": "Текстильні куртки чоловічі",
+              "name_original": "Kurtki Tekstylne MÄ™skie",
+              "seo_url": "tekstylni-cholovichi"
+            },
+            {
+              "id": 20204,
+              "name_ua": "Текстильні куртки жіночі",
+              "name_original": "Kurtki Tekstylne Damskie",
+              "seo_url": "tekstylni-zhinochi"
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "name_ua": "Мотоштани",
+          "name_original": "Spodnie Motocyklowe",
+          "seo_url": "motoshtany",
+          "children": [
+            {
+              "id": 20301,
+              "name_ua": "Шкіряні штани",
+              "name_original": "Spodnie SkÃ³rzane",
+              "seo_url": "shkiryani-shtany"
+            },
+            {
+              "id": 20302,
+              "name_ua": "Текстильні штани",
+              "name_original": "Spodnie Tekstylne",
+              "seo_url": "tekstylni-shtany"
+            },
+            {
+              "id": 20303,
+              "name_ua": "Джинси мотоциклетні",
+              "name_original": "Spodnie Jeansowe",
+              "seo_url": "dzhynsy-motocyklovi"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "name_ua": "Комбінезони",
+          "name_original": "Kombinezony",
+          "seo_url": "kombinezony",
+          "children": [
+            {
+              "id": 20401,
+              "name_ua": "Однокомпонентні",
+              "name_original": "Kombinezony 1-CzÄ™Å›ciowe"
+            },
+            {
+              "id": 20402,
+              "name_ua": "Двокомпонентні",
+              "name_original": "Kombinezony 2-CzÄ™Å›ciowe"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "name_ua": "Мотовзуття",
+          "name_original": "Buty Motocyklowe",
+          "seo_url": "motovzuttya",
+          "children": [
+            {
+              "id": 20501,
+              "name_ua": "Кросові черевики",
+              "name_original": "Buty Crossowe",
+              "seo_url": "krosovi-cherevyky"
+            },
+            {
+              "id": 20502,
+              "name_ua": "Ендуро черевики",
+              "name_original": "Buty Enduro",
+              "seo_url": "enduro-cherevyky"
+            },
+            {
+              "id": 20503,
+              "name_ua": "Спортивні черевики",
+              "name_original": "Buty Sportowe",
+              "seo_url": "sportyvni-cherevyky"
+            },
+            {
+              "id": 20504,
+              "name_ua": "Туристичні черевики",
+              "name_original": "Buty Turystyczne",
+              "seo_url": "turystychni-cherevyky"
+            },
+            {
+              "id": 20505,
+              "name_ua": "Міські черевики",
+              "name_original": "Buty Miejskie",
+              "seo_url": "miski-cherevyky"
+            },
+            {
+              "id": 20506,
+              "name_ua": "Дитяче взуття",
+              "name_original": "Buty DzieciÄ™ce",
+              "seo_url": "dytyache-vzuttya"
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "name_ua": "Мотоперчатки",
+          "name_original": "RÄ™kawice Motocyklowe",
+          "seo_url": "motoperchattky",
+          "children": [
+            {
+              "id": 20601,
+              "name_ua": "Шкіряні перчатки",
+              "name_original": "RÄ™kawice SkÃ³rzane",
+              "seo_url": "shkiryani-perchattky"
+            },
+            {
+              "id": 20602,
+              "name_ua": "Спортивні перчатки",
+              "name_original": "RÄ™kawice Sportowe",
+              "seo_url": "sportyvni-perchattky"
+            },
+            {
+              "id": 20603,
+              "name_ua": "Туристичні перчатки",
+              "name_original": "RÄ™kawice Turystyczne",
+              "seo_url": "turystychni-perchattky"
+            },
+            {
+              "id": 20604,
+              "name_ua": "Кросові перчатки",
+              "name_original": "RÄ™kawice Crossowe",
+              "seo_url": "krosovi-perchattky"
+            },
+            {
+              "id": 20605,
+              "name_ua": "Зимові перчатки",
+              "name_original": "RÄ™kawice Zimowe",
+              "seo_url": "zymovi-perchattky"
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "name_ua": "Захист мотоцикліста",
+          "name_original": "Ochraniacze / Zbroje",
+          "seo_url": "zahyst-motocyklista",
+          "children": [
+            {
+              "id": 20701,
+              "name_ua": "Захист спини",
+              "name_original": "Ochraniacze Na Plecy"
+            },
+            {
+              "id": 20702,
+              "name_ua": "Захист колін",
+              "name_original": "Ochraniacze Kolan"
+            },
+            {
+              "id": 20703,
+              "name_ua": "Захист ліктів",
+              "name_original": "Ochraniacze Na Åokcie"
+            },
+            {
+              "id": 20704,
+              "name_ua": "Панцири",
+              "name_original": "Zbroje"
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "name_ua": "Дощовики",
+          "name_original": "OdzieÅ¼ Przeciwdeszczowa",
+          "seo_url": "doshhovyky",
+          "children": [
+            {
+              "id": 20801,
+              "name_ua": "Дощові куртки",
+              "name_original": "Kurtki Przeciwdeszczowe"
+            },
+            {
+              "id": 20802,
+              "name_ua": "Дощові штани",
+              "name_original": "Spodnie Przeciwdeszczowe"
+            },
+            {
+              "id": 20803,
+              "name_ua": "Дощові комбінезони",
+              "name_original": "Kombinezony Przeciwdeszczowe"
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "name_ua": "Окуляри та гоглси",
+          "name_original": "Gogle / Okulary",
+          "seo_url": "okulyary-goglsy",
+          "children": [
+            {
+              "id": 20901,
+              "name_ua": "Кросові гоглси",
+              "name_original": "Gogle MX"
+            },
+            {
+              "id": 20902,
+              "name_ua": "Мотоокуляри",
+              "name_original": "Okulary Rowerowe"
+            },
+            {
+              "id": 20903,
+              "name_ua": "Аксесуари",
+              "name_original": "Akcesoria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name_ua": "Автомобілі 4х4",
+      "name_original": "4x4 / OFF-ROAD",
+      "seo_url": "avtomobili-4x4",
+      "children": [
+        {
+          "id": 301,
+          "name_ua": "Лебідки",
+          "name_original": "WyciÄ…garki",
+          "seo_url": "lebidky",
+          "children": [
+            {
+              "id": 30101,
+              "name_ua": "Електричні лебідки 12V",
+              "name_original": "WyciÄ…garka Elektryczna 12V",
+              "seo_url": "elektrychni-12v",
+              "children": [
+                {
+                  "id": 3010101,
+                  "name_ua": "Лебідки 3500 lbs",
+                  "name_original": "WyciÄ…garka 3500 lbs"
+                },
+                {
+                  "id": 3010102,
+                  "name_ua": "Лебідки 6000-8000 lbs",
+                  "name_original": "WyciÄ…garka 6000-8000 lbs"
+                },
+                {
+                  "id": 3010103,
+                  "name_ua": "Лебідки 12000+ lbs",
+                  "name_original": "WyciÄ…garka 12000+ lbs"
+                }
+              ]
+            },
+            {
+              "id": 30102,
+              "name_ua": "Гідравлічні лебідки",
+              "name_original": "WyciÄ…garka hydrauliczna",
+              "seo_url": "gidravlichni"
+            },
+            {
+              "id": 30103,
+              "name_ua": "Ручні лебідки",
+              "name_original": "WyciÄ…garki rÄ™czne",
+              "seo_url": "ruchni-lebidky"
+            },
+            {
+              "id": 30104,
+              "name_ua": "Аксесуари до лебідок",
+              "name_original": "Akcesoria do wyciÄ…garek",
+              "seo_url": "aksesuary-lebidok",
+              "children": [
+                {
+                  "id": 3010401,
+                  "name_ua": "Пульти керування",
+                  "name_original": "Piloty"
+                },
+                {
+                  "id": 3010402,
+                  "name_ua": "Реле та перемикачі",
+                  "name_original": "PrzekaÅºniki / Heble"
+                },
+                {
+                  "id": 3010403,
+                  "name_ua": "Монтажні плити",
+                  "name_original": "PÅ‚yty montaÅ¼owe"
+                },
+                {
+                  "id": 3010404,
+                  "name_ua": "Чохли на лебідки",
+                  "name_original": "POKROWCE"
+                }
+              ]
+            },
+            {
+              "id": 30105,
+              "name_ua": "Лебідки для квадроциклів",
+              "name_original": "do Quada | ATV",
+              "seo_url": "lebidky-kvadrocykly"
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "name_ua": "Троси, стропи, шаклі",
+          "name_original": "LINY - ZAWIESIA - PASY - SZEKLE",
+          "seo_url": "trosy-stropy-shakli",
+          "children": [
+            {
+              "id": 30201,
+              "name_ua": "Кінетичні троси та стрічки",
+              "name_original": "LINY i TAÅšMY KINETYCZNE",
+              "seo_url": "kinetychni-trosy"
+            },
+            {
+              "id": 30202,
+              "name_ua": "Синтетичні троси",
+              "name_original": "Liny syntetyczne",
+              "seo_url": "syntetychni-trosy"
+            },
+            {
+              "id": 30203,
+              "name_ua": "Сталеві троси",
+              "name_original": "Liny stalowe",
+              "seo_url": "stalevi-trosy"
+            },
+            {
+              "id": 30204,
+              "name_ua": "Стропи під дерево",
+              "name_original": "Pasy do drzew - Zawiesia",
+              "seo_url": "stropy-pid-derevo"
+            },
+            {
+              "id": 30205,
+              "name_ua": "Шаклі металеві",
+              "name_original": "Szekle",
+              "seo_url": "shakli-metalevi"
+            },
+            {
+              "id": 30206,
+              "name_ua": "М'які шаклі",
+              "name_original": "Szekle miÄ™kkie",
+              "seo_url": "myaki-shakli"
+            },
+            {
+              "id": 30207,
+              "name_ua": "Блоки та поліспасти",
+              "name_original": "Zblocza",
+              "seo_url": "bloky-polispasty"
+            },
+            {
+              "id": 30208,
+              "name_ua": "Гаки та кріплення",
+              "name_original": "Haki / Uchwyty",
+              "seo_url": "gaky-kriplennya"
+            },
+            {
+              "id": 30209,
+              "name_ua": "Комплекти для витягування",
+              "name_original": "Zestawy do wyciÄ…gania",
+              "seo_url": "komplekty-vytyaguvannya"
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "name_ua": "Кузовні елементи та захист",
+          "name_original": "Elementy Nadwozia i podwozia",
+          "seo_url": "kuzovni-elementy-zahyst",
+          "children": [
+            {
+              "id": 30301,
+              "name_ua": "Бампери та силові обвіси",
+              "name_original": "Zderzaki i orurowania",
+              "seo_url": "bampery-sylovi-obvisy"
+            },
+            {
+              "id": 30302,
+              "name_ua": "Захист днища",
+              "name_original": "OsÅ‚ony 4x4 / OsÅ‚ony dyferencjaÅ‚u",
+              "seo_url": "zahyst-dnyshcha"
+            },
+            {
+              "id": 30303,
+              "name_ua": "Пороги та підніжки",
+              "name_original": "Progi i stopnie",
+              "seo_url": "porohy-pidnizhky"
+            },
+            {
+              "id": 30304,
+              "name_ua": "Багажники дахові",
+              "name_original": "BagaÅ¼niki dachowe",
+              "seo_url": "bagazhnyky-dahovi"
+            },
+            {
+              "id": 30305,
+              "name_ua": "Кріплення запаски",
+              "name_original": "Mocowania koÅ‚a zapasowego",
+              "seo_url": "kriplennya-zapasky"
+            },
+            {
+              "id": 30306,
+              "name_ua": "Розширювачі арок",
+              "name_original": "Poszerzenia i nadkola",
+              "seo_url": "rozshyryuvachi-arok"
+            },
+            {
+              "id": 30307,
+              "name_ua": "Капоти та решітки",
+              "name_original": "Maski i grile",
+              "seo_url": "kapoty-reshitky"
+            },
+            {
+              "id": 30308,
+              "name_ua": "Двері та дзеркала",
+              "name_original": "Drzwi i lusterka",
+              "seo_url": "dveri-dzerkala"
+            }
+          ]
+        },
+        {
+          "id": 304,
+          "name_ua": "Підвіска та ліфт-кіти",
+          "name_original": "Zawieszenia - amortyzatory - lifty",
+          "seo_url": "pidviska-lift-kity",
+          "children": [
+            {
+              "id": 30401,
+              "name_ua": "Амортизатори",
+              "name_original": "Amortyzatory",
+              "seo_url": "amortyzatory"
+            },
+            {
+              "id": 30402,
+              "name_ua": "Пружини",
+              "name_original": "SprÄ™Å¼yny",
+              "seo_url": "pruzhyny"
+            },
+            {
+              "id": 30403,
+              "name_ua": "Комплекти ліфтів",
+              "name_original": "Lifty - zestawy",
+              "seo_url": "komplekty-liftiv"
+            },
+            {
+              "id": 30404,
+              "name_ua": "Тяги Панхарда",
+              "name_original": "DrÄ…Å¼ki Panharda",
+              "seo_url": "tyagy-panharda"
+            },
+            {
+              "id": 30405,
+              "name_ua": "Стабілізатори",
+              "name_original": "Stabilizatory",
+              "seo_url": "stabilizatory"
+            },
+            {
+              "id": 30406,
+              "name_ua": "Важелі",
+              "name_original": "Wahacze",
+              "seo_url": "vazheli"
+            },
+            {
+              "id": 30407,
+              "name_ua": "Поліуретанові втулки",
+              "name_original": "Poliuretany",
+              "seo_url": "poliuretanovi-vtulky"
+            }
+          ]
+        },
+        {
+          "id": 305,
+          "name_ua": "Трансмісія та привід",
+          "name_original": "UkÅ‚ad NapÄ™dowy",
+          "seo_url": "transmisiya-pryvid-4x4",
+          "children": [
+            {
+              "id": 30501,
+              "name_ua": "Блокування диференціалів",
+              "name_original": "Blokady mostu, dyferencjaÅ‚y",
+              "seo_url": "blokuvannya-dyferencialiv",
+              "children": [
+                {
+                  "id": 3050101,
+                  "name_ua": "Блокування ARB",
+                  "name_original": "Blokady ARB"
+                },
+                {
+                  "id": 3050102,
+                  "name_ua": "Блокування TRE4x4",
+                  "name_original": "TRE4x4 Blokady"
+                },
+                {
+                  "id": 3050103,
+                  "name_ua": "Компресори до блокувань",
+                  "name_original": "Kompresory do blokad"
+                }
+              ]
+            },
+            {
+              "id": 30502,
+              "name_ua": "Карданні вали",
+              "name_original": "WaÅ‚y napÄ™dowe",
+              "seo_url": "kardanni-valy"
+            },
+            {
+              "id": 30503,
+              "name_ua": "ШРУС та напіввісі",
+              "name_original": "Przeguby / PÃ³Å‚osie",
+              "seo_url": "shrus-napivvisi"
+            },
+            {
+              "id": 30504,
+              "name_ua": "Хрестовини",
+              "name_original": "KrzyÅ¼aki",
+              "seo_url": "khrestovyny"
+            },
+            {
+              "id": 30505,
+              "name_ua": "Мости",
+              "name_original": "Mosty",
+              "seo_url": "mosty"
+            },
+            {
+              "id": 30506,
+              "name_ua": "Зчеплення посилені",
+              "name_original": "SprzÄ™gÅ‚a Tuningowe Wzmocnione",
+              "seo_url": "zcheplennya-posyleni"
+            }
+          ]
+        },
+        {
+          "id": 306,
+          "name_ua": "Освітлення LED",
+          "name_original": "OÅ›wietlenie | Lampy LED",
+          "seo_url": "osvitlennya-led",
+          "children": [
+            {
+              "id": 30601,
+              "name_ua": "LED панелі Light Bar",
+              "name_original": "Panele LED Light Bar",
+              "seo_url": "led-paneli"
+            },
+            {
+              "id": 30602,
+              "name_ua": "Круглі LED фари",
+              "name_original": "Lampy LED - OkrÄ…gÅ‚e",
+              "seo_url": "kruhli-led-fary"
+            },
+            {
+              "id": 30603,
+              "name_ua": "LED прожектори",
+              "name_original": "Reflektory LED",
+              "seo_url": "led-prozhektory"
+            },
+            {
+              "id": 30604,
+              "name_ua": "Малі LED фари",
+              "name_original": "Lampy LED - maÅ‚e",
+              "seo_url": "mali-led-fary"
+            },
+            {
+              "id": 30605,
+              "name_ua": "Кріплення освітлення",
+              "name_original": "Uchwyty mocowania oÅ›wietlenia",
+              "seo_url": "kriplennya-osvitlennya"
+            },
+            {
+              "id": 30606,
+              "name_ua": "Вимикачі та проводка",
+              "name_original": "WÅ‚Ä…czniki kable",
+              "seo_url": "vymykachi-provodka"
+            },
+            {
+              "id": 30607,
+              "name_ua": "Задні ліхтарі",
+              "name_original": "Tylne lampy",
+              "seo_url": "zadni-lihtari"
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "name_ua": "Диски, шини, дистанції",
+          "name_original": "Felgi, Dystanse, Opony",
+          "seo_url": "dysky-shyny-dystanciyi",
+          "children": [
+            {
+              "id": 30701,
+              "name_ua": "Алюмінієві диски",
+              "name_original": "Felgi aluminiowe",
+              "seo_url": "alyuminievi-dysky"
+            },
+            {
+              "id": 30702,
+              "name_ua": "Сталеві диски",
+              "name_original": "Felgi stalowe",
+              "seo_url": "stalevi-dysky"
+            },
+            {
+              "id": 30703,
+              "name_ua": "Позашляхові шини",
+              "name_original": "Opony",
+              "seo_url": "pozashlyahovi-shyny"
+            },
+            {
+              "id": 30704,
+              "name_ua": "Колісні дистанції",
+              "name_original": "Dystanse",
+              "seo_url": "kolisni-dystanciyi"
+            },
+            {
+              "id": 30705,
+              "name_ua": "Центрувальні кільця",
+              "name_original": "PierÅ›cienie centrujÄ…ce",
+              "seo_url": "centruvalni-kilcya"
+            },
+            {
+              "id": 30706,
+              "name_ua": "Болти та гайки",
+              "name_original": "Åšruby i nakrÄ™tki",
+              "seo_url": "bolty-gayky"
+            },
+            {
+              "id": 30707,
+              "name_ua": "Ланцюги на колеса",
+              "name_original": "ÅaÅ„cuchy na koÅ‚a",
+              "seo_url": "lancyugy-kolesa"
+            }
+          ]
+        },
+        {
+          "id": 308,
+          "name_ua": "Випускна та впускна системи",
+          "name_original": "UkÅ‚ad wydechowy i dolotowy",
+          "seo_url": "vypuskna-vpuskna-systemy",
+          "children": [
+            {
+              "id": 30801,
+              "name_ua": "Снорклі",
+              "name_original": "Snorkle",
+              "seo_url": "snorkli"
+            },
+            {
+              "id": 30802,
+              "name_ua": "Випускні системи",
+              "name_original": "UkÅ‚ad wydechowy",
+              "seo_url": "vypuskni-systemy"
+            },
+            {
+              "id": 30803,
+              "name_ua": "Впускні системи",
+              "name_original": "UkÅ‚ad dolotowy",
+              "seo_url": "vpuskni-systemy"
+            },
+            {
+              "id": 30804,
+              "name_ua": "Інтеркулери",
+              "name_original": "Intercooler",
+              "seo_url": "interkulery"
+            },
+            {
+              "id": 30805,
+              "name_ua": "Аксесуари до снорклів",
+              "name_original": "akcesoria do snorkli",
+              "seo_url": "aksesuary-snorkliv"
+            }
+          ]
+        },
+        {
+          "id": 309,
+          "name_ua": "Внутрішнє обладнання",
+          "name_original": "WnÄ™trze - organizacja bagaÅ¼u",
+          "seo_url": "vnutrishnye-obladnannya",
+          "children": [
+            {
+              "id": 30901,
+              "name_ua": "Організація багажника",
+              "name_original": "Organizacja bagaÅ¼u | Zabudowy",
+              "seo_url": "organizaciya-bagazhnyka"
+            },
+            {
+              "id": 30902,
+              "name_ua": "Столики на двері",
+              "name_original": "Stoliki na drzwi",
+              "seo_url": "stolyky-dveri"
+            },
+            {
+              "id": 30903,
+              "name_ua": "Крісла та чохли",
+              "name_original": "Fotele i pokrowce",
+              "seo_url": "krisla-chohly"
+            },
+            {
+              "id": 30904,
+              "name_ua": "Килимки",
+              "name_original": "Dywaniki",
+              "seo_url": "kylymky"
+            },
+            {
+              "id": 30905,
+              "name_ua": "Тримачі для смартфонів",
+              "name_original": "Uchwyty do smartfonÃ³w",
+              "seo_url": "trymachi-smartfoniv"
+            },
+            {
+              "id": 30906,
+              "name_ua": "Кутомір схилів",
+              "name_original": "PrzechyÅ‚omierze",
+              "seo_url": "kutomer-shyliv"
+            },
+            {
+              "id": 30907,
+              "name_ua": "Pedal Commander",
+              "name_original": "Pedal Commander",
+              "seo_url": "pedal-commander"
+            }
+          ]
+        },
+        {
+          "id": 310,
+          "name_ua": "Каністри та кріплення",
+          "name_original": "Kanistry zbiorniki mocowania",
+          "seo_url": "kanistry-kriplennya",
+          "children": [
+            {
+              "id": 31001,
+              "name_ua": "Каністри металеві",
+              "name_original": "Kanistry"
+            },
+            {
+              "id": 31002,
+              "name_ua": "Каністри пластикові",
+              "name_original": "Kanistry plastikowe"
+            },
+            {
+              "id": 31003,
+              "name_ua": "Кріплення каністр",
+              "name_original": "Mocowania"
+            }
+          ]
+        },
+        {
+          "id": 311,
+          "name_ua": "Компресори",
+          "name_original": "Kompresory i osprzÄ™t",
+          "seo_url": "kompresory",
+          "children": [
+            {
+              "id": 31101,
+              "name_ua": "Автомобільні компресори",
+              "name_original": "Kompresory samochodowe"
+            },
+            {
+              "id": 31102,
+              "name_ua": "Компресори високого тиску",
+              "name_original": "Kompresory wysokiego ciÅ›nienia"
+            },
+            {
+              "id": 31103,
+              "name_ua": "Аксесуари",
+              "name_original": "OsprzÄ™t"
+            }
+          ]
+        },
+        {
+          "id": 312,
+          "name_ua": "Акумулятори та електрика",
+          "name_original": "Akumulatory - Przetwornice",
+          "seo_url": "akumulyatory-elektryka",
+          "children": [
+            {
+              "id": 31201,
+              "name_ua": "Акумулятори автомобільні",
+              "name_original": "Akumulatory"
+            },
+            {
+              "id": 31202,
+              "name_ua": "Перетворювачі напруги",
+              "name_original": "Przetwornice"
+            },
+            {
+              "id": 31203,
+              "name_ua": "Зарядні пристрої",
+              "name_original": "Åadowarki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name_ua": "Велосипеди",
+      "name_original": "ROWERY / AKCESORIA ROWEROWE",
+      "seo_url": "velosypedy",
+      "children": [
+        {
+          "id": 401,
+          "name_ua": "Велосипеди дорослі",
+          "name_original": "ROWERY",
+          "seo_url": "velosypedy-dorosli",
+          "children": [
+            {
+              "id": 40101,
+              "name_ua": "Гірські велосипеди MTB",
+              "name_original": "MTB",
+              "seo_url": "girski-mtb"
+            },
+            {
+              "id": 40102,
+              "name_ua": "Трекінгові",
+              "name_original": "Trekking",
+              "seo_url": "treking"
+            },
+            {
+              "id": 40103,
+              "name_ua": "Міські",
+              "name_original": "Miejskie",
+              "seo_url": "miski"
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "name_ua": "Електровелосипеди",
+          "name_original": "ROWERY ELEKTRYCZNE",
+          "seo_url": "elektrovelosypedy",
+          "children": [
+            {
+              "id": 40201,
+              "name_ua": "E-MTB",
+              "name_original": "MTB elektryczne"
+            },
+            {
+              "id": 40202,
+              "name_ua": "E-Trekking та міські",
+              "name_original": "Trekking I Miejskie elektryczne"
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "name_ua": "Дитячі велосипеди",
+          "name_original": "ROWERY DLA DZIECI",
+          "seo_url": "dytyachi-velosypedy"
+        },
+        {
+          "id": 404,
+          "name_ua": "Частини велосипеда",
+          "name_original": "CZÄ˜ÅšCI ROWEROWE",
+          "seo_url": "chastyny-velosypeda",
+          "children": [
+            {
+              "id": 40401,
+              "name_ua": "Колеса та покришки",
+              "name_original": "KoÅ‚a Rowerowe / Opony",
+              "seo_url": "kolesa-pokryshky",
+              "children": [
+                {
+                  "id": 4040101,
+                  "name_ua": "Покришки велосипедні",
+                  "name_original": "Opony Rowerowe"
+                },
+                {
+                  "id": 4040102,
+                  "name_ua": "Камери",
+                  "name_original": "DÄ™tki Rowerowe"
+                },
+                {
+                  "id": 4040103,
+                  "name_ua": "Колеса передні",
+                  "name_original": "KoÅ‚a Rowerowe Przednie"
+                },
+                {
+                  "id": 4040104,
+                  "name_ua": "Колеса задні",
+                  "name_original": "KoÅ‚a Rowerowe Tylne"
+                }
+              ]
+            },
+            {
+              "id": 40402,
+              "name_ua": "Трансмісія",
+              "name_original": "NapÄ™d Rowerowy",
+              "seo_url": "transmisiya-velo",
+              "children": [
+                {
+                  "id": 4040201,
+                  "name_ua": "Ланцюги",
+                  "name_original": "ÅaÅ„cuchy Rowerowe"
+                },
+                {
+                  "id": 4040202,
+                  "name_ua": "Касети",
+                  "name_original": "Kasety"
+                },
+                {
+                  "id": 4040203,
+                  "name_ua": "Шатуни та зірки",
+                  "name_original": "Korby I ZÄ™batki"
+                },
+                {
+                  "id": 4040204,
+                  "name_ua": "Перемикачі",
+                  "name_original": "Przerzutki"
+                },
+                {
+                  "id": 4040205,
+                  "name_ua": "Манетки",
+                  "name_original": "Manetki"
+                }
+              ]
+            },
+            {
+              "id": 40403,
+              "name_ua": "Гальма велосипедні",
+              "name_original": "Hamulce Rowerowe",
+              "seo_url": "galma-velosypedni",
+              "children": [
+                {
+                  "id": 4040301,
+                  "name_ua": "Дискові гальма",
+                  "name_original": "Hamulce tarczowe"
+                },
+                {
+                  "id": 4040302,
+                  "name_ua": "Колодки дискові",
+                  "name_original": "Klocki Rowerowe Tarczowe"
+                },
+                {
+                  "id": 4040303,
+                  "name_ua": "Гальмівні диски",
+                  "name_original": "Tarcze Hamulcowe Rowerowe"
+                },
+                {
+                  "id": 4040304,
+                  "name_ua": "Колодки V-brake",
+                  "name_original": "Klocki Hamulcowe V-brake"
+                }
+              ]
+            },
+            {
+              "id": 40404,
+              "name_ua": "Підвіска",
+              "name_original": "Amortyzatory Rowerowe",
+              "seo_url": "pidviska-velo"
+            },
+            {
+              "id": 40405,
+              "name_ua": "Кермо та виноси",
+              "name_original": "Kierownice / Wsporniki",
+              "seo_url": "kermo-vynosy"
+            },
+            {
+              "id": 40406,
+              "name_ua": "Сідла та підсідельні штирі",
+              "name_original": "SiodeÅ‚ka / Sztyce",
+              "seo_url": "sidla-pidsidilni"
+            },
+            {
+              "id": 40407,
+              "name_ua": "Педалі",
+              "name_original": "PedaÅ‚y Rowerowe",
+              "seo_url": "pedali-velo"
+            },
+            {
+              "id": 40408,
+              "name_ua": "Рами велосипедні",
+              "name_original": "Ramy Rowerowe",
+              "seo_url": "ramy-velosypedni"
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "name_ua": "Аксесуари велосипедні",
+          "name_original": "AKCESORIA ROWEROWE",
+          "seo_url": "aksesuary-velosypedni",
+          "children": [
+            {
+              "id": 40501,
+              "name_ua": "Велошоломи",
+              "name_original": "Kaski Rowerowe",
+              "seo_url": "veloshol omy"
+            },
+            {
+              "id": 40502,
+              "name_ua": "Освітлення велосипедне",
+              "name_original": "Lampki Rowerowe",
+              "seo_url": "osvitlennya-velosypedne",
+              "children": [
+                {
+                  "id": 4050201,
+                  "name_ua": "Передні ліхтарі",
+                  "name_original": "Lampki Przednie"
+                },
+                {
+                  "id": 4050202,
+                  "name_ua": "Задні ліхтарі",
+                  "name_original": "Lampki Tylne"
+                },
+                {
+                  "id": 4050203,
+                  "name_ua": "Комплекти освітлення",
+                  "name_original": "Lampki Zestawy"
+                }
+              ]
+            },
+            {
+              "id": 40503,
+              "name_ua": "Замки велосипедні",
+              "name_original": "ZapiÄ™cia Rowerowe",
+              "seo_url": "zamky-velosypedni",
+              "children": [
+                {
+                  "id": 4050301,
+                  "name_ua": "U-подібні замки",
+                  "name_original": "U-Locki"
+                },
+                {
+                  "id": 4050302,
+                  "name_ua": "Ланцюгові замки",
+                  "name_original": "ÅaÅ„cuchy"
+                },
+                {
+                  "id": 4050303,
+                  "name_ua": "Складні замки",
+                  "name_original": "Blokada SkÅ‚adana"
+                },
+                {
+                  "id": 4050304,
+                  "name_ua": "Тросові замки",
+                  "name_original": "Linki ZabezpieczajÄ…ce"
+                }
+              ]
+            },
+            {
+              "id": 40504,
+              "name_ua": "Сумки та рюкзаки",
+              "name_original": "Sakwy, Torby I Plecaki",
+              "seo_url": "sumky-ryukzaky"
+            },
+            {
+              "id": 40505,
+              "name_ua": "Багажники велосипедні",
+              "name_original": "BagaÅ¼niki Rowerowe",
+              "seo_url": "bagazhnyky-velosypedni"
+            },
+            {
+              "id": 40506,
+              "name_ua": "Бризковики",
+              "name_original": "BÅ‚otniki Rowerowe",
+              "seo_url": "bryzkovyky"
+            },
+            {
+              "id": 40507,
+              "name_ua": "Насоси велосипедні",
+              "name_original": "Pompki Rowerowe",
+              "seo_url": "nasosy-velosypedni"
+            },
+            {
+              "id": 40508,
+              "name_ua": "Пляшки та тримачі",
+              "name_original": "Bidony I Koszyki",
+              "seo_url": "plyashky-trymachi"
+            },
+            {
+              "id": 40509,
+              "name_ua": "Велокомп'ютери",
+              "name_original": "Liczniki Rowerowe",
+              "seo_url": "velokomp-yutery"
+            },
+            {
+              "id": 40510,
+              "name_ua": "Інструменти та сервіс",
+              "name_original": "NarzÄ™dzia I Serwis",
+              "seo_url": "instrumenty-servis",
+              "children": [
+                {
+                  "id": 4051001,
+                  "name_ua": "Ключі та інструменти",
+                  "name_original": "Klucze I NarzÄ™dzia"
+                },
+                {
+                  "id": 4051002,
+                  "name_ua": "Очищення велосипеда",
+                  "name_original": "Czyszczenie Roweru"
+                },
+                {
+                  "id": 4051003,
+                  "name_ua": "Мастила велосипедні",
+                  "name_original": "Smary Rowerowe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 406,
+          "name_ua": "Велоодяг та взуття",
+          "name_original": "OdzieÅ¼ Rowerowa / Obuwie",
+          "seo_url": "veloodya g-vzuttya",
+          "children": [
+            {
+              "id": 40601,
+              "name_ua": "Велофутболки та джерсі",
+              "name_original": "Koszulki I Bluzy Rowerowe",
+              "seo_url": "velofutbolky"
+            },
+            {
+              "id": 40602,
+              "name_ua": "Велошорти та штани",
+              "name_original": "Spodenki I Spodnie",
+              "seo_url": "veloshorty-shtany"
+            },
+            {
+              "id": 40603,
+              "name_ua": "Велокуртки",
+              "name_original": "Kurtki Rowerowe",
+              "seo_url": "velokurtky"
+            },
+            {
+              "id": 40604,
+              "name_ua": "Велорукавички",
+              "name_original": "RÄ™kawiczki Rowerowe",
+              "seo_url": "velorukavychky"
+            },
+            {
+              "id": 40605,
+              "name_ua": "Велошкарпетки",
+              "name_original": "Skarpety Rowerowe",
+              "seo_url": "veloshkarpetky"
+            },
+            {
+              "id": 40606,
+              "name_ua": "Велоокуляри",
+              "name_original": "Okulary Rowerowe",
+              "seo_url": "velookulyary"
+            },
+            {
+              "id": 40607,
+              "name_ua": "Велозахист",
+              "name_original": "Ochraniacze Rowerowe",
+              "seo_url": "velozahyst"
+            },
+            {
+              "id": 40608,
+              "name_ua": "Велозвуття",
+              "name_original": "Obuwie Rowerowe",
+              "seo_url": "velozuttya",
+              "children": [
+                {
+                  "id": 4060801,
+                  "name_ua": "Взуття MTB",
+                  "name_original": "Buty MTB"
+                },
+                {
+                  "id": 4060802,
+                  "name_ua": "Взуття шосейне",
+                  "name_original": "Buty Szosowe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name_ua": "Туризм та кемпінг",
+      "name_original": "Outdoor / Namioty Dachowe",
+      "seo_url": "turyzm-kemping",
+      "children": [
+        {
+          "id": 501,
+          "name_ua": "Дахові намети",
+          "name_original": "Namioty Dachowe",
+          "seo_url": "dahovi-namety",
+          "children": [
+            {
+              "id": 50101,
+              "name_ua": "Намети в твердому корпусі",
+              "name_original": "Namioty w Twardej Obudowie",
+              "seo_url": "namety-tverdyy-korpus"
+            },
+            {
+              "id": 50102,
+              "name_ua": "Намети в м'якому корпусі",
+              "name_original": "Namioty W MiÄ™kkiej Obudowie",
+              "seo_url": "namety-myakyy-korpus"
+            },
+            {
+              "id": 50103,
+              "name_ua": "Сімейні намети",
+              "name_original": "Namioty dla Rodzin",
+              "seo_url": "simeyni-namety"
+            },
+            {
+              "id": 50104,
+              "name_ua": "Преміум намети",
+              "name_original": "Namioty PREMIUM | VIP",
+              "seo_url": "premium-namety"
+            },
+            {
+              "id": 50105,
+              "name_ua": "Аксесуари до наметів",
+              "name_original": "Akcesoria do namiotÃ³w",
+              "seo_url": "aksesuary-nametiv"
+            }
+          ]
+        },
+        {
+          "id": 502,
+          "name_ua": "Маркізи та навіси",
+          "name_original": "Markizy",
+          "seo_url": "markizy-navisy",
+          "children": [
+            {
+              "id": 50201,
+              "name_ua": "Стандартні маркізи",
+              "name_original": "Markizy Standardowe",
+              "seo_url": "standartni-markizy"
+            },
+            {
+              "id": 50202,
+              "name_ua": "Маркізи HEX та Batwing",
+              "name_original": "Markizy HEX | Batwing",
+              "seo_url": "markizy-hex-batwing"
+            },
+            {
+              "id": 50203,
+              "name_ua": "Бічні стінки",
+              "name_original": "Åšciany boczne",
+              "seo_url": "bichni-stinky"
+            },
+            {
+              "id": 50204,
+              "name_ua": "Передсінки",
+              "name_original": "Aneksy - Przedsionki",
+              "seo_url": "peredsionky"
+            }
+          ]
+        },
+        {
+          "id": 503,
+          "name_ua": "Туристичне спорядження",
+          "name_original": "Outdoor - Akcesoria",
+          "seo_url": "turystychne-sporyadzhennya",
+          "children": [
+            {
+              "id": 50301,
+              "name_ua": "Ліхтарі та налобники",
+              "name_original": "Latarki, czoÅ‚Ã³wki",
+              "seo_url": "lihtari-nalobnyky"
+            },
+            {
+              "id": 50302,
+              "name_ua": "Ножі та мультитули",
+              "name_original": "NoÅ¼e / Multitoole",
+              "seo_url": "nozhi-multytuly"
+            },
+            {
+              "id": 50303,
+              "name_ua": "Сокири та мачете",
+              "name_original": "Maczety Toporki Siekiery",
+              "seo_url": "sokyry-machete"
+            },
+            {
+              "id": 50304,
+              "name_ua": "Саперні лопати",
+              "name_original": "Saperki Å‚opaty",
+              "seo_url": "saperni-lopaty"
+            },
+            {
+              "id": 50305,
+              "name_ua": "Розкладні меблі",
+              "name_original": "KrzesÅ‚a i StoÅ‚y / SkÅ‚adane",
+              "seo_url": "rozkladni-mebli"
+            },
+            {
+              "id": 50306,
+              "name_ua": "Спальні мішки та каремати",
+              "name_original": "Åšpiwory, materace, karimaty",
+              "seo_url": "spalni-mishky-karematy"
+            },
+            {
+              "id": 50307,
+              "name_ua": "Термопосуд",
+              "name_original": "Kubki termiczne i termosy",
+              "seo_url": "termoposud"
+            },
+            {
+              "id": 50308,
+              "name_ua": "Кухонне обладнання",
+              "name_original": "Kuchenki, grille / Naczynia",
+              "seo_url": "kuhonne-obladnannya"
+            },
+            {
+              "id": 50309,
+              "name_ua": "Гамаки",
+              "name_original": "Hamaki",
+              "seo_url": "hamaky"
+            },
+            {
+              "id": 50310,
+              "name_ua": "Душі туристичні",
+              "name_original": "Prysznice turystyczne",
+              "seo_url": "dushi-turystychni"
+            },
+            {
+              "id": 50311,
+              "name_ua": "Туалети переносні",
+              "name_original": "Toalety przenoÅ›ne",
+              "seo_url": "tualety-perenosni"
+            }
+          ]
+        },
+        {
+          "id": 504,
+          "name_ua": "Ящики та сумки експедиційні",
+          "name_original": "Skrzynie i Torby Wyprawowe",
+          "seo_url": "yashchyky-sumky-ekspedyciyi",
+          "children": [
+            {
+              "id": 50401,
+              "name_ua": "Алюмінієві ящики",
+              "name_original": "Skrzynie aluminiowe",
+              "seo_url": "alyuminievi-yashchyky"
+            },
+            {
+              "id": 50402,
+              "name_ua": "Ящики Wolf Case",
+              "name_original": "WolfCase Skrzynie",
+              "seo_url": "yashchyky-wolf-case"
+            },
+            {
+              "id": 50403,
+              "name_ua": "Ящики Nomad FOX",
+              "name_original": "Skrzynie Nomad FOX",
+              "seo_url": "yashchyky-nomad-fox"
+            },
+            {
+              "id": 50404,
+              "name_ua": "Водонепроникні сумки",
+              "name_original": "Torby Wodoszczelne",
+              "seo_url": "vodonepronykni-sumky"
+            },
+            {
+              "id": 50405,
+              "name_ua": "MOLLE сумки",
+              "name_original": "MOLLE torby",
+              "seo_url": "molle-sumky"
+            },
+            {
+              "id": 50406,
+              "name_ua": "Сумки на колесо",
+              "name_original": "Torby na koÅ‚o",
+              "seo_url": "sumky-koleso"
+            },
+            {
+              "id": 50407,
+              "name_ua": "Органайзери багажні",
+              "name_original": "Organizery bagaÅ¼owe",
+              "seo_url": "organayzer y-bagazhni"
+            }
+          ]
+        },
+        {
+          "id": 505,
+          "name_ua": "Холодильники автомобільні",
+          "name_original": "LodÃ³wki samochodowe",
+          "seo_url": "holodylnyky-avtomobilni"
+        },
+        {
+          "id": 506,
+          "name_ua": "Опалення автономне",
+          "name_original": "Ogrzewanie postojowe",
+          "seo_url": "opalennya-avtonomne"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name_ua": "Олії та хімія",
+      "name_original": "Oleje - Smary - Chemia",
+      "seo_url": "oliyi-himiya",
+      "children": [
+        {
+          "id": 601,
+          "name_ua": "Моторні олії",
+          "name_original": "Oleje Silnikowe",
+          "seo_url": "motorni-oliyi"
+        },
+        {
+          "id": 602,
+          "name_ua": "Трансмісійні олії",
+          "name_original": "Oleje PrzekÅ‚adniowe",
+          "seo_url": "transmisiyni-oliyi"
+        },
+        {
+          "id": 603,
+          "name_ua": "Олії для амортизаторів",
+          "name_original": "Oleje Do AmortyzatorÃ³w",
+          "seo_url": "oliyi-amortyzatoriv"
+        },
+        {
+          "id": 604,
+          "name_ua": "Рідини охолоджуючі",
+          "name_original": "PÅ‚yny Do ChÅ‚odnic",
+          "seo_url": "ridyny-oholodzhuyuchi"
+        },
+        {
+          "id": 605,
+          "name_ua": "Гальмівні рідини",
+          "name_original": "PÅ‚yny Hamulcowe",
+          "seo_url": "galmivni-ridyny"
+        },
+        {
+          "id": 606,
+          "name_ua": "Мастила для ланцюгів",
+          "name_original": "Smary Do ÅaÅ„cuchÃ³w",
+          "seo_url": "mastyla-lancyugiv"
+        },
+        {
+          "id": 607,
+          "name_ua": "Очищувачі та консерванти",
+          "name_original": "Åšrodki CzyszczÄ…ce",
+          "seo_url": "ochyshchuvachi-konservanty"
+        },
+        {
+          "id": 608,
+          "name_ua": "Хімія warsztatowa",
+          "name_original": "Chemia Warsztatowa",
+          "seo_url": "himiya-warsztatova"
+        },
+        {
+          "id": 609,
+          "name_ua": "Додатки до палива",
+          "name_original": "Dodatki",
+          "seo_url": "dodatky-palyva"
+        },
+        {
+          "id": 610,
+          "name_ua": "Імпрегнати",
+          "name_original": "Impregnaty",
+          "seo_url": "impregnaty"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name_ua": "Комунікація та навігація",
+      "name_original": "INTERKOMY - CB RADIA",
+      "seo_url": "komunikaciya-navigaciya",
+      "children": [
+        {
+          "id": 701,
+          "name_ua": "Інтеркоми мотоциклетні",
+          "name_original": "INTERKOMY",
+          "seo_url": "interkomy",
+          "children": [
+            {
+              "id": 70101,
+              "name_ua": "Cardo",
+              "name_original": "Cardo interkomy"
+            },
+            {
+              "id": 70102,
+              "name_ua": "Midland",
+              "name_original": "Midland"
+            },
+            {
+              "id": 70103,
+              "name_ua": "FreedConn",
+              "name_original": "FreedConn"
+            }
+          ]
+        },
+        {
+          "id": 702,
+          "name_ua": "CB радіостанції",
+          "name_original": "CB RADIA",
+          "seo_url": "cb-radiostanciyi"
+        },
+        {
+          "id": 703,
+          "name_ua": "Рації",
+          "name_original": "KrÃ³tkofalÃ³wki",
+          "seo_url": "raciyi"
+        },
+        {
+          "id": 704,
+          "name_ua": "GPS навігатори",
+          "name_original": "GARMIN, Tomtom",
+          "seo_url": "gps-navigatory"
+        },
+        {
+          "id": 705,
+          "name_ua": "Тримачі для GPS та телефонів",
+          "name_original": "Uchwyty Na Telefon I GPS",
+          "seo_url": "trymachi-gps-telefoniv",
+          "children": [
+            {
+              "id": 70501,
+              "name_ua": "Quad Lock",
+              "name_original": "Quad lock"
+            },
+            {
+              "id": 70502,
+              "name_ua": "SP Connect",
+              "name_original": "SP Connect"
+            },
+            {
+              "id": 70503,
+              "name_ua": "Brodit",
+              "name_original": "Brodit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name_ua": "Запчастини класичних мотоциклів",
+      "name_original": "CZÄ˜ÅšCI SIMSON / MZ / JAWA / WSK",
+      "seo_url": "zapchastyny-klasychnyh",
+      "children": [
+        {
+          "id": 801,
+          "name_ua": "Simson",
+          "name_original": "CZÄ˜ÅšCI SIMSON",
+          "seo_url": "simson",
+          "children": [
+            {
+              "id": 80101,
+              "name_ua": "Двигун Simson",
+              "name_original": "Silnik Simson"
+            },
+            {
+              "id": 80102,
+              "name_ua": "Електрика Simson",
+              "name_original": "Elektryka Simson"
+            },
+            {
+              "id": 80103,
+              "name_ua": "Карбюратор Simson",
+              "name_original": "GaÅºnik Simson"
+            },
+            {
+              "id": 80104,
+              "name_ua": "Кузов Simson",
+              "name_original": "Nadwozie Simson"
+            },
+            {
+              "id": 80105,
+              "name_ua": "Наклейки Simson",
+              "name_original": "Naklejki Simson"
+            }
+          ]
+        },
+        {
+          "id": 802,
+          "name_ua": "MZ ETZ / TS / ES",
+          "name_original": "CZÄ˜ÅšCI MZ",
+          "seo_url": "mz-etz-ts",
+          "children": [
+            {
+              "id": 80201,
+              "name_ua": "Двигун MZ",
+              "name_original": "Silnik MZ"
+            },
+            {
+              "id": 80202,
+              "name_ua": "Електрика MZ",
+              "name_original": "Elektryka MZ"
+            },
+            {
+              "id": 80203,
+              "name_ua": "Підвіска MZ",
+              "name_original": "Zawieszenie MZ"
+            },
+            {
+              "id": 80204,
+              "name_ua": "Кузов MZ",
+              "name_original": "Nadwozie MZ"
+            }
+          ]
+        },
+        {
+          "id": 803,
+          "name_ua": "Jawa 50",
+          "name_original": "CZÄ˜ÅšCI JAWA 50",
+          "seo_url": "jawa-50",
+          "children": [
+            {
+              "id": 80301,
+              "name_ua": "Двигун Jawa",
+              "name_original": "Silnik Jawa"
+            },
+            {
+              "id": 80302,
+              "name_ua": "Електрика Jawa",
+              "name_original": "Elektryka Jawa"
+            },
+            {
+              "id": 80303,
+              "name_ua": "Кузов Jawa",
+              "name_original": "Nadwozie Jawa"
+            }
+          ]
+        },
+        {
+          "id": 804,
+          "name_ua": "WSK / WFM / SHL",
+          "name_original": "CZÄ˜ÅšCI WSK, WFM, SHL",
+          "seo_url": "wsk-wfm-shl"
+        },
+        {
+          "id": 805,
+          "name_ua": "Romet / Komar",
+          "name_original": "CZÄ˜ÅšCI ROMET, KOMAR",
+          "seo_url": "romet-komar"
+        },
+        {
+          "id": 806,
+          "name_ua": "Скутери та мопеди",
+          "name_original": "CZÄ˜ÅšCI SKUTERY, MOTOROWERY",
+          "seo_url": "skutery-mopedy",
+          "children": [
+            {
+              "id": 80601,
+              "name_ua": "Двигун скутера",
+              "name_original": "Silnik skutera"
+            },
+            {
+              "id": 80602,
+              "name_ua": "Варіатор та трансмісія",
+              "name_original": "Wariatory, Rolki"
+            },
+            {
+              "id": 80603,
+              "name_ua": "Карбюратор скутера",
+              "name_original": "GaÅºnik skutera"
+            },
+            {
+              "id": 80604,
+              "name_ua": "Електрика скутера",
+              "name_original": "Elektryka skutera"
+            },
+            {
+              "id": 80605,
+              "name_ua": "Кузов скутера",
+              "name_original": "Nadwozie skutera"
+            }
+          ]
+        },
+        {
+          "id": 807,
+          "name_ua": "Універсальні запчастини",
+          "name_original": "UNIWERSALNE",
+          "seo_url": "universalni-zapchastyny",
+          "children": [
+            {
+              "id": 80701,
+              "name_ua": "Свічки запалення",
+              "name_original": "Åšwiece zapÅ‚onowe"
+            },
+            {
+              "id": 80702,
+              "name_ua": "Фільтри",
+              "name_original": "Filtry"
+            },
+            {
+              "id": 80703,
+              "name_ua": "Підшипники",
+              "name_original": "ÅoÅ¼yska"
+            },
+            {
+              "id": 80704,
+              "name_ua": "Сальники",
+              "name_original": "Simeringi"
+            },
+            {
+              "id": 80705,
+              "name_ua": "Ущільнення",
+              "name_original": "Uszczelki"
+            },
+            {
+              "id": 80706,
+              "name_ua": "Лампочки",
+              "name_original": "Å»arÃ³wki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name_ua": "Спеціальні категорії",
+      "name_original": "PROMOCJE / NOWOŚCI",
+      "seo_url": "specialni-kategoriyi",
+      "children": [
+        {
+          "id": 901,
+          "name_ua": "Акції та знижки",
+          "name_original": "PROMOCJE / WYPRZEDAÅ»E",
+          "seo_url": "akciyi-znyzhky"
+        },
+        {
+          "id": 902,
+          "name_ua": "Новинки",
+          "name_original": "NOWOÅšCI",
+          "seo_url": "novynky"
+        },
+        {
+          "id": 903,
+          "name_ua": "Рекомендовані товари",
+          "name_original": "Polecane",
+          "seo_url": "rekomendovani-tovary"
+        },
+        {
+          "id": 904,
+          "name_ua": "Подарункові сертифікати",
+          "name_original": "Kupony Podarunkowe",
+          "seo_url": "podarunkovi-sertyfikaty"
+        },
+        {
+          "id": 905,
+          "name_ua": "Сувеніри та подарунки",
+          "name_original": "ZABAWKI - PREZENTY",
+          "seo_url": "suveniry-podarunky",
+          "children": [
+            {
+              "id": 90501,
+              "name_ua": "Футболки та худі",
+              "name_original": "Koszulki Bluzy"
+            },
+            {
+              "id": 90502,
+              "name_ua": "Кепки",
+              "name_original": "Czapki z daszkiem"
+            },
+            {
+              "id": 90503,
+              "name_ua": "Наклейки",
+              "name_original": "Naklejki zabawne"
+            },
+            {
+              "id": 90504,
+              "name_ua": "Брелоки",
+              "name_original": "Breloki"
+            },
+            {
+              "id": 90505,
+              "name_ua": "Іграшки",
+              "name_original": "Pluszaki i Zabawki"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_date": "2025-10-08",
+    "total_categories": 9,
+    "max_depth": 4,
+    "language": "uk",
+    "seo_optimized": true,
+    "description": "Оптимізована структура категорій для інтернет-магазину мото- та автоаксесуарів"
+  }
+}
