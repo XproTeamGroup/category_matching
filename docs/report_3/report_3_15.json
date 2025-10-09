@@ -1,0 +1,118 @@
+{
+  "processed_at": "2025-10-09T12:14:31.165074",
+  "summary": {
+    "total_input": 6,
+    "total_matched": 6,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "12.51s"
+  },
+  "matched_categories": {
+    "count": 5,
+    "items": [
+      {
+        "input_id": 1451,
+        "input_name": "Електрика | Освітлення",
+        "input_path": "",
+        "input_full_path": "Ущільнювачі > Електрика | Освітлення",
+        "match_id": "10302",
+        "match_name": "Освітлення LED",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Електрика та освітлення > Освітлення LED",
+        "confidence": 0.7,
+        "reasoning": "Частково збігається тематика електрики та освітлення",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1452,
+        "input_name": "Карбюратор",
+        "input_path": "",
+        "input_full_path": "Ущільнювачі > Карбюратор",
+        "match_id": "1010401",
+        "match_name": "Карбюратори та жиклери",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Частини для мотоциклів > Паливна система > Карбюратори та жиклери",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння для карбюраторів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1454,
+        "input_name": "Кузов | Підвіска | Рама",
+        "input_path": "",
+        "input_full_path": "Ущільнювачі > Кузов | Підвіска | Рама",
+        "match_id": "10601",
+        "match_name": "Танк-педи",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Наклейки та графіка > Танк-педи",
+        "confidence": 0.6,
+        "reasoning": "Часткове семантичне співпадіння по підвісці",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1455,
+        "input_name": "Наліпки",
+        "input_path": "",
+        "input_full_path": "Ущільнювачі > Наліпки",
+        "match_id": "10601",
+        "match_name": "Танк-педи",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Наклейки та графіка > Танк-педи",
+        "confidence": 0.8,
+        "reasoning": "Збігається тематика наклейок",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1456,
+        "input_name": "Двигун",
+        "input_path": "",
+        "input_full_path": "Ущільнювачі > Двигун",
+        "match_id": "1010105",
+        "match_name": "Прокладки двигуна",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Частини для мотоциклів > Двигун і трансмісія > Прокладки двигуна",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння по двигуну",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 1,
+    "items": [
+      {
+        "input_id": 1453,
+        "input_name": "Посилання",
+        "input_path": "",
+        "input_full_path": "Ущільнювачі > Посилання",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Неоднозначна категорія без чіткого семантичного значення",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 5,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 1,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 2,
+      "medium_confidence": 3,
+      "low_confidence": 0
+    }
+  }
+}

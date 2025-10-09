@@ -1,0 +1,52 @@
+{
+  "processed_at": "2025-10-09T15:53:40.133011",
+  "summary": {
+    "total_input": 1,
+    "total_matched": 1,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "4.06s"
+  },
+  "matched_categories": {
+    "count": 1,
+    "items": [
+      {
+        "input_id": 1715,
+        "input_name": "Гальмівна система | колодки, диски, супорти",
+        "input_path": "",
+        "input_full_path": "Гальмівна система | колодки, диски, супорти",
+        "match_id": "1010201",
+        "match_name": "Гальмівні колодки",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Частини для мотоциклів > Гальмівна система > Гальмівні колодки",
+        "confidence": 0.9,
+        "reasoning": "Точное соответствие категории гальмівної системи для мотоциклів, включая колодки",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 1,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 1,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

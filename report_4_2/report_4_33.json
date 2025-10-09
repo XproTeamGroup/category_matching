@@ -1,0 +1,118 @@
+{
+  "processed_at": "2025-10-09T19:51:04.986759",
+  "summary": {
+    "total_input": 6,
+    "total_matched": 6,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "11.70s"
+  },
+  "matched_categories": {
+    "count": 2,
+    "items": [
+      {
+        "input_id": 1996,
+        "input_name": "Кепки",
+        "input_path": "",
+        "input_full_path": "Іграшки - Купони - Наклейки Подарунки > Кепки",
+        "match_id": "1106",
+        "match_name": "Кепки та шапки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Кепки та шапки",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння категорії кепок",
+        "method": "exact"
+      },
+      {
+        "input_id": 1995,
+        "input_name": "Футболки Толстовки",
+        "input_path": "",
+        "input_full_path": "Іграшки - Купони - Наклейки Подарунки > Футболки Толстовки",
+        "match_id": "1105",
+        "match_name": "Футболки та толстовки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Футболки та толстовки",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння категорії футболок та толстовок",
+        "method": "exact"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 4,
+    "items": [
+      {
+        "input_id": 1993,
+        "input_name": "Подарункові купони",
+        "input_path": "",
+        "input_full_path": "Іграшки - Купони - Наклейки Подарунки > Подарункові купони",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1994,
+        "input_name": "Наклейки Offroad - смішні",
+        "input_path": "",
+        "input_full_path": "Іграшки - Купони - Наклейки Подарунки > Наклейки Offroad - смішні",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії наклейок в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1998,
+        "input_name": "Плюшеві іграшки, Іграшки та Ігри",
+        "input_path": "",
+        "input_full_path": "Іграшки - Купони - Наклейки Подарунки > Плюшеві іграшки, Іграшки та Ігри",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає категорії іграшок в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1997,
+        "input_name": "Вішак і Брелоки - Jeep",
+        "input_path": "",
+        "input_full_path": "Іграшки - Купони - Наклейки Подарунки > Вішак і Брелоки - Jeep",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає категорії брелоків або аксесуарів такого типу",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 2,
+      "semantic_matches": 0,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 4,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 2,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

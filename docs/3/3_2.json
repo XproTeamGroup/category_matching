@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1492,
+    "name": "Окуляри захисні",
+    "parent_id": 1492,
+    "children": [
+      {
+        "id": 1488,
+        "name": "Цілісні",
+        "parent_id": 1492,
+        "children": []
+      },
+      {
+        "id": 1491,
+        "name": "Балаклави",
+        "parent_id": 1492,
+        "children": []
+      },
+      {
+        "id": 1487,
+        "name": "Мотокрос/Ендуро",
+        "parent_id": 1492,
+        "children": []
+      },
+      {
+        "id": 1489,
+        "name": "Відкриті",
+        "parent_id": 1492,
+        "children": []
+      },
+      {
+        "id": 1490,
+        "name": "Щелепні",
+        "parent_id": 1492,
+        "children": []
+      }
+    ]
+  }
+]

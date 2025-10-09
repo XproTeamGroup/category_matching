@@ -1,0 +1,2 @@
+input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
+1718,Панелі фотовольтаїчні установки,,Панелі фотовольтаїчні установки,804,Сонячні панелі,,Акумулятори та електрообладнання > Сонячні панелі,0.95,Точное соответствие по типу товара - солнечные панели,exact

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1721,
+    "name": "Одяг",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 1818,
+        "name": "Світшоти",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1816,
+        "name": "Толстовки і футболки",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1805,
+        "name": "Взуття позашляхове",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1815,
+        "name": "Titan",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1817,
+        "name": "Шапки",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1813,
+        "name": "Finntrail - вейдерси та водостійкий одяг",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1820,
+        "name": "Форма",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1807,
+        "name": "Гаджети Шекла4x4",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1808,
+        "name": "Окуляри",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1806,
+        "name": "Імпрегнати Nikwax для взуття та одягу",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1809,
+        "name": "Захисні шоломи рятувальні екстремальні спорти",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1810,
+        "name": "Автомобільні шоломи",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1811,
+        "name": "Балаклави",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1821,
+        "name": "захисний шолом для мотоциклістів",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1812,
+        "name": "Наколінники Захисники Колін",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1804,
+        "name": "Робочий одяг - рукавиці, штани, світшоти BLAKLADER",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1814,
+        "name": "Рукавиці",
+        "parent_id": 1721,
+        "children": []
+      },
+      {
+        "id": 1819,
+        "name": "Штани",
+        "parent_id": 1721,
+        "children": []
+      }
+    ]
+  }
+]

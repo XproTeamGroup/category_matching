@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1389,
+    "name": "Ущільнювачі",
+    "parent_id": 1389,
+    "children": [
+      {
+        "id": 1380,
+        "name": "Електрика | Освітлення",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1381,
+        "name": "Карбюратор",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1382,
+        "name": "Посилання",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1383,
+        "name": "Кузов | Підвіска | Рама",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1427,
+        "name": "Наклейки",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1385,
+        "name": "Двигун",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1386,
+        "name": "Тюнінг",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1387,
+        "name": "Привідна система",
+        "parent_id": 1389,
+        "children": []
+      },
+      {
+        "id": 1388,
+        "name": "Система випуску",
+        "parent_id": 1389,
+        "children": []
+      }
+    ]
+  }
+]

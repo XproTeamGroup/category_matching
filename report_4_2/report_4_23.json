@@ -1,0 +1,169 @@
+{
+  "processed_at": "2025-10-09T19:47:55.977826",
+  "summary": {
+    "total_input": 10,
+    "total_matched": 10,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "17.81s"
+  },
+  "matched_categories": {
+    "count": 10,
+    "items": [
+      {
+        "input_id": 1758,
+        "input_name": "Куфри і сумки до Quad",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Куфри і сумки до Quad",
+        "match_id": "60203",
+        "match_name": "Сумки для квадроциклів",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > М'які сумки > Сумки для квадроциклів",
+        "confidence": 0.95,
+        "reasoning": "Точне семантичне співпадіння для сумок для квадроциклів",
+        "method": "exact"
+      },
+      {
+        "input_id": 1760,
+        "input_name": "Torby MOLLE і аксесуари",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Torby MOLLE і аксесуари",
+        "match_id": "60302",
+        "match_name": "MOLLE системи",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > Органайзери > MOLLE системи",
+        "confidence": 0.95,
+        "reasoning": "Точне семантичне співпадіння для MOLLE систем",
+        "method": "exact"
+      },
+      {
+        "input_id": 1763,
+        "input_name": "Органайзери для багажу",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Органайзери для багажу",
+        "match_id": "60301",
+        "match_name": "Багажні органайзери",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > Органайзери > Багажні органайзери",
+        "confidence": 0.95,
+        "reasoning": "Точне семантичне співпадіння для багажних органайзерів",
+        "method": "exact"
+      },
+      {
+        "input_id": 1764,
+        "input_name": "Алюмінієві скрині",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Алюмінієві скрині",
+        "match_id": "60101",
+        "match_name": "Алюмінієві скрині",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > Експедиційні скрині > Алюмінієві скрині",
+        "confidence": 1.0,
+        "reasoning": "Повне точне співпадіння",
+        "method": "exact"
+      },
+      {
+        "input_id": 1756,
+        "input_name": "Скрині Nomad FOX експедиційні",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Скрині Nomad FOX експедиційні",
+        "match_id": "60102",
+        "match_name": "Транспортні скрині",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > Експедиційні скрині > Транспортні скрині",
+        "confidence": 0.85,
+        "reasoning": "Семантично близька категорія експедиційних скринь",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1761,
+        "input_name": "Сумки для велосипеда",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Сумки для велосипеда",
+        "match_id": "60204",
+        "match_name": "Сумки для велосипедів",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > М'які сумки > Сумки для велосипедів",
+        "confidence": 1.0,
+        "reasoning": "Повне точне співпадіння",
+        "method": "exact"
+      },
+      {
+        "input_id": 1759,
+        "input_name": "Сумки WARN",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Сумки WARN",
+        "match_id": "60202",
+        "match_name": "Рюкзаки",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > М'які сумки > Рюкзаки",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння, але немає точної відповідності",
+        "method": "general"
+      },
+      {
+        "input_id": 1762,
+        "input_name": "Водонепроникні похідні сумки",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Водонепроникні похідні сумки",
+        "match_id": "60201",
+        "match_name": "Герметичні сумки",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > М'які сумки > Герметичні сумки",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння для водонепроникних сумок",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1755,
+        "input_name": "Транспортні ящики",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Транспортні ящики",
+        "match_id": "60102",
+        "match_name": "Транспортні скрині",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > Експедиційні скрині > Транспортні скрині",
+        "confidence": 1.0,
+        "reasoning": "Повне точне співпадіння",
+        "method": "exact"
+      },
+      {
+        "input_id": 1757,
+        "input_name": "XG CARGO сумки",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > XG CARGO сумки",
+        "match_id": "60202",
+        "match_name": "Рюкзаки",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > М'які сумки > Рюкзаки",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння, але немає точної відповідності",
+        "method": "general"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 6,
+      "semantic_matches": 2,
+      "general_matches": 2
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 8,
+      "medium_confidence": 2,
+      "low_confidence": 0
+    }
+  }
+}

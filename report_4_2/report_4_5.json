@@ -1,0 +1,183 @@
+{
+  "processed_at": "2025-10-09T19:38:30.157596",
+  "summary": {
+    "total_input": 11,
+    "total_matched": 11,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 2,
+    "processing_time": "20.65s"
+  },
+  "matched_categories": {
+    "count": 9,
+    "items": [
+      {
+        "input_id": 1770,
+        "input_name": "Аксесуари для шин",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Аксесуари для шин",
+        "match_id": "40504",
+        "match_name": "Аксесуари для коліс",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Аксесуари для коліс",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння для аксесуарів до шин",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1774,
+        "input_name": "Алюмінієві диски",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Алюмінієві диски",
+        "match_id": "40503",
+        "match_name": "Алюмінієві диски",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Алюмінієві диски",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії",
+        "method": "exact"
+      },
+      {
+        "input_id": 1773,
+        "input_name": "Сталеві диски",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Сталеві диски",
+        "match_id": "40502",
+        "match_name": "Сталеві диски",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Сталеві диски",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії",
+        "method": "exact"
+      },
+      {
+        "input_id": 1769,
+        "input_name": "Ланцюги на колеса",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Ланцюги на колеса",
+        "match_id": "40504",
+        "match_name": "Аксесуари для коліс",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Аксесуари для коліс",
+        "confidence": 0.8,
+        "reasoning": "Часткове семантичне співпадіння",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1767,
+        "input_name": "Шини",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Шини",
+        "match_id": "40501",
+        "match_name": "Позашляхові шини",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Позашляхові шини",
+        "confidence": 0.9,
+        "reasoning": "Семантичне співпадіння для шин",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1775,
+        "input_name": "Центрувальні кільця",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Центрувальні кільця",
+        "match_id": "40504",
+        "match_name": "Аксесуари для коліс",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Аксесуари для коліс",
+        "confidence": 0.9,
+        "reasoning": "Семантичне співпадіння для аксесуарів коліс",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1772,
+        "input_name": "Чохли на колеса",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Чохли на колеса",
+        "match_id": "40504",
+        "match_name": "Аксесуари для коліс",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Аксесуари для коліс",
+        "confidence": 0.9,
+        "reasoning": "Семантичне співпадіння для аксесуарів коліс",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1765,
+        "input_name": "Болти і гайки",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Болти і гайки",
+        "match_id": "40504",
+        "match_name": "Аксесуари для коліс",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Шини та диски > Аксесуари для коліс",
+        "confidence": 0.8,
+        "reasoning": "Часткове семантичне співпадіння для аксесуарів коліс",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1771,
+        "input_name": "Ремонтні набори",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Ремонтні набори",
+        "match_id": "10205",
+        "match_name": "Насоси та інструменти",
+        "match_path": "",
+        "match_full_path": "Велосипеди та аксесуари > Велосипедні аксесуари > Насоси та інструменти",
+        "confidence": 0.9,
+        "reasoning": "Ремонтні набори для шин найбільш логічно відносяться до категорії інструментів та аксесуарів для велосипедів",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 2,
+    "items": [
+      {
+        "input_id": 1766,
+        "input_name": "Дистанції",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Дистанції",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.3,
+        "reasoning": "Немає точної відповідної категорії",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1768,
+        "input_name": "Ковпаки Кришки",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Ковпаки Кришки",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.4,
+        "reasoning": "Немає точної відповідної категорії",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 2,
+      "semantic_matches": 7,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 2,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 9,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

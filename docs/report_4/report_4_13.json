@@ -1,0 +1,274 @@
+{
+  "processed_at": "2025-10-09T15:46:39.035187",
+  "summary": {
+    "total_input": 18,
+    "total_matched": 12,
+    "total_unmatched": 6,
+    "percentage_matched": "66.67%",
+    "api_requests": 1,
+    "processing_time": "29.28s"
+  },
+  "matched_categories": {
+    "count": 12,
+    "items": [
+      {
+        "input_id": 1818,
+        "input_name": "Світшоти",
+        "input_path": "",
+        "input_full_path": "Одяг > Світшоти",
+        "match_id": "40601",
+        "match_name": "Велофутболки та джерсі",
+        "match_path": "",
+        "match_full_path": "Велосипеди > Велоодяг та взуття > Велофутболки та джерсі",
+        "confidence": 0.6,
+        "reasoning": "Семантически близко как спортивный верх, но не точное совпадение",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1816,
+        "input_name": "Толстовки і футболки",
+        "input_path": "",
+        "input_full_path": "Одяг > Толстовки і футболки",
+        "match_id": "40601",
+        "match_name": "Велофутболки та джерсі",
+        "match_path": "",
+        "match_full_path": "Велосипеди > Велоодяг та взуття > Велофутболки та джерсі",
+        "confidence": 0.7,
+        "reasoning": "Семантически близко как верхняя одежда",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1805,
+        "input_name": "Взуття позашляхове",
+        "input_path": "",
+        "input_full_path": "Одяг > Взуття позашляхове",
+        "match_id": "4060801",
+        "match_name": "Взуття MTB",
+        "match_path": "",
+        "match_full_path": "Велосипеди > Велоодяг та взуття > Велозвуття > Взуття MTB",
+        "confidence": 0.9,
+        "reasoning": "Точное совпадение по типу внедорожной обуви",
+        "method": "exact"
+      },
+      {
+        "input_id": 1813,
+        "input_name": "Finntrail - вейдерси та водостійкий одяг",
+        "input_path": "",
+        "input_full_path": "Одяг > Finntrail - вейдерси та водостійкий одяг",
+        "match_id": "20801",
+        "match_name": "Дощові куртки",
+        "match_path": "",
+        "match_full_path": "Екіпіровка мотоцикліста > Дощовики > Дощові куртки",
+        "confidence": 0.8,
+        "reasoning": "Семантически близко как водостойкая одежда",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1820,
+        "input_name": "Форма",
+        "input_path": "",
+        "input_full_path": "Одяг > Форма",
+        "match_id": "40601",
+        "match_name": "Велофутболки та джерсі",
+        "match_path": "",
+        "match_full_path": "Велосипеди > Велоодяг та взуття > Велофутболки та джерсі",
+        "confidence": 0.7,
+        "reasoning": "Семантически близко как спортивная одежда",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1808,
+        "input_name": "Окуляри",
+        "input_path": "",
+        "input_full_path": "Одяг > Окуляри",
+        "match_id": "40606",
+        "match_name": "Велоокуляри",
+        "match_path": "",
+        "match_full_path": "Велосипеди > Велоодяг та взуття > Велоокуляри",
+        "confidence": 0.9,
+        "reasoning": "Точное совпадение по типу очков",
+        "method": "exact"
+      },
+      {
+        "input_id": 1806,
+        "input_name": "Імпрегнати Nikwax для взуття та одягу",
+        "input_path": "",
+        "input_full_path": "Одяг > Імпрегнати Nikwax для взуття та одягу",
+        "match_id": "610",
+        "match_name": "Імпрегнати",
+        "match_path": "",
+        "match_full_path": "Олії та хімія > Імпрегнати",
+        "confidence": 0.8,
+        "reasoning": "Семантически близко как пропитка",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1809,
+        "input_name": "Захисні шоломи рятувальні екстремальні спорти",
+        "input_path": "",
+        "input_full_path": "Одяг > Захисні шоломи рятувальні екстремальні спорти",
+        "match_id": "20101",
+        "match_name": "Інтегральні шоломи",
+        "match_path": "",
+        "match_full_path": "Екіпіровка мотоцикліста > Шоломи > Інтегральні шоломи",
+        "confidence": 0.7,
+        "reasoning": "Семантически близко как защитный шлем",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1821,
+        "input_name": "захисний шолом для мотоциклістів",
+        "input_path": "",
+        "input_full_path": "Одяг > захисний шолом для мотоциклістів",
+        "match_id": "20101",
+        "match_name": "Інтегральні шоломи",
+        "match_path": "",
+        "match_full_path": "Екіпіровка мотоцикліста > Шоломи > Інтегральні шоломи",
+        "confidence": 0.9,
+        "reasoning": "Точное совпадение по типу мотошлема",
+        "method": "exact"
+      },
+      {
+        "input_id": 1812,
+        "input_name": "Наколінники Захисники Колін",
+        "input_path": "",
+        "input_full_path": "Одяг > Наколінники Захисники Колін",
+        "match_id": "20702",
+        "match_name": "Захист колін",
+        "match_path": "",
+        "match_full_path": "Екіпіровка мотоцикліста > Захист мотоцикліста > Захист колін",
+        "confidence": 0.9,
+        "reasoning": "Точное совпадение по защите колен",
+        "method": "exact"
+      },
+      {
+        "input_id": 1814,
+        "input_name": "Рукавиці",
+        "input_path": "",
+        "input_full_path": "Одяг > Рукавиці",
+        "match_id": "20601",
+        "match_name": "Шкіряні перчатки",
+        "match_path": "",
+        "match_full_path": "Екіпіровка мотоцикліста > Мотоперчатки > Шкіряні перчатки",
+        "confidence": 0.8,
+        "reasoning": "Семантически близко как перчатки",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1819,
+        "input_name": "Штани",
+        "input_path": "",
+        "input_full_path": "Одяг > Штани",
+        "match_id": "20302",
+        "match_name": "Текстильні штани",
+        "match_path": "",
+        "match_full_path": "Екіпіровка мотоцикліста > Мотоштани > Текстильні штани",
+        "confidence": 0.9,
+        "reasoning": "Точное совпадение по типу штанов",
+        "method": "exact"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 6,
+    "items": [
+      {
+        "input_id": 1815,
+        "input_name": "Titan",
+        "input_path": "",
+        "input_full_path": "Одяг > Titan",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Недостаточно информации для точного сопоставления",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1817,
+        "input_name": "Шапки",
+        "input_path": "",
+        "input_full_path": "Одяг > Шапки",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории головных уборов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1807,
+        "input_name": "Гаджети Шекла4x4",
+        "input_path": "",
+        "input_full_path": "Одяг > Гаджети Шекла4x4",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Недостаточно информации для точного сопоставления",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1810,
+        "input_name": "Автомобільні шоломи",
+        "input_path": "",
+        "input_full_path": "Одяг > Автомобільні шоломи",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет специфической категории автомобильных шлемов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1811,
+        "input_name": "Балаклави",
+        "input_path": "",
+        "input_full_path": "Одяг > Балаклави",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории балаклав",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1804,
+        "input_name": "Робочий одяг - рукавиці, штани, світшоти BLAKLADER",
+        "input_path": "",
+        "input_full_path": "Одяг > Робочий одяг - рукавиці, штани, світшоти BLAKLADER",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет специфической категории рабочей одежды",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 5,
+      "semantic_matches": 7,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 6,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 8,
+      "medium_confidence": 4,
+      "low_confidence": 0
+    }
+  }
+}

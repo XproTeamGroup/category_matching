@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1513,
+    "name": "Рукавиці",
+    "parent_id": 1513,
+    "children": [
+      {
+        "id": 1509,
+        "name": "Худі",
+        "parent_id": 1513,
+        "children": []
+      },
+      {
+        "id": 1510,
+        "name": "Шапки",
+        "parent_id": 1513,
+        "children": []
+      },
+      {
+        "id": 1511,
+        "name": "Шапки-балаклави",
+        "parent_id": 1513,
+        "children": []
+      },
+      {
+        "id": 1512,
+        "name": "футболки",
+        "parent_id": 1513,
+        "children": []
+      },
+      {
+        "id": 1508,
+        "name": "Корпоративні футболки",
+        "parent_id": 1513,
+        "children": []
+      }
+    ]
+  }
+]

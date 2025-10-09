@@ -1,0 +1,52 @@
+{
+  "processed_at": "2025-10-09T12:13:00.671211",
+  "summary": {
+    "total_input": 1,
+    "total_matched": 1,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "4.22s"
+  },
+  "matched_categories": {
+    "count": 1,
+    "items": [
+      {
+        "input_id": 1518,
+        "input_name": "показники поворотів",
+        "input_path": "",
+        "input_full_path": "переривачі покажчиків повороту > показники поворотів",
+        "match_id": "10303",
+        "match_name": "Лампи та покажчики",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Електрика та освітлення > Лампи та покажчики",
+        "confidence": 0.9,
+        "reasoning": "Точное соответствие по семантике - покажчики (указатели) находятся в категории электрики и освещения",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 1,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 1,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

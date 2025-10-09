@@ -1,0 +1,2 @@
+input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
+1710,Олії - Просочення - Мастила - Лаки - Хімія,,Олії - Просочення - Мастила - Лаки - Хімія,70603,Просочення,,Олії та хімія > Хімія для догляду > Просочення,0.9,Точное соответствие подкатегории 'Просочення' в новой структуре,exact

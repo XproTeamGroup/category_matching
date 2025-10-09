@@ -1,0 +1,65 @@
+{
+  "processed_at": "2025-10-09T12:13:15.470831",
+  "summary": {
+    "total_input": 2,
+    "total_matched": 0,
+    "total_unmatched": 2,
+    "percentage_matched": "0.00%",
+    "api_requests": 1,
+    "processing_time": "4.73s"
+  },
+  "matched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "unmatched_categories": {
+    "count": 2,
+    "items": [
+      {
+        "input_id": 1502,
+        "input_name": "Присвячені",
+        "input_path": "",
+        "input_full_path": "Конусні > Присвячені",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет семантически близкой категории в новой структуре. Неясный тип товара.",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1503,
+        "input_name": "Губчасті універсальні",
+        "input_path": "",
+        "input_full_path": "Конусні > Губчасті універсальні",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет семантически близкой категории в новой структуре. Неясный тип товара.",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 0,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 2,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 0,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

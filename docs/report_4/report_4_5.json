@@ -1,0 +1,183 @@
+{
+  "processed_at": "2025-10-09T15:44:28.770132",
+  "summary": {
+    "total_input": 11,
+    "total_matched": 10,
+    "total_unmatched": 1,
+    "percentage_matched": "90.91%",
+    "api_requests": 1,
+    "processing_time": "19.23s"
+  },
+  "matched_categories": {
+    "count": 7,
+    "items": [
+      {
+        "input_id": 1766,
+        "input_name": "Дистанції",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Дистанції",
+        "match_id": "30704",
+        "match_name": "Колісні дистанції",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Колісні дистанції",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії дистанцій",
+        "method": "exact"
+      },
+      {
+        "input_id": 1774,
+        "input_name": "Алюмінієві диски",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Алюмінієві диски",
+        "match_id": "30701",
+        "match_name": "Алюмінієві диски",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Алюмінієві диски",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії алюмінієвих дисків",
+        "method": "exact"
+      },
+      {
+        "input_id": 1773,
+        "input_name": "Сталеві диски",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Сталеві диски",
+        "match_id": "30702",
+        "match_name": "Сталеві диски",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Сталеві диски",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії сталевих дисків",
+        "method": "exact"
+      },
+      {
+        "input_id": 1769,
+        "input_name": "Ланцюги на колеса",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Ланцюги на колеса",
+        "match_id": "30707",
+        "match_name": "Ланцюги на колеса",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Ланцюги на колеса",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії ланцюгів на колеса",
+        "method": "exact"
+      },
+      {
+        "input_id": 1767,
+        "input_name": "Шини",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Шини",
+        "match_id": "30703",
+        "match_name": "Позашляхові шини",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Позашляхові шини",
+        "confidence": 0.9,
+        "reasoning": "Семантичне співпадіння з категорією шин",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1775,
+        "input_name": "Центрувальні кільця",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Центрувальні кільця",
+        "match_id": "30705",
+        "match_name": "Центрувальні кільця",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Центрувальні кільця",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії центрувальних кілець",
+        "method": "exact"
+      },
+      {
+        "input_id": 1765,
+        "input_name": "Болти і гайки",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Болти і гайки",
+        "match_id": "30706",
+        "match_name": "Болти та гайки",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Диски, шини, дистанції > Болти та гайки",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії болтів і гайок",
+        "method": "exact"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 4,
+    "items": [
+      {
+        "input_id": 1770,
+        "input_name": "Аксесуари для шин",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Аксесуари для шин",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння в категорії аксесуарів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1768,
+        "input_name": "Ковпаки Кришки",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Ковпаки Кришки",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.3,
+        "reasoning": "Немає точної відповідної категорії в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1772,
+        "input_name": "Чохли на колеса",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Чохли на колеса",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.3,
+        "reasoning": "Немає точної відповідної категорії в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1771,
+        "input_name": "Ремонтні набори",
+        "input_path": "",
+        "input_full_path": "Диски, Проставки, Шини > Ремонтні набори",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.3,
+        "reasoning": "Немає точної відповідної категорії в новій структурі",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 6,
+      "semantic_matches": 1,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 4,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 7,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

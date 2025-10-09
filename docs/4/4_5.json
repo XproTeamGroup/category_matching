@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1711,
+    "name": "Диски, Проставки, Шини",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 1770,
+        "name": "Аксесуари для шин",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1766,
+        "name": "Дистанції",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1774,
+        "name": "Алюмінієві диски",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1773,
+        "name": "Сталеві диски",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1768,
+        "name": "Ковпаки Кришки",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1769,
+        "name": "Ланцюги на колеса",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1767,
+        "name": "Шини",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1775,
+        "name": "Центрувальні кільця",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1772,
+        "name": "Чохли на колеса",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1765,
+        "name": "Болти і гайки",
+        "parent_id": 1711,
+        "children": []
+      },
+      {
+        "id": 1771,
+        "name": "Ремонтні набори",
+        "parent_id": 1711,
+        "children": []
+      }
+    ]
+  }
+]

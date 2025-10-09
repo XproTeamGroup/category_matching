@@ -1,0 +1,104 @@
+{
+  "processed_at": "2025-10-09T19:59:05.757074",
+  "summary": {
+    "total_input": 5,
+    "total_matched": 5,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "8.70s"
+  },
+  "matched_categories": {
+    "count": 5,
+    "items": [
+      {
+        "input_id": 1509,
+        "input_name": "Худі",
+        "input_path": "",
+        "input_full_path": "Рукавиці > Худі",
+        "match_id": "1105",
+        "match_name": "Футболки та толстовки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Футболки та толстовки",
+        "confidence": 0.7,
+        "reasoning": "Худі відноситься до категорії футболок та толстовок",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1510,
+        "input_name": "Шапки",
+        "input_path": "",
+        "input_full_path": "Рукавиці > Шапки",
+        "match_id": "1106",
+        "match_name": "Кепки та шапки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Кепки та шапки",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії шапок",
+        "method": "exact"
+      },
+      {
+        "input_id": 1511,
+        "input_name": "Шапки-балаклави",
+        "input_path": "",
+        "input_full_path": "Рукавиці > Шапки-балаклави",
+        "match_id": "1106",
+        "match_name": "Кепки та шапки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Кепки та шапки",
+        "confidence": 0.8,
+        "reasoning": "Балаклава є різновидом головного убору",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1512,
+        "input_name": "футболки",
+        "input_path": "",
+        "input_full_path": "Рукавиці > футболки",
+        "match_id": "1105",
+        "match_name": "Футболки та толстовки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Футболки та толстовки",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії футболок",
+        "method": "exact"
+      },
+      {
+        "input_id": 1508,
+        "input_name": "Корпоративні футболки",
+        "input_path": "",
+        "input_full_path": "Рукавиці > Корпоративні футболки",
+        "match_id": "1105",
+        "match_name": "Футболки та толстовки",
+        "match_path": "",
+        "match_full_path": "Одяг та аксесуари > Футболки та толстовки",
+        "confidence": 1.0,
+        "reasoning": "Корпоративні футболки відносяться до категорії футболок",
+        "method": "exact"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 3,
+      "semantic_matches": 2,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 4,
+      "medium_confidence": 1,
+      "low_confidence": 0
+    }
+  }
+}

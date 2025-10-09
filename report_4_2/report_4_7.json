@@ -1,0 +1,52 @@
+{
+  "processed_at": "2025-10-09T19:38:43.142595",
+  "summary": {
+    "total_input": 1,
+    "total_matched": 1,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "3.77s"
+  },
+  "matched_categories": {
+    "count": 1,
+    "items": [
+      {
+        "input_id": 1709,
+        "input_name": "Каністри резервуари кріплення",
+        "input_path": "",
+        "input_full_path": "Каністри резервуари кріплення",
+        "match_id": "40604",
+        "match_name": "Лопати та інструменти",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Додаткове обладнання > Лопати та інструменти",
+        "confidence": 0.6,
+        "reasoning": "Частково подібна категорія додаткового обладнання для автомобілів, але неточне співпадіння",
+        "method": "general"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 0,
+      "general_matches": 1
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 0,
+      "medium_confidence": 1,
+      "low_confidence": 0
+    }
+  }
+}

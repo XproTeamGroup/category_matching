@@ -1,0 +1,1553 @@
+[
+  {
+    "id": 996,
+    "name": "Для мотоцикла",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 998,
+        "name": "Багаж",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1000,
+            "name": "Інше",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 999,
+            "name": "Валізи",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1001,
+            "name": "Інструментальні ремені",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1002,
+            "name": "Рюкзаки",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1003,
+            "name": "Багажні ролі",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1004,
+            "name": "Сумки",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1008,
+            "name": "Сітки",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1005,
+            "name": "Танкові сумки",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1006,
+            "name": "Сумки",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1007,
+            "name": "Сумки для інструментів",
+            "parent_id": 998,
+            "children": []
+          },
+          {
+            "id": 1009,
+            "name": "Тримачі/Каркаси Багажу",
+            "parent_id": 998,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1010,
+        "name": "Моторні частини",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1017,
+            "name": "Частини розподільного механізму",
+            "parent_id": 1010,
+            "children": [
+              {
+                "id": 1022,
+                "name": "Ланцюги розподільного валу",
+                "parent_id": 1017,
+                "children": []
+              },
+              {
+                "id": 1018,
+                "name": "Клапанні плитки",
+                "parent_id": 1017,
+                "children": [
+                  {
+                    "id": 1020,
+                    "name": "Комплект 5 шт.",
+                    "parent_id": 1018,
+                    "children": []
+                  },
+                  {
+                    "id": 1019,
+                    "name": "Комплекти Для Сервісу",
+                    "parent_id": 1018,
+                    "children": []
+                  },
+                  {
+                    "id": 1021,
+                    "name": "Плитки На Штуки",
+                    "parent_id": 1018,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 1023,
+                "name": "Застібки/Зажими",
+                "parent_id": 1017,
+                "children": []
+              },
+              {
+                "id": 1024,
+                "name": "Ущільнювачі клапанів",
+                "parent_id": 1017,
+                "children": [
+                  {
+                    "id": 1026,
+                    "name": "Клапани Всмоктуючі",
+                    "parent_id": 1024,
+                    "children": []
+                  },
+                  {
+                    "id": 1025,
+                    "name": "Клапани Випускні",
+                    "parent_id": 1024,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 1027,
+                "name": "Розподільний вал",
+                "parent_id": 1017,
+                "children": []
+              },
+              {
+                "id": 1028,
+                "name": "Клапани",
+                "parent_id": 1017,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1011,
+            "name": "Корбові механізми",
+            "parent_id": 1010,
+            "children": [
+              {
+                "id": 1013,
+                "name": "Шатуни",
+                "parent_id": 1011,
+                "children": []
+              },
+              {
+                "id": 1012,
+                "name": "Підшипники шатунів",
+                "parent_id": 1011,
+                "children": []
+              },
+              {
+                "id": 1014,
+                "name": "Підшипники кочення",
+                "parent_id": 1011,
+                "children": []
+              },
+              {
+                "id": 1015,
+                "name": "підкладки",
+                "parent_id": 1011,
+                "children": []
+              },
+              {
+                "id": 1016,
+                "name": "Шатуни пальці",
+                "parent_id": 1011,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1029,
+            "name": "Зчеплення",
+            "parent_id": 1010,
+            "children": [
+              {
+                "id": 1031,
+                "name": "Затискачі",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1030,
+                "name": "Важелі Зчеплення",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1032,
+                "name": "кошики",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1033,
+                "name": "Посилання Зчеплення",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1034,
+                "name": "Інструмент для зчеплення",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1035,
+                "name": "Кришка зчеплення",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1036,
+                "name": "Проміжні деталі",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1037,
+                "name": "Редуктори вільного ходу",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1038,
+                "name": "Пружини",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1039,
+                "name": "Зчеплення Комплектні",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1040,
+                "name": "Фрикційні диски",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1041,
+                "name": "Ущільнювачі Кришки",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1042,
+                "name": "Знімач зчеплення",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1043,
+                "name": "Ремонтний комплект насоса",
+                "parent_id": 1029,
+                "children": []
+              },
+              {
+                "id": 1044,
+                "name": "Ремонтний комплект",
+                "parent_id": 1029,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1045,
+            "name": "Поршні",
+            "parent_id": 1010,
+            "children": [
+              {
+                "id": 1047,
+                "name": "Каблучки",
+                "parent_id": 1045,
+                "children": []
+              },
+              {
+                "id": 1046,
+                "name": "Штифти Штока",
+                "parent_id": 1045,
+                "children": []
+              },
+              {
+                "id": 1048,
+                "name": "Поршні",
+                "parent_id": 1045,
+                "children": []
+              },
+              {
+                "id": 1049,
+                "name": "Застібки Тлока",
+                "parent_id": 1045,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1050,
+            "name": "Гільзи Циліндра",
+            "parent_id": 1010,
+            "children": []
+          },
+          {
+            "id": 1051,
+            "name": "Ущільнювачі двигуна",
+            "parent_id": 1010,
+            "children": [
+              {
+                "id": 1053,
+                "name": "Комплекти ущільнювачів",
+                "parent_id": 1051,
+                "children": []
+              },
+              {
+                "id": 1052,
+                "name": "До низу двигуна",
+                "parent_id": 1051,
+                "children": []
+              },
+              {
+                "id": 1054,
+                "name": "На Верх Двигуна Top-End",
+                "parent_id": 1051,
+                "children": []
+              },
+              {
+                "id": 1055,
+                "name": "Ущільнювачі Кришки Запалення",
+                "parent_id": 1051,
+                "children": []
+              },
+              {
+                "id": 1056,
+                "name": "Ущільнювачі головки циліндрів",
+                "parent_id": 1051,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1057,
+            "name": "вали колінчасті",
+            "parent_id": 1010,
+            "children": [
+              {
+                "id": 1059,
+                "name": "Підшипники на колінвал",
+                "parent_id": 1057,
+                "children": []
+              },
+              {
+                "id": 1058,
+                "name": "Колінвали",
+                "parent_id": 1057,
+                "children": []
+              },
+              {
+                "id": 1060,
+                "name": "Набір підшипників",
+                "parent_id": 1057,
+                "children": []
+              },
+              {
+                "id": 1061,
+                "name": "Комплекти ущільнювачів",
+                "parent_id": 1057,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1062,
+            "name": "Комплект ремонтний насоса",
+            "parent_id": 1010,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1063,
+        "name": "Фільтри",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1065,
+            "name": "Масляні фільтри",
+            "parent_id": 1063,
+            "children": []
+          },
+          {
+            "id": 1064,
+            "name": "Фільтри Паливні",
+            "parent_id": 1063,
+            "children": []
+          },
+          {
+            "id": 1066,
+            "name": "Повітряні фільтри",
+            "parent_id": 1063,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1067,
+        "name": "Кузов",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1069,
+            "name": "Адаптер",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1068,
+            "name": "Балансери",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1070,
+            "name": "Бокові панелі",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1071,
+            "name": "Захисні накладки",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1072,
+            "name": "Важелі Зміни Передач",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1073,
+            "name": "Гноми",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1074,
+            "name": "Ручні бари",
+            "parent_id": 1067,
+            "children": [
+              {
+                "id": 1075,
+                "name": "Комплект монтажний",
+                "parent_id": 1074,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1100,
+            "name": "Інше",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1076,
+            "name": "Кермо",
+            "parent_id": 1067,
+            "children": [
+              {
+                "id": 1078,
+                "name": "Відстань до керма",
+                "parent_id": 1076,
+                "children": []
+              },
+              {
+                "id": 1077,
+                "name": "Захист керма",
+                "parent_id": 1076,
+                "children": []
+              },
+              {
+                "id": 1079,
+                "name": "Монтажний комплект",
+                "parent_id": 1076,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1080,
+            "name": "Газові посилання",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1081,
+            "name": "Дзеркала",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1082,
+            "name": "Манекени",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1083,
+            "name": "Кріплення Реєстраційних Табличок",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1093,
+            "name": "Захисні пристрої",
+            "parent_id": 1067,
+            "children": [
+              {
+                "id": 1098,
+                "name": "Радіатори",
+                "parent_id": 1093,
+                "children": []
+              },
+              {
+                "id": 1094,
+                "name": "Інші",
+                "parent_id": 1093,
+                "children": []
+              },
+              {
+                "id": 1095,
+                "name": "Захисні Освітлення",
+                "parent_id": 1093,
+                "children": []
+              },
+              {
+                "id": 1096,
+                "name": "Освітлення",
+                "parent_id": 1093,
+                "children": []
+              },
+              {
+                "id": 1097,
+                "name": "Двигун",
+                "parent_id": 1093,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1084,
+            "name": "Пластмаси",
+            "parent_id": 1067,
+            "children": [
+              {
+                "id": 1086,
+                "name": "Бризковики",
+                "parent_id": 1084,
+                "children": []
+              },
+              {
+                "id": 1085,
+                "name": "Набори пластиків",
+                "parent_id": 1084,
+                "children": []
+              },
+              {
+                "id": 1087,
+                "name": "Захисти радіатора",
+                "parent_id": 1084,
+                "children": []
+              },
+              {
+                "id": 1088,
+                "name": "Стартові поля",
+                "parent_id": 1084,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1089,
+            "name": "Підніжки",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1090,
+            "name": "Підсвічування Реєстраційних Таблиць",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1091,
+            "name": "Ковзани З Полозом",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1092,
+            "name": "Сидіння",
+            "parent_id": 1067,
+            "children": []
+          },
+          {
+            "id": 1099,
+            "name": "Тримач/Балка GPS",
+            "parent_id": 1067,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1101,
+        "name": "Наклейки та тачпади",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1114,
+            "name": "Клеї та набори",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1103,
+            "name": "на банк",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1102,
+            "name": "На голову",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1104,
+            "name": "На диски",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1105,
+            "name": "На шолом",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1106,
+            "name": "На полиці Керівника",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1107,
+            "name": "На вигляд",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1108,
+            "name": "На заправку",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1109,
+            "name": "Наклейки 3D",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1110,
+            "name": "Захисні",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1111,
+            "name": "Пластикові плівки",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1112,
+            "name": "Смужки На Диски",
+            "parent_id": 1101,
+            "children": []
+          },
+          {
+            "id": 1113,
+            "name": "Різне",
+            "parent_id": 1101,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1115,
+        "name": "Інструменти",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1117,
+            "name": "Для першої назви: ключі\nДля другої назви: ложки",
+            "parent_id": 1115,
+            "children": []
+          },
+          {
+            "id": 1116,
+            "name": "Комплект для ремонту шин",
+            "parent_id": 1115,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1118,
+        "name": "Оливи Мастила Рідини",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1120,
+            "name": "Хімія Warsztatowa",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1119,
+            "name": "Додатки",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1121,
+            "name": "Велосипедна гама",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1122,
+            "name": "Олії для амортизаторів",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1123,
+            "name": "Олії для фільтрів",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1124,
+            "name": "Трансмісійні олії",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1125,
+            "name": "Моторні олії",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1126,
+            "name": "Рідини для радіаторів",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1127,
+            "name": "Гальмівні рідини",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1128,
+            "name": "Мастила для ланцюгів",
+            "parent_id": 1118,
+            "children": []
+          },
+          {
+            "id": 1129,
+            "name": "Засоби Миючі",
+            "parent_id": 1118,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1130,
+        "name": "Чохли",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1132,
+            "name": "До середини",
+            "parent_id": 1130,
+            "children": []
+          },
+          {
+            "id": 1131,
+            "name": "Зовні",
+            "parent_id": 1130,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1218,
+        "name": "Інші",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1220,
+            "name": "Лічильники мотогодин",
+            "parent_id": 1218,
+            "children": []
+          },
+          {
+            "id": 1219,
+            "name": "Підставка під мотоцикл",
+            "parent_id": 1218,
+            "children": []
+          },
+          {
+            "id": 1221,
+            "name": "Звуковий сигнал",
+            "parent_id": 1218,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1139,
+        "name": "Свічки і Люльки",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1141,
+            "name": "Свічки запалювання",
+            "parent_id": 1139,
+            "children": []
+          },
+          {
+            "id": 1140,
+            "name": "Свічки запалювання",
+            "parent_id": 1139,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1133,
+        "name": "Скло",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1135,
+            "name": "Аксесуари",
+            "parent_id": 1133,
+            "children": []
+          },
+          {
+            "id": 1134,
+            "name": "Дефлектори",
+            "parent_id": 1133,
+            "children": []
+          },
+          {
+            "id": 1136,
+            "name": "Спеціальні вікна",
+            "parent_id": 1133,
+            "children": []
+          },
+          {
+            "id": 1137,
+            "name": "Скло універсальне",
+            "parent_id": 1133,
+            "children": []
+          },
+          {
+            "id": 1138,
+            "name": "Монтажні комплекти",
+            "parent_id": 1133,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 997,
+        "name": "Тримачі На Телефон І GPS",
+        "parent_id": 996,
+        "children": []
+      },
+      {
+        "id": 1142,
+        "name": "Електрична система",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1144,
+            "name": "Акумулятори",
+            "parent_id": 1142,
+            "children": [
+              {
+                "id": 1146,
+                "name": "Безобслуговувальні",
+                "parent_id": 1144,
+                "children": []
+              },
+              {
+                "id": 1151,
+                "name": "Інше",
+                "parent_id": 1144,
+                "children": []
+              },
+              {
+                "id": 1145,
+                "name": "Літій-йонні",
+                "parent_id": 1144,
+                "children": []
+              },
+              {
+                "id": 1147,
+                "name": "Обслуговуючі",
+                "parent_id": 1144,
+                "children": []
+              },
+              {
+                "id": 1148,
+                "name": "Садові",
+                "parent_id": 1144,
+                "children": []
+              },
+              {
+                "id": 1149,
+                "name": "Гелеві",
+                "parent_id": 1144,
+                "children": []
+              },
+              {
+                "id": 1150,
+                "name": "Гелеві Безобслуговувані",
+                "parent_id": 1144,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1154,
+            "name": "Інші",
+            "parent_id": 1142,
+            "children": []
+          },
+          {
+            "id": 1143,
+            "name": "Лампи та покажчики повороту",
+            "parent_id": 1142,
+            "children": []
+          },
+          {
+            "id": 1152,
+            "name": "Зарядні пристрої для акумуляторів",
+            "parent_id": 1142,
+            "children": []
+          },
+          {
+            "id": 1155,
+            "name": "Тримачі Для Телефону",
+            "parent_id": 1142,
+            "children": []
+          },
+          {
+            "id": 1153,
+            "name": "Лампочки",
+            "parent_id": 1142,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1156,
+        "name": "Гальмівна система",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1158,
+            "name": "Важелі гальма",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1157,
+            "name": "Скоба До Щита",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1159,
+            "name": "Гальмівні колодки для",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1160,
+            "name": "Гальмівні колодки",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1161,
+            "name": "Гальмівні проводи",
+            "parent_id": 1156,
+            "children": [
+              {
+                "id": 1163,
+                "name": "Передня вісь",
+                "parent_id": 1161,
+                "children": []
+              },
+              {
+                "id": 1162,
+                "name": "Задня вісь",
+                "parent_id": 1161,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1164,
+            "name": "Мастило для затискачів",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1165,
+            "name": "Гальмівні щелепи",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1166,
+            "name": "Гальмівні диски",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1170,
+            "name": "Ремонтний комплект насоса",
+            "parent_id": 1156,
+            "children": []
+          },
+          {
+            "id": 1167,
+            "name": "Ремонтний комплект супорта",
+            "parent_id": 1156,
+            "children": [
+              {
+                "id": 1169,
+                "name": "Передній",
+                "parent_id": 1167,
+                "children": []
+              },
+              {
+                "id": 1168,
+                "name": "задній",
+                "parent_id": 1167,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1171,
+        "name": "Привідна система",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1173,
+            "name": "Комплекти приводні",
+            "parent_id": 1171,
+            "children": []
+          },
+          {
+            "id": 1172,
+            "name": "Ланцюги приводні",
+            "parent_id": 1171,
+            "children": []
+          },
+          {
+            "id": 1174,
+            "name": "Приводні ремені",
+            "parent_id": 1171,
+            "children": []
+          },
+          {
+            "id": 1175,
+            "name": "Роль Ланцюга",
+            "parent_id": 1171,
+            "children": []
+          },
+          {
+            "id": 1177,
+            "name": "Ковзання ланцюга",
+            "parent_id": 1171,
+            "children": []
+          },
+          {
+            "id": 1176,
+            "name": "Шпильки/Затискачі",
+            "parent_id": 1171,
+            "children": []
+          },
+          {
+            "id": 1179,
+            "name": "Шестерні",
+            "parent_id": 1171,
+            "children": [
+              {
+                "id": 1181,
+                "name": "Передні зубчасті колеса",
+                "parent_id": 1179,
+                "children": []
+              },
+              {
+                "id": 1180,
+                "name": "Задні шестерні",
+                "parent_id": 1179,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1178,
+            "name": "Силові агрегати",
+            "parent_id": 1171,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1182,
+        "name": "Паливна система",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1188,
+            "name": "Аксесуари",
+            "parent_id": 1182,
+            "children": []
+          },
+          {
+            "id": 1183,
+            "name": "Сопла карбюраторів",
+            "parent_id": 1182,
+            "children": [
+              {
+                "id": 1185,
+                "name": "Карбюратори Dellorto",
+                "parent_id": 1183,
+                "children": []
+              },
+              {
+                "id": 1184,
+                "name": "Карбюратори Keihin",
+                "parent_id": 1183,
+                "children": []
+              },
+              {
+                "id": 1186,
+                "name": "Sopła Mikuni",
+                "parent_id": 1183,
+                "children": []
+              },
+              {
+                "id": 1187,
+                "name": "Комплекти форсунок",
+                "parent_id": 1183,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1189,
+            "name": "Контролер Палива",
+            "parent_id": 1182,
+            "children": []
+          },
+          {
+            "id": 1190,
+            "name": "Мембрана Клапана",
+            "parent_id": 1182,
+            "children": []
+          },
+          {
+            "id": 1191,
+            "name": "Розпилювач до карбюратора",
+            "parent_id": 1182,
+            "children": []
+          },
+          {
+            "id": 1192,
+            "name": "Контролер керування",
+            "parent_id": 1182,
+            "children": []
+          },
+          {
+            "id": 1193,
+            "name": "Паливний бак",
+            "parent_id": 1182,
+            "children": []
+          },
+          {
+            "id": 1194,
+            "name": "Ремонтний комплект карбюратора",
+            "parent_id": 1182,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1195,
+        "name": "Система випуску",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1197,
+            "name": "Аксесуари",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1196,
+            "name": "Бази даних-Вбивці",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1198,
+            "name": "Дифузори",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1199,
+            "name": "Знищувач",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1200,
+            "name": "Кріпильна планка",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1201,
+            "name": "колектори",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1202,
+            "name": "Кінцівки (Slip-One)",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1203,
+            "name": "Повний Комплект",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1204,
+            "name": "Труба Впускна",
+            "parent_id": 1195,
+            "children": []
+          },
+          {
+            "id": 1205,
+            "name": "Глушники Мотоциклетні",
+            "parent_id": 1195,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1206,
+        "name": "Діагностичні пристрої",
+        "parent_id": 996,
+        "children": []
+      },
+      {
+        "id": 1207,
+        "name": "Захисні пристрої",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1209,
+            "name": "Блокування Без Сигналу",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1208,
+            "name": "Блокади з Сигналізацією",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1210,
+            "name": "Навісні замки",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1211,
+            "name": "Посилання",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1212,
+            "name": "Ланцюги",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1213,
+            "name": "Інше",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1214,
+            "name": "Нагадувачі",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1215,
+            "name": "Ручки",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1216,
+            "name": "Застібки",
+            "parent_id": 1207,
+            "children": []
+          },
+          {
+            "id": 1217,
+            "name": "Набори",
+            "parent_id": 1207,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1222,
+        "name": "Підвіска",
+        "parent_id": 996,
+        "children": [
+          {
+            "id": 1224,
+            "name": "Дитячі погремушки",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1223,
+            "name": "Запуск керування",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1225,
+            "name": "Підшипники амортизатора",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1226,
+            "name": "Підшипники Головної Рами",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1227,
+            "name": "Підшипники важеля",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1228,
+            "name": "Захисти Амортизаторів",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1229,
+            "name": "Телескопічні захисні кришки",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1230,
+            "name": "Елементи підвіски",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1231,
+            "name": "Телескопічні кільця",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1232,
+            "name": "Утримувач Шини",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1233,
+            "name": "Розпірні втулки коліс",
+            "parent_id": 1222,
+            "children": [
+              {
+                "id": 1235,
+                "name": "передні",
+                "parent_id": 1233,
+                "children": []
+              },
+              {
+                "id": 1234,
+                "name": "Задні",
+                "parent_id": 1233,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1236,
+            "name": "Ущільнювачі",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1237,
+            "name": "Набір з'єднання",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1238,
+            "name": "Комплект підшипників A-Arm",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1239,
+            "name": "Комплект підшипників заднього",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1243,
+            "name": "Комплект Ремонтний Колеса",
+            "parent_id": 1222,
+            "children": [
+              {
+                "id": 1245,
+                "name": "передній",
+                "parent_id": 1243,
+                "children": []
+              },
+              {
+                "id": 1244,
+                "name": "Задній",
+                "parent_id": 1243,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1246,
+            "name": "Комплект ремонтний важеля",
+            "parent_id": 1222,
+            "children": []
+          },
+          {
+            "id": 1240,
+            "name": "Ремонтний комплект",
+            "parent_id": 1222,
+            "children": [
+              {
+                "id": 1242,
+                "name": "Нижній",
+                "parent_id": 1240,
+                "children": []
+              },
+              {
+                "id": 1241,
+                "name": "Верхнього",
+                "parent_id": 1240,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1247,
+            "name": "Набір Simmeringів",
+            "parent_id": 1222,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

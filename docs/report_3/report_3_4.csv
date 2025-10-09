@@ -1,0 +1,2 @@
+input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
+1522,Світлодіодні,,Світлодіодні,30602,Круглі LED фари,,Автомобілі 4х4 > Освітлення LED > Круглі LED фари,0.9,"Семантическое сопоставление с LED-освещением, наиболее близкая категория в новой структуре",semantic

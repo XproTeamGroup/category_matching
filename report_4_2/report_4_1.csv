@@ -1,0 +1,2 @@
+input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
+1803,Акумулятори,,акумулятори - перетворювачі - зарядні пристрої - підсилення > Акумулятори,802,Зарядні пристрої,,Акумулятори та електрообладнання > Зарядні пристрої,0.9,Точное соответствие по типу товара - зарядные устройства и аккумуляторы,semantic

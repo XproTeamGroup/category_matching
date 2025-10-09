@@ -1,0 +1,104 @@
+{
+  "processed_at": "2025-10-09T15:54:21.597581",
+  "summary": {
+    "total_input": 5,
+    "total_matched": 5,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "10.57s"
+  },
+  "matched_categories": {
+    "count": 5,
+    "items": [
+      {
+        "input_id": 1750,
+        "input_name": "аксесуари для снорклінгу - фільтри тощо",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > аксесуари для снорклінгу - фільтри тощо",
+        "match_id": "30805",
+        "match_name": "Аксесуари до снорклів",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Випускна та впускна системи > Аксесуари до снорклів",
+        "confidence": 0.95,
+        "reasoning": "Точне семантичне співпадіння для аксесуарів до снорклів",
+        "method": "exact"
+      },
+      {
+        "input_id": 1754,
+        "input_name": "Проміжний охолоджувач",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Проміжний охолоджувач",
+        "match_id": "30804",
+        "match_name": "Інтеркулери",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Випускна та впускна системи > Інтеркулери",
+        "confidence": 0.9,
+        "reasoning": "Семантичне співпадіння - проміжний охолоджувач відповідає інтеркулеру",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1751,
+        "input_name": "Трубка для пірнання",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Трубка для пірнання",
+        "match_id": "30801",
+        "match_name": "Снорклі",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Випускна та впускна системи > Снорклі",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння - трубка для пірнання це снорклі",
+        "method": "exact"
+      },
+      {
+        "input_id": 1753,
+        "input_name": "Система впуску",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Система впуску",
+        "match_id": "30803",
+        "match_name": "Впускні системи",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Випускна та впускна системи > Впускні системи",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння для системи впуску",
+        "method": "exact"
+      },
+      {
+        "input_id": 1752,
+        "input_name": "Система випуску",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Система випуску",
+        "match_id": "30802",
+        "match_name": "Випускні системи",
+        "match_path": "",
+        "match_full_path": "Автомобілі 4х4 > Випускна та впускна системи > Випускні системи",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння для системи випуску",
+        "method": "exact"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 4,
+      "semantic_matches": 1,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 5,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

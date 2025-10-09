@@ -1,0 +1,105 @@
+{
+  "processed_at": "2025-10-09T19:57:13.705866",
+  "summary": {
+    "total_input": 5,
+    "total_matched": 5,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "9.59s"
+  },
+  "matched_categories": {
+    "count": 3,
+    "items": [
+      {
+        "input_id": 1488,
+        "input_name": "Цілісні",
+        "input_path": "",
+        "input_full_path": "Окуляри захисні > Цілісні",
+        "match_id": "30601",
+        "match_name": "Кросові окуляри",
+        "match_path": "",
+        "match_full_path": "Мотоекіпіровка > Окуляри > Кросові окуляри",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння в категорії захисних окулярів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1487,
+        "input_name": "Мотокрос/Ендуро",
+        "input_path": "",
+        "input_full_path": "Окуляри захисні > Мотокрос/Ендуро",
+        "match_id": "30601",
+        "match_name": "Кросові окуляри",
+        "match_path": "",
+        "match_full_path": "Мотоекіпіровка > Окуляри > Кросові окуляри",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння для кросових окулярів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1489,
+        "input_name": "Відкриті",
+        "input_path": "",
+        "input_full_path": "Окуляри захисні > Відкриті",
+        "match_id": "30602",
+        "match_name": "Дорожні окуляри",
+        "match_path": "",
+        "match_full_path": "Мотоекіпіровка > Окуляри > Дорожні окуляри",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння для відкритих/дорожніх окулярів",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 2,
+    "items": [
+      {
+        "input_id": 1491,
+        "input_name": "Балаклави",
+        "input_path": "",
+        "input_full_path": "Окуляри захисні > Балаклави",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії для балаклав",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1490,
+        "input_name": "Щелепні",
+        "input_path": "",
+        "input_full_path": "Окуляри захисні > Щелепні",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії для щелепних окулярів",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 3,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 2,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 1,
+      "medium_confidence": 2,
+      "low_confidence": 0
+    }
+  }
+}

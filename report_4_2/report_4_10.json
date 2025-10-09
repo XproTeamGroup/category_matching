@@ -1,0 +1,52 @@
+{
+  "processed_at": "2025-10-09T19:39:23.609616",
+  "summary": {
+    "total_input": 1,
+    "total_matched": 0,
+    "total_unmatched": 1,
+    "percentage_matched": "0.00%",
+    "api_requests": 1,
+    "processing_time": "3.31s"
+  },
+  "matched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "unmatched_categories": {
+    "count": 1,
+    "items": [
+      {
+        "input_id": 1719,
+        "input_name": "Радіокеровані моделі",
+        "input_path": "",
+        "input_full_path": "Радіокеровані моделі",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Отсутствует семантически близкая категория в новой структуре. Радиоуправляемые модели не представлены ни в одной из существующих категорий.",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 0,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 1,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 0,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

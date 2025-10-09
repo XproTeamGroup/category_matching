@@ -1,0 +1,2 @@
+input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
+1720,Турбо двигун заміна,,Турбо двигун заміна,Не найдено,Не найдено,,Не найдено,0.0,"Нет точного соответствия в предоставленной структуре категорий. Категория связана с двигателями, но не имеет точного места в существующей иерархии.",unmatched

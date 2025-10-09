@@ -8,11 +8,14 @@ from datetime import datetime
 
 # --- Конфигурация ---
 NEW_CATEGORIES_FILE = 'new.json'
-cjplfq = '2_1.json'
-OUTPUT_CSV_FILE = 'docs/report_2/category_matches_report.csv'
-OUTPUT_JSON_FILE = 'docs/report_2/category_matches_results.json'
-OUTPUT_STATS_FILE = 'docs/report_2/category_matches_statistics.txt'
-CHUNK_SIZE = 20 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
+# OLD_CATEGORIES_FILES = ['4_1.json', '4_2.json', '4_3.json', '4_4.json', '4_5.json', '4_6.json', '4_7.json', '4_8.json', '4_9.json', '4_10.json', '4_11.json', '4_12.json', '4_13.json', '4_14.json', '4_15.json', '4_16.json', '4_17.json', '4_18.json', '4_19.json', '4_20.json', '4_21.json', '4_22.json', '4_23.json', '4_24.json', '4_25.json', '4_26.json', '4_27.json', '4_28.json', '4_29.json', '4_30.json', '4_31.json', '4_32.json', '4_33.json', '4_34.json',]  # Список файлов для обработки
+# OLD_CATEGORIES_FILES = ['3_1.json', '3_2.json', '3_3.json', '3_4.json', '3_5.json', '3_6.json', '3_7.json', '3_8.json', '3_9.json', '3_10.json', '3_11.json', '3_12.json', '3_13.json', '3_14.json', '3_15.json', '3_16.json']  # Список файлов для обработки
+# OLD_CATEGORIES_FILES = ['2_1.json', '2_2.json', '2_3.json', '2_4.json', '2_5.json', '2_6.json']  # Список файлов для обработки
+# OLD_CATEGORIES_FILES = ['docs/3/3_6.json', 'docs/3/3_16.json']
+OLD_CATEGORIES_FILES = ['docs/3/3_16.json']
+# OLD_CATEGORIES_FILES = ['docs/3/3_16.json']
+OUTPUT_DIR = 'report_rematching_3_16'  # Базовая директория для отчетов
+CHUNK_SIZE = 5 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
 CLAUDE_MODEL = "claude-3-5-haiku-20241022" # Можно использовать "claude-3-sonnet-20240229" для меньших затрат
 MAX_TOKENS_RESPONSE = 8000 # Максимальное количество токенов в ответе Claude
 TEMPERATURE = 0.0 # Температура для Claude (0.0 для более детерминированных ответов)
@@ -172,11 +175,11 @@ def find_category_by_full_path(full_path_name, categories_flat_map):
             return cat_id
     return None
 
-def save_russian_statistics(total_input, matched, unmatched, percentage_matched, 
-                          api_requests, execution_time, all_processed_results):
+def save_russian_statistics(total_input, matched, unmatched, percentage_matched,
+                          api_requests, execution_time, all_processed_results, output_stats_file):
     """Сохраняет статистику на русском языке в TXT файл."""
-    
-    with open(OUTPUT_STATS_FILE, 'w', encoding='utf-8') as f:
+
+    with open(output_stats_file, 'w', encoding='utf-8') as f:
         f.write("=== ОТЧЕТ ПО СОПОСТАВЛЕНИЮ КАТЕГОРИЙ ===\n\n")
         f.write(f"Дата и время обработки: {datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n\n")
         
@@ -241,17 +244,26 @@ def save_russian_statistics(total_input, matched, unmatched, percentage_matched,
                 f.write(f"... и еще {len(unmatched_results_local) - 10} несопоставленных категорий\n\n")
         
         f.write("=== КОНЕЦ ОТЧЕТА ===\n")
-    
-    print(f"Статистика на русском языке сохранена в {OUTPUT_STATS_FILE}")
+
+    print(f"Статистика на русском языке сохранена в {output_stats_file}")
 
 # --- Основная логика сопоставления ---
-def run_matching_system():
+def run_matching_system(old_categories_file, output_csv_file, output_json_file, output_stats_file):
+    """
+    Запускает систему сопоставления категорий для указанного файла.
+
+    Args:
+        old_categories_file: путь к файлу со старыми категориями
+        output_csv_file: путь для сохранения CSV отчета
+        output_json_file: путь для сохранения JSON отчета
+        output_stats_file: путь для сохранения текстовой статистики
+    """
     start_time = time.time()
-    
+
     # 1. Загрузка данных
-    print(f"Loading categories from {NEW_CATEGORIES_FILE} and {OLD_CATEGORIES_FILE}...")
+    print(f"Loading categories from {NEW_CATEGORIES_FILE} and {old_categories_file}...")
     all_new_categories = load_categories(NEW_CATEGORIES_FILE)
-    all_old_categories = load_categories(OLD_CATEGORIES_FILE)
+    all_old_categories = load_categories(old_categories_file)
 
     # Создаем плоские карты категорий для быстрого доступа
     new_categories_flat_map = create_flat_category_map_from_hierarchical(all_new_categories)
@@ -624,13 +636,13 @@ def run_matching_system():
     if all_results_for_report:
         # Сохраняем CSV отчет
         results_df = pd.DataFrame(all_results_for_report)
-        results_df.to_csv(OUTPUT_CSV_FILE, index=False, encoding='utf-8')
-        print(f"\nDetailed results saved to {OUTPUT_CSV_FILE}")
-        
+        results_df.to_csv(output_csv_file, index=False, encoding='utf-8')
+        print(f"\nDetailed results saved to {output_csv_file}")
+
         # Разделяем результаты на сопоставленные и несопоставленные для удобства анализа
         matched_final = [r for r in all_results_for_report if r['match_id'] not in ['Не найдено', 'Не знайдено', 'Parsing Error', 'General Error', 'ERROR: Original not found', 'Missing from Claude Response']]
         unmatched_final = [r for r in all_results_for_report if r['match_id'] in ['Не найдено', 'Не знайдено', 'Parsing Error', 'General Error', 'ERROR: Original not found', 'Missing from Claude Response']]
-        
+
         # Сохраняем JSON файл с результатами в удобной структуре
         json_output = {
             "processed_at": datetime.now().isoformat(),
@@ -670,16 +682,16 @@ def run_matching_system():
                 }
             }
         }
-        
-        with open(OUTPUT_JSON_FILE, 'w', encoding='utf-8') as f:
+
+        with open(output_json_file, 'w', encoding='utf-8') as f:
             json.dump(json_output, f, ensure_ascii=False, indent=2)
-        print(f"JSON results saved to {OUTPUT_JSON_FILE}")
-        
+        print(f"JSON results saved to {output_json_file}")
+
         # Генерация русской статистики в TXT файл
         save_russian_statistics(
-            total_old_leaf_categories, num_matched, num_unmatched, 
+            total_old_leaf_categories, num_matched, num_unmatched,
             percentage_matched, total_ai_requests, total_execution_time,
-            all_processed_results
+            all_processed_results, output_stats_file
         )
         
     else:
@@ -688,10 +700,62 @@ def run_matching_system():
     print("\n--- System Finished ---")
 
 
+def process_all_files():
+    """
+    Обрабатывает все файлы из списка OLD_CATEGORIES_FILES последовательно.
+    """
+    # Создаем выходную директорию, если её нет
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+        print(f"Создана директория для отчетов: {OUTPUT_DIR}")
+
+    print(f"\n{'='*80}")
+    print(f"Начинаем обработку {len(OLD_CATEGORIES_FILES)} файлов")
+    print(f"{'='*80}\n")
+
+    overall_start_time = time.time()
+
+    for file_index, old_file in enumerate(OLD_CATEGORIES_FILES, 1):
+        print(f"\n{'='*80}")
+        print(f"ФАЙЛ {file_index}/{len(OLD_CATEGORIES_FILES)}: {old_file}")
+        print(f"{'='*80}\n")
+
+        # Формируем имена выходных файлов для каждого входного файла
+        # Например, для 2_1.json создаем problem.csv, report_2_1.json, report_2_1.txt
+        file_basename = os.path.splitext(os.path.basename(old_file))[0]
+        output_csv = os.path.join(OUTPUT_DIR, f"report_{file_basename}.csv")
+        output_json = os.path.join(OUTPUT_DIR, f"report_{file_basename}.json")
+        output_stats = os.path.join(OUTPUT_DIR, f"report_{file_basename}.txt")
+
+        try:
+            # Запускаем обработку для текущего файла
+            run_matching_system(old_file, output_csv, output_json, output_stats)
+        except Exception as e:
+            import traceback
+            print(f"\nОШИБКА при обработке файла {old_file}:")
+            print(f"   Тип ошибки: {type(e).__name__}")
+            print(f"   Сообщение: {e}")
+            print(f"\nПолный traceback:")
+            traceback.print_exc()
+            print(f"\n   Пропускаем этот файл и продолжаем...")
+            continue
+
+    overall_end_time = time.time()
+    total_time = overall_end_time - overall_start_time
+
+    print(f"\n{'='*80}")
+    print(f"ВСЕ ФАЙЛЫ ОБРАБОТАНЫ")
+    print(f"{'='*80}")
+    print(f"Обработано файлов: {len(OLD_CATEGORIES_FILES)}")
+    print(f"Общее время выполнения: {total_time:.2f} секунд ({total_time/60:.2f} минут)")
+    print(f"Результаты сохранены в директории: {OUTPUT_DIR}")
+    print(f"{'='*80}\n")
+
+
 if __name__ == "__main__":
     # Проверка наличия API ключа
     if not os.environ.get("ANTHROPIC_API_KEY"):
         print("Error: ANTHROPIC_API_KEY environment variable is not set.")
         print("Please set the environment variable or uncomment and fill in line 16 in the script.")
     else:
-        run_matching_system()
+        process_all_files()

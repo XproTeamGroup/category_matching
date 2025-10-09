@@ -1,0 +1,169 @@
+{
+  "processed_at": "2025-10-09T15:53:23.905794",
+  "summary": {
+    "total_input": 10,
+    "total_matched": 10,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 1,
+    "processing_time": "19.51s"
+  },
+  "matched_categories": {
+    "count": 10,
+    "items": [
+      {
+        "input_id": 1758,
+        "input_name": "Куфри і сумки до Quad",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Куфри і сумки до Quad",
+        "match_id": "50404",
+        "match_name": "Водонепроникні сумки",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Водонепроникні сумки",
+        "confidence": 0.85,
+        "reasoning": "Сумки для квадроциклів відповідають категорії водонепроникних експедиційних сумок",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1760,
+        "input_name": "Torby MOLLE і аксесуари",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Torby MOLLE і аксесуари",
+        "match_id": "50405",
+        "match_name": "MOLLE сумки",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > MOLLE сумки",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії MOLLE сумок",
+        "method": "exact"
+      },
+      {
+        "input_id": 1763,
+        "input_name": "Органайзери для багажу",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Органайзери для багажу",
+        "match_id": "50407",
+        "match_name": "Органайзери багажні",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Органайзери багажні",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії органайзерів",
+        "method": "exact"
+      },
+      {
+        "input_id": 1764,
+        "input_name": "Алюмінієві скрині",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Алюмінієві скрині",
+        "match_id": "50401",
+        "match_name": "Алюмінієві ящики",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Алюмінієві ящики",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії алюмінієвих ящиків/скринь",
+        "method": "exact"
+      },
+      {
+        "input_id": 1756,
+        "input_name": "Скрині Nomad FOX експедиційні",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Скрині Nomad FOX експедиційні",
+        "match_id": "50403",
+        "match_name": "Ящики Nomad FOX",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Ящики Nomad FOX",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії Nomad FOX ящиків",
+        "method": "exact"
+      },
+      {
+        "input_id": 1761,
+        "input_name": "Сумки для велосипеда",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Сумки для велосипеда",
+        "match_id": "40504",
+        "match_name": "Сумки та рюкзаки",
+        "match_path": "",
+        "match_full_path": "Велосипеди > Аксесуари велосипедні > Сумки та рюкзаки",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії сумок для велосипеда",
+        "method": "exact"
+      },
+      {
+        "input_id": 1759,
+        "input_name": "Сумки WARN",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Сумки WARN",
+        "match_id": "50404",
+        "match_name": "Водонепроникні сумки",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Водонепроникні сумки",
+        "confidence": 0.7,
+        "reasoning": "Часткове співпадіння з категорією водонепроникних сумок",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1762,
+        "input_name": "Водонепроникні похідні сумки",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Водонепроникні похідні сумки",
+        "match_id": "50404",
+        "match_name": "Водонепроникні сумки",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Водонепроникні сумки",
+        "confidence": 1.0,
+        "reasoning": "Точне співпадіння категорії водонепроникних сумок",
+        "method": "exact"
+      },
+      {
+        "input_id": 1755,
+        "input_name": "Транспортні ящики",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > Транспортні ящики",
+        "match_id": "50402",
+        "match_name": "Ящики Wolf Case",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Ящики Wolf Case",
+        "confidence": 0.8,
+        "reasoning": "Часткове співпадіння з категорією експедиційних ящиків",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1757,
+        "input_name": "XG CARGO сумки",
+        "input_path": "",
+        "input_full_path": "Скрині і Похідні Сумки > XG CARGO сумки",
+        "match_id": "50404",
+        "match_name": "Водонепроникні сумки",
+        "match_path": "",
+        "match_full_path": "Туризм та кемпінг > Ящики та сумки експедиційні > Водонепроникні сумки",
+        "confidence": 0.7,
+        "reasoning": "Часткове співпадіння з категорією водонепроникних сумок",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 0,
+    "items": []
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 6,
+      "semantic_matches": 4,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 0,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 8,
+      "medium_confidence": 2,
+      "low_confidence": 0
+    }
+  }
+}

@@ -1,0 +1,2 @@
+input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
+1549,Брудовбивця,,Брудовбивця,Не найдено,Не найдено,,Не найдено,0.0,Немає точного або семантично близького відповідника в наданій структурі категорій. Термін 'Брудовбивця' не збігається з жодною категорією.,unmatched

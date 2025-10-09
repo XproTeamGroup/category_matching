@@ -1,0 +1,144 @@
+{
+  "processed_at": "2025-10-09T19:57:26.292112",
+  "summary": {
+    "total_input": 8,
+    "total_matched": 1,
+    "total_unmatched": 7,
+    "percentage_matched": "12.50%",
+    "api_requests": 1,
+    "processing_time": "12.58s"
+  },
+  "matched_categories": {
+    "count": 1,
+    "items": [
+      {
+        "input_id": 1499,
+        "input_name": "Сітки багажні",
+        "input_path": "",
+        "input_full_path": "Інше > Сітки багажні",
+        "match_id": "60301",
+        "match_name": "Багажні органайзери",
+        "match_path": "",
+        "match_full_path": "Сумки та органайзери > Органайзери > Багажні органайзери",
+        "confidence": 0.8,
+        "reasoning": "Семантическое сходство с багажными органайзерами",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 7,
+    "items": [
+      {
+        "input_id": 1493,
+        "input_name": "Сигналізації",
+        "input_path": "",
+        "input_full_path": "Інше > Сигналізації",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для сигнализаций",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1494,
+        "input_name": "Брелоки",
+        "input_path": "",
+        "input_full_path": "Інше > Брелоки",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для брелоков",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1495,
+        "input_name": "Очисники маточин",
+        "input_path": "",
+        "input_full_path": "Інше > Очисники маточин",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для очистителей ступиц",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1496,
+        "input_name": "Чашки",
+        "input_path": "",
+        "input_full_path": "Інше > Чашки",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для чашек",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1497,
+        "input_name": "Кришки клапанів",
+        "input_path": "",
+        "input_full_path": "Інше > Кришки клапанів",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для крышек клапанов",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1498,
+        "input_name": "Рамки таблиць реєстр",
+        "input_path": "",
+        "input_full_path": "Інше > Рамки таблиць реєстр",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для рамок регистрационных номеров",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1500,
+        "input_name": "Світловідбивні стрічки на диски",
+        "input_path": "",
+        "input_full_path": "Інше > Світловідбивні стрічки на диски",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет подходящей категории в новой структуре для светоотражающих лент на диски",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 0,
+      "semantic_matches": 1,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 7,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 1,
+      "medium_confidence": 0,
+      "low_confidence": 0
+    }
+  }
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1707,
+    "name": "Скрині і Похідні Сумки",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 1758,
+        "name": "Куфри і сумки до Quad",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1760,
+        "name": "Torby MOLLE і аксесуари",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1763,
+        "name": "Органайзери для багажу",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1764,
+        "name": "Алюмінієві скрині",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1756,
+        "name": "Скрині Nomad FOX експедиційні",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1761,
+        "name": "Сумки для велосипеда",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1759,
+        "name": "Сумки WARN",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1762,
+        "name": "Водонепроникні похідні сумки",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1755,
+        "name": "Транспортні ящики",
+        "parent_id": 1707,
+        "children": []
+      },
+      {
+        "id": 1757,
+        "name": "XG CARGO сумки",
+        "parent_id": 1707,
+        "children": []
+      }
+    ]
+  }
+]

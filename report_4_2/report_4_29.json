@@ -1,0 +1,105 @@
+{
+  "processed_at": "2025-10-09T19:48:53.008996",
+  "summary": {
+    "total_input": 5,
+    "total_matched": 2,
+    "total_unmatched": 3,
+    "percentage_matched": "40.00%",
+    "api_requests": 1,
+    "processing_time": "9.62s"
+  },
+  "matched_categories": {
+    "count": 2,
+    "items": [
+      {
+        "input_id": 1753,
+        "input_name": "Система впуску",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Система впуску",
+        "match_id": "20103",
+        "match_name": "Паливна система",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Частини для мотоциклів > Паливна система",
+        "confidence": 0.7,
+        "reasoning": "Частичное семантическое совпадение с системой впуска/паливною системою",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1752,
+        "input_name": "Система випуску",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Система випуску",
+        "match_id": "20102",
+        "match_name": "Система випуску",
+        "match_path": "",
+        "match_full_path": "Мотоцикли та квадроцикли > Частини для мотоциклів > Система випуску",
+        "confidence": 1.0,
+        "reasoning": "Точное совпадение по названию и семантике",
+        "method": "exact"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 3,
+    "items": [
+      {
+        "input_id": 1750,
+        "input_name": "аксесуари для снорклінгу - фільтри тощо",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > аксесуари для снорклінгу - фільтри тощо",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Категория не относится к существующим техническим категориям в новой структуре",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1754,
+        "input_name": "Проміжний охолоджувач",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Проміжний охолоджувач",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Нет точного соответствия в технических категориях новой структуры",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1751,
+        "input_name": "Трубка для пірнання",
+        "input_path": "",
+        "input_full_path": "Система випуску та впуску > Трубка для пірнання",
+        "match_id": "Не найдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Категория не относится к существующим техническим категориям",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 1,
+      "semantic_matches": 1,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 3,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 1,
+      "medium_confidence": 1,
+      "low_confidence": 0
+    }
+  }
+}

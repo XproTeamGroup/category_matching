@@ -1,0 +1,261 @@
+{
+  "processed_at": "2025-10-09T19:39:20.300026",
+  "summary": {
+    "total_input": 17,
+    "total_matched": 17,
+    "total_unmatched": 0,
+    "percentage_matched": "100.00%",
+    "api_requests": 2,
+    "processing_time": "33.73s"
+  },
+  "matched_categories": {
+    "count": 10,
+    "items": [
+      {
+        "input_id": 1582,
+        "input_name": "Розширювачі",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Розширювачі",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.9,
+        "reasoning": "Найближча категорія для тросів та аксесуарів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1576,
+        "input_name": "Гаки",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Гаки",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.8,
+        "reasoning": "Компонент тросів та стропів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1571,
+        "input_name": "Канати і кінетичні стрічки",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Канати і кінетичні стрічки",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.9,
+        "reasoning": "Точне співпадіння за типом аксесуарів",
+        "method": "exact"
+      },
+      {
+        "input_id": 1578,
+        "input_name": "Сталеві троси",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Сталеві троси",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 1.0,
+        "reasoning": "Повне семантичне співпадіння",
+        "method": "exact"
+      },
+      {
+        "input_id": 1572,
+        "input_name": "Синтетичні мотузки",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Синтетичні мотузки",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.9,
+        "reasoning": "Близький тип аксесуарів для лебідок",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1584,
+        "input_name": "Інструменти та аксесуари для мотузок",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Інструменти та аксесуари для мотузок",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.8,
+        "reasoning": "Супутні аксесуари для тросів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1580,
+        "input_name": "Транспортні ремені для евакуатора",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Транспортні ремені для евакуатора",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.7,
+        "reasoning": "Часткове семантичне співпадіння",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1581,
+        "input_name": "Швидкий Міцний Тримачі",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Швидкий Міцний Тримачі",
+        "match_id": "40304",
+        "match_name": "Робоче освітлення",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Освітлення > Робоче освітлення",
+        "confidence": 0.5,
+        "reasoning": "Часткове семантичне співпадіння за терміном 'кріплення', але не точне",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1573,
+        "input_name": "Гаки м'які - з синтетичного троса",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Гаки м'які - з синтетичного троса",
+        "match_id": "40105",
+        "match_name": "Троси та стропи",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Лебідки та аксесуари > Троси та стропи",
+        "confidence": 0.9,
+        "reasoning": "Точне семантичне співпадіння за категорією тросів та стропів",
+        "method": "semantic"
+      },
+      {
+        "input_id": 1575,
+        "input_name": "Кріплення для гаків і скоб",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Кріплення для гаків і скоб",
+        "match_id": "40304",
+        "match_name": "Робоче освітлення",
+        "match_path": "",
+        "match_full_path": "Автоаксесуари 4x4 > Освітлення > Робоче освітлення",
+        "confidence": 0.5,
+        "reasoning": "Часткове семантичне співпадіння за терміном 'кріплення', але не точне",
+        "method": "semantic"
+      }
+    ]
+  },
+  "unmatched_categories": {
+    "count": 7,
+    "items": [
+      {
+        "input_id": 1570,
+        "input_name": "Пояси для дерев - підвіски",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Пояси для дерев - підвіски",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.3,
+        "reasoning": "Специфічний тип аксесуарів, немає точної відповідності",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1585,
+        "input_name": "Підіймачі",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Підіймачі",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.4,
+        "reasoning": "Немає точної категорії для підіймачів",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1583,
+        "input_name": "Напрямні для витягувачів",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Напрямні для витягувачів",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.3,
+        "reasoning": "Специфічний тип аксесуарів без точної відповідності",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1574,
+        "input_name": "лещата",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > лещата",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1579,
+        "input_name": "Стрічки, Обгортки, стрічки для ремонту",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Стрічки, Обгортки, стрічки для ремонту",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1577,
+        "input_name": "Блоки для підйомника",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Блоки для підйомника",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії в новій структурі",
+        "method": "unmatched"
+      },
+      {
+        "input_id": 1586,
+        "input_name": "Набори для витягування",
+        "input_path": "",
+        "input_full_path": "троси - строп'я - кінетичні синтетичні пояси - скоби - блоки > Набори для витягування",
+        "match_id": "Не знайдено",
+        "match_name": "Не найдено",
+        "match_path": "",
+        "match_full_path": "Не найдено",
+        "confidence": 0.0,
+        "reasoning": "Немає відповідної категорії в новій структурі",
+        "method": "unmatched"
+      }
+    ]
+  },
+  "statistics": {
+    "by_method": {
+      "exact_matches": 2,
+      "semantic_matches": 8,
+      "general_matches": 0
+    },
+    "by_error_type": {
+      "not_found": 7,
+      "parsing_errors": 0,
+      "general_errors": 0,
+      "missing_from_response": 0,
+      "original_not_found": 0
+    },
+    "by_confidence": {
+      "high_confidence": 7,
+      "medium_confidence": 3,
+      "low_confidence": 0
+    }
+  }
+}
