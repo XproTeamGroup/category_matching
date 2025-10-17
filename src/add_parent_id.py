@@ -42,8 +42,8 @@ def add_parent_ids(categories, parent_id=None):
 
 if __name__ == '__main__':
     # Загружаем new.json
-    input_file = '../new.json'
-    output_file = '../new.json'
+    input_file = 'new.json'
+    output_file = 'new.json'
 
     print(f'Загрузка {input_file}...')
     with open(input_file, 'r', encoding='utf-8') as f:

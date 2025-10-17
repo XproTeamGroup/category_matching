@@ -8,14 +8,9 @@ from datetime import datetime
 
 # --- Конфигурация ---
 NEW_CATEGORIES_FILE = 'new.json'
-# OLD_CATEGORIES_FILES = ['4_1.json', '4_2.json', '4_3.json', '4_4.json', '4_5.json', '4_6.json', '4_7.json', '4_8.json', '4_9.json', '4_10.json', '4_11.json', '4_12.json', '4_13.json', '4_14.json', '4_15.json', '4_16.json', '4_17.json', '4_18.json', '4_19.json', '4_20.json', '4_21.json', '4_22.json', '4_23.json', '4_24.json', '4_25.json', '4_26.json', '4_27.json', '4_28.json', '4_29.json', '4_30.json', '4_31.json', '4_32.json', '4_33.json', '4_34.json',]  # Список файлов для обработки
-# OLD_CATEGORIES_FILES = ['3_1.json', '3_2.json', '3_3.json', '3_4.json', '3_5.json', '3_6.json', '3_7.json', '3_8.json', '3_9.json', '3_10.json', '3_11.json', '3_12.json', '3_13.json', '3_14.json', '3_15.json', '3_16.json']  # Список файлов для обработки
-# OLD_CATEGORIES_FILES = ['2_1.json', '2_2.json', '2_3.json', '2_4.json', '2_5.json', '2_6.json']  # Список файлов для обработки
-# OLD_CATEGORIES_FILES = ['docs/3/3_6.json', 'docs/3/3_16.json']
-OLD_CATEGORIES_FILES = ['docs/3/3_16.json']
-# OLD_CATEGORIES_FILES = ['docs/3/3_16.json']
-OUTPUT_DIR = 'report_rematching_3_16'  # Базовая директория для отчетов
-CHUNK_SIZE = 5 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
+OLD_CATEGORIES_FILES = ['4_1.json']
+OUTPUT_DIR = 'report_matching'  # Базовая директория для отчетов
+CHUNK_SIZE = 10 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
 CLAUDE_MODEL = "claude-3-5-haiku-20241022" # Можно использовать "claude-3-sonnet-20240229" для меньших затрат
 MAX_TOKENS_RESPONSE = 8000 # Максимальное количество токенов в ответе Claude
 TEMPERATURE = 0.0 # Температура для Claude (0.0 для более детерминированных ответов)
