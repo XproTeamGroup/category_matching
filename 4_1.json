@@ -1,0 +1,3334 @@
+[
+  {
+    "id": 1714,
+    "name": "акумулятори - перетворювачі - зарядні пристрої - буст",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/akumulatory-przetwornice-ladowarki-boost",
+    "children": [
+      {
+        "id": 1803,
+        "name": "Акумулятори",
+        "parent_id": 1714,
+        "url": "https://szekla4x4.pl/akumulatory-do-samochodow",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1724,
+    "name": "Продуктивність Baxter",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/baxter-performance",
+    "children": []
+  },
+  {
+    "id": 1723,
+    "name": "Частини MOPAR",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/czesci-mopar",
+    "children": []
+  },
+  {
+    "id": 1679,
+    "name": "Елементи кузова і шасі | Багажники, бампери, захисні кришки",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/elementy-nadwozia-i-podwozia-bagazniki-zderzaki-oslony",
+    "children": [
+      {
+        "id": 1680,
+        "name": "Аксесуари кузова",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/akcesoria",
+        "children": []
+      },
+      {
+        "id": 1697,
+        "name": "Аксесуари пакування",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/akcesoria-paki",
+        "children": []
+      },
+      {
+        "id": 1683,
+        "name": "Даховий багаж і обладнання",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/bagazniki-dachowe",
+        "children": []
+      },
+      {
+        "id": 1699,
+        "name": "Кріплення для вантажівки",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/bagazniki-na-pake",
+        "children": []
+      },
+      {
+        "id": 1694,
+        "name": "Бичачі дуги",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/bull-bary",
+        "children": []
+      },
+      {
+        "id": 1689,
+        "name": "Дахи",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/dach-do-wranglera",
+        "children": []
+      },
+      {
+        "id": 1685,
+        "name": "Двері і дзеркала",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/drzwi",
+        "children": []
+      },
+      {
+        "id": 1702,
+        "name": "Емблеми - автомобільні значки",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/emblematy-znaczki-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1701,
+        "name": "Кришка заливної горловини",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/klapki-wlewu-paliwa",
+        "children": []
+      },
+      {
+        "id": 1690,
+        "name": "Маски і ґрилі",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/maski-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1684,
+        "name": "Кріплення до Автомобілів - тримачі до скоб для буксирування, гаки для буксирування",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/mocowania-do-samochodow-uchwyty-do-szekli-do-szarpania-haki-do-holowania",
+        "children": []
+      },
+      {
+        "id": 1688,
+        "name": "Кріплення запасного колеса",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/mocowania-kola-zapasowego",
+        "children": []
+      },
+      {
+        "id": 1691,
+        "name": "Захисні кожухи 4x4",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/oslony-4x4",
+        "children": []
+      },
+      {
+        "id": 1700,
+        "name": "Захисти диференціала - мостів",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/oslony-dyferencjalu-mostow",
+        "children": []
+      },
+      {
+        "id": 1682,
+        "name": "Монтажні пластини лебідки",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/plyty-pod-wyciagarki-do-samochodow",
+        "children": []
+      },
+      {
+        "id": 1695,
+        "name": "Чохли на автомобіль",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/pokrowce-na-samochod",
+        "children": []
+      },
+      {
+        "id": 1698,
+        "name": "Кришки багажника | Ролети",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/pokrywy-paki-rolety",
+        "children": []
+      },
+      {
+        "id": 1687,
+        "name": "Розширення і диски",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/poszerzenia-gumowe-i-plastikowe",
+        "children": []
+      },
+      {
+        "id": 1681,
+        "name": "Пороги і сходинки",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/progi",
+        "children": []
+      },
+      {
+        "id": 1693,
+        "name": "Переміщення табличок",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/relokacje-tablic",
+        "children": []
+      },
+      {
+        "id": 1692,
+        "name": "Запонки, Гвинтики",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/spinki-srubki",
+        "children": []
+      },
+      {
+        "id": 1696,
+        "name": "Корпуси кузова | Твердотільні корпуси",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/zabudowy-paki-hardtopy",
+        "children": []
+      },
+      {
+        "id": 1686,
+        "name": "Бампери та трубки",
+        "parent_id": 1679,
+        "url": "https://szekla4x4.pl/zderzaki",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1711,
+    "name": "Диски, Розпірки, Шини",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/felgi-stalowe-do-samochodow-terenowych",
+    "children": [
+      {
+        "id": 1770,
+        "name": "Аксесуари для шин",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/akcesoria-do-opon",
+        "children": []
+      },
+      {
+        "id": 1766,
+        "name": "Відстані",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/dystansedo-samochodow",
+        "children": []
+      },
+      {
+        "id": 1774,
+        "name": "Алюмінієві диски",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/felgi-aluminiowe",
+        "children": []
+      },
+      {
+        "id": 1773,
+        "name": "Диски сталеві",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/felgi-stalowe",
+        "children": []
+      },
+      {
+        "id": 1768,
+        "name": "Ковпаки Кришки",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/kolpaki-dekielki",
+        "children": []
+      },
+      {
+        "id": 1769,
+        "name": "Ланцюги на колеса",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/lancuchy-na-kola",
+        "children": []
+      },
+      {
+        "id": 1767,
+        "name": "Шини",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/opony-maxxis-cst",
+        "children": []
+      },
+      {
+        "id": 1775,
+        "name": "Кільця центрувальні",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/pierscienie-centrujace",
+        "children": []
+      },
+      {
+        "id": 1772,
+        "name": "Чохли на колеса",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/pokrowce-na-kola",
+        "children": []
+      },
+      {
+        "id": 1765,
+        "name": "Гвинти і гайки",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/nakretki-do-felg",
+        "children": []
+      },
+      {
+        "id": 1771,
+        "name": "Ремонтні комплекти",
+        "parent_id": 1711,
+        "url": "https://szekla4x4.pl/zestawy-naprawcze",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1713,
+    "name": "радіостанції - короткохвильові радіо",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/interkomy-krotkofalowki-cb-radia",
+    "children": [
+      {
+        "id": 1799,
+        "name": "Переговорні пристрої Cardo",
+        "parent_id": 1713,
+        "url": "https://szekla4x4.pl/cardo-interkomy",
+        "children": []
+      },
+      {
+        "id": 1802,
+        "name": "Радіозв'язок",
+        "parent_id": 1713,
+        "url": "https://szekla4x4.pl/cb-radia",
+        "children": []
+      },
+      {
+        "id": 1801,
+        "name": "Вільне підключення",
+        "parent_id": 1713,
+        "url": "https://szekla4x4.pl/freedconn",
+        "children": []
+      },
+      {
+        "id": 1800,
+        "name": "Центральний регіон",
+        "parent_id": 1713,
+        "url": "https://szekla4x4.pl/midland",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1709,
+    "name": "Каністри резервуари кріплення",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/kanistry-do-samochodow-quadow-motocykli",
+    "children": []
+  },
+  {
+    "id": 1706,
+    "name": "Компресори та приладдя",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/kompresory",
+    "children": []
+  },
+  {
+    "id": 1612,
+    "name": "троси - стропи - кінетичні ремені синтетичні - шакли - блоки",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/liny-zawiesia-pasy-kinetyczne-syntetyczne-szekle-zblocza",
+    "children": [
+      {
+        "id": 1582,
+        "name": "Розширювачі",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/ekspandory",
+        "children": []
+      },
+      {
+        "id": 1576,
+        "name": "Гаки",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/haki",
+        "children": []
+      },
+      {
+        "id": 1571,
+        "name": "Кінетичні линви та стрічки",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/liny-i-tasmy-kinetyczne",
+        "children": []
+      },
+      {
+        "id": 1578,
+        "name": "Сталеві троси",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/liny-stalowe",
+        "children": []
+      },
+      {
+        "id": 1572,
+        "name": "Синтетичні линви",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/liny-syntetyczne-off-road",
+        "children": []
+      },
+      {
+        "id": 1584,
+        "name": "Інструменти та аксесуари для мотузок",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/narzedzia-do-lin",
+        "children": []
+      },
+      {
+        "id": 1570,
+        "name": "Ремені для дерев - Стропи",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/pasy-do-drzew-zawiesia",
+        "children": []
+      },
+      {
+        "id": 1580,
+        "name": "Транспортні ремені для платформи",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/pasy-transportowe",
+        "children": []
+      },
+      {
+        "id": 1585,
+        "name": "Підйомники",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/podnosniki",
+        "children": []
+      },
+      {
+        "id": 1583,
+        "name": "Напрямні для витягувачів",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/prowadnice-rolkowe-slizgowe-do-wyciagarek",
+        "children": []
+      },
+      {
+        "id": 1581,
+        "name": "Швидкий Кулак Кріплення",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/quick-fist-uchwyty",
+        "children": []
+      },
+      {
+        "id": 1574,
+        "name": "Ланцюги",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/szekle",
+        "children": []
+      },
+      {
+        "id": 1573,
+        "name": "Шекли м'які - з синтетичного троса",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/szekle-miekkie-z-liny-syntetycznej",
+        "children": []
+      },
+      {
+        "id": 1579,
+        "name": "Стяжки, Обгортки, ремонтні стрічки",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/trytytki-i-inne",
+        "children": []
+      },
+      {
+        "id": 1575,
+        "name": "Затискачі для такелажних скоб і гаків",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/uchwyty-do-szekli",
+        "children": []
+      },
+      {
+        "id": 1577,
+        "name": "Блоки для витягувача",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/zblocza",
+        "children": []
+      },
+      {
+        "id": 1586,
+        "name": "Комплекти для виймання",
+        "parent_id": 1612,
+        "url": "https://szekla4x4.pl/zestawy-do-wyciagania",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1719,
+    "name": "Моделі RC",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/modele-rc-axial-traxxas-wrangler-land-rover",
+    "children": []
+  },
+  {
+    "id": 1549,
+    "name": "Вбивця бруду",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/mudkiller",
+    "children": []
+  },
+  {
+    "id": 1613,
+    "name": "Наметні дахи, Ролети та Аксесуари",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/namioty-dachowy-i-akcesoria",
+    "children": [
+      {
+        "id": 1623,
+        "name": "Аксесуари для наметів",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/akcesoria-do-namiotow",
+        "children": []
+      },
+      {
+        "id": 1627,
+        "name": "Додатки - Тамбури до наметів",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/przedsionki",
+        "children": []
+      },
+      {
+        "id": 1631,
+        "name": "Душові кабіни",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/kabiny-prysznicowe",
+        "children": []
+      },
+      {
+        "id": 1625,
+        "name": "Маркізи HEX | Кажанове крило | Лисяче крило",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/markizy-hex-batwing-foxwing",
+        "children": []
+      },
+      {
+        "id": 1624,
+        "name": "Маркізи Стандартні | Навіси експедиційні",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/markizy-standardowe-zadaszenia-wyprawowe",
+        "children": []
+      },
+      {
+        "id": 1628,
+        "name": "Москітна сітка",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/moskitiera",
+        "children": []
+      },
+      {
+        "id": 1619,
+        "name": "Намет даховий 2-особовий",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namiot-dachowy-2-osobowy",
+        "children": []
+      },
+      {
+        "id": 1620,
+        "name": "Намет дахований 3-місний",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namiot-dachowy-3-osobowy",
+        "children": []
+      },
+      {
+        "id": 1621,
+        "name": "Намет дахований 4-місний",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namiot-dachowy-4-osobowy",
+        "children": []
+      },
+      {
+        "id": 1622,
+        "name": "Намет дахований 6-місний",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namiot-dachowy-6-osobowy",
+        "children": []
+      },
+      {
+        "id": 1614,
+        "name": "Намети дахові",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namioty-dachowe",
+        "children": []
+      },
+      {
+        "id": 1617,
+        "name": "Дахові намети для сімей",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namioty-dachowe-dla-rodzin",
+        "children": []
+      },
+      {
+        "id": 1618,
+        "name": "Дахові намети ПРЕМІУМ | ВІП",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namioty-dachowe-premium-vip",
+        "children": []
+      },
+      {
+        "id": 1616,
+        "name": "Намети у м'якому корпусі",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namioty-w-miekkiej-obudowie",
+        "children": []
+      },
+      {
+        "id": 1615,
+        "name": "Намети в твердому корпусі",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/namioty-w-twardej-obudowie-",
+        "children": []
+      },
+      {
+        "id": 1630,
+        "name": "Стоянкове опалення",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/ogrzewanie-postojowe-planar-suche",
+        "children": []
+      },
+      {
+        "id": 1634,
+        "name": "Душі",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/prysznice",
+        "children": []
+      },
+      {
+        "id": 1626,
+        "name": "Бічні стінки для маркіз",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/sciany-boczne-do-markiz",
+        "children": []
+      },
+      {
+        "id": 1633,
+        "name": "Складані стільці і столи для походів",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/skladane-krzesla-i-stoly-na-wyprawy",
+        "children": []
+      },
+      {
+        "id": 1629,
+        "name": "Спальні мішки, матраци, подушки, карімати",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/spiwory-i-poduszki-do-namiotu",
+        "children": []
+      },
+      {
+        "id": 1632,
+        "name": "Туалети пересувні",
+        "parent_id": 1613,
+        "url": "https://szekla4x4.pl/toalety-przenosne",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1721,
+    "name": "Одяг",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/odziez-kaski-wodery",
+    "children": [
+      {
+        "id": 1818,
+        "name": "Толстовки",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/bluzy",
+        "children": []
+      },
+      {
+        "id": 1816,
+        "name": "Худі та футболки",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/bluzy-i-koszulki",
+        "children": []
+      },
+      {
+        "id": 1805,
+        "name": "Черевики для бездоріжжя",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/buty-obuwie-motocyklowe-i-na-quada",
+        "children": []
+      },
+      {
+        "id": 1815,
+        "name": "Центральний легкий позашляховик",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/ckx-titan",
+        "children": []
+      },
+      {
+        "id": 1817,
+        "name": "Головні убори",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/czapki",
+        "children": []
+      },
+      {
+        "id": 1813,
+        "name": "Finntrail - вейдерси та водонепроникний одяг",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/finntrail",
+        "children": []
+      },
+      {
+        "id": 1820,
+        "name": "Форма",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/forma",
+        "children": []
+      },
+      {
+        "id": 1807,
+        "name": "Гаджети Шекла4x4",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/gadzety-szekla4x4",
+        "children": []
+      },
+      {
+        "id": 1808,
+        "name": "Окуляри",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/Gogle",
+        "children": []
+      },
+      {
+        "id": 1806,
+        "name": "Імпрегнати Nikwax для взуття та одягу",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/impregnaty-nikwax-do-obuwia-i-odziezy",
+        "children": []
+      },
+      {
+        "id": 1809,
+        "name": "Каски Rescue екстремальні види спорту",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/kaski-rescue-sporty-ekstremalne",
+        "children": []
+      },
+      {
+        "id": 1810,
+        "name": "Автомобільні шоломи",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/kaski-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1811,
+        "name": "Балаклави",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/kominiarki",
+        "children": []
+      },
+      {
+        "id": 1821,
+        "name": "Система шоломів",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/ls2",
+        "children": []
+      },
+      {
+        "id": 1812,
+        "name": "Наколінники Захисники Колін",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/nakolanniki-ochraniacze-kolan",
+        "children": []
+      },
+      {
+        "id": 1804,
+        "name": "Робочий одяг - рукавиці, штани, кофти BLAKLADER",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/odziez-robocza-rekawice-spodnie-bluzy-blaklader",
+        "children": []
+      },
+      {
+        "id": 1814,
+        "name": "Рукавиці",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/rekawice-mechanix-wear",
+        "children": []
+      },
+      {
+        "id": 1819,
+        "name": "Штани",
+        "parent_id": 1721,
+        "url": "https://szekla4x4.pl/spodnie",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1710,
+    "name": "Олії - Просочення - Мастила - Лаки - Хімія",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/oleje-smary-lakiery",
+    "children": []
+  },
+  {
+    "id": 1528,
+    "name": "Освітлення | LED лампи",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/oswietlenie-lampy-led",
+    "children": [
+      {
+        "id": 1541,
+        "name": "Лінкс арбітражний",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/arb-linx",
+        "children": []
+      },
+      {
+        "id": 1537,
+        "name": "Балки попереджувальні для спеціальних транспортних засобів",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/belki-ostrzegawcze",
+        "children": []
+      },
+      {
+        "id": 1536,
+        "name": "Покажчики повороту та підсвітка номерного знака",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/kierunkowskazy-i-zarowki-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1532,
+        "name": "Світлодіодні лампи - малі та вбудовані",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/lampy-robocze",
+        "children": []
+      },
+      {
+        "id": 1530,
+        "name": "Світлодіодні лампи - Круглі",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/lampy-led-okragle",
+        "children": []
+      },
+      {
+        "id": 1540,
+        "name": "Світильники майстерні",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/lampy-warsztatowe",
+        "children": []
+      },
+      {
+        "id": 1542,
+        "name": "Ліхтарі Налобні",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/latarki-czolowki",
+        "children": []
+      },
+      {
+        "id": 1538,
+        "name": "Освітлення інтер'єру",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/osweitlenie-wnetrza",
+        "children": []
+      },
+      {
+        "id": 1547,
+        "name": "Освітлення кемпінгове / для кемпінгу",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/oswietlenie-biwakowe-camperowe",
+        "children": []
+      },
+      {
+        "id": 1529,
+        "name": "Світлодіодні панелі світильника",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/panele-led-offroad",
+        "children": []
+      },
+      {
+        "id": 1531,
+        "name": "Світлодіодні фари та основні лампи",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/reflektory-led",
+        "children": []
+      },
+      {
+        "id": 1539,
+        "name": "Звукові сигнали",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/sygnaly-dzwiekowe",
+        "children": []
+      },
+      {
+        "id": 1548,
+        "name": "Задні ліхтарі",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/tylne-lampy",
+        "children": []
+      },
+      {
+        "id": 1534,
+        "name": "Кріплення освітлення",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/uchwyty-mocowania-rurek-profili-led-lamp",
+        "children": []
+      },
+      {
+        "id": 1533,
+        "name": "Вимикачі кабелі реле аксесуари",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/oswietlenie-podlaczenia",
+        "children": []
+      },
+      {
+        "id": 1535,
+        "name": "Автомобільні лампочки",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/zarowki-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1728,
+        "name": "Комплекти LED-ламп присвячених для автомобілів",
+        "parent_id": 1528,
+        "url": "https://szekla4x4.pl/zestawy-lamp-led-dedykowanych-do-samochodow",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1712,
+    "name": "Зовнішній - Туристичні та кемпінгові аксесуари",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/outdoor-survival-latarki-noze",
+    "children": [
+      {
+        "id": 1793,
+        "name": "Аптечки",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/apteczki",
+        "children": []
+      },
+      {
+        "id": 1791,
+        "name": "Гамаки - Квиток до місяця",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/hamaki-tickettothemoon",
+        "children": []
+      },
+      {
+        "id": 1786,
+        "name": "Просочення",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/impregnaty",
+        "children": []
+      },
+      {
+        "id": 1785,
+        "name": "Кресива і запальнички",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/krzesiwa-i-zapalniczki",
+        "children": []
+      },
+      {
+        "id": 1781,
+        "name": "Стільці і Столи",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/krzesla-i-stoly-do-obozu-campingu-namiotu",
+        "children": []
+      },
+      {
+        "id": 1787,
+        "name": "Термічні кухлі і термоси",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/kubki-termiczne-i-termosy",
+        "children": []
+      },
+      {
+        "id": 1788,
+        "name": "Кухонні плити, гриль і кавоварки",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/kuchenki-i-grille",
+        "children": []
+      },
+      {
+        "id": 1778,
+        "name": "Ліхтарі, налобні ліхтарі та кемпінгові лампи",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/latarki-i-lampy-campingowe",
+        "children": [
+          {
+            "id": 1546,
+            "name": "Батареї акумулятори для ліхтариків",
+            "parent_id": 1778,
+            "url": "https://szekla4x4.pl/baterie-akumulatory-do-latarek",
+            "children": []
+          },
+          {
+            "id": 1544,
+            "name": "Передні фари",
+            "parent_id": 1778,
+            "url": "https://szekla4x4.pl/czolowki",
+            "children": []
+          },
+          {
+            "id": 1545,
+            "name": "Кемпінгові та Робочі Лампи",
+            "parent_id": 1778,
+            "url": "https://szekla4x4.pl/lampy-warsztatowe-campingowe",
+            "children": []
+          },
+          {
+            "id": 1543,
+            "name": "Ліхтарі",
+            "parent_id": 1778,
+            "url": "https://szekla4x4.pl/latarki-manker",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1792,
+        "name": "Автомобільні холодильники",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/lodowki-turystyczne-wyprawowe",
+        "children": []
+      },
+      {
+        "id": 1795,
+        "name": "Зарядні пристрої для портативного обладнання",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/ladowarki-do-sprzetu-przenosnego",
+        "children": []
+      },
+      {
+        "id": 1779,
+        "name": "Мачети Сокирки Сокири",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/maczety",
+        "children": []
+      },
+      {
+        "id": 1782,
+        "name": "Багатофункціональні інструменти",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/multitoole",
+        "children": []
+      },
+      {
+        "id": 1790,
+        "name": "Посуд і кухонне приладдя",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/naczynia-i-niezbedniki",
+        "children": []
+      },
+      {
+        "id": 1776,
+        "name": "Інструменти",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/narzedzia",
+        "children": []
+      },
+      {
+        "id": 1780,
+        "name": "Ножі",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/noze",
+        "children": []
+      },
+      {
+        "id": 1783,
+        "name": "Точилки",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/ostrzalki",
+        "children": []
+      },
+      {
+        "id": 1789,
+        "name": "Пили",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/pily",
+        "children": []
+      },
+      {
+        "id": 1796,
+        "name": "Душ туристичний",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/prysznic-turystyczne",
+        "children": []
+      },
+      {
+        "id": 1784,
+        "name": "Саперні лопати",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/saperki",
+        "children": []
+      },
+      {
+        "id": 1777,
+        "name": "Срібна Стрічка - стрічки McGyver",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/silver-tape-tasmy-macgyver",
+        "children": []
+      },
+      {
+        "id": 1797,
+        "name": "Спальні мішки і килимки",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/spiwory-i-karimaty",
+        "children": []
+      },
+      {
+        "id": 1794,
+        "name": "Засоби від комах",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/srodki-na-owady",
+        "children": []
+      },
+      {
+        "id": 1798,
+        "name": "Туалети для кемпінгу",
+        "parent_id": 1712,
+        "url": "https://szekla4x4.pl/toalety-kampingowe",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1718,
+    "name": "Панелі фотовольтаїчні установки",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/panele-instalacje-fotowoltaiczne",
+    "children": []
+  },
+  {
+    "id": 1716,
+    "name": "Плуги",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/plugi-do-samochodow",
+    "children": []
+  },
+  {
+    "id": 1726,
+    "name": "Рекомендовані",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/polecane",
+    "children": []
+  },
+  {
+    "id": 1722,
+    "name": "Квади - частини і аксесуари",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/quady-czesci-i-akcesoria",
+    "children": [
+      {
+        "id": 1934,
+        "name": "Доступ до частин",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/access-czesci",
+        "children": []
+      },
+      {
+        "id": 1946,
+        "name": "Аксесуари для мотоциклів та захисне обладнання",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/acerbis",
+        "children": []
+      },
+      {
+        "id": 1979,
+        "name": "Адаптери до підмітальної машини",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/adaptery-do-zamiatarki",
+        "children": []
+      },
+      {
+        "id": 1980,
+        "name": "Монтажні перехідники",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/adaptery-montazowe",
+        "children": []
+      },
+      {
+        "id": 1941,
+        "name": "Аксесуари для дисків",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/akcesoria-do-felg",
+        "children": []
+      },
+      {
+        "id": 1922,
+        "name": "Додаткові аксесуари, що підходять лише до UTV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/akcesoria-pasujace-tylko-do-utv",
+        "children": [
+          {
+            "id": 1923,
+            "name": "Динаміки для Quadów та UTV",
+            "parent_id": 1922,
+            "url": "https://szekla4x4.pl/glosniki-do-quadow-i-utv",
+            "children": []
+          },
+          {
+            "id": 1924,
+            "name": "Повітронагрівачі для UTV",
+            "parent_id": 1922,
+            "url": "https://szekla4x4.pl/nagrzewnice-do-utv",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1823,
+        "name": "Зимові аксесуари з підігрівом",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/akcesoria-zimowe-grzane",
+        "children": []
+      },
+      {
+        "id": 1943,
+        "name": "Arctic Cat деталі",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/arctic-cat-czesci",
+        "children": []
+      },
+      {
+        "id": 1952,
+        "name": "сільськогосподарська техніка",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/bercomac",
+        "children": []
+      },
+      {
+        "id": 1957,
+        "name": "Бульдог",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/bulldog",
+        "children": []
+      },
+      {
+        "id": 1970,
+        "name": "Частини",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/czesci",
+        "children": []
+      },
+      {
+        "id": 1956,
+        "name": "Деталі до плугів",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/czesci-do-plugow",
+        "children": []
+      },
+      {
+        "id": 1975,
+        "name": "Запчастини",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/czesci-zamienne",
+        "children": []
+      },
+      {
+        "id": 1962,
+        "name": "Німецький фондовий індекс",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/dax",
+        "children": []
+      },
+      {
+        "id": 1871,
+        "name": "Диференціал Quad",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/dyferencjal-quada",
+        "children": []
+      },
+      {
+        "id": 1986,
+        "name": "Відстані XRW",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/dystanse-xrw",
+        "children": []
+      },
+      {
+        "id": 1920,
+        "name": "Електрика",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/elektryka-i-oswietlenie",
+        "children": []
+      },
+      {
+        "id": 1964,
+        "name": "Гнучкий Fasst",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/fasst-flex",
+        "children": []
+      },
+      {
+        "id": 1944,
+        "name": "Диски Access",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/felgi-access",
+        "children": []
+      },
+      {
+        "id": 1978,
+        "name": "Диски Linhai",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/felgi-linhai",
+        "children": []
+      },
+      {
+        "id": 1942,
+        "name": "Диски Segway",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/felgi-segway",
+        "children": []
+      },
+      {
+        "id": 1965,
+        "name": "Диски TGB",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/felgi-tgb",
+        "children": []
+      },
+      {
+        "id": 1947,
+        "name": "Фільтри",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/filtry",
+        "children": []
+      },
+      {
+        "id": 1827,
+        "name": "Повітряні фільтри ATV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/filtry-powietrza-atv",
+        "children": []
+      },
+      {
+        "id": 1966,
+        "name": "Розсіювач",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/fimco-rozsiewacz",
+        "children": []
+      },
+      {
+        "id": 1950,
+        "name": "Лисиця",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/fox",
+        "children": []
+      },
+      {
+        "id": 1939,
+        "name": "Звільнене з'єднання",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/freed-conn",
+        "children": []
+      },
+      {
+        "id": 1854,
+        "name": "Гусениці до Quadów",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/gasienice-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1968,
+        "name": "Вогнегасник",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/gasnica",
+        "children": []
+      },
+      {
+        "id": 1963,
+        "name": "Графіка Segway",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/grafika-segway",
+        "children": []
+      },
+      {
+        "id": 1988,
+        "name": "Гумові вироби",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/gumowce",
+        "children": []
+      },
+      {
+        "id": 1969,
+        "name": "Інформаційні технології та периферія",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/itp",
+        "children": []
+      },
+      {
+        "id": 1960,
+        "name": "Кабіни UTV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/kabiny-utv",
+        "children": []
+      },
+      {
+        "id": 1855,
+        "name": "Блоки Гальмівні диски для Quad",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/klocki-tarcze-hamulcowe-do-quada",
+        "children": [
+          {
+            "id": 1856,
+            "name": "Гальмівні колодки Delta для квадроцикла",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/klocki-hamulcowe-delta-do-quada",
+            "children": []
+          },
+          {
+            "id": 1857,
+            "name": "Гальмівні колодки EBC для квадроцикла",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/klocki-hamulcowe-ebc-do-quada",
+            "children": []
+          },
+          {
+            "id": 1860,
+            "name": "Гальмівні колодки EPI",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/Klocki-hamulcowe-EPI",
+            "children": []
+          },
+          {
+            "id": 1858,
+            "name": "Гальмівні диски EBC для квадроцикла",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/tarcze-hamulcowe-ebc-do-quada",
+            "children": []
+          },
+          {
+            "id": 1859,
+            "name": "Гальмівні диски FRIXION",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/tarcze-hamulcowe-frixion",
+            "children": []
+          },
+          {
+            "id": 1863,
+            "name": "Гальмівні затискачі для квадроциклів",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/zaciski-hamulcowe-do-quadow",
+            "children": []
+          },
+          {
+            "id": 1861,
+            "name": "Ремонтні комплекти гальмівного насоса ATV",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/zestawy-naprawcze-pompy-hamulcowej-atv",
+            "children": []
+          },
+          {
+            "id": 1862,
+            "name": "Ремонтні набори супорта",
+            "parent_id": 1855,
+            "url": "https://szekla4x4.pl/zestawy-naprawcze-zacisku",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1990,
+        "name": "Комбінезони для снігоходу",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/kombinezony-skuter-sniezny",
+        "children": []
+      },
+      {
+        "id": 1949,
+        "name": "Кінцівки тяг для квада",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/koncowki-drazkow",
+        "children": []
+      },
+      {
+        "id": 1972,
+        "name": "Кут заливки",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/kore-wlewu",
+        "children": []
+      },
+      {
+        "id": 1921,
+        "name": "Газонокосарки для Quadów ATV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/kosiarki-do-quadow-atv",
+        "children": []
+      },
+      {
+        "id": 1826,
+        "name": "Валізи Скрині Сумки",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/kufry-skrzynie-torby",
+        "children": []
+      },
+      {
+        "id": 1936,
+        "name": "Лінії частин",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/linhai-czesci",
+        "children": []
+      },
+      {
+        "id": 1937,
+        "name": "Підшипники",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/lozyska",
+        "children": []
+      },
+      {
+        "id": 1974,
+        "name": "Перегонові олії",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/maxima-racing-oil",
+        "children": []
+      },
+      {
+        "id": 1853,
+        "name": "Кріплення багажу обладнання",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/mocowania-bagazu-wyposazenia",
+        "children": []
+      },
+      {
+        "id": 1984,
+        "name": "Мотоциклетні",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/motocyklowe",
+        "children": []
+      },
+      {
+        "id": 1959,
+        "name": "Знаряддя ACCESS",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/narzedzia-access",
+        "children": []
+      },
+      {
+        "id": 1958,
+        "name": "Інструменти ARCTIC CAT",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/narzedzia-arctic-cat",
+        "children": []
+      },
+      {
+        "id": 1951,
+        "name": "Знаряддя LINHAI",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/narzedzia-linhai",
+        "children": []
+      },
+      {
+        "id": 1961,
+        "name": "Інструменти SEGWAY",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/narzedzia-segway",
+        "children": []
+      },
+      {
+        "id": 1940,
+        "name": "Інструменти TGB",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/narzedzia-tgb",
+        "children": []
+      },
+      {
+        "id": 1989,
+        "name": "Одяг поляр",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/odziez-polarowa",
+        "children": []
+      },
+      {
+        "id": 1865,
+        "name": "Оригінальне обладнання виробника",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/oem-suzuki-yamaha-kawasaki-honda-can-am-polaris",
+        "children": [
+          {
+            "id": 1870,
+            "name": "Can-am транспортний засіб",
+            "parent_id": 1865,
+            "url": "https://szekla4x4.pl/brp-can-am",
+            "children": []
+          },
+          {
+            "id": 1869,
+            "name": "Квадроцикли",
+            "parent_id": 1865,
+            "url": "https://szekla4x4.pl/kawasaki-quady",
+            "children": []
+          },
+          {
+            "id": 1868,
+            "name": "Виробник Honda",
+            "parent_id": 1865,
+            "url": "https://szekla4x4.pl/oem-honda",
+            "children": []
+          },
+          {
+            "id": 1867,
+            "name": "Квадроцикли",
+            "parent_id": 1865,
+            "url": "https://szekla4x4.pl/suzuki-quady",
+            "children": []
+          },
+          {
+            "id": 1866,
+            "name": "Музичні інструменти та обладнання",
+            "parent_id": 1865,
+            "url": "https://szekla4x4.pl/yamaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1864,
+        "name": "Олії мастила фільтри для ATV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/oleje-smary-filtry-do-atv",
+        "children": []
+      },
+      {
+        "id": 1828,
+        "name": "Захисні кожухи, підлоги, бампери, монтажні плити лебідки",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/oslony-podlogi-zderzaki-plyty-montazowe-wyciagarki",
+        "children": [
+          {
+            "id": 1845,
+            "name": "Бампери Буферні деталі",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/bumpery-zderzaki",
+            "children": []
+          },
+          {
+            "id": 1847,
+            "name": "Додатковий бак палива ATV",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/dodatkowy-bak-paliw-atv",
+            "children": []
+          },
+          {
+            "id": 1849,
+            "name": "Кулі гака та кріплення",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/kule-haka-i-mocowania",
+            "children": []
+          },
+          {
+            "id": 1842,
+            "name": "Труби до квадроциклів",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/nerf-bary-do-quadow",
+            "children": []
+          },
+          {
+            "id": 1851,
+            "name": "Алюмінієві захисти Moose",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-aluminiowe-moose",
+            "children": []
+          },
+          {
+            "id": 1829,
+            "name": "Алюмінієві кожухи ZYGO",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-aluminiowe-zygo",
+            "children": [
+              {
+                "id": 1837,
+                "name": "Алюмінієві захисні кришки ACCESS",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-access",
+                "children": []
+              },
+              {
+                "id": 1832,
+                "name": "Алюмінієві захисти Arctic Cat",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-arctic-cat",
+                "children": []
+              },
+              {
+                "id": 1833,
+                "name": "Алюмінієві захисти Can Am",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-can-am",
+                "children": []
+              },
+              {
+                "id": 1839,
+                "name": "Алюмінієві захисти для CFMoto",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-do-cfmoto",
+                "children": []
+              },
+              {
+                "id": 1831,
+                "name": "Алюмінієві захисти Honda",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-honda",
+                "children": []
+              },
+              {
+                "id": 1834,
+                "name": "Алюмінієві захисти Kawasaki",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-kawasaki",
+                "children": []
+              },
+              {
+                "id": 1838,
+                "name": "Алюмінієві кожухи KYMCO",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-kymco",
+                "children": []
+              },
+              {
+                "id": 1835,
+                "name": "Алюмінієві Захисти Polaris",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-polaris",
+                "children": []
+              },
+              {
+                "id": 1836,
+                "name": "Алюмінієві захисти Suzuki",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-suzuki",
+                "children": []
+              },
+              {
+                "id": 1830,
+                "name": "Алюмінієві захисти Yamaha",
+                "parent_id": 1829,
+                "url": "https://szekla4x4.pl/oslony-aluminiowe-yamaha",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1840,
+            "name": "Захисні Iron Baltic",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-iron-baltic",
+            "children": []
+          },
+          {
+            "id": 1848,
+            "name": "Захисні ковпаки ламп",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-lamp",
+            "children": []
+          },
+          {
+            "id": 1843,
+            "name": "Захисні рукавиці",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-na-rece",
+            "children": []
+          },
+          {
+            "id": 1852,
+            "name": "Захисні панелі підвіски Shark",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-podwozia",
+            "children": []
+          },
+          {
+            "id": 1846,
+            "name": "Захисні щитки для осей",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/oslony-spodu-do-osiek",
+            "children": []
+          },
+          {
+            "id": 1844,
+            "name": "Спойлери для квадроциклів",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/owiewki-do-quadow",
+            "children": []
+          },
+          {
+            "id": 1841,
+            "name": "Монтажні пластини для лебідок ATV",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/plyty-montazowe-do-wyciagarek-atv",
+            "children": []
+          },
+          {
+            "id": 1850,
+            "name": "Розширення крил",
+            "parent_id": 1828,
+            "url": "https://szekla4x4.pl/poszerzenia-blotnikow-overfenders",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1985,
+        "name": "Дефлектори",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/owiewki",
+        "children": []
+      },
+      {
+        "id": 1825,
+        "name": "Плуги для Quadów",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/plugi-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1976,
+        "name": "Чохол ATV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/pokrowiec-atv",
+        "children": []
+      },
+      {
+        "id": 1971,
+        "name": "Розширення крил для квадроциклів",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/poszerzenia-blotnikow-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1954,
+        "name": "Потужний ящик Великий Пістолет",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/power-box-big-gun",
+        "children": []
+      },
+      {
+        "id": 1872,
+        "name": "Захисні покриття для Quadów",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/powloki-ochronne-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1955,
+        "name": "Шарнір для квадроциклів",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/przegub",
+        "children": []
+      },
+      {
+        "id": 1822,
+        "name": "Причепи до квадроциклів",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/przyczepy-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1967,
+        "name": "рама квадратна",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/rama",
+        "children": []
+      },
+      {
+        "id": 1992,
+        "name": "Перекладач радіатора",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/relokator-chlodnicy",
+        "children": []
+      },
+      {
+        "id": 1973,
+        "name": "Оберти Домінатор",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/rpm-dominator",
+        "children": []
+      },
+      {
+        "id": 1938,
+        "name": "Segway частини",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/segway-czesci",
+        "children": []
+      },
+      {
+        "id": 1914,
+        "name": "Двигун і обладнання",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/silnik-i-osprzet",
+        "children": [
+          {
+            "id": 1919,
+            "name": "автомобільні запчастини",
+            "parent_id": 1914,
+            "url": "https://szekla4x4.pl/bendix",
+            "children": []
+          },
+          {
+            "id": 1918,
+            "name": "Циліндри та Циліндрові комплекти",
+            "parent_id": 1914,
+            "url": "https://szekla4x4.pl/cylindry-i-zestawy-cylindrowe",
+            "children": []
+          },
+          {
+            "id": 1916,
+            "name": "Шатуни",
+            "parent_id": 1914,
+            "url": "https://szekla4x4.pl/korbowody",
+            "children": []
+          },
+          {
+            "id": 1917,
+            "name": "Поршні і штоки",
+            "parent_id": 1914,
+            "url": "https://szekla4x4.pl/tloki-i-sworznie",
+            "children": []
+          },
+          {
+            "id": 1915,
+            "name": "Ущільнювачі до квадроциклів",
+            "parent_id": 1914,
+            "url": "https://szekla4x4.pl/uszczelki-do-quadow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1824,
+        "name": "Розсіювачі Снігоочисники і таке інше",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/akcesoria-uzytkowe-zima-ogrod",
+        "children": []
+      },
+      {
+        "id": 1987,
+        "name": "З'єднання",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/sp-connect",
+        "children": []
+      },
+      {
+        "id": 1977,
+        "name": "Стабілізатори повороту PRECISION",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/stabilizatory-skretu-precision",
+        "children": []
+      },
+      {
+        "id": 1983,
+        "name": "Скло LS2",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/szyby-ls2",
+        "children": []
+      },
+      {
+        "id": 1935,
+        "name": "TGB частини",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/tgb-czesci",
+        "children": []
+      },
+      {
+        "id": 1925,
+        "name": "Тюнінг і модифікації",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/tuning-i-modyfikacje",
+        "children": [
+          {
+            "id": 1933,
+            "name": "Сигналізація для квадроцикла",
+            "parent_id": 1925,
+            "url": "https://szekla4x4.pl/alarm-do-quada",
+            "children": []
+          },
+          {
+            "id": 1929,
+            "name": "Радіатор мастила",
+            "parent_id": 1925,
+            "url": "https://szekla4x4.pl/chlodnica-oleju",
+            "children": []
+          },
+          {
+            "id": 1928,
+            "name": "Водолазні квадроцикли",
+            "parent_id": 1925,
+            "url": "https://szekla4x4.pl/snorkle-quadowe",
+            "children": []
+          },
+          {
+            "id": 1927,
+            "name": "Тюнінг Can-am",
+            "parent_id": 1925,
+            "url": "https://szekla4x4.pl/tuning-can-am",
+            "children": []
+          },
+          {
+            "id": 1930,
+            "name": "Вихідні системи для квадроциклів Паливні тюнери EFI",
+            "parent_id": 1925,
+            "url": "https://szekla4x4.pl/uklady-wydechowe-do-quadow",
+            "children": [
+              {
+                "id": 1931,
+                "name": "Велика гармата",
+                "parent_id": 1930,
+                "url": "https://szekla4x4.pl/big-gun",
+                "children": []
+              },
+              {
+                "id": 1932,
+                "name": "глушники",
+                "parent_id": 1930,
+                "url": "https://szekla4x4.pl/rjwc-tlumiki",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1926,
+            "name": "Комплекти перенесення радіатора до квада",
+            "parent_id": 1925,
+            "url": "https://szekla4x4.pl/zestawy-przeniesienia-chlodnicy-do-quada",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1981,
+        "name": "Тримачі ATV",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/uchwyty-atv",
+        "children": []
+      },
+      {
+        "id": 1874,
+        "name": "Система охолодження для Quad",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/uklad-chlodzenia-do-quada",
+        "children": []
+      },
+      {
+        "id": 1897,
+        "name": "Система приводу для Quad",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/uklad-napedowy-quady",
+        "children": [
+          {
+            "id": 1913,
+            "name": "Диференціал",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/dyferencjal",
+            "children": []
+          },
+          {
+            "id": 1898,
+            "name": "хрестоподібний шарнір карданного валу",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/krzyzak-walu-napedowego",
+            "children": []
+          },
+          {
+            "id": 1899,
+            "name": "Захисні чохли для карданних валів квадроцикла",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/oslony-przegubow-manszety-do-quada",
+            "children": []
+          },
+          {
+            "id": 1900,
+            "name": "Ремені приводні для квадроциклів",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/paski-napedowe-do-quadow",
+            "children": [
+              {
+                "id": 1901,
+                "name": "Пасики приводні",
+                "parent_id": 1900,
+                "url": "https://szekla4x4.pl/dayco-paski-napedowe",
+                "children": []
+              },
+              {
+                "id": 1903,
+                "name": "Брами",
+                "parent_id": 1900,
+                "url": "https://szekla4x4.pl/gates",
+                "children": []
+              },
+              {
+                "id": 1902,
+                "name": "Оригінальні Приводні Ремені",
+                "parent_id": 1900,
+                "url": "https://szekla4x4.pl/oem-oryginalne-paski-napedowe",
+                "children": []
+              },
+              {
+                "id": 1904,
+                "name": "Пас TGB",
+                "parent_id": 1900,
+                "url": "https://szekla4x4.pl/pasek-tgb",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1905,
+            "name": "Напівосі для квадроциклів ATV",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/polosie-do-quadow-atv",
+            "children": [
+              {
+                "id": 1907,
+                "name": "Напівосі для квадроциклів",
+                "parent_id": 1905,
+                "url": "https://szekla4x4.pl/polosie-do-quadow-interparts",
+                "children": []
+              },
+              {
+                "id": 1908,
+                "name": "Напівосі EPI",
+                "parent_id": 1905,
+                "url": "https://szekla4x4.pl/polosie-epi",
+                "children": []
+              },
+              {
+                "id": 1906,
+                "name": "Напівосі Gorilla",
+                "parent_id": 1905,
+                "url": "https://szekla4x4.pl/polosie-gorilla",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1909,
+            "name": "Карданні вали до квадроциклів",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/przeguby-do-quadow",
+            "children": []
+          },
+          {
+            "id": 1912,
+            "name": "Пружини зчеплення для квадроциклів",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/sprezyny-sprzegla-do-quadow",
+            "children": []
+          },
+          {
+            "id": 1910,
+            "name": "Тунінгові комплекти зчеплення",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/tuningowe-zestawy-sprzegla",
+            "children": []
+          },
+          {
+            "id": 1911,
+            "name": "Ремонтні комплекти шарнірів",
+            "parent_id": 1897,
+            "url": "https://szekla4x4.pl/zestawy-naprawcze-przegubow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1991,
+        "name": "Відеореєстратор",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/wideorejestrator",
+        "children": []
+      },
+      {
+        "id": 1948,
+        "name": "Усі продукти",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/wszystkie-produkty",
+        "children": []
+      },
+      {
+        "id": 1953,
+        "name": "Вихлопи BIG GUN",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/wydechy-big-gun",
+        "children": []
+      },
+      {
+        "id": 1873,
+        "name": "Захисне обладнання для Quadów",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/zabezpieczenia-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1982,
+        "name": "Підмітальні машини",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/zamiatarki",
+        "children": []
+      },
+      {
+        "id": 1875,
+        "name": "Підвіска / Кермова система Quad",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/zawieszenie-uklad-kierowniczy",
+        "children": [
+          {
+            "id": 1878,
+            "name": "Кермові тяги для квадроциклів",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/drazki-kierownicze-do-quadow",
+            "children": []
+          },
+          {
+            "id": 1877,
+            "name": "Кермо ATV",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/kierownice-atv",
+            "children": []
+          },
+          {
+            "id": 1880,
+            "name": "Кінцівки кермових тяг",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/kocowki-drazkow-kierowniczych",
+            "children": [
+              {
+                "id": 1882,
+                "name": "Кінцівки кермових тяг",
+                "parent_id": 1880,
+                "url": "https://szekla4x4.pl/epi-koncowki-drazkow-kierowniczych",
+                "children": []
+              },
+              {
+                "id": 1883,
+                "name": "Кінцівки Allballs",
+                "parent_id": 1880,
+                "url": "https://szekla4x4.pl/koncowki-allballs",
+                "children": []
+              },
+              {
+                "id": 1881,
+                "name": "Кінцівки виробника",
+                "parent_id": 1880,
+                "url": "https://szekla4x4.pl/suzuki-koncowki-oem",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1896,
+            "name": "Дзеркала для квадроцикла",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/lusterka-do-quada",
+            "children": []
+          },
+          {
+            "id": 1895,
+            "name": "Сполучники стабілізатора",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/laczniki-stabilizatora",
+            "children": []
+          },
+          {
+            "id": 1893,
+            "name": "Підшипники нижні керування",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/lozyska-dolne-kierownicy",
+            "children": []
+          },
+          {
+            "id": 1879,
+            "name": "Підшипники кермової колонки ATV",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/lozyska-kolumny-kierownicy-atv",
+            "children": []
+          },
+          {
+            "id": 1887,
+            "name": "Підшипники коліс",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/lozyska-kol",
+            "children": []
+          },
+          {
+            "id": 1876,
+            "name": "Ручки ATV",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/manetki-atv",
+            "children": []
+          },
+          {
+            "id": 1894,
+            "name": "Підігріті манекени",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/manetki-podgrzewane",
+            "children": []
+          },
+          {
+            "id": 1886,
+            "name": "Незалежна задня підвіска - ремонтні комплекти",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/niezalezne-tylne-zawieszenie-zestawy-naprawcze",
+            "children": []
+          },
+          {
+            "id": 1892,
+            "name": "Вісь важіль задній",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/oska-wachacz-tylny",
+            "children": []
+          },
+          {
+            "id": 1888,
+            "name": "Пружини підвіски ATV Quad",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/sprezyny-zawieszenia-atv-quad",
+            "children": [
+              {
+                "id": 1889,
+                "name": "Пружини High Lifter",
+                "parent_id": 1888,
+                "url": "https://szekla4x4.pl/sprezyny-high-lifter",
+                "children": []
+              },
+              {
+                "id": 1890,
+                "name": "Пружини підвіски",
+                "parent_id": 1888,
+                "url": "https://szekla4x4.pl/sprezyny-zawieszenia-epi",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1884,
+            "name": "Осі - Кінцівки важелів",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/sworznie-koncowki-wahaczy",
+            "children": []
+          },
+          {
+            "id": 1891,
+            "name": "Втулки заднього маточини / поворотного кулака",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/tuleje-tylnej-piasty-zwrotnicy",
+            "children": []
+          },
+          {
+            "id": 1885,
+            "name": "Ремонтний комплект важелів",
+            "parent_id": 1875,
+            "url": "https://szekla4x4.pl/Zestaw-naprawczy-wahaczy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1945,
+        "name": "Бампери для квадроциклів",
+        "parent_id": 1722,
+        "url": "https://szekla4x4.pl/zderzaki-do-quadow-ATV",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1703,
+    "name": "Рами до автомобілів 4x4 і Ремонтні комплекти",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/ramy-do-samochodow-4x4",
+    "children": []
+  },
+  {
+    "id": 1720,
+    "name": "Турбо двигун заміна",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/silnik-turbo-swap",
+    "children": []
+  },
+  {
+    "id": 1707,
+    "name": "Скрині та похідні сумки",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/skrzynie-torby-wodoszczelne-case-wyprawowe-i-specjalistyczne",
+    "children": [
+      {
+        "id": 1758,
+        "name": "Скрині та сумки для Quad",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/kufry-i-torby-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1760,
+        "name": "Torby - сумки\ni - і\nakcesoria - аксесуари\n\nПереклад: сумки і аксесуари MOLLE",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/molle",
+        "children": []
+      },
+      {
+        "id": 1763,
+        "name": "Органайзери для багажу",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/organizery-bagazowe",
+        "children": []
+      },
+      {
+        "id": 1764,
+        "name": "Алюмінієві ящики",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/skrzynie-aluminiowe",
+        "children": []
+      },
+      {
+        "id": 1756,
+        "name": "Nomad FOX похідні скрині",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/skrzynie-nomad",
+        "children": []
+      },
+      {
+        "id": 1761,
+        "name": "Сумки для велосипеда",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/torby-na-kolo",
+        "children": []
+      },
+      {
+        "id": 1759,
+        "name": "Сумки WARN",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/torby-warn",
+        "children": []
+      },
+      {
+        "id": 1762,
+        "name": "Похідні водонепроникні сумки",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/torby-wodoszczelne-wyprawowe",
+        "children": []
+      },
+      {
+        "id": 1755,
+        "name": "Транспортні ящики",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/wolfcase-skrzynie-transportowe",
+        "children": []
+      },
+      {
+        "id": 1757,
+        "name": "торби вантажні",
+        "parent_id": 1707,
+        "url": "https://szekla4x4.pl/xg-cargo-torby",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1717,
+    "name": "Машини для внесення рідких добрив, Сівалки, Розкидачі добрив",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/solarki-siewniki-rozsiewacze-nawozow",
+    "children": []
+  },
+  {
+    "id": 1708,
+    "name": "Трапи та Наїзди",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/trapy",
+    "children": []
+  },
+  {
+    "id": 1678,
+    "name": "Система охолодження",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/uklad-chlodzenia",
+    "children": []
+  },
+  {
+    "id": 1715,
+    "name": "Гальмівна система | колодки, диски, супорти",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/uklad-hamulcowy-klocki-tarcze-zaciski",
+    "children": []
+  },
+  {
+    "id": 1658,
+    "name": "Система приводу",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/uklad-napedowy",
+    "children": [
+      {
+        "id": 1661,
+        "name": "Блокування мосту, диференціали і передачі",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/blokady-mostu",
+        "children": [
+          {
+            "id": 1668,
+            "name": "Аксесуари до блокад",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/akcesoria-do-blokad",
+            "children": []
+          },
+          {
+            "id": 1665,
+            "name": "блокади",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/ashcroft-blokady",
+            "children": []
+          },
+          {
+            "id": 1663,
+            "name": "Блокади антирозривних механізмів",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/blokady-arb",
+            "children": []
+          },
+          {
+            "id": 1667,
+            "name": "Повітряні Блокування",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/hf-air-locker-blokady",
+            "children": []
+          },
+          {
+            "id": 1664,
+            "name": "Компресори для блокувань",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/kompresory-do-blokad",
+            "children": []
+          },
+          {
+            "id": 1666,
+            "name": "Передачі",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/przelozenia",
+            "children": []
+          },
+          {
+            "id": 1662,
+            "name": "Блокування 4x4",
+            "parent_id": 1661,
+            "url": "https://szekla4x4.pl/tre4x4-blokady",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1659,
+        "name": "Відстані на приводний вал",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/dystanse-na-wal-napedowy",
+        "children": []
+      },
+      {
+        "id": 1677,
+        "name": "хрестоносці",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/krzyzaki",
+        "children": []
+      },
+      {
+        "id": 1672,
+        "name": "Мости",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/mosty",
+        "children": []
+      },
+      {
+        "id": 1675,
+        "name": "Захисні кожухи диференціала",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/oslony-dyferencjalu",
+        "children": []
+      },
+      {
+        "id": 1673,
+        "name": "Напівосі",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/polosie",
+        "children": []
+      },
+      {
+        "id": 1660,
+        "name": "Шарніри",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/przeguby-do-samochodow",
+        "children": []
+      },
+      {
+        "id": 1670,
+        "name": "з'єднувач",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/sprzegielka-piast",
+        "children": []
+      },
+      {
+        "id": 1669,
+        "name": "Зчеплення Тюнінгові Посилені",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/sprzegla-tuningowe",
+        "children": []
+      },
+      {
+        "id": 1671,
+        "name": "Вали приводні",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/waly-napedowe",
+        "children": []
+      },
+      {
+        "id": 1674,
+        "name": "Монтажні комплекти",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/zestawy-montazowe",
+        "children": []
+      },
+      {
+        "id": 1676,
+        "name": "Ремонтні комплекти трансмісії",
+        "parent_id": 1658,
+        "url": "https://szekla4x4.pl/zestawy-naprawcze-ukladu-napedowego",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1705,
+    "name": "Система випуску та впуску",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/uklad-wydechowy-i-dolotowy",
+    "children": [
+      {
+        "id": 1750,
+        "name": "аксесуари для снорклінгу - фільтри тощо",
+        "parent_id": 1705,
+        "url": "https://szekla4x4.pl/akcesoria-do-snorkeli",
+        "children": []
+      },
+      {
+        "id": 1754,
+        "name": "Охолоджувач наддуву",
+        "parent_id": 1705,
+        "url": "https://szekla4x4.pl/intercooler",
+        "children": []
+      },
+      {
+        "id": 1751,
+        "name": "Трубка для плавання",
+        "parent_id": 1705,
+        "url": "https://szekla4x4.pl/snorkele",
+        "children": []
+      },
+      {
+        "id": 1753,
+        "name": "Система впуску",
+        "parent_id": 1705,
+        "url": "https://szekla4x4.pl/uklad-dolotowy",
+        "children": []
+      },
+      {
+        "id": 1752,
+        "name": "Система випуску відпрацьованих газів",
+        "parent_id": 1705,
+        "url": "https://szekla4x4.pl/uklad-wydechowy",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1704,
+    "name": "Інтер'єр - організація багажу, забудова, столики",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/wnetrze-organizacja-bagazu-zabudowy-stoliki",
+    "children": [
+      {
+        "id": 1736,
+        "name": "Аксесуари інтер'єру",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/akcesoria-wnetrza",
+        "children": []
+      },
+      {
+        "id": 1733,
+        "name": "Килимки і покриття",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/dywaniki-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1734,
+        "name": "Крісла і чохли",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/fotele-i-pokrowce",
+        "children": []
+      },
+      {
+        "id": 1743,
+        "name": "Автокрісла Sparco для дітей",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/foteliki-samochdoowe-dla-dzieci-sparco",
+        "children": []
+      },
+      {
+        "id": 1748,
+        "name": "та інші",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/garmin",
+        "children": []
+      },
+      {
+        "id": 1747,
+        "name": "Підвісні та інші камери",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/kamery",
+        "children": []
+      },
+      {
+        "id": 1735,
+        "name": "Консоль даху",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/konsola-dachowa",
+        "children": []
+      },
+      {
+        "id": 1731,
+        "name": "Діагностичний інтерфейс",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/obd-interfejs-diagnostyczny",
+        "children": []
+      },
+      {
+        "id": 1729,
+        "name": "Організація багажу | Забудови",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/organizacja-bagazu-zabudowy",
+        "children": []
+      },
+      {
+        "id": 1745,
+        "name": "Педальний командир",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/pedal-commander",
+        "children": []
+      },
+      {
+        "id": 1744,
+        "name": "Нахиломіри",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/przechylomierz",
+        "children": []
+      },
+      {
+        "id": 1737,
+        "name": "Автомобільні радіо",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/radia-samochodowe",
+        "children": []
+      },
+      {
+        "id": 1749,
+        "name": "Скрині та сумки",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/skrzynie-i-torby",
+        "children": []
+      },
+      {
+        "id": 1732,
+        "name": "Столики на двері",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/stoliki",
+        "children": []
+      },
+      {
+        "id": 1738,
+        "name": "Тримачі та кріплення для смартфонів та інших пристроїв",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/ram-mounts-uchwyty",
+        "children": [
+          {
+            "id": 1741,
+            "name": "Кріплення тримачі",
+            "parent_id": 1738,
+            "url": "https://szekla4x4.pl/brodit-uchwyty",
+            "children": []
+          },
+          {
+            "id": 1740,
+            "name": "Популярні ручки",
+            "parent_id": 1738,
+            "url": "https://szekla4x4.pl/popularne-uchwyty",
+            "children": []
+          },
+          {
+            "id": 1742,
+            "name": "Блокувальний тримач",
+            "parent_id": 1738,
+            "url": "https://szekla4x4.pl/quad_lock",
+            "children": []
+          },
+          {
+            "id": 1739,
+            "name": "Тримач Wrangler JL для телефону",
+            "parent_id": 1738,
+            "url": "https://szekla4x4.pl/uchwyt-wrangler-jl-na-telefon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1730,
+        "name": "Ручки і тримачі",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/uchwyty",
+        "children": []
+      },
+      {
+        "id": 1746,
+        "name": "Забудова",
+        "parent_id": 1704,
+        "url": "https://szekla4x4.pl/zabudowy-wyprawowe",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1550,
+    "name": "Підйомники",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/wyciagarki-wyciagarka",
+    "children": [
+      {
+        "id": 1567,
+        "name": "Деталі до лебідок",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/czesci-do-wyciagarek-escape",
+        "children": []
+      },
+      {
+        "id": 1553,
+        "name": "До дорожньої допомоги | Евакуатори",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/do-pomocy-drogowej-lawety",
+        "children": []
+      },
+      {
+        "id": 1557,
+        "name": "позашляховики",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/do-quada-atv",
+        "children": []
+      },
+      {
+        "id": 1562,
+        "name": "Виключники струму",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/heble-wylaczniki-pradu",
+        "children": []
+      },
+      {
+        "id": 1593,
+        "name": "Буксирування",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/holowanie",
+        "children": []
+      },
+      {
+        "id": 1590,
+        "name": "Якорі",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/kotwice-do-wyciagarki",
+        "children": []
+      },
+      {
+        "id": 1569,
+        "name": "Синтетичні кінетичні лінії та стропи для дерев",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/liny-syntetyczne-kinetyczne-i-pasy-do-drzew",
+        "children": []
+      },
+      {
+        "id": 1561,
+        "name": "Пульти до підіймачів",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/piloty-do-wyciagarek",
+        "children": []
+      },
+      {
+        "id": 1564,
+        "name": "Пластини до витягачів для Quad",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/plyty-do-wyciagarek-do-quadow",
+        "children": []
+      },
+      {
+        "id": 1563,
+        "name": "Пластини до витяжок для автомобілів",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/plyty-do-wyciagarek-do-samochodow",
+        "children": []
+      },
+      {
+        "id": 1568,
+        "name": "Підіймачі бездоріжжя Farm Jack",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/podnosniki-offroad-hi-lift-farmjack",
+        "children": []
+      },
+      {
+        "id": 1592,
+        "name": "Чохли на лебідки",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/pokrowce-na-wyciagarki",
+        "children": []
+      },
+      {
+        "id": 1588,
+        "name": "Інші аксесуари до лебідок",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/pozostale",
+        "children": []
+      },
+      {
+        "id": 1565,
+        "name": "Реле для лебідок",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/przekazniki",
+        "children": []
+      },
+      {
+        "id": 1559,
+        "name": "Пересувні лебідки",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/przenosne-dragon-winch",
+        "children": []
+      },
+      {
+        "id": 1566,
+        "name": "Ковзанки і Ролики Напрямні для підйомника",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/slizgi-i-rolki",
+        "children": []
+      },
+      {
+        "id": 1589,
+        "name": "Щітки для пилососів",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/szczotki-do-wyciagarek",
+        "children": []
+      },
+      {
+        "id": 1587,
+        "name": "гаки тримачі",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/szekle-zblocza-haki-uchwyty",
+        "children": []
+      },
+      {
+        "id": 1601,
+        "name": "тяга",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/uciag",
+        "children": [
+          {
+            "id": 1606,
+            "name": "Лебідка 12000 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-12000-lbs",
+            "children": []
+          },
+          {
+            "id": 1607,
+            "name": "Лебідка 13000 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-13000-lbs",
+            "children": []
+          },
+          {
+            "id": 1608,
+            "name": "Лебідка 13500 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-13500-lbs",
+            "children": []
+          },
+          {
+            "id": 1609,
+            "name": "Лебідка 15000 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-15000-lbs-",
+            "children": []
+          },
+          {
+            "id": 1610,
+            "name": "Лебідка 18000 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-18000-lbs",
+            "children": []
+          },
+          {
+            "id": 1603,
+            "name": "Лебідка 2500 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-2500-lbs",
+            "children": []
+          },
+          {
+            "id": 1602,
+            "name": "Лебідка 3500 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-3500-lbs",
+            "children": []
+          },
+          {
+            "id": 1611,
+            "name": "Лебідка 5T",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-5t",
+            "children": []
+          },
+          {
+            "id": 1604,
+            "name": "Лебідка 6000 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-6000-lbs",
+            "children": []
+          },
+          {
+            "id": 1605,
+            "name": "Лебідка 8000 фунтів",
+            "parent_id": 1601,
+            "url": "https://szekla4x4.pl/wyciagarka-8000-lbs",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1596,
+        "name": "Лебідка для позашляховика",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarka-do-terenowki",
+        "children": []
+      },
+      {
+        "id": 1595,
+        "name": "Електрична лебідка 12В",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarka-elektryczna-12v",
+        "children": []
+      },
+      {
+        "id": 1556,
+        "name": "Гідравлічний підйомник",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarka-hydrauliczna",
+        "children": []
+      },
+      {
+        "id": 1598,
+        "name": "Лебідка на гак",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarka-na-hak",
+        "children": []
+      },
+      {
+        "id": 1600,
+        "name": "Лебідка зі сталевим тросом",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarka-z-lina-stalowa",
+        "children": []
+      },
+      {
+        "id": 1599,
+        "name": "Лебідка з синтетичним тросом",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarka-z-lina-syntetyczna",
+        "children": []
+      },
+      {
+        "id": 1552,
+        "name": "Витяжні пристрої 24В",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-24v",
+        "children": []
+      },
+      {
+        "id": 1555,
+        "name": "Лебідки для мисливця | для витягування здобичі",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-dla-mysliwego-do-wciagania-zwierzyny",
+        "children": []
+      },
+      {
+        "id": 1554,
+        "name": "Витяжні пристрої для вантажівок",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-do-ciezarowek",
+        "children": []
+      },
+      {
+        "id": 1551,
+        "name": "Електричні лебідки",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-elektryczne",
+        "children": []
+      },
+      {
+        "id": 1594,
+        "name": "Електричні лебідки 220В",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-elektryczne-220v",
+        "children": []
+      },
+      {
+        "id": 1560,
+        "name": "Електричні лебідки 230В",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-elektryczne-230v",
+        "children": []
+      },
+      {
+        "id": 1558,
+        "name": "Ручні лебідки",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-reczne-kirfor-tirfor",
+        "children": []
+      },
+      {
+        "id": 1597,
+        "name": "Майстерні лебідки",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/wyciagarki-warsztatowe",
+        "children": []
+      },
+      {
+        "id": 1591,
+        "name": "Журавлі",
+        "parent_id": 1550,
+        "url": "https://szekla4x4.pl/zurawie",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1725,
+    "name": "Розпродаж / Акції / Набори",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/wyprzedaze",
+    "children": []
+  },
+  {
+    "id": 1727,
+    "name": "іграшки - купони - наклейки подарунки",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/prezenty-kupony-naklejki-koszulki",
+    "children": [
+      {
+        "id": 1996,
+        "name": "Кепки",
+        "parent_id": 1727,
+        "url": "https://szekla4x4.pl/czapki-z-daszkiem",
+        "children": []
+      },
+      {
+        "id": 1995,
+        "name": "Футболки Толстовки",
+        "parent_id": 1727,
+        "url": "https://szekla4x4.pl/koszulki-bluzy",
+        "children": []
+      },
+      {
+        "id": 1993,
+        "name": "Подарункові купони",
+        "parent_id": 1727,
+        "url": "https://szekla4x4.pl/kupony-podarunkowe",
+        "children": []
+      },
+      {
+        "id": 1994,
+        "name": "Наклейки Бездоріжжя - смішні",
+        "parent_id": 1727,
+        "url": "https://szekla4x4.pl/naklejki-szekla4x4",
+        "children": []
+      },
+      {
+        "id": 1998,
+        "name": "М'які іграшки та Іграшки і Ігри",
+        "parent_id": 1727,
+        "url": "https://szekla4x4.pl/pluszaki-i-zabawki",
+        "children": []
+      },
+      {
+        "id": 1997,
+        "name": "Вішак і Брелоки - Jeep",
+        "parent_id": 1727,
+        "url": "https://szekla4x4.pl/wieszaki-jeep",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 1635,
+    "name": "підвіски, амортизатори, пружини, підйомники",
+    "parent_id": null,
+    "url": "https://szekla4x4.pl/zawieszenia-i-lifty-uklad-napedowy",
+    "children": [
+      {
+        "id": 1639,
+        "name": "Амортизатори",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/amortyzatory",
+        "children": []
+      },
+      {
+        "id": 1638,
+        "name": "Амортизатори повороту",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/amortyzatory-skretu",
+        "children": []
+      },
+      {
+        "id": 1640,
+        "name": "Котушкові підвіски",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/coilovers",
+        "children": []
+      },
+      {
+        "id": 1651,
+        "name": "Сервісні частини",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/czesci-serwisowe",
+        "children": []
+      },
+      {
+        "id": 1648,
+        "name": "Кермові тяги",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/drazki-kierownicze",
+        "children": []
+      },
+      {
+        "id": 1644,
+        "name": "Тяги Панхарда",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/panhardy",
+        "children": []
+      },
+      {
+        "id": 1649,
+        "name": "Скручені / кручені / скрутні прути",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/drazki-skretne",
+        "children": []
+      },
+      {
+        "id": 1650,
+        "name": "Інші елементи підвіски",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/inne-elementy-zawieszenia",
+        "children": []
+      },
+      {
+        "id": 1636,
+        "name": "Підйомники - набори",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/lifty-zestawy",
+        "children": []
+      },
+      {
+        "id": 1655,
+        "name": "Кріплення амортизаторів повороту",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/mocowania-amortyzatorow-skretu",
+        "children": []
+      },
+      {
+        "id": 1654,
+        "name": "Кріплення тяг Panhard",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/mocowania-drazkow-panharda",
+        "children": []
+      },
+      {
+        "id": 1653,
+        "name": "Відбійні пристрої",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/odboje",
+        "children": []
+      },
+      {
+        "id": 1642,
+        "name": "Обмежувальні ремені підвіски",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/pasy-ograniczajace-skok-zawieszenia",
+        "children": []
+      },
+      {
+        "id": 1656,
+        "name": "Підкладки під пружини",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/podkladki-pod-sprezyny",
+        "children": []
+      },
+      {
+        "id": 1641,
+        "name": "Поліуретани",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/poliuretany",
+        "children": []
+      },
+      {
+        "id": 1657,
+        "name": "Кермові передачі",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/przekladnie-kierownicze",
+        "children": []
+      },
+      {
+        "id": 1647,
+        "name": "Ресори",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/resory",
+        "children": []
+      },
+      {
+        "id": 1643,
+        "name": "Пружини",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/sprezyny",
+        "children": []
+      },
+      {
+        "id": 1646,
+        "name": "Стабілізатори та з'єднувачі стабілізатора",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/stabilizatory-i-laczniki-stabilizatora",
+        "children": []
+      },
+      {
+        "id": 1645,
+        "name": "важелі",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/wahacze",
+        "children": []
+      },
+      {
+        "id": 1652,
+        "name": "Вуса передачі",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/wasy-przekladni",
+        "children": []
+      },
+      {
+        "id": 1637,
+        "name": "Ремонтні комплекти амортизаторів",
+        "parent_id": 1635,
+        "url": "https://szekla4x4.pl/zestawy-naprawcze-amortyzatorow",
+        "children": []
+      }
+    ]
+  }
+]

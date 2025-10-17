@@ -1,2 +1,0 @@
-input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
-1520,люльки,,свічки запалювання > люльки,Не найдено,Не найдено,,Не найдено,0.0,Нет семантически близкой категории для свечей зажигания и курительных трубок в предоставленной структуре,unmatched

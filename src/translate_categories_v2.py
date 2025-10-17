@@ -10,7 +10,7 @@ def load_env_file():
     """
     Завантажує API ключ з .env файлу, якщо він існує
     """
-    env_file = Path("../.env")
+    env_file = Path("src/.env")
     if env_file.exists():
         with open(env_file, 'r', encoding='utf-8') as f:
             for line in f:

@@ -1,0 +1,3628 @@
+[
+  {
+    "id": 1311,
+    "name": "Велосипедні аксесуари",
+    "parent_id": null,
+    "url": "https://motoakcesoria.com/akcesoria-rowerowe/",
+    "children": [
+      {
+        "id": 1313,
+        "name": "Аксесуари",
+        "parent_id": 1311,
+        "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/",
+        "children": [
+          {
+            "id": 1317,
+            "name": "Велосипедні багажники",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/bagazniki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1356,
+            "name": "Автомобільні багажники",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/bagazniki-samochodowe-na-rowery/",
+            "children": []
+          },
+          {
+            "id": 1314,
+            "name": "Фляги та Кошики для Велосипеда",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/bidony-i-koszyki-rowerowe/",
+            "children": [
+              {
+                "id": 1316,
+                "name": "Фляги та пляшки",
+                "parent_id": 1314,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/bidony-i-koszyki-rowerowe/bidony/",
+                "children": []
+              },
+              {
+                "id": 1315,
+                "name": "Кошики для пляшки",
+                "parent_id": 1314,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/bidony-i-koszyki-rowerowe/koszyki-na-bidon/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1318,
+            "name": "Бризговики для велосипеда",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/blotniki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1340,
+            "name": "Налаштування електровелосипеда",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/chiptuning-e-roweru/",
+            "children": [
+              {
+                "id": 1341,
+                "name": "Швидкісний ящик",
+                "parent_id": 1340,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/chiptuning-e-roweru/speedbox/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1319,
+            "name": "Велосипедні дзвінки",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/dzwonki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1320,
+            "name": "Дитячі крісельця",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/foteliki-dzieciece/",
+            "children": []
+          },
+          {
+            "id": 1353,
+            "name": "Кермо Велосипедне",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/kierownice-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1321,
+            "name": "Кошики на кермо",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/koszyki-na-kierownice/",
+            "children": []
+          },
+          {
+            "id": 1322,
+            "name": "Велосипедні ліхтарі",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/lampki-rowerowe/",
+            "children": [
+              {
+                "id": 1324,
+                "name": "Передні велосипедні ліхтарі",
+                "parent_id": 1322,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/lampki-rowerowe/lampki-rowerowe-przednie/",
+                "children": []
+              },
+              {
+                "id": 1323,
+                "name": "Велосипедні задні ліхтарі",
+                "parent_id": 1322,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/lampki-rowerowe/lampki-rowerowe-tylne/",
+                "children": []
+              },
+              {
+                "id": 1325,
+                "name": "Велосипедні Ліхтарі Комплекти",
+                "parent_id": 1322,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/lampki-rowerowe/lampki-rowerowe-zestawy/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1326,
+            "name": "Велосипедні лічильники",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/liczniki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1327,
+            "name": "Дзеркала для велосипеда",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/lusterka-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1328,
+            "name": "Інструменти і Сервіс",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/narzedzia-i-serwis/",
+            "children": [
+              {
+                "id": 1332,
+                "name": "Центрувальники для коліс",
+                "parent_id": 1328,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/narzedzia-i-serwis/centrownice-do-kol-rowerowych/",
+                "children": []
+              },
+              {
+                "id": 1329,
+                "name": "Чищення Велосипеда",
+                "parent_id": 1328,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/narzedzia-i-serwis/czyszczenie-roweru/",
+                "children": []
+              },
+              {
+                "id": 1331,
+                "name": "Ключі та інструменти",
+                "parent_id": 1328,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/narzedzia-i-serwis/klucze-i-narzedzia-rowerowe/",
+                "children": []
+              },
+              {
+                "id": 1333,
+                "name": "Підіймачі Сервісні",
+                "parent_id": 1328,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/narzedzia-i-serwis/podnosniki-serwisowe/",
+                "children": []
+              },
+              {
+                "id": 1330,
+                "name": "Мастила для велосипедів",
+                "parent_id": 1328,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/narzedzia-i-serwis/smary-rowerowe/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1334,
+            "name": "Велосипедні окуляри",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/okulary-rowerowe/",
+            "children": [
+              {
+                "id": 1336,
+                "name": "Окуляри фотохромні",
+                "parent_id": 1334,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/okulary-rowerowe/okulary-fotochromowe/",
+                "children": []
+              },
+              {
+                "id": 1335,
+                "name": "Окуляри поляризаційні",
+                "parent_id": 1334,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/okulary-rowerowe/okulary-polaryzacyjne/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1355,
+            "name": "Світловідбивальні браслети",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/opaski-odblaskowe/",
+            "children": []
+          },
+          {
+            "id": 1337,
+            "name": "Захисні щитки, Захисні накладки",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/oslony-protektory/",
+            "children": []
+          },
+          {
+            "id": 1338,
+            "name": "Підніжки Велосипедні",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/podnozki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1357,
+            "name": "Чохли На Шолом",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/pokrowce-na-kask/",
+            "children": []
+          },
+          {
+            "id": 1354,
+            "name": "Чохли На Велосипед",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/pokrowce-na-rower/",
+            "children": []
+          },
+          {
+            "id": 1339,
+            "name": "Насоси велосипедні",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/pompki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1342,
+            "name": "Сідельні сумки, сумки і рюкзаки",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/sakwy-torby-i-plecaki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1352,
+            "name": "Стійки, вішаки",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/stojaki-wieszaki-podnosniki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1343,
+            "name": "Велосипедні кріплення",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/uchwyty-rowerowe/",
+            "children": [
+              {
+                "id": 1344,
+                "name": "Велосипедні тримачі для",
+                "parent_id": 1343,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/uchwyty-rowerowe/rowerowe-uchwyty-na-telefon/",
+                "children": []
+              },
+              {
+                "id": 1346,
+                "name": "Тримачі для горнят",
+                "parent_id": 1343,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/uchwyty-rowerowe/uchwyty-na-kubek/",
+                "children": []
+              },
+              {
+                "id": 1345,
+                "name": "Тримачі для лічильника",
+                "parent_id": 1343,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/uchwyty-rowerowe/uchwyty-na-licznik/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1347,
+            "name": "Велосипедні кріплення",
+            "parent_id": 1313,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/zapiecia-rowerowe/",
+            "children": [
+              {
+                "id": 1349,
+                "name": "Блокада складана",
+                "parent_id": 1347,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/zapiecia-rowerowe/blokada-skladana/",
+                "children": []
+              },
+              {
+                "id": 1348,
+                "name": "Страхувальні посилання",
+                "parent_id": 1347,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/zapiecia-rowerowe/linki-zabezpieczajace/",
+                "children": []
+              },
+              {
+                "id": 1351,
+                "name": "Ланцюги",
+                "parent_id": 1347,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/zapiecia-rowerowe/lancuchy/",
+                "children": []
+              },
+              {
+                "id": 1350,
+                "name": "Навісні замки",
+                "parent_id": 1347,
+                "url": "https://motoakcesoria.com/akcesoria-rowerowe/akcesoria/zapiecia-rowerowe/u-locki/",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1312,
+        "name": "Велосипедні шоломи",
+        "parent_id": 1311,
+        "url": "https://motoakcesoria.com/akcesoria-rowerowe/kaski-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1368,
+        "name": "Взуття Велосипедне",
+        "parent_id": 1311,
+        "url": "https://motoakcesoria.com/akcesoria-rowerowe/obuwie-rowerowe/",
+        "children": [
+          {
+            "id": 1370,
+            "name": "Взуття для гірських велосипедів",
+            "parent_id": 1368,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/obuwie-rowerowe/buty-mtb/",
+            "children": []
+          },
+          {
+            "id": 1369,
+            "name": "Взуття шосейне",
+            "parent_id": 1368,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/obuwie-rowerowe/buty-szosowe/",
+            "children": []
+          },
+          {
+            "id": 1371,
+            "name": "Взуття для тріатлону",
+            "parent_id": 1368,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/obuwie-rowerowe/buty-triathlonowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1358,
+        "name": "Одяг для велосипедистів",
+        "parent_id": 1311,
+        "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/",
+        "children": [
+          {
+            "id": 1360,
+            "name": "Велосипедні шапки",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/czapki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1359,
+            "name": "Футболки та Велосипедні Толстовки",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/koszulki-i-bluzy-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1361,
+            "name": "Велосипедні куртки",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/kurtki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1362,
+            "name": "Маски, Балаклави",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/maski-kominiarki-opaski-i-chusty/",
+            "children": []
+          },
+          {
+            "id": 1363,
+            "name": "Захисні Велосипедні",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/ochraniacze-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1364,
+            "name": "Велосипедні окуляри",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/okulary-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1365,
+            "name": "Рукавички Велосипедні",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/rekawiczki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1366,
+            "name": "Шкарпетки Велосипедні",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/skarpety-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1367,
+            "name": "Шорти і Штани",
+            "parent_id": 1358,
+            "url": "https://motoakcesoria.com/akcesoria-rowerowe/odziez-rowerowa/spodenki-i-spodnie-rowerowe/",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1254,
+    "name": "Велосипедні частини",
+    "parent_id": null,
+    "url": "https://motoakcesoria.com/czesci-rowerowe/",
+    "children": [
+      {
+        "id": 1256,
+        "name": "Амортизатори Велосипедні",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/amortyzatory-rowerowe/",
+        "children": [
+          {
+            "id": 1257,
+            "name": "Амортизатори Велосипедні",
+            "parent_id": 1256,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/amortyzatory-rowerowe/amortyzatory-rowerowe-przednie/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1258,
+        "name": "Велосипедні камери",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/",
+        "children": [
+          {
+            "id": 1260,
+            "name": "Велосипедні камери 12\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-12/",
+            "children": []
+          },
+          {
+            "id": 1259,
+            "name": "Велосипедні камери 16\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-16/",
+            "children": []
+          },
+          {
+            "id": 1261,
+            "name": "Велосипедні камери 20\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-20/",
+            "children": []
+          },
+          {
+            "id": 1262,
+            "name": "Камери для велосипеда 24\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-24/",
+            "children": []
+          },
+          {
+            "id": 1263,
+            "name": "Велосипедні камери 26\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-26/",
+            "children": []
+          },
+          {
+            "id": 1264,
+            "name": "Велосипедні камери 27.5\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-275/",
+            "children": []
+          },
+          {
+            "id": 1265,
+            "name": "Велосипедні камери 28\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-28/",
+            "children": []
+          },
+          {
+            "id": 1266,
+            "name": "Велосипедні камери 29\"",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/detki-rowerowe-29/",
+            "children": []
+          },
+          {
+            "id": 1267,
+            "name": "Безкамерна система",
+            "parent_id": 1258,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/detki-rowerowe/system-bezdetkowy/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1255,
+        "name": "Групи, Обійми, Захвати",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/gripy-owijki-chwyty-kierownicy-rowerowej/",
+        "children": []
+      },
+      {
+        "id": 1268,
+        "name": "Велосипедні гальма",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/hamulce-rowerowe/",
+        "children": [
+          {
+            "id": 1270,
+            "name": "Гальмівні аксесуари",
+            "parent_id": 1268,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/hamulce-rowerowe/akcesoria-hamulcowe/",
+            "children": []
+          },
+          {
+            "id": 1273,
+            "name": "Велосипедні гальма",
+            "parent_id": 1268,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/hamulce-rowerowe/hamulce-rowerowe-szczekowe/",
+            "children": []
+          },
+          {
+            "id": 1272,
+            "name": "Гальмівні блоки",
+            "parent_id": 1268,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/hamulce-rowerowe/klocki-hamulcowe-rowerowe-szczekowe/",
+            "children": []
+          },
+          {
+            "id": 1271,
+            "name": "Дискові блоки для велосипеда",
+            "parent_id": 1268,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/hamulce-rowerowe/klocki-rowerowe-tarczowe/",
+            "children": []
+          },
+          {
+            "id": 1269,
+            "name": "Гальмівні диски Велосипедні",
+            "parent_id": 1268,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/hamulce-rowerowe/tarcze-hamulcowe-rowerowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1274,
+        "name": "Кермо велосипедне",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/kierownice-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1275,
+        "name": "Велосипедні гуртки",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/",
+        "children": [
+          {
+            "id": 1277,
+            "name": "Сервісні частини для коліс",
+            "parent_id": 1275,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/czesci-serwisowe-do-kol/",
+            "children": []
+          },
+          {
+            "id": 1276,
+            "name": "Передні велосипедні колеса",
+            "parent_id": 1275,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/kola-rowerowe-przednie/",
+            "children": []
+          },
+          {
+            "id": 1278,
+            "name": "Велосипедні заднні колеса",
+            "parent_id": 1275,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/kola-rowerowe-tylne/",
+            "children": []
+          },
+          {
+            "id": 1279,
+            "name": "Велосипедні обідки",
+            "parent_id": 1275,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/obrecze-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1280,
+            "name": "Велосипедні втулки",
+            "parent_id": 1275,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/piasty-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1281,
+            "name": "Велосипедні спиці",
+            "parent_id": 1275,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/kola-rowerowe/szprychy-rowerowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1282,
+        "name": "Посилання та Броня",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/linki-i-pancerze/",
+        "children": []
+      },
+      {
+        "id": 1283,
+        "name": "Велосипедні манетки",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/manetki-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1310,
+        "name": "Велосипедні мости",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/mostki-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1284,
+        "name": "Велосипедний привід",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/",
+        "children": [
+          {
+            "id": 1286,
+            "name": "Касети і вільні ходи",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/kasety-i-wolnobiegi/",
+            "children": []
+          },
+          {
+            "id": 1285,
+            "name": "Шатуни та зірочки",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/korby-i-zebatki/",
+            "children": []
+          },
+          {
+            "id": 1287,
+            "name": "Велосипедні ланцюги",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/lancuchy-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1288,
+            "name": "Велосипедні манетки",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/manetki-rowerowe/",
+            "children": []
+          },
+          {
+            "id": 1289,
+            "name": "Розтяжники та кільця",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/napinacze-i-rockringi/",
+            "children": []
+          },
+          {
+            "id": 1290,
+            "name": "Вісі Кorbowodu",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/osie-korbowodu/",
+            "children": []
+          },
+          {
+            "id": 1292,
+            "name": "Переключателі Велосипедні Задні",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/przerzutki-rowerowe-tylne/",
+            "children": []
+          },
+          {
+            "id": 1291,
+            "name": "Велосипедні перемикачі передач",
+            "parent_id": 1284,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/naped-rowerowy/przerzutki-rowerowe-przednie/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1293,
+        "name": "Велосипедні шини",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/",
+        "children": [
+          {
+            "id": 1295,
+            "name": "Велосипедні шини 12\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-12/",
+            "children": []
+          },
+          {
+            "id": 1294,
+            "name": "Велосипедні шини 16\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-16/",
+            "children": []
+          },
+          {
+            "id": 1296,
+            "name": "Велосипедні шини 20\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-20/",
+            "children": []
+          },
+          {
+            "id": 1297,
+            "name": "Велосипедні шини 24\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-24/",
+            "children": []
+          },
+          {
+            "id": 1298,
+            "name": "Велосипедні шини 26\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-26/",
+            "children": []
+          },
+          {
+            "id": 1299,
+            "name": "Велосипедні шини 27.5\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-275/",
+            "children": []
+          },
+          {
+            "id": 1300,
+            "name": "Велосипедні шини 28\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-28/",
+            "children": []
+          },
+          {
+            "id": 1301,
+            "name": "Велосипедні шини 29\"",
+            "parent_id": 1293,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/opony-rowerowe/opony-rowerowe-29/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1302,
+        "name": "Педалі велосипедні",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/pedaly-rowerowe/",
+        "children": [
+          {
+            "id": 1303,
+            "name": "Педалі Велосипедні SPD",
+            "parent_id": 1302,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/pedaly-rowerowe/pedaly-rowerowe-spd/",
+            "children": []
+          },
+          {
+            "id": 1304,
+            "name": "Педалі велосипедні",
+            "parent_id": 1302,
+            "url": "https://motoakcesoria.com/czesci-rowerowe/pedaly-rowerowe/pedaly-rowerowe-platformowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1305,
+        "name": "Рами для велосипедів",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/ramy-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1308,
+        "name": "Велосипедні сідла",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/siodelka-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1306,
+        "name": "Кермові деталі",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/stery-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1309,
+        "name": "Велосипедні підсідельні штирі",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/sztyce-rowerowe/",
+        "children": []
+      },
+      {
+        "id": 1307,
+        "name": "Кронштейни керма",
+        "parent_id": 1254,
+        "url": "https://motoakcesoria.com/czesci-rowerowe/wsporniki-kierownicy/",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 996,
+    "name": "Для мотоцикла",
+    "parent_id": null,
+    "url": "https://motoakcesoria.com/dla-motocykla/",
+    "children": [
+      {
+        "id": 998,
+        "name": "Багаж",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/bagaz/",
+        "children": [
+          {
+            "id": 1000,
+            "name": "Інші",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/inne/",
+            "children": []
+          },
+          {
+            "id": 999,
+            "name": "Валізи",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/kufry/",
+            "children": []
+          },
+          {
+            "id": 1001,
+            "name": "Пасові інструментальні пояси",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/pasy-narzedziowe/",
+            "children": []
+          },
+          {
+            "id": 1002,
+            "name": "Рюкзаки",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/plecaki/",
+            "children": []
+          },
+          {
+            "id": 1003,
+            "name": "Багажні ролі",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/role-bagazowe/",
+            "children": []
+          },
+          {
+            "id": 1004,
+            "name": "Сумки",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/sakwy/",
+            "children": []
+          },
+          {
+            "id": 1008,
+            "name": "Сітки",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/siatki/",
+            "children": []
+          },
+          {
+            "id": 1005,
+            "name": "Танкові сумки",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/tankbagi/",
+            "children": []
+          },
+          {
+            "id": 1006,
+            "name": "Сумки",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/torby/",
+            "children": []
+          },
+          {
+            "id": 1007,
+            "name": "Інструментальні сумки",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/torby-narzedziowe/",
+            "children": []
+          },
+          {
+            "id": 1009,
+            "name": "Тримачі/Каркаси Багажу",
+            "parent_id": 998,
+            "url": "https://motoakcesoria.com/dla-motocykla/bagaz/uchwytystelaze-bagazu/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1010,
+        "name": "Частини двигуна",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/",
+        "children": [
+          {
+            "id": 1017,
+            "name": "Деталі газорозподільного механізму",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/",
+            "children": [
+              {
+                "id": 1022,
+                "name": "Ланцюги розподільного валу",
+                "parent_id": 1017,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/lancuszki-rozrzadu/",
+                "children": []
+              },
+              {
+                "id": 1018,
+                "name": "Клапанні плитки",
+                "parent_id": 1017,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/plytki-zaworowe/",
+                "children": [
+                  {
+                    "id": 1020,
+                    "name": "Комплекти 5 шт.",
+                    "parent_id": 1018,
+                    "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/plytki-zaworowe/komplety-5-szt/",
+                    "children": []
+                  },
+                  {
+                    "id": 1019,
+                    "name": "Набори Для Сервісу",
+                    "parent_id": 1018,
+                    "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/plytki-zaworowe/komplety-dla-serwisu/",
+                    "children": []
+                  },
+                  {
+                    "id": 1021,
+                    "name": "Плитки На Штуки",
+                    "parent_id": 1018,
+                    "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/plytki-zaworowe/plytki-na-sztuki/",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 1023,
+                "name": "Затискачі/Кріплення",
+                "parent_id": 1017,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/spinkizakuwki/",
+                "children": []
+              },
+              {
+                "id": 1024,
+                "name": "Ущільнювачі клапанів",
+                "parent_id": 1017,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/uszczelniacze-zaworowe/",
+                "children": [
+                  {
+                    "id": 1026,
+                    "name": "Клапани всмоктування",
+                    "parent_id": 1024,
+                    "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/uszczelniacze-zaworowe/zawory-ssace/",
+                    "children": []
+                  },
+                  {
+                    "id": 1025,
+                    "name": "Клапани Випускні",
+                    "parent_id": 1024,
+                    "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/uszczelniacze-zaworowe/zawory-wydechowe/",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 1027,
+                "name": "Розподільний вал",
+                "parent_id": 1017,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/walek-rozrzadu/",
+                "children": []
+              },
+              {
+                "id": 1028,
+                "name": "Клапани",
+                "parent_id": 1017,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/czesci-rozrzadu/zawory/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1011,
+            "name": "Корбові механізми",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/korbowody/",
+            "children": [
+              {
+                "id": 1013,
+                "name": "Шатуни",
+                "parent_id": 1011,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/korbowody/korbowody/",
+                "children": []
+              },
+              {
+                "id": 1012,
+                "name": "Підшипники шатунів",
+                "parent_id": 1011,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/korbowody/lozyska-korbowodow/",
+                "children": []
+              },
+              {
+                "id": 1014,
+                "name": "Підшипники",
+                "parent_id": 1011,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/korbowody/panewki/",
+                "children": []
+              },
+              {
+                "id": 1015,
+                "name": "Підкладки",
+                "parent_id": 1011,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/korbowody/podkladki/",
+                "children": []
+              },
+              {
+                "id": 1016,
+                "name": "Шворні шатунів",
+                "parent_id": 1011,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/korbowody/sworznie-korbowodow/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1029,
+            "name": "Зчеплення",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/",
+            "children": [
+              {
+                "id": 1031,
+                "name": "Затискачі",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/dociski/",
+                "children": []
+              },
+              {
+                "id": 1030,
+                "name": "Важелі зчеплення",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/dzwignie-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1032,
+                "name": "Корзини",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/kosze/",
+                "children": []
+              },
+              {
+                "id": 1033,
+                "name": "Посилання Зчеплення",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/linki-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1034,
+                "name": "Інструмент для зчеплення",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/narzedzie-do-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1035,
+                "name": "Кришка зчеплення",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/pokrywa-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1036,
+                "name": "Закладки",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/przekladki/",
+                "children": []
+              },
+              {
+                "id": 1037,
+                "name": "Редуктори послаблення",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/reduktory-luzu/",
+                "children": []
+              },
+              {
+                "id": 1038,
+                "name": "Пружини",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/sprezyny/",
+                "children": []
+              },
+              {
+                "id": 1039,
+                "name": "Зчеплення комплектні",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/sprzegla-kompletne/",
+                "children": []
+              },
+              {
+                "id": 1040,
+                "name": "Фрикційні диски",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/tarcze-cierne/",
+                "children": []
+              },
+              {
+                "id": 1041,
+                "name": "Ущільнювачі кришки",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/uszczelki-dekla-pokrywy-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1042,
+                "name": "Знімач зчеплення",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/zabierak-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1043,
+                "name": "Комплект ремонтний насосу",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/zestaw-naprawczy-pompy-sprzegla/",
+                "children": []
+              },
+              {
+                "id": 1044,
+                "name": "Ремонтний комплект",
+                "parent_id": 1029,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/sprzegla/zestaw-naprawczy-wycisku-sprzegla/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1045,
+            "name": "Поршні",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/tloki/",
+            "children": [
+              {
+                "id": 1047,
+                "name": "Персні",
+                "parent_id": 1045,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/tloki/pierscienie/",
+                "children": []
+              },
+              {
+                "id": 1046,
+                "name": "Штифти Поршня",
+                "parent_id": 1045,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/tloki/sworznie-tloka/",
+                "children": []
+              },
+              {
+                "id": 1048,
+                "name": "Поршні",
+                "parent_id": 1045,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/tloki/tloki/",
+                "children": []
+              },
+              {
+                "id": 1049,
+                "name": "Затискачі Тлока",
+                "parent_id": 1045,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/tloki/zapinki-tloka/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1050,
+            "name": "Циліндричні втулки",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/tuleje-cylindra/",
+            "children": []
+          },
+          {
+            "id": 1051,
+            "name": "Ущільнювачі двигуна",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/uszczelki-silnika/",
+            "children": [
+              {
+                "id": 1053,
+                "name": "Комплекти ущільнювачів",
+                "parent_id": 1051,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/uszczelki-silnika/komplety-uszczelek/",
+                "children": []
+              },
+              {
+                "id": 1052,
+                "name": "Низ двигуна",
+                "parent_id": 1051,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/uszczelki-silnika/na-dol-silnika/",
+                "children": []
+              },
+              {
+                "id": 1054,
+                "name": "На Верх Двигуна Top-End",
+                "parent_id": 1051,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/uszczelki-silnika/na-gore-silnika-top-end/",
+                "children": []
+              },
+              {
+                "id": 1055,
+                "name": "Ущільнювачі Кришки Запалювання",
+                "parent_id": 1051,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/uszczelki-silnika/uszczelki-dekla-zaplonu/",
+                "children": []
+              },
+              {
+                "id": 1056,
+                "name": "Ущільнювачі головки",
+                "parent_id": 1051,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/uszczelki-silnika/uszczelki-glowicy-i-cylindra/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1057,
+            "name": "Колінвали",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/waly-korbowe/",
+            "children": [
+              {
+                "id": 1059,
+                "name": "Підшипники на Колінвал",
+                "parent_id": 1057,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/waly-korbowe/lozyska-na-wal-korbowy/",
+                "children": []
+              },
+              {
+                "id": 1058,
+                "name": "Колінвали",
+                "parent_id": 1057,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/waly-korbowe/waly-korbowe/",
+                "children": []
+              },
+              {
+                "id": 1060,
+                "name": "Набір підшипників",
+                "parent_id": 1057,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/waly-korbowe/zestaw-lozysk-i-uszczelniaczy/",
+                "children": []
+              },
+              {
+                "id": 1061,
+                "name": "Комплекти ущільнювачів",
+                "parent_id": 1057,
+                "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/waly-korbowe/zestawy-uszczelek/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1062,
+            "name": "Ремонтний комплект насоса",
+            "parent_id": 1010,
+            "url": "https://motoakcesoria.com/dla-motocykla/czesci-silnikowe/zestaw-naprawczy-pompy-wody/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1063,
+        "name": "Фільтри",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/filtry/",
+        "children": [
+          {
+            "id": 1065,
+            "name": "Фільтри оливи",
+            "parent_id": 1063,
+            "url": "https://motoakcesoria.com/dla-motocykla/filtry/filtry-oleju/",
+            "children": []
+          },
+          {
+            "id": 1064,
+            "name": "Фільтри Палива",
+            "parent_id": 1063,
+            "url": "https://motoakcesoria.com/dla-motocykla/filtry/filtry-paliwa/",
+            "children": []
+          },
+          {
+            "id": 1066,
+            "name": "Повітряні фільтри",
+            "parent_id": 1063,
+            "url": "https://motoakcesoria.com/dla-motocykla/filtry/filtry-powietrza/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1067,
+        "name": "кузов",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/",
+        "children": [
+          {
+            "id": 1069,
+            "name": "Перехідник",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/adapter-podwyzszajacyobnizajacy/",
+            "children": []
+          },
+          {
+            "id": 1068,
+            "name": "Балансери",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/balancery/",
+            "children": []
+          },
+          {
+            "id": 1070,
+            "name": "Бокові панелі",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/boczne-panele/",
+            "children": []
+          },
+          {
+            "id": 1071,
+            "name": "Захисні накладки",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/crash-pady/",
+            "children": []
+          },
+          {
+            "id": 1072,
+            "name": "Важелі Зміни Передач",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/dzwignie-zmiany-biegow/",
+            "children": []
+          },
+          {
+            "id": 1073,
+            "name": "Гноми",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/gmole/",
+            "children": []
+          },
+          {
+            "id": 1074,
+            "name": "Ручні бари",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/hand-bary/",
+            "children": [
+              {
+                "id": 1075,
+                "name": "Комплект монтажний",
+                "parent_id": 1074,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/hand-bary/kit-montazowy/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1100,
+            "name": "Інше",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/inne/",
+            "children": []
+          },
+          {
+            "id": 1076,
+            "name": "Кермо",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/kierownice/",
+            "children": [
+              {
+                "id": 1078,
+                "name": "Відстані До Керма",
+                "parent_id": 1076,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/kierownice/dystanse-do-kierownicy/",
+                "children": []
+              },
+              {
+                "id": 1077,
+                "name": "Захист керма",
+                "parent_id": 1076,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/kierownice/oslona-kierownicy/",
+                "children": []
+              },
+              {
+                "id": 1079,
+                "name": "Комплект для монтажу",
+                "parent_id": 1076,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/kierownice/zestaw-montazowy-kierownicy/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1080,
+            "name": "Газові з'єднання",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/linki-gazu/",
+            "children": []
+          },
+          {
+            "id": 1081,
+            "name": "Дзеркала",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/lusterka/",
+            "children": []
+          },
+          {
+            "id": 1082,
+            "name": "манекени",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/manetki/",
+            "children": []
+          },
+          {
+            "id": 1083,
+            "name": "Кріплення Реєстраційних Номерних Знаків",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/mocowanie-tablic-rej/",
+            "children": []
+          },
+          {
+            "id": 1093,
+            "name": "Захисні елементи",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/oslony/",
+            "children": [
+              {
+                "id": 1098,
+                "name": "Радіатори",
+                "parent_id": 1093,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/oslony/chlodnicy/",
+                "children": []
+              },
+              {
+                "id": 1094,
+                "name": "Інше",
+                "parent_id": 1093,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/oslony/inne/",
+                "children": []
+              },
+              {
+                "id": 1095,
+                "name": "Захисти Освітлення",
+                "parent_id": 1093,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/oslony/oslony-oswietlenia/",
+                "children": []
+              },
+              {
+                "id": 1096,
+                "name": "Освітлення",
+                "parent_id": 1093,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/oslony/oswietlenia/",
+                "children": []
+              },
+              {
+                "id": 1097,
+                "name": "Двигун",
+                "parent_id": 1093,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/oslony/silnika/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1084,
+            "name": "Пластмаси",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/plastiki/",
+            "children": [
+              {
+                "id": 1086,
+                "name": "бризковики",
+                "parent_id": 1084,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/plastiki/blotniki/",
+                "children": []
+              },
+              {
+                "id": 1085,
+                "name": "Комплекти пластиків",
+                "parent_id": 1084,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/plastiki/komplety-plastikow/",
+                "children": []
+              },
+              {
+                "id": 1087,
+                "name": "Захисні кожухи радіатора",
+                "parent_id": 1084,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/plastiki/oslony-chlodnicy/",
+                "children": []
+              },
+              {
+                "id": 1088,
+                "name": "Стартові поля",
+                "parent_id": 1084,
+                "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/plastiki/pola-startowe/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1089,
+            "name": "Підніжки",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/podnozki/",
+            "children": []
+          },
+          {
+            "id": 1090,
+            "name": "Підсвічування Реєстраційних Таблиць",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/podswietlenie-tablic-rej/",
+            "children": []
+          },
+          {
+            "id": 1091,
+            "name": "Ковзани з полозом",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/rolki-ze-slizgaczem/",
+            "children": []
+          },
+          {
+            "id": 1092,
+            "name": "Сидіння",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/siedzenia/",
+            "children": []
+          },
+          {
+            "id": 1099,
+            "name": "Утримувач/Балка GPS",
+            "parent_id": 1067,
+            "url": "https://motoakcesoria.com/dla-motocykla/nadwozie/uchwytbelka-gps/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1101,
+        "name": "Наліпки та підкладки",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/",
+        "children": [
+          {
+            "id": 1114,
+            "name": "Клеї та набори",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/kleje-i-zestawy/",
+            "children": []
+          },
+          {
+            "id": 1103,
+            "name": "На банк",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-bak/",
+            "children": []
+          },
+          {
+            "id": 1102,
+            "name": "На голову",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-czache/",
+            "children": []
+          },
+          {
+            "id": 1104,
+            "name": "На диски",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-felgi/",
+            "children": []
+          },
+          {
+            "id": 1105,
+            "name": "На шолом",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-kask/",
+            "children": []
+          },
+          {
+            "id": 1106,
+            "name": "На полиці керівника",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-polki-kierownicy/",
+            "children": []
+          },
+          {
+            "id": 1107,
+            "name": "На вид",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-wizjer/",
+            "children": []
+          },
+          {
+            "id": 1108,
+            "name": "На заправку палива",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/na-wlew-paliwa/",
+            "children": []
+          },
+          {
+            "id": 1109,
+            "name": "Наклейки 3D",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/naklejki-3d/",
+            "children": []
+          },
+          {
+            "id": 1110,
+            "name": "Захисні",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/ochronne/",
+            "children": []
+          },
+          {
+            "id": 1111,
+            "name": "Пластикові облицювання",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/okleiny-plastikow/",
+            "children": []
+          },
+          {
+            "id": 1112,
+            "name": "Смужки На Диски",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/paski-na-felgi/",
+            "children": []
+          },
+          {
+            "id": 1113,
+            "name": "Різне",
+            "parent_id": 1101,
+            "url": "https://motoakcesoria.com/dla-motocykla/naklejki-i-tankpady/rozne/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1115,
+        "name": "Інструменти",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/narzedzia/",
+        "children": [
+          {
+            "id": 1117,
+            "name": "Klucze - Ключі\nŁyżki - Ложки",
+            "parent_id": 1115,
+            "url": "https://motoakcesoria.com/dla-motocykla/narzedzia/klucze-lyzki/",
+            "children": []
+          },
+          {
+            "id": 1116,
+            "name": "Комплект ремонтний для шин",
+            "parent_id": 1115,
+            "url": "https://motoakcesoria.com/dla-motocykla/narzedzia/zestaw-naprawczy-do-opon/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1118,
+        "name": "Олії Мастила Рідини",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/",
+        "children": [
+          {
+            "id": 1120,
+            "name": "Хімія Warsztatowa",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/chemia-warsztatowa/",
+            "children": []
+          },
+          {
+            "id": 1119,
+            "name": "Додатки",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/dodatki/",
+            "children": []
+          },
+          {
+            "id": 1121,
+            "name": "Велосипедний асортимент",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/gama-rowerowa/",
+            "children": []
+          },
+          {
+            "id": 1122,
+            "name": "Олії для амортизаторів",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/oleje-do-amortyzatorow/",
+            "children": []
+          },
+          {
+            "id": 1123,
+            "name": "Олії для фільтрів",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/oleje-do-filtrow/",
+            "children": []
+          },
+          {
+            "id": 1124,
+            "name": "Олії трансмісійні",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/oleje-przekladniowe/",
+            "children": []
+          },
+          {
+            "id": 1125,
+            "name": "Моторні олії",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/oleje-silnikowe/",
+            "children": []
+          },
+          {
+            "id": 1126,
+            "name": "Рідини для охолоджувачів",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/plyny-do-chlodnic/",
+            "children": []
+          },
+          {
+            "id": 1127,
+            "name": "Гальмівні рідини",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/plyny-hamulcowe/",
+            "children": []
+          },
+          {
+            "id": 1128,
+            "name": "Мастила для ланцюгів",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/smary-do-lancuchow/",
+            "children": []
+          },
+          {
+            "id": 1129,
+            "name": "Миючі засоби",
+            "parent_id": 1118,
+            "url": "https://motoakcesoria.com/dla-motocykla/oleje-smary-plyny/srodki-czyszczace-i-pielegnacyjne/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1130,
+        "name": "Чохли",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/pokrowce/",
+        "children": [
+          {
+            "id": 1132,
+            "name": "Всередину",
+            "parent_id": 1130,
+            "url": "https://motoakcesoria.com/dla-motocykla/pokrowce/do-wewnatrz/",
+            "children": []
+          },
+          {
+            "id": 1131,
+            "name": "Назовні",
+            "parent_id": 1130,
+            "url": "https://motoakcesoria.com/dla-motocykla/pokrowce/na-zewnatrz/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1218,
+        "name": "Інші",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/pozostale/",
+        "children": [
+          {
+            "id": 1220,
+            "name": "Лічильники Моторогодин",
+            "parent_id": 1218,
+            "url": "https://motoakcesoria.com/dla-motocykla/pozostale/liczniki-motogodzin/",
+            "children": []
+          },
+          {
+            "id": 1219,
+            "name": "Стійка для мотоцикла",
+            "parent_id": 1218,
+            "url": "https://motoakcesoria.com/dla-motocykla/pozostale/stojak-pod-motocykl/",
+            "children": []
+          },
+          {
+            "id": 1221,
+            "name": "Звуковий сигнал",
+            "parent_id": 1218,
+            "url": "https://motoakcesoria.com/dla-motocykla/pozostale/sygnal-dzwiekowy/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1139,
+        "name": "Свічки і Люльки",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/swiece-i-fajki/",
+        "children": [
+          {
+            "id": 1141,
+            "name": "Свічки запалення",
+            "parent_id": 1139,
+            "url": "https://motoakcesoria.com/dla-motocykla/swiece-i-fajki/fajki-zaplonowe/",
+            "children": []
+          },
+          {
+            "id": 1140,
+            "name": "Свічки запалювання",
+            "parent_id": 1139,
+            "url": "https://motoakcesoria.com/dla-motocykla/swiece-i-fajki/swiece-zaplonowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1133,
+        "name": "Шибки",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/szyby/",
+        "children": [
+          {
+            "id": 1135,
+            "name": "Аксесуари",
+            "parent_id": 1133,
+            "url": "https://motoakcesoria.com/dla-motocykla/szyby/akcesoria/",
+            "children": []
+          },
+          {
+            "id": 1134,
+            "name": "Дефлектори",
+            "parent_id": 1133,
+            "url": "https://motoakcesoria.com/dla-motocykla/szyby/deflektory/",
+            "children": []
+          },
+          {
+            "id": 1136,
+            "name": "Скло Присвячене",
+            "parent_id": 1133,
+            "url": "https://motoakcesoria.com/dla-motocykla/szyby/szyby-dedykowane/",
+            "children": []
+          },
+          {
+            "id": 1137,
+            "name": "Універсальні вікна",
+            "parent_id": 1133,
+            "url": "https://motoakcesoria.com/dla-motocykla/szyby/szyby-uniwersalne/",
+            "children": []
+          },
+          {
+            "id": 1138,
+            "name": "Монтажні комплекти",
+            "parent_id": 1133,
+            "url": "https://motoakcesoria.com/dla-motocykla/szyby/zestawy-montazowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 997,
+        "name": "Тримачі для Телефону і GPS",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/uchwyty-na-telefon-i-gps/",
+        "children": []
+      },
+      {
+        "id": 1142,
+        "name": "Електрична система",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/",
+        "children": [
+          {
+            "id": 1144,
+            "name": "Акумулятори",
+            "parent_id": 1142,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/",
+            "children": [
+              {
+                "id": 1146,
+                "name": "Безобслуговувані",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/bezobslugowe/",
+                "children": []
+              },
+              {
+                "id": 1151,
+                "name": "Інше",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/inne/",
+                "children": []
+              },
+              {
+                "id": 1145,
+                "name": "Літій Іонний",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/litowo-jonowe/",
+                "children": []
+              },
+              {
+                "id": 1147,
+                "name": "Обслуговуючі",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/obslugowe/",
+                "children": []
+              },
+              {
+                "id": 1148,
+                "name": "Садові",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/ogrodowe/",
+                "children": []
+              },
+              {
+                "id": 1149,
+                "name": "Гелеві",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/zelowe/",
+                "children": []
+              },
+              {
+                "id": 1150,
+                "name": "Гелеві Безобслуговувані",
+                "parent_id": 1144,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/akumulatory/zelowe-bezobslugowe/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1154,
+            "name": "Інше",
+            "parent_id": 1142,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/inne/",
+            "children": []
+          },
+          {
+            "id": 1143,
+            "name": "Лампи і Покажчики поворотів",
+            "parent_id": 1142,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/lampy-i-kierunkowskazy/",
+            "children": []
+          },
+          {
+            "id": 1152,
+            "name": "Зарядні пристрої акумуляторів",
+            "parent_id": 1142,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/ladowarki-akumulatorow/",
+            "children": []
+          },
+          {
+            "id": 1155,
+            "name": "Тримачі для телефону",
+            "parent_id": 1142,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/uchwyty-na-telefon/",
+            "children": []
+          },
+          {
+            "id": 1153,
+            "name": "Лампочки",
+            "parent_id": 1142,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-elektryczny/zarowki/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1156,
+        "name": "Гальмівна система",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/",
+        "children": [
+          {
+            "id": 1158,
+            "name": "Важелі гальма",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/dzwignie-hamulca/",
+            "children": []
+          },
+          {
+            "id": 1157,
+            "name": "Скоба до щита",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/klamra-do-tarczy/",
+            "children": []
+          },
+          {
+            "id": 1159,
+            "name": "Гальмівні колодки",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/klocki-hamulcowe-do-gokartow/",
+            "children": []
+          },
+          {
+            "id": 1160,
+            "name": "Гальмівні колодки",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/klocki-hamulcowe-skuterowe/",
+            "children": []
+          },
+          {
+            "id": 1161,
+            "name": "Гальмівні трубки",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/przewody-hamulcowe/",
+            "children": [
+              {
+                "id": 1163,
+                "name": "Передня вісь",
+                "parent_id": 1161,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/przewody-hamulcowe/przednia-os/",
+                "children": []
+              },
+              {
+                "id": 1162,
+                "name": "Задня вісь",
+                "parent_id": 1161,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/przewody-hamulcowe/tylna-os/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1164,
+            "name": "Мастило для затискачів",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/smar-do-zaciskow/",
+            "children": []
+          },
+          {
+            "id": 1165,
+            "name": "Гальмівні щелепи",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/szczeki-hamulcowe/",
+            "children": []
+          },
+          {
+            "id": 1166,
+            "name": "Гальмівні диски",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/tarcze-hamulcowe-skuterowe/",
+            "children": []
+          },
+          {
+            "id": 1170,
+            "name": "Ремонтний комплект насоса",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/zestaw-naprawczy-pompy-hamulca/",
+            "children": []
+          },
+          {
+            "id": 1167,
+            "name": "Ремонтний комплект супорта",
+            "parent_id": 1156,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/zestaw-naprawczy-zacisku/",
+            "children": [
+              {
+                "id": 1169,
+                "name": "передній",
+                "parent_id": 1167,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/zestaw-naprawczy-zacisku/przedniego/",
+                "children": []
+              },
+              {
+                "id": 1168,
+                "name": "Задній",
+                "parent_id": 1167,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-hamulcowy/zestaw-naprawczy-zacisku/tylnego/",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1171,
+        "name": "Силова установка",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/",
+        "children": [
+          {
+            "id": 1173,
+            "name": "Комплекти приводів",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/komplety-napedowe/",
+            "children": []
+          },
+          {
+            "id": 1172,
+            "name": "Ланцюги Приводні",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/lancuchy-napedowe/",
+            "children": []
+          },
+          {
+            "id": 1174,
+            "name": "Приводні ремені",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/paski-napedowe/",
+            "children": []
+          },
+          {
+            "id": 1175,
+            "name": "Роль Ланцюга",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/rola-lancucha/",
+            "children": []
+          },
+          {
+            "id": 1177,
+            "name": "Ковзання Ланцюга",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/slizg-lancucha/",
+            "children": []
+          },
+          {
+            "id": 1176,
+            "name": "Застібки / Кріплення",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/spinkizakuwki/",
+            "children": []
+          },
+          {
+            "id": 1179,
+            "name": "Шестерні",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/zebatki/",
+            "children": [
+              {
+                "id": 1181,
+                "name": "Зубчасті передні",
+                "parent_id": 1179,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/zebatki/zebatki-przednie/",
+                "children": []
+              },
+              {
+                "id": 1180,
+                "name": "Задні зубчастки",
+                "parent_id": 1179,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/zebatki/zebatki-tylne/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1178,
+            "name": "Комплекти привідні",
+            "parent_id": 1171,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-napedowy/zestawy-napedowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1182,
+        "name": "Паливна система",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/",
+        "children": [
+          {
+            "id": 1188,
+            "name": "Аксесуари",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/akcesoria/",
+            "children": []
+          },
+          {
+            "id": 1183,
+            "name": "Роздільники карбюратора",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/dysze-gaznikow/",
+            "children": [
+              {
+                "id": 1185,
+                "name": "Карбюратори Dellorto",
+                "parent_id": 1183,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/dysze-gaznikow/dysze-dellorto/",
+                "children": []
+              },
+              {
+                "id": 1184,
+                "name": "Карбюратори Keihin",
+                "parent_id": 1183,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/dysze-gaznikow/dysze-keihin/",
+                "children": []
+              },
+              {
+                "id": 1186,
+                "name": "Карбюратори Mikuni",
+                "parent_id": 1183,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/dysze-gaznikow/dysze-mikuni/",
+                "children": []
+              },
+              {
+                "id": 1187,
+                "name": "Комплекти форсунок",
+                "parent_id": 1183,
+                "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/dysze-gaznikow/komplety-dysz/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1189,
+            "name": "Контролер Палива",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/kontroler-paliwa/",
+            "children": []
+          },
+          {
+            "id": 1190,
+            "name": "Мембрана Клапана",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/membrana-zaworu-dolotowego/",
+            "children": []
+          },
+          {
+            "id": 1191,
+            "name": "Розпилювач до карбюратора",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/rozpylacz-do-gaznika/",
+            "children": []
+          },
+          {
+            "id": 1192,
+            "name": "Контролер управління",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/sterownik-zarzadzania-paliwem/",
+            "children": []
+          },
+          {
+            "id": 1193,
+            "name": "Резервуар палива",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/zbiornik-paliwa/",
+            "children": []
+          },
+          {
+            "id": 1194,
+            "name": "Ремонтний Комплект Карбюратора",
+            "parent_id": 1182,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-paliwowy/zestaw-naprawczy-gaznika/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1195,
+        "name": "Система випуску",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/",
+        "children": [
+          {
+            "id": 1197,
+            "name": "Аксесуари",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/akcesoria/",
+            "children": []
+          },
+          {
+            "id": 1196,
+            "name": "Бази даних-Вбивці",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/db-killery/",
+            "children": []
+          },
+          {
+            "id": 1198,
+            "name": "Дифузори",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/dyfuzory/",
+            "children": []
+          },
+          {
+            "id": 1199,
+            "name": "Знищувач",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/eliminator-katalizatora-dkat/",
+            "children": []
+          },
+          {
+            "id": 1200,
+            "name": "Кріпильна пластина",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/flansza-mocujaca/",
+            "children": []
+          },
+          {
+            "id": 1201,
+            "name": "Колектори",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/kolektory/",
+            "children": []
+          },
+          {
+            "id": 1202,
+            "name": "Кінцівки",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/koncowki-slip-one/",
+            "children": []
+          },
+          {
+            "id": 1203,
+            "name": "Повний Розклад",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/pelny-uklad-full-system/",
+            "children": []
+          },
+          {
+            "id": 1204,
+            "name": "Труба підвідна",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/rura-dolotowa/",
+            "children": []
+          },
+          {
+            "id": 1205,
+            "name": "Глушники Мотоциклетні",
+            "parent_id": 1195,
+            "url": "https://motoakcesoria.com/dla-motocykla/uklad-wydechowy/tlumiki-motocyklowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1206,
+        "name": "Діагностичні пристрої",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/urzadzenia-diagnostyczne/",
+        "children": []
+      },
+      {
+        "id": 1207,
+        "name": "Захисні засоби",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/",
+        "children": [
+          {
+            "id": 1209,
+            "name": "Блокади Без Сполоху",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/blokady-bez-alarmu/",
+            "children": []
+          },
+          {
+            "id": 1208,
+            "name": "Блокади З Сигналізацією",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/blokady-z-alarmem/",
+            "children": []
+          },
+          {
+            "id": 1210,
+            "name": "Навісні замки",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/klodki/",
+            "children": []
+          },
+          {
+            "id": 1211,
+            "name": "Посилання",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/linki/",
+            "children": []
+          },
+          {
+            "id": 1212,
+            "name": "ланцюги",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/lancuchy/",
+            "children": []
+          },
+          {
+            "id": 1213,
+            "name": "Інші",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/pozostale/",
+            "children": []
+          },
+          {
+            "id": 1214,
+            "name": "Нагадувачі",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/przypominacze/",
+            "children": []
+          },
+          {
+            "id": 1215,
+            "name": "Ручки",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/uchwyty/",
+            "children": []
+          },
+          {
+            "id": 1216,
+            "name": "Застібки",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/zapiecia/",
+            "children": []
+          },
+          {
+            "id": 1217,
+            "name": "Набори",
+            "parent_id": 1207,
+            "url": "https://motoakcesoria.com/dla-motocykla/zabezpieczenia-przeciwkradziezowe/zestawy/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1222,
+        "name": "Підвіска",
+        "parent_id": 996,
+        "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/",
+        "children": [
+          {
+            "id": 1224,
+            "name": "Хитальки",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/kiwaczki/",
+            "children": []
+          },
+          {
+            "id": 1223,
+            "name": "Запуск Контролю",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/launch-control/",
+            "children": []
+          },
+          {
+            "id": 1225,
+            "name": "Підшипники амортизатора",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/lozyska-amortyzatora-gorne-dolne/",
+            "children": []
+          },
+          {
+            "id": 1226,
+            "name": "Підшипники головної рами",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/lozyska-glowki-ramy/",
+            "children": []
+          },
+          {
+            "id": 1227,
+            "name": "Підшипники важеля",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/lozyska-wahacza/",
+            "children": []
+          },
+          {
+            "id": 1228,
+            "name": "Захисні накладки амортизаторів",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/oslony-amortyzatorow/",
+            "children": []
+          },
+          {
+            "id": 1229,
+            "name": "Телескопічні захисти",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/oslony-teleskopow/",
+            "children": []
+          },
+          {
+            "id": 1230,
+            "name": "Елементи підвіски",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/pokretla-zawieszenia/",
+            "children": []
+          },
+          {
+            "id": 1231,
+            "name": "Телескопічні сальники",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/simmeringi-teleskopow/",
+            "children": []
+          },
+          {
+            "id": 1232,
+            "name": "Утримувач шини",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/trzymak-opony/",
+            "children": []
+          },
+          {
+            "id": 1233,
+            "name": "Дистанційні втулки коліс",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/tulejki-dystansowe-kol/",
+            "children": [
+              {
+                "id": 1235,
+                "name": "передній",
+                "parent_id": 1233,
+                "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/tulejki-dystansowe-kol/przednich/",
+                "children": []
+              },
+              {
+                "id": 1234,
+                "name": "Задній",
+                "parent_id": 1233,
+                "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/tulejki-dystansowe-kol/tylnich/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1236,
+            "name": "Ущільнювачі",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/uszczelniacze-amortyzatora-tylniego/",
+            "children": []
+          },
+          {
+            "id": 1237,
+            "name": "Набір з'єднань",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-linkeage-lozyska-dzwigni-amortyzatora-tylnego/",
+            "children": []
+          },
+          {
+            "id": 1238,
+            "name": "Комплект підшипників важеля A-Arm",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-lozysk-a-arm-lozyska-zawieszenia-atv/",
+            "children": []
+          },
+          {
+            "id": 1239,
+            "name": "Комплект підшипників заднього",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-lozysk-tylnego-zawieszenia/",
+            "children": []
+          },
+          {
+            "id": 1243,
+            "name": "Ремонтний комплект колеса",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-kola/",
+            "children": [
+              {
+                "id": 1245,
+                "name": "передній",
+                "parent_id": 1243,
+                "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-kola/przedniego/",
+                "children": []
+              },
+              {
+                "id": 1244,
+                "name": "Задній",
+                "parent_id": 1243,
+                "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-kola/tylnego/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1246,
+            "name": "Комплект Ремонтний Важеля",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-wahacza/",
+            "children": []
+          },
+          {
+            "id": 1240,
+            "name": "Ремонтний комплект",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-zawieszenia/",
+            "children": [
+              {
+                "id": 1242,
+                "name": "нижній",
+                "parent_id": 1240,
+                "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-amortyzatora/dolnego/",
+                "children": []
+              },
+              {
+                "id": 1241,
+                "name": "Верхнього",
+                "parent_id": 1240,
+                "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-naprawczy-amortyzatora/gornego/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 1247,
+            "name": "Набір Simmeringів",
+            "parent_id": 1222,
+            "url": "https://motoakcesoria.com/dla-motocykla/zawieszenie/zestaw-simmeringow-i-zgarniaczy-przedniego-zawieszenia/",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 867,
+    "name": "Для мотоциклістів",
+    "parent_id": null,
+    "url": "https://motoakcesoria.com/dla-motocyklisty/",
+    "children": [
+      {
+        "id": 886,
+        "name": "Мотоциклетні аксесуари",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/akcesoria-motocyklowe/",
+        "children": []
+      },
+      {
+        "id": 868,
+        "name": "Черевики Мотоциклетні",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/",
+        "children": [
+          {
+            "id": 871,
+            "name": "Аксесуари",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/",
+            "children": [
+              {
+                "id": 873,
+                "name": "Креативні технічні боа",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/kity-boa/",
+                "children": []
+              },
+              {
+                "id": 872,
+                "name": "Скоби",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/klamry/",
+                "children": []
+              },
+              {
+                "id": 874,
+                "name": "Ремені",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/paski/",
+                "children": []
+              },
+              {
+                "id": 875,
+                "name": "Підошви",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/podeszwy/",
+                "children": []
+              },
+              {
+                "id": 876,
+                "name": "Інші",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/pozostale/",
+                "children": []
+              },
+              {
+                "id": 877,
+                "name": "Повзунки",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/slidery/",
+                "children": []
+              },
+              {
+                "id": 878,
+                "name": "Шнурівки",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/sznurowki/",
+                "children": []
+              },
+              {
+                "id": 879,
+                "name": "Прокладки",
+                "parent_id": 871,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/akcesoria/wkladki/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 869,
+            "name": "Взуття для кросу",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-crossowe/",
+            "children": [
+              {
+                "id": 870,
+                "name": "Взуття Дитяче",
+                "parent_id": 869,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-crossowe/buty-dzieciece/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 880,
+            "name": "Взуття жіноче",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-damskie/",
+            "children": []
+          },
+          {
+            "id": 881,
+            "name": "Черевики для ендуро",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-enduro/",
+            "children": []
+          },
+          {
+            "id": 882,
+            "name": "Міські черевики",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-miejskie/",
+            "children": []
+          },
+          {
+            "id": 883,
+            "name": "Спортивне взуття",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-sportowe/",
+            "children": []
+          },
+          {
+            "id": 884,
+            "name": "Взуття для трейлового бігу",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-trialowe/",
+            "children": []
+          },
+          {
+            "id": 885,
+            "name": "Туристичні черевики",
+            "parent_id": 868,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/buty-motocyklowe/buty-turystyczne/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 887,
+        "name": "Гаджети і Подарунки",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/gadzety-i-prezenty/",
+        "children": [
+          {
+            "id": 889,
+            "name": "Брелоки",
+            "parent_id": 887,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/gadzety-i-prezenty/breloczki/",
+            "children": []
+          },
+          {
+            "id": 888,
+            "name": "Кепки з козирком",
+            "parent_id": 887,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/gadzety-i-prezenty/czapki-z-daszkiem/",
+            "children": []
+          },
+          {
+            "id": 890,
+            "name": "Інші",
+            "parent_id": 887,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/gadzety-i-prezenty/inne/",
+            "children": []
+          },
+          {
+            "id": 891,
+            "name": "Наклейки",
+            "parent_id": 887,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/gadzety-i-prezenty/naklejki/",
+            "children": []
+          },
+          {
+            "id": 892,
+            "name": "Одяг",
+            "parent_id": 887,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/gadzety-i-prezenty/odziez/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 893,
+        "name": "Окуляри",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/gogle/",
+        "children": [
+          {
+            "id": 894,
+            "name": "Аксесуари",
+            "parent_id": 893,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/gogle/akcesoria/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 895,
+        "name": "Захисні шоломи",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/",
+        "children": [
+          {
+            "id": 897,
+            "name": "Аксесуари до шоломів",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/",
+            "children": [
+              {
+                "id": 899,
+                "name": "Суміші",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/blendy/",
+                "children": []
+              },
+              {
+                "id": 898,
+                "name": "Бічні накладки до шоломів",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/boczki-do-kaskow/",
+                "children": []
+              },
+              {
+                "id": 900,
+                "name": "Щелепна частина",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/czesc-szczekowa/",
+                "children": []
+              },
+              {
+                "id": 901,
+                "name": "Дашки",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/daszki/",
+                "children": []
+              },
+              {
+                "id": 902,
+                "name": "Дефлектори Носа",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/deflektory-nosa/",
+                "children": []
+              },
+              {
+                "id": 903,
+                "name": "Механізм Візира",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/mechanizm-wizjera/",
+                "children": []
+              },
+              {
+                "id": 904,
+                "name": "Лінза окулярів",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/obiektyw-gogli/",
+                "children": []
+              },
+              {
+                "id": 905,
+                "name": "Підборідні захисні екрани",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/oslony-podbrodka/",
+                "children": []
+              },
+              {
+                "id": 906,
+                "name": "Захисні щелепи",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/oslony-szczeki/",
+                "children": []
+              },
+              {
+                "id": 907,
+                "name": "Шпильки",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/pinlocki/",
+                "children": []
+              },
+              {
+                "id": 908,
+                "name": "Подушки щічні",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/poduszki-policzkowe/",
+                "children": []
+              },
+              {
+                "id": 909,
+                "name": "Інші",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/pozostale/",
+                "children": []
+              },
+              {
+                "id": 910,
+                "name": "Спойлери",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/spoilery/",
+                "children": []
+              },
+              {
+                "id": 911,
+                "name": "Болти / Пояси / Ролики",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/sruby-paski-rolki-zrywki/",
+                "children": []
+              },
+              {
+                "id": 912,
+                "name": "Вентиляція",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/wentylacja/",
+                "children": []
+              },
+              {
+                "id": 913,
+                "name": "Оглядові пристрої",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/wizjery/",
+                "children": []
+              },
+              {
+                "id": 914,
+                "name": "Заповнення / Викладання",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/wypelnienie-wykladanie/",
+                "children": []
+              },
+              {
+                "id": 915,
+                "name": "Вентиляційні отвори",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/wywietrzniki/",
+                "children": []
+              },
+              {
+                "id": 916,
+                "name": "Корки",
+                "parent_id": 897,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/akcesoria-do-kaskow/zatyczki/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 896,
+            "name": "Дитячі каски",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/kaski-dzieciece/",
+            "children": []
+          },
+          {
+            "id": 917,
+            "name": "Інтегральні шоломи",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/kaski-integralne/",
+            "children": []
+          },
+          {
+            "id": 918,
+            "name": "Модульні шоломи",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/kaski-modularne/",
+            "children": []
+          },
+          {
+            "id": 919,
+            "name": "Шоломи позашляхові",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/kaski-off-road/",
+            "children": []
+          },
+          {
+            "id": 920,
+            "name": "Відкриті шоломи JET",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/kaski-otwarte-jet/",
+            "children": []
+          },
+          {
+            "id": 921,
+            "name": "Шоломи для підборіддя",
+            "parent_id": 895,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/kaski/kaski-szczekowe/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 922,
+        "name": "Захисники",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/",
+        "children": [
+          {
+            "id": 924,
+            "name": "Захисники Стегон",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/ochraniacze-bioder/",
+            "children": []
+          },
+          {
+            "id": 923,
+            "name": "Наколінники",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/ochraniacze-kolan/",
+            "children": []
+          },
+          {
+            "id": 925,
+            "name": "Захисні накладки на лікті",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/ochraniacze-na-lokcie/",
+            "children": []
+          },
+          {
+            "id": 926,
+            "name": "Захисники На Спину",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/ochraniacze-na-plecy/",
+            "children": []
+          },
+          {
+            "id": 927,
+            "name": "Захисники Рук",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/ochraniacze-ramion/",
+            "children": []
+          },
+          {
+            "id": 928,
+            "name": "Ковзні До Взуття",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/slizgi-do-butow/",
+            "children": []
+          },
+          {
+            "id": 929,
+            "name": "Штани-леґінси",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/slizgi-do-spodni/",
+            "children": []
+          },
+          {
+            "id": 930,
+            "name": "Обладунки",
+            "parent_id": 922,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/ochraniacze/zbroje/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 931,
+        "name": "Одяг",
+        "parent_id": 867,
+        "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/",
+        "children": [
+          {
+            "id": 933,
+            "name": "Аксесуари",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/akcesoria/",
+            "children": []
+          },
+          {
+            "id": 932,
+            "name": "Толстовки",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/bluzy-polary-softshell/",
+            "children": []
+          },
+          {
+            "id": 934,
+            "name": "Хустки",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/chusty/",
+            "children": []
+          },
+          {
+            "id": 935,
+            "name": "Жилети",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kamizelki/",
+            "children": [
+              {
+                "id": 937,
+                "name": "Світловідбивні",
+                "parent_id": 935,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kamizelki/odblaskowe/",
+                "children": []
+              },
+              {
+                "id": 936,
+                "name": "Шкіряні",
+                "parent_id": 935,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kamizelki/skorzane/",
+                "children": []
+              },
+              {
+                "id": 938,
+                "name": "Термічний",
+                "parent_id": 935,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kamizelki/termiczne/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 939,
+            "name": "Комірці",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kolnierze/",
+            "children": []
+          },
+          {
+            "id": 940,
+            "name": "Комбінезони",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kombinezony/",
+            "children": [
+              {
+                "id": 942,
+                "name": "Комбінезони суцільні",
+                "parent_id": 940,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kombinezony/kombinezony-1-czesciowe/",
+                "children": []
+              },
+              {
+                "id": 941,
+                "name": "Комбінезони 2-Частинні",
+                "parent_id": 940,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kombinezony/kombinezony-2-czesciowe/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 943,
+            "name": "Балаклави",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kominiarki/",
+            "children": []
+          },
+          {
+            "id": 944,
+            "name": "Сорочки",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/koszule/",
+            "children": []
+          },
+          {
+            "id": 945,
+            "name": "Футболки",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/koszulki/",
+            "children": [
+              {
+                "id": 947,
+                "name": "На бретельках",
+                "parent_id": 945,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/koszulki/na-ramiaczkach/",
+                "children": []
+              },
+              {
+                "id": 946,
+                "name": "Футболки",
+                "parent_id": 945,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/koszulki/t-shirty/",
+                "children": []
+              },
+              {
+                "id": 948,
+                "name": "Футболки поло",
+                "parent_id": 945,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/koszulki/t-shirty-polo/",
+                "children": []
+              },
+              {
+                "id": 949,
+                "name": "З довгим рукавом",
+                "parent_id": 945,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/koszulki/z-dlugim-rekawem/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 950,
+            "name": "Мотоциклетні куртки",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/",
+            "children": [
+              {
+                "id": 954,
+                "name": "Шкіряні куртки",
+                "parent_id": 950,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/kurtki-skorzane/",
+                "children": [
+                  {
+                    "id": 956,
+                    "name": "Жіночі куртки",
+                    "parent_id": 954,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/kurtki-skorzane/kurtki-damskie/",
+                    "children": []
+                  },
+                  {
+                    "id": 955,
+                    "name": "Чоловічі куртки",
+                    "parent_id": 954,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/kurtki-skorzane/kurtki-meskie/",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 951,
+                "name": "Текстильні куртки",
+                "parent_id": 950,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/kurtki-tekstylne/",
+                "children": [
+                  {
+                    "id": 953,
+                    "name": "Куртки Жіночі",
+                    "parent_id": 951,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/kurtki-tekstylne/kurtki-damskie/",
+                    "children": []
+                  },
+                  {
+                    "id": 952,
+                    "name": "Чоловічі куртки",
+                    "parent_id": 951,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/kurtki-motocyklowe/kurtki-tekstylne/kurtki-meskie/",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 957,
+            "name": "Фільтруючі маски",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/maski-filtrujace/",
+            "children": []
+          },
+          {
+            "id": 958,
+            "name": "Дитячий одяг",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-dziecieca/",
+            "children": []
+          },
+          {
+            "id": 959,
+            "name": "Одяг Поза Дорогою",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-off-road/",
+            "children": [
+              {
+                "id": 961,
+                "name": "Толстовки Позашляхові",
+                "parent_id": 959,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-off-road/bluzy-off-road/",
+                "children": []
+              },
+              {
+                "id": 960,
+                "name": "Футболки Позашляховик",
+                "parent_id": 959,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-off-road/koszulki-off-road/",
+                "children": []
+              },
+              {
+                "id": 962,
+                "name": "Куртки Позашляховик",
+                "parent_id": 959,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-off-road/kurtki-off-road/",
+                "children": []
+              },
+              {
+                "id": 963,
+                "name": "Рукавиці Бездоріжжя",
+                "parent_id": 959,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-off-road/rekawice-off-road/",
+                "children": []
+              },
+              {
+                "id": 964,
+                "name": "Штани Позашляхові",
+                "parent_id": 959,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-off-road/spodnie-off-road/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 965,
+            "name": "Одяг Від Дощу",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-przeciwdeszczowa/",
+            "children": [
+              {
+                "id": 967,
+                "name": "Комбінезони",
+                "parent_id": 965,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-przeciwdeszczowa/kombinezony-przeciwdeszczowe-1-czesciowe/",
+                "children": []
+              },
+              {
+                "id": 966,
+                "name": "Дощовики",
+                "parent_id": 965,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-przeciwdeszczowa/kurtki-przeciwdeszczowe/",
+                "children": []
+              },
+              {
+                "id": 968,
+                "name": "накладки",
+                "parent_id": 965,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-przeciwdeszczowa/nakladki-przeciwdeszczowe-na-buty-i-rekawice/",
+                "children": []
+              },
+              {
+                "id": 969,
+                "name": "Штани від дощу",
+                "parent_id": 965,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-przeciwdeszczowa/spodnie-przeciwdeszczowe/",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 970,
+            "name": "Термоактивний одяг",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/odziez-termoaktywna/",
+            "children": []
+          },
+          {
+            "id": 971,
+            "name": "Ниркові пояси",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/pasy-nerkowe/",
+            "children": []
+          },
+          {
+            "id": 972,
+            "name": "Мотоциклетні рукавиці",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/",
+            "children": [
+              {
+                "id": 974,
+                "name": "Рукавиці жіночі",
+                "parent_id": 972,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-damskie/",
+                "children": [
+                  {
+                    "id": 976,
+                    "name": "Рукавиці кросові",
+                    "parent_id": 974,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-damskie/rekawice-crossowe/",
+                    "children": []
+                  },
+                  {
+                    "id": 975,
+                    "name": "Шкіряні рукавиці",
+                    "parent_id": 974,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-damskie/rekawice-skorzane/",
+                    "children": []
+                  },
+                  {
+                    "id": 977,
+                    "name": "Спортивні рукавиці",
+                    "parent_id": 974,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-damskie/rekawice-sportowe/",
+                    "children": []
+                  },
+                  {
+                    "id": 978,
+                    "name": "Туристичні рукавиці",
+                    "parent_id": 974,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-damskie/rekawice-turystyczne/",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 973,
+                "name": "Рукавиці Дитячі",
+                "parent_id": 972,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-dzieciece/",
+                "children": []
+              },
+              {
+                "id": 979,
+                "name": "Чоловічі рукавиці",
+                "parent_id": 972,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/",
+                "children": [
+                  {
+                    "id": 981,
+                    "name": "Рукавиці для кросівок",
+                    "parent_id": 979,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/rekawice-crossowe/",
+                    "children": []
+                  },
+                  {
+                    "id": 980,
+                    "name": "Міські рукавиці",
+                    "parent_id": 979,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/rekawice-miejskie/",
+                    "children": []
+                  },
+                  {
+                    "id": 982,
+                    "name": "Шкіряні рукавиці",
+                    "parent_id": 979,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/rekawice-skorzane/",
+                    "children": []
+                  },
+                  {
+                    "id": 983,
+                    "name": "Спортивні рукавиці",
+                    "parent_id": 979,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/rekawice-sportowe/",
+                    "children": []
+                  },
+                  {
+                    "id": 984,
+                    "name": "Туристичні рукавиці",
+                    "parent_id": 979,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/rekawice-turystyczne/",
+                    "children": []
+                  },
+                  {
+                    "id": 985,
+                    "name": "Зимові рукавиці",
+                    "parent_id": 979,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/rekawice-motocyklowe/rekawice-meskie/rekawice-zimowe/",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 986,
+            "name": "Шкарпетки Мотоциклетні",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/skarpety-motocyklowe/",
+            "children": []
+          },
+          {
+            "id": 987,
+            "name": "Мотоциклетні штани",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/",
+            "children": [
+              {
+                "id": 991,
+                "name": "Джинсові штани",
+                "parent_id": 987,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-jeansowe/",
+                "children": []
+              },
+              {
+                "id": 988,
+                "name": "Шкіряні штани",
+                "parent_id": 987,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-skorzane/",
+                "children": [
+                  {
+                    "id": 990,
+                    "name": "Штани Жіночі",
+                    "parent_id": 988,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-skorzane/spodnie-damskie/",
+                    "children": []
+                  },
+                  {
+                    "id": 989,
+                    "name": "Чоловічі штани",
+                    "parent_id": 988,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-skorzane/spodnie-meskie/",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": 992,
+                "name": "Текстильні штани",
+                "parent_id": 987,
+                "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-tekstylne/",
+                "children": [
+                  {
+                    "id": 994,
+                    "name": "Жіночі штани",
+                    "parent_id": 992,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-tekstylne/spodnie-damskie/",
+                    "children": []
+                  },
+                  {
+                    "id": 993,
+                    "name": "Чоловічі штани",
+                    "parent_id": 992,
+                    "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/spodnie-motocyklowe/spodnie-tekstylne/spodnie-meskie/",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 995,
+            "name": "Підтяжки",
+            "parent_id": 931,
+            "url": "https://motoakcesoria.com/dla-motocyklisty/odziez/szelki/",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1372,
+    "name": "Акції",
+    "parent_id": null,
+    "url": "https://motoakcesoria.com/promocje",
+    "children": []
+  },
+  {
+    "id": 1248,
+    "name": "Велосипеди",
+    "parent_id": null,
+    "url": "https://motoakcesoria.com/rowery/",
+    "children": [
+      {
+        "id": 1252,
+        "name": "Велосипеди",
+        "parent_id": 1248,
+        "url": "https://motoakcesoria.com/rowery/rowery/",
+        "children": []
+      },
+      {
+        "id": 1253,
+        "name": "Велосипеди для дітей",
+        "parent_id": 1248,
+        "url": "https://motoakcesoria.com/rowery/rowery-dla-dzieci/",
+        "children": []
+      },
+      {
+        "id": 1249,
+        "name": "Електричні велосипеди",
+        "parent_id": 1248,
+        "url": "https://motoakcesoria.com/rowery/rowery-elektryczne/",
+        "children": [
+          {
+            "id": 1251,
+            "name": "Гірський велосипед",
+            "parent_id": 1249,
+            "url": "https://motoakcesoria.com/rowery/rowery-elektryczne/mtb/",
+            "children": []
+          },
+          {
+            "id": 1250,
+            "name": "Похід і Міський",
+            "parent_id": 1249,
+            "url": "https://motoakcesoria.com/rowery/rowery-elektryczne/trekking-i-miejskie/",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

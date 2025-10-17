@@ -1,2 +1,0 @@
-input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
-1372,Акції,,Акції,901,Акції та знижки,,Спеціальні категорії > Акції та знижки,1.0,Точное совпадение с категорией акций в новой структуре,exact

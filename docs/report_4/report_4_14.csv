@@ -1,2 +1,0 @@
-input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
-1710,Олії - Просочення - Мастила - Лаки - Хімія,,Олії - Просочення - Мастила - Лаки - Хімія,610,Імпрегнати,,Олії та хімія > Імпрегнати,0.7,"Частково збігається за змістом, але охоплює лише частину категорій",semantic

@@ -1,2 +1,0 @@
-input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
-1522,Світлодіодні,,Світлодіодні,40303,Світлодіодні стрічки,,Автоаксесуари 4x4 > Освітлення > Світлодіодні стрічки,0.9,Точное соответствие по типу товара - светодиодные элементы,semantic

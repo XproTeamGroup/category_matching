@@ -1,2 +1,0 @@
-input_id,input_name,input_path,input_full_path,match_id,match_name,match_path,match_full_path,confidence,reasoning,method
-1708,Трапи та напади,,Трапи та напади,Не найдено,Не найдено,,Не найдено,0.0,Не удалось найти семантически близкую категорию в новой структуре. Термин 'трапи та напади' не соответствует ни одной из существующих категорий.,unmatched
