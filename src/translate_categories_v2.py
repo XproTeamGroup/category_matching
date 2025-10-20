@@ -178,9 +178,9 @@ def main():
 
     # Файли для обробки
     files_to_process = [
-        ("2.json", "2_1.json"),
-        ("3.json", "3_1.json"),
-        ("4.json", "4_1.json")
+        # ("2.json", "2_1.json"),
+        ("docs/3.json", "3_1.json"),
+        # ("4.json", "4_1.json")
     ]
 
     success_count = 0

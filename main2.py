@@ -8,8 +8,8 @@ from datetime import datetime
 
 # --- Конфигурация ---
 NEW_CATEGORIES_FILE = 'new.json'
-OLD_CATEGORIES_FILES = ['4_1.json']
-OUTPUT_DIR = 'report_matching_3'  # Базовая директория для отчетов
+OLD_CATEGORIES_FILES = ['2_1.json']
+OUTPUT_DIR = 'report_matching_4'  # Базовая директория для отчетов
 CHUNK_SIZE = 10 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
 CLAUDE_MODEL = "claude-3-5-haiku-20241022" # Можно использовать "claude-3-sonnet-20240229" для меньших затрат
 MAX_TOKENS_RESPONSE = 8000 # Максимальное количество токенов в ответе Claude
