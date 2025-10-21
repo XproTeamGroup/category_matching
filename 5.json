@@ -1,0 +1,2650 @@
+[
+  {
+    "id": 2426,
+    "name": "VARUS CAFE",
+    "parent_id": null,
+    "children": []
+  },
+  {
+    "id": 2247,
+    "name": "Алкоголь",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2260,
+        "name": "Вермути",
+        "parent_id": 2247,
+        "children": []
+      },
+      {
+        "id": 2249,
+        "name": "Вино",
+        "parent_id": 2247,
+        "children": []
+      },
+      {
+        "id": 2250,
+        "name": "Ігристі вина і шампанське",
+        "parent_id": 2247,
+        "children": []
+      },
+      {
+        "id": 2251,
+        "name": "Міцний алкоголь",
+        "parent_id": 2247,
+        "children": [
+          {
+            "id": 2252,
+            "name": "Віскі",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2255,
+            "name": "Горілка",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2254,
+            "name": "Джин",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2253,
+            "name": "Коньяк та бренді",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2259,
+            "name": "Лікери",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2258,
+            "name": "Настоянки та біттери",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2256,
+            "name": "Ром",
+            "parent_id": 2251,
+            "children": []
+          },
+          {
+            "id": 2257,
+            "name": "Текіла",
+            "parent_id": 2251,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2248,
+        "name": "Пиво",
+        "parent_id": 2247,
+        "children": []
+      },
+      {
+        "id": 2261,
+        "name": "Сидри",
+        "parent_id": 2247,
+        "children": []
+      },
+      {
+        "id": 2262,
+        "name": "Слабоалкогольні напої",
+        "parent_id": 2247,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2302,
+    "name": "Бакалія",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2344,
+        "name": "Варення та джеми",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2328,
+        "name": "Їжа швидкого приготування",
+        "parent_id": 2302,
+        "children": [
+          {
+            "id": 2329,
+            "name": "Бульйони та супи",
+            "parent_id": 2328,
+            "children": []
+          },
+          {
+            "id": 2330,
+            "name": "Вермішель швидкого приготування",
+            "parent_id": 2328,
+            "children": []
+          },
+          {
+            "id": 2331,
+            "name": "Каші швидкого приготування",
+            "parent_id": 2328,
+            "children": []
+          },
+          {
+            "id": 2332,
+            "name": "Пюре швидкого приготування",
+            "parent_id": 2328,
+            "children": []
+          },
+          {
+            "id": 2333,
+            "name": "Сухі сніданки",
+            "parent_id": 2328,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2317,
+        "name": "Крупи",
+        "parent_id": 2302,
+        "children": [
+          {
+            "id": 2318,
+            "name": "Бобові крупи",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2326,
+            "name": "Вівсяна крупа",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2319,
+            "name": "Гречка",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2322,
+            "name": "Крупа пшенична",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2320,
+            "name": "Кукурудзяна крупа",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2321,
+            "name": "Манна крупа",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2323,
+            "name": "Пшоно",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2325,
+            "name": "Рис",
+            "parent_id": 2317,
+            "children": []
+          },
+          {
+            "id": 2324,
+            "name": "Ячна та перлова крупа",
+            "parent_id": 2317,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2327,
+        "name": "Макаронні вироби",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2345,
+        "name": "Мед",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2316,
+        "name": "Оцет",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2334,
+        "name": "Продукти для випічки",
+        "parent_id": 2302,
+        "children": [
+          {
+            "id": 2335,
+            "name": "Борошно",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2336,
+            "name": "Дріжджі",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2337,
+            "name": "Желе, пудинги, кисіль",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2343,
+            "name": "Інгредієнти та добавки для випічки",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2338,
+            "name": "Кокосова стружка",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2339,
+            "name": "Креми та глазурі",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2340,
+            "name": "Мак",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2341,
+            "name": "Панірування",
+            "parent_id": 2334,
+            "children": []
+          },
+          {
+            "id": 2342,
+            "name": "Присипки та прикраси",
+            "parent_id": 2334,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2347,
+        "name": "Продукти для суші",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2315,
+        "name": "Рослинна олія",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2346,
+        "name": "Сиропи та топінги",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2313,
+        "name": "Сіль",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2303,
+        "name": "Соуси та маринади",
+        "parent_id": 2302,
+        "children": [
+          {
+            "id": 2304,
+            "name": "Гірчиця",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2305,
+            "name": "Кетчупи",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2306,
+            "name": "Майонези",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2311,
+            "name": "Маринади та заправки",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2309,
+            "name": "Соєві соуси",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2308,
+            "name": "Спеціальні соуси",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2307,
+            "name": "Томатна паста",
+            "parent_id": 2303,
+            "children": []
+          },
+          {
+            "id": 2310,
+            "name": "Хрін",
+            "parent_id": 2303,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2312,
+        "name": "Спеції та приправи",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2348,
+        "name": "Суперфуди",
+        "parent_id": 2302,
+        "children": []
+      },
+      {
+        "id": 2314,
+        "name": "Цукор",
+        "parent_id": 2302,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2427,
+    "name": "Власна випічка та десерти VARUS",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2429,
+        "name": "Булочки та здобні вироби",
+        "parent_id": 2427,
+        "children": []
+      },
+      {
+        "id": 2430,
+        "name": "Листкові вироби та круасани",
+        "parent_id": 2427,
+        "children": []
+      },
+      {
+        "id": 2431,
+        "name": "Пироги та печиво",
+        "parent_id": 2427,
+        "children": []
+      },
+      {
+        "id": 2433,
+        "name": "Пончики та мафіни",
+        "parent_id": 2427,
+        "children": []
+      },
+      {
+        "id": 2434,
+        "name": "Тісто",
+        "parent_id": 2427,
+        "children": []
+      },
+      {
+        "id": 2432,
+        "name": "Торти та десерти",
+        "parent_id": 2427,
+        "children": []
+      },
+      {
+        "id": 2428,
+        "name": "Хліб та багети",
+        "parent_id": 2427,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2202,
+    "name": "Власні марки",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2206,
+        "name": "Алкоголь",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2204,
+        "name": "Вода, соки і напої",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2207,
+        "name": "Гігієна та догляд",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2208,
+        "name": "Побутова хімія",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2203,
+        "name": "Продукти",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2211,
+        "name": "Товари для дітей",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2209,
+        "name": "Товари для дому",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2210,
+        "name": "Товари для тварин",
+        "parent_id": 2202,
+        "children": []
+      },
+      {
+        "id": 2205,
+        "name": "Чай, кава і гарячі напої",
+        "parent_id": 2202,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2385,
+    "name": "Вода, соки, напої",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2390,
+        "name": "Енергетичні напої",
+        "parent_id": 2385,
+        "children": []
+      },
+      {
+        "id": 2391,
+        "name": "Квас",
+        "parent_id": 2385,
+        "children": []
+      },
+      {
+        "id": 2388,
+        "name": "Комбуча",
+        "parent_id": 2385,
+        "children": []
+      },
+      {
+        "id": 2386,
+        "name": "Мінеральна вода",
+        "parent_id": 2385,
+        "children": []
+      },
+      {
+        "id": 2389,
+        "name": "Соки та нектари",
+        "parent_id": 2385,
+        "children": []
+      },
+      {
+        "id": 2387,
+        "name": "Солодка вода",
+        "parent_id": 2385,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2435,
+    "name": "Гігієна та догляд",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2492,
+        "name": "Антисептики",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2486,
+        "name": "Ватні засоби",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2436,
+        "name": "Догляд за волоссям",
+        "parent_id": 2435,
+        "children": [
+          {
+            "id": 2449,
+            "name": "Аксесуари для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2438,
+            "name": "Бальзами для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2439,
+            "name": "Кондиціонери для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2447,
+            "name": "Креми для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2440,
+            "name": "Маски для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2448,
+            "name": "Набори для догляду за волоссям",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2446,
+            "name": "Олія для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2445,
+            "name": "Сироватки для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2444,
+            "name": "Скраби для шкіри голови",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2443,
+            "name": "Спреї для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2442,
+            "name": "Термозахист для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2441,
+            "name": "Філери для волосся",
+            "parent_id": 2436,
+            "children": []
+          },
+          {
+            "id": 2437,
+            "name": "Шампуні",
+            "parent_id": 2436,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2473,
+        "name": "Догляд за ротовою порожниною",
+        "parent_id": 2435,
+        "children": [
+          {
+            "id": 2474,
+            "name": "Зубні пасти",
+            "parent_id": 2473,
+            "children": []
+          },
+          {
+            "id": 2475,
+            "name": "Зубні щітки",
+            "parent_id": 2473,
+            "children": []
+          },
+          {
+            "id": 2476,
+            "name": "Зубочистки та нитки",
+            "parent_id": 2473,
+            "children": []
+          },
+          {
+            "id": 2477,
+            "name": "Ополіскувачі ротової порожнини",
+            "parent_id": 2473,
+            "children": []
+          },
+          {
+            "id": 2478,
+            "name": "Освіжувачі ротової порожнини",
+            "parent_id": 2473,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2462,
+        "name": "Догляд за тілом",
+        "parent_id": 2435,
+        "children": [
+          {
+            "id": 2463,
+            "name": "Гелі для душу",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2464,
+            "name": "Дезодоранти та антиперспіранти",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2469,
+            "name": "Засоби відновлення та живлення",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2468,
+            "name": "Засоби для інтимної гігієни",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2465,
+            "name": "Креми",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2470,
+            "name": "Маски для обличчя",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2466,
+            "name": "Мило",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2472,
+            "name": "Набори для догляду за тілом",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2471,
+            "name": "Піна та сіль для ванни",
+            "parent_id": 2462,
+            "children": []
+          },
+          {
+            "id": 2467,
+            "name": "Скраби і пілінги",
+            "parent_id": 2462,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2490,
+        "name": "Ефірні олії",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2455,
+        "name": "Засоби для укладання волосся",
+        "parent_id": 2435,
+        "children": [
+          {
+            "id": 2457,
+            "name": "Гелі для волосся",
+            "parent_id": 2455,
+            "children": []
+          },
+          {
+            "id": 2456,
+            "name": "Лаки для волосся",
+            "parent_id": 2455,
+            "children": []
+          },
+          {
+            "id": 2458,
+            "name": "Муси для волосся",
+            "parent_id": 2455,
+            "children": []
+          },
+          {
+            "id": 2459,
+            "name": "Пінки для волосся",
+            "parent_id": 2455,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2450,
+        "name": "Засоби для фарбування волосся",
+        "parent_id": 2435,
+        "children": [
+          {
+            "id": 2451,
+            "name": "Освітлювачі для волосся",
+            "parent_id": 2450,
+            "children": []
+          },
+          {
+            "id": 2452,
+            "name": "Тонуючі засоби для волосся",
+            "parent_id": 2450,
+            "children": []
+          },
+          {
+            "id": 2454,
+            "name": "Фарби для брів та вій",
+            "parent_id": 2450,
+            "children": []
+          },
+          {
+            "id": 2453,
+            "name": "Фарби для волосся",
+            "parent_id": 2450,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2494,
+        "name": "Засоби проти комах",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2496,
+        "name": "Косметичні засоби",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2491,
+        "name": "Медичні засоби",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2489,
+        "name": "Презервативи",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2488,
+        "name": "Прокладки",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2461,
+        "name": "Серветки та рушники",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2495,
+        "name": "Сонцезахисні засоби",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2487,
+        "name": "Тампони",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2479,
+        "name": "Товари для гоління",
+        "parent_id": 2435,
+        "children": [
+          {
+            "id": 2480,
+            "name": "Засоби для гоління",
+            "parent_id": 2479,
+            "children": []
+          },
+          {
+            "id": 2481,
+            "name": "Засоби після гоління",
+            "parent_id": 2479,
+            "children": []
+          },
+          {
+            "id": 2482,
+            "name": "Змінні касети для бритви",
+            "parent_id": 2479,
+            "children": []
+          },
+          {
+            "id": 2483,
+            "name": "Набори для гоління",
+            "parent_id": 2479,
+            "children": []
+          },
+          {
+            "id": 2484,
+            "name": "Станки бритвенні жіночі",
+            "parent_id": 2479,
+            "children": []
+          },
+          {
+            "id": 2485,
+            "name": "Станки бритвенні чоловічі",
+            "parent_id": 2479,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2460,
+        "name": "Туалетний папір",
+        "parent_id": 2435,
+        "children": []
+      },
+      {
+        "id": 2493,
+        "name": "Харчові добавки",
+        "parent_id": 2435,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2401,
+    "name": "Заморожені продукти",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2407,
+        "name": "Заморожена піца",
+        "parent_id": 2401,
+        "children": []
+      },
+      {
+        "id": 2408,
+        "name": "Заморожене тісто",
+        "parent_id": 2401,
+        "children": []
+      },
+      {
+        "id": 2406,
+        "name": "Заморожені гриби",
+        "parent_id": 2401,
+        "children": []
+      },
+      {
+        "id": 2403,
+        "name": "Заморожені напівфабрикати",
+        "parent_id": 2401,
+        "children": []
+      },
+      {
+        "id": 2404,
+        "name": "Заморожені овочі",
+        "parent_id": 2401,
+        "children": []
+      },
+      {
+        "id": 2405,
+        "name": "Заморожені ягоди",
+        "parent_id": 2401,
+        "children": []
+      },
+      {
+        "id": 2402,
+        "name": "Морозиво",
+        "parent_id": 2401,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2193,
+    "name": "Здорове харчування та Еко товари",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2196,
+        "name": "Безглютенові продукти",
+        "parent_id": 2193,
+        "children": []
+      },
+      {
+        "id": 2195,
+        "name": "Веганські продукти",
+        "parent_id": 2193,
+        "children": []
+      },
+      {
+        "id": 2201,
+        "name": "Екологічна побутова хімія",
+        "parent_id": 2193,
+        "children": []
+      },
+      {
+        "id": 2194,
+        "name": "Органічні продукти",
+        "parent_id": 2193,
+        "children": []
+      },
+      {
+        "id": 2200,
+        "name": "Продукти без кофеїну",
+        "parent_id": 2193,
+        "children": []
+      },
+      {
+        "id": 2199,
+        "name": "Продукти для спортсменів",
+        "parent_id": 2193,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2263,
+    "name": "Ковбаси, сосиски, делікатеси",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2267,
+        "name": "Балик",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2269,
+        "name": "Грудинка",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2264,
+        "name": "Ковбаси",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2271,
+        "name": "М'ясні делікатеси",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2270,
+        "name": "Сало",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2272,
+        "name": "Соєві продукти",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2265,
+        "name": "Сосиски та сардельки",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2266,
+        "name": "Хамон та прошуто",
+        "parent_id": 2263,
+        "children": []
+      },
+      {
+        "id": 2268,
+        "name": "Шинка",
+        "parent_id": 2263,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2356,
+    "name": "Кондитерські вироби та солодощі",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2373,
+        "name": "Батончики",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2377,
+        "name": "Десерти",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2372,
+        "name": "Жувальні гумки",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2375,
+        "name": "Зефір",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2357,
+        "name": "Кондитерська випічка",
+        "parent_id": 2356,
+        "children": [
+          {
+            "id": 2362,
+            "name": "Вафлі",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2363,
+            "name": "Кекси та мафіни",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2368,
+            "name": "Кондитерські рулети",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2364,
+            "name": "Крекери",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2365,
+            "name": "Круасани",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2369,
+            "name": "Паска",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2360,
+            "name": "Печиво",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2366,
+            "name": "Пончики",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2361,
+            "name": "Пряники",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2359,
+            "name": "Солодкі пироги",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2367,
+            "name": "Тістечка",
+            "parent_id": 2357,
+            "children": []
+          },
+          {
+            "id": 2358,
+            "name": "Торти",
+            "parent_id": 2357,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2376,
+        "name": "Мармелад",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2374,
+        "name": "Пасти",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2378,
+        "name": "Східні солодощі",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2198,
+        "name": "Товари для діабетиків",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2371,
+        "name": "Цукерки",
+        "parent_id": 2356,
+        "children": []
+      },
+      {
+        "id": 2370,
+        "name": "Шоколад",
+        "parent_id": 2356,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2409,
+    "name": "Консервація та соління",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2416,
+        "name": "Бутербродні закуски та намазки",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2414,
+        "name": "Консервовані гриби",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2419,
+        "name": "Консервовані супи та каші",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2412,
+        "name": "М'ясні консерви",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2410,
+        "name": "Овочева консервація та соління",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2415,
+        "name": "Оливки та маслини",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2417,
+        "name": "Паштети",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2411,
+        "name": "Рибні консерви",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2413,
+        "name": "Фруктова консервація",
+        "parent_id": 2409,
+        "children": []
+      },
+      {
+        "id": 2418,
+        "name": "Хумус",
+        "parent_id": 2409,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2220,
+    "name": "М'ясо та напівфабрикати",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2222,
+        "name": "Індичатина",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2221,
+        "name": "Курятина",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2228,
+        "name": "М'ясні напівфабрикати",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2225,
+        "name": "Маринований шашлик",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2224,
+        "name": "Свинина",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2226,
+        "name": "Стейки",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2229,
+        "name": "Субпродукти",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2227,
+        "name": "Фарш",
+        "parent_id": 2220,
+        "children": []
+      },
+      {
+        "id": 2223,
+        "name": "Яловичина",
+        "parent_id": 2220,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2284,
+    "name": "Молочні продукти та яйця",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2197,
+        "name": "Безлактозні продукти",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2298,
+        "name": "Вершки",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2289,
+        "name": "Вершкове масло",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2300,
+        "name": "Згущене молоко",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2291,
+        "name": "Йогурти",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2293,
+        "name": "Кисломолочні напої",
+        "parent_id": 2284,
+        "children": [
+          {
+            "id": 2296,
+            "name": "Айран",
+            "parent_id": 2293,
+            "children": []
+          },
+          {
+            "id": 2297,
+            "name": "Закваски та сироватки",
+            "parent_id": 2293,
+            "children": []
+          },
+          {
+            "id": 2294,
+            "name": "Кефір",
+            "parent_id": 2293,
+            "children": []
+          },
+          {
+            "id": 2295,
+            "name": "Ряжанка",
+            "parent_id": 2293,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2292,
+        "name": "Кисломолочні сири",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2290,
+        "name": "Маргарин",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2286,
+        "name": "Молоко",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2299,
+        "name": "Молочні десерти",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2287,
+        "name": "Рослинне молоко",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2301,
+        "name": "Сирки глазуровані",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2288,
+        "name": "Сметана",
+        "parent_id": 2284,
+        "children": []
+      },
+      {
+        "id": 2285,
+        "name": "Яйця",
+        "parent_id": 2284,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2497,
+    "name": "Побутова хімія",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2519,
+        "name": "Господарське мило",
+        "parent_id": 2497,
+        "children": []
+      },
+      {
+        "id": 2520,
+        "name": "Догляд за взуттям",
+        "parent_id": 2497,
+        "children": [
+          {
+            "id": 2526,
+            "name": "Аксесуари для взуття",
+            "parent_id": 2520,
+            "children": []
+          },
+          {
+            "id": 2525,
+            "name": "Губки та щітки для взуття",
+            "parent_id": 2520,
+            "children": []
+          },
+          {
+            "id": 2521,
+            "name": "Дезодоранти для взуття",
+            "parent_id": 2520,
+            "children": []
+          },
+          {
+            "id": 2524,
+            "name": "Засоби відновлення та захисту взуття",
+            "parent_id": 2520,
+            "children": []
+          },
+          {
+            "id": 2522,
+            "name": "Креми для взуття",
+            "parent_id": 2520,
+            "children": []
+          },
+          {
+            "id": 2523,
+            "name": "Фарба для взуття",
+            "parent_id": 2520,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2516,
+        "name": "Засоби для миття посуду",
+        "parent_id": 2497,
+        "children": []
+      },
+      {
+        "id": 2517,
+        "name": "Засоби для посудомийних машин",
+        "parent_id": 2497,
+        "children": []
+      },
+      {
+        "id": 2509,
+        "name": "Засоби для прання",
+        "parent_id": 2497,
+        "children": [
+          {
+            "id": 2511,
+            "name": "Гелі для прання",
+            "parent_id": 2509,
+            "children": []
+          },
+          {
+            "id": 2512,
+            "name": "Капсули для прання",
+            "parent_id": 2509,
+            "children": []
+          },
+          {
+            "id": 2513,
+            "name": "Кондиціонери та ополіскувачі для білизни",
+            "parent_id": 2509,
+            "children": []
+          },
+          {
+            "id": 2514,
+            "name": "Плямовивідники та відбілювачі",
+            "parent_id": 2509,
+            "children": []
+          },
+          {
+            "id": 2510,
+            "name": "Порошки для прання",
+            "parent_id": 2509,
+            "children": []
+          },
+          {
+            "id": 2515,
+            "name": "Серветки для прання",
+            "parent_id": 2509,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2498,
+        "name": "Засоби для прибирання",
+        "parent_id": 2497,
+        "children": [
+          {
+            "id": 2499,
+            "name": "Засоби для ванних кімнат",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2504,
+            "name": "Засоби для догляду за меблями",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2500,
+            "name": "Засоби для догляду за унітазом",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2501,
+            "name": "Засоби для кухні",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2503,
+            "name": "Засоби для миття вікон",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2502,
+            "name": "Засоби для миття підлоги",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2505,
+            "name": "Засоби для прочищення труб",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2506,
+            "name": "Засоби для чищення килимів",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2507,
+            "name": "Засоби по догляду за побутовою технікою",
+            "parent_id": 2498,
+            "children": []
+          },
+          {
+            "id": 2508,
+            "name": "Універсальні миючі засоби",
+            "parent_id": 2498,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2518,
+        "name": "Освіжувачі повітря",
+        "parent_id": 2497,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2230,
+    "name": "Риба та морепродукти",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2238,
+        "name": "Жива риба",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2236,
+        "name": "Заморожена риба",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2239,
+        "name": "Ікра",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2232,
+        "name": "Копчена та в'ялена риба",
+        "parent_id": 2230,
+        "children": [
+          {
+            "id": 2235,
+            "name": "В'ялена риба",
+            "parent_id": 2232,
+            "children": []
+          },
+          {
+            "id": 2234,
+            "name": "Риба гарячого копчення",
+            "parent_id": 2232,
+            "children": []
+          },
+          {
+            "id": 2233,
+            "name": "Риба холодного копчення",
+            "parent_id": 2232,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2241,
+        "name": "Крабові палички",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2240,
+        "name": "Креветки",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2242,
+        "name": "Морепродукти",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2245,
+        "name": "Морська капуста та водорослі",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2237,
+        "name": "Охолоджена риба",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2246,
+        "name": "Пасти з риби та ікри",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2244,
+        "name": "Раки",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2243,
+        "name": "Рибний фарш та напівфабрикати",
+        "parent_id": 2230,
+        "children": []
+      },
+      {
+        "id": 2231,
+        "name": "Слабосолена риба",
+        "parent_id": 2230,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2273,
+    "name": "Сири",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2276,
+        "name": "Кремові та м'які сири",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2275,
+        "name": "Плавлені та копчені сири",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2277,
+        "name": "Розсільні сири",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2281,
+        "name": "Сири для піци",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2282,
+        "name": "Сири для суші",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2278,
+        "name": "Сири з пліснявою",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2280,
+        "name": "Сирні набори",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2283,
+        "name": "Соуси до сирів",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2274,
+        "name": "Тверді та напівтверді сири",
+        "parent_id": 2273,
+        "children": []
+      },
+      {
+        "id": 2279,
+        "name": "Тофу та рослинні сири",
+        "parent_id": 2273,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2392,
+    "name": "Снеки",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2396,
+        "name": "Горішки",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2399,
+        "name": "Кукурудзяні снеки",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2398,
+        "name": "М'ясні снеки",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2395,
+        "name": "Попкорн",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2397,
+        "name": "Рибні снеки",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2400,
+        "name": "Смажене насіння",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2394,
+        "name": "Сухарики",
+        "parent_id": 2392,
+        "children": []
+      },
+      {
+        "id": 2393,
+        "name": "Чіпси",
+        "parent_id": 2392,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2606,
+    "name": "Товари для дітей",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2613,
+        "name": "Годування дитини",
+        "parent_id": 2606,
+        "children": [
+          {
+            "id": 2614,
+            "name": "Пляшечки",
+            "parent_id": 2613,
+            "children": []
+          },
+          {
+            "id": 2615,
+            "name": "Посуд для дітей",
+            "parent_id": 2613,
+            "children": []
+          },
+          {
+            "id": 2616,
+            "name": "Соски та пустишки",
+            "parent_id": 2613,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2607,
+        "name": "Дитяче харчування",
+        "parent_id": 2606,
+        "children": [
+          {
+            "id": 2608,
+            "name": "Дитяча каша",
+            "parent_id": 2607,
+            "children": []
+          },
+          {
+            "id": 2609,
+            "name": "Дитяче пюре",
+            "parent_id": 2607,
+            "children": []
+          },
+          {
+            "id": 2610,
+            "name": "Молочні суміші",
+            "parent_id": 2607,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2618,
+        "name": "Дитячі товари",
+        "parent_id": 2606,
+        "children": []
+      },
+      {
+        "id": 2612,
+        "name": "Засоби догляду за дитиною",
+        "parent_id": 2606,
+        "children": []
+      },
+      {
+        "id": 2617,
+        "name": "Іграшки",
+        "parent_id": 2606,
+        "children": []
+      },
+      {
+        "id": 2611,
+        "name": "Підгузки",
+        "parent_id": 2606,
+        "children": []
+      },
+      {
+        "id": 2619,
+        "name": "Шкільні товари",
+        "parent_id": 2606,
+        "children": [
+          {
+            "id": 2620,
+            "name": "Альбоми для малювання",
+            "parent_id": 2619,
+            "children": []
+          },
+          {
+            "id": 2622,
+            "name": "Зошити",
+            "parent_id": 2619,
+            "children": []
+          },
+          {
+            "id": 2621,
+            "name": "Пенали",
+            "parent_id": 2619,
+            "children": []
+          },
+          {
+            "id": 2623,
+            "name": "Шкільні рюкзаки",
+            "parent_id": 2619,
+            "children": []
+          },
+          {
+            "id": 2624,
+            "name": "Щоденники",
+            "parent_id": 2619,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2550,
+    "name": "Товари для дому",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2551,
+        "name": "Господарські товари",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2556,
+            "name": "Аксесуари та приладдя для ванної",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2564,
+            "name": "Відра, тази, кошики",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2555,
+            "name": "Губки для ванної",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2553,
+            "name": "Губки та ганчірки",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2561,
+            "name": "Клей",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2557,
+            "name": "Мітли, віники та совки",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2552,
+            "name": "Пакети для сміття",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2554,
+            "name": "Рукавиці господарчі",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2562,
+            "name": "Свічки",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2560,
+            "name": "Сірники",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2563,
+            "name": "Товари для прання та сушки",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2559,
+            "name": "Швабри",
+            "parent_id": 2551,
+            "children": []
+          },
+          {
+            "id": 2558,
+            "name": "Щітки",
+            "parent_id": 2551,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2598,
+        "name": "Друкована продукція",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2599,
+            "name": "Журнали та преса",
+            "parent_id": 2598,
+            "children": []
+          },
+          {
+            "id": 2600,
+            "name": "Книги",
+            "parent_id": 2598,
+            "children": []
+          },
+          {
+            "id": 2601,
+            "name": "Листівки",
+            "parent_id": 2598,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2573,
+        "name": "Електротовари та освітлення",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2575,
+            "name": "Батарейки",
+            "parent_id": 2573,
+            "children": []
+          },
+          {
+            "id": 2576,
+            "name": "Електроприлади",
+            "parent_id": 2573,
+            "children": []
+          },
+          {
+            "id": 2574,
+            "name": "Лампочки",
+            "parent_id": 2573,
+            "children": []
+          },
+          {
+            "id": 2577,
+            "name": "Стартові пакети",
+            "parent_id": 2573,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2603,
+        "name": "Канцтовари",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2605,
+        "name": "Новорічні товари",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2590,
+        "name": "Одяг, взуття та аксесуари",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2596,
+            "name": "Аксесуари",
+            "parent_id": 2590,
+            "children": []
+          },
+          {
+            "id": 2593,
+            "name": "Взуття",
+            "parent_id": 2590,
+            "children": []
+          },
+          {
+            "id": 2594,
+            "name": "Головні убори",
+            "parent_id": 2590,
+            "children": []
+          },
+          {
+            "id": 2592,
+            "name": "Колготи жіночі",
+            "parent_id": 2590,
+            "children": []
+          },
+          {
+            "id": 2595,
+            "name": "Одяг",
+            "parent_id": 2590,
+            "children": []
+          },
+          {
+            "id": 2591,
+            "name": "Шкарпетки",
+            "parent_id": 2590,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2579,
+        "name": "Посуд",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2580,
+            "name": "Багаторазовий посуд",
+            "parent_id": 2579,
+            "children": []
+          },
+          {
+            "id": 2581,
+            "name": "Одноразовий посуд",
+            "parent_id": 2579,
+            "children": []
+          },
+          {
+            "id": 2582,
+            "name": "Чашки",
+            "parent_id": 2579,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2583,
+        "name": "Сад та город",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2588,
+            "name": "Горщики для рослин",
+            "parent_id": 2583,
+            "children": []
+          },
+          {
+            "id": 2585,
+            "name": "Ґрунт та добриво",
+            "parent_id": 2583,
+            "children": []
+          },
+          {
+            "id": 2584,
+            "name": "Насіння",
+            "parent_id": 2583,
+            "children": []
+          },
+          {
+            "id": 2587,
+            "name": "Рослини в горщиках та садженці",
+            "parent_id": 2583,
+            "children": []
+          },
+          {
+            "id": 2586,
+            "name": "Садові приладдя",
+            "parent_id": 2583,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2604,
+        "name": "Сертифікати",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2597,
+        "name": "Спорт та розваги",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2602,
+        "name": "Сувеніри та декор",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2578,
+        "name": "Сумки та пакети",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2589,
+        "name": "Товари для кемпінгу та відпочінку",
+        "parent_id": 2550,
+        "children": []
+      },
+      {
+        "id": 2565,
+        "name": "Товари для кухні",
+        "parent_id": 2550,
+        "children": [
+          {
+            "id": 2569,
+            "name": "Ємності та упаковка для продуктів",
+            "parent_id": 2565,
+            "children": []
+          },
+          {
+            "id": 2568,
+            "name": "Засоби для приготування продуктів",
+            "parent_id": 2565,
+            "children": []
+          },
+          {
+            "id": 2570,
+            "name": "Кухонне приладдя",
+            "parent_id": 2565,
+            "children": []
+          },
+          {
+            "id": 2572,
+            "name": "Свічки для тортів",
+            "parent_id": 2565,
+            "children": []
+          },
+          {
+            "id": 2566,
+            "name": "Серветки столові",
+            "parent_id": 2565,
+            "children": []
+          },
+          {
+            "id": 2571,
+            "name": "Фільтри та кувшини",
+            "parent_id": 2565,
+            "children": []
+          },
+          {
+            "id": 2567,
+            "name": "Фольга, плівка, пергамент",
+            "parent_id": 2565,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2527,
+    "name": "Товари для тварин",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2548,
+        "name": "Акваріумістика",
+        "parent_id": 2527,
+        "children": [
+          {
+            "id": 2549,
+            "name": "Корм для риб",
+            "parent_id": 2548,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2544,
+        "name": "Товари для гризунів",
+        "parent_id": 2527,
+        "children": [
+          {
+            "id": 2547,
+            "name": "Аксесуари для гризунів",
+            "parent_id": 2544,
+            "children": []
+          },
+          {
+            "id": 2545,
+            "name": "Корм для гризунів",
+            "parent_id": 2544,
+            "children": []
+          },
+          {
+            "id": 2546,
+            "name": "Ласощі для гризунів",
+            "parent_id": 2544,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2528,
+        "name": "Товари для котів",
+        "parent_id": 2527,
+        "children": [
+          {
+            "id": 2533,
+            "name": "Аксесуари для котів",
+            "parent_id": 2528,
+            "children": []
+          },
+          {
+            "id": 2532,
+            "name": "Іграшки для котів",
+            "parent_id": 2528,
+            "children": []
+          },
+          {
+            "id": 2529,
+            "name": "Корм для котів",
+            "parent_id": 2528,
+            "children": []
+          },
+          {
+            "id": 2530,
+            "name": "Ласощі для котів",
+            "parent_id": 2528,
+            "children": []
+          },
+          {
+            "id": 2531,
+            "name": "Наповнювачі туалетів для котів",
+            "parent_id": 2528,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2539,
+        "name": "Товари для птахів",
+        "parent_id": 2527,
+        "children": [
+          {
+            "id": 2543,
+            "name": "Аксесуари для птахів",
+            "parent_id": 2539,
+            "children": []
+          },
+          {
+            "id": 2542,
+            "name": "Іграшки для птахів",
+            "parent_id": 2539,
+            "children": []
+          },
+          {
+            "id": 2540,
+            "name": "Корм для птахів",
+            "parent_id": 2539,
+            "children": []
+          },
+          {
+            "id": 2541,
+            "name": "Ласощі для птахів",
+            "parent_id": 2539,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2534,
+        "name": "Товари для собак",
+        "parent_id": 2527,
+        "children": [
+          {
+            "id": 2538,
+            "name": "Аксесуари для собак",
+            "parent_id": 2534,
+            "children": []
+          },
+          {
+            "id": 2537,
+            "name": "Іграшки для собак",
+            "parent_id": 2534,
+            "children": []
+          },
+          {
+            "id": 2535,
+            "name": "Корм для собак",
+            "parent_id": 2534,
+            "children": []
+          },
+          {
+            "id": 2536,
+            "name": "Ласощі для собак",
+            "parent_id": 2534,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2420,
+    "name": "Тютюнові вироби",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2422,
+        "name": "Електронні сигарети",
+        "parent_id": 2420,
+        "children": []
+      },
+      {
+        "id": 2425,
+        "name": "Запальнички",
+        "parent_id": 2420,
+        "children": []
+      },
+      {
+        "id": 2424,
+        "name": "Нікотинові подушечки",
+        "parent_id": 2420,
+        "children": []
+      },
+      {
+        "id": 2423,
+        "name": "Стіки",
+        "parent_id": 2420,
+        "children": []
+      },
+      {
+        "id": 2421,
+        "name": "Цигарки",
+        "parent_id": 2420,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2212,
+    "name": "Фрукти, овочі, горіхи",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2219,
+        "name": "Горіхи та насіння",
+        "parent_id": 2212,
+        "children": []
+      },
+      {
+        "id": 2217,
+        "name": "Гриби",
+        "parent_id": 2212,
+        "children": []
+      },
+      {
+        "id": 2215,
+        "name": "Зелень свіжа",
+        "parent_id": 2212,
+        "children": []
+      },
+      {
+        "id": 2213,
+        "name": "Овочі свіжі",
+        "parent_id": 2212,
+        "children": []
+      },
+      {
+        "id": 2218,
+        "name": "Сухофрукти та цукати",
+        "parent_id": 2212,
+        "children": []
+      },
+      {
+        "id": 2214,
+        "name": "Фрукти свіжі",
+        "parent_id": 2212,
+        "children": []
+      },
+      {
+        "id": 2216,
+        "name": "Ягоди свіжі",
+        "parent_id": 2212,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2349,
+    "name": "Хлібобулочні вироби",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2354,
+        "name": "Борошняні кулінарні вироби",
+        "parent_id": 2349,
+        "children": []
+      },
+      {
+        "id": 2353,
+        "name": "Булочні вироби",
+        "parent_id": 2349,
+        "children": []
+      },
+      {
+        "id": 2355,
+        "name": "Коржі та заготовки",
+        "parent_id": 2349,
+        "children": []
+      },
+      {
+        "id": 2352,
+        "name": "Сушки та сухарі",
+        "parent_id": 2349,
+        "children": []
+      },
+      {
+        "id": 2350,
+        "name": "Хліб",
+        "parent_id": 2349,
+        "children": []
+      },
+      {
+        "id": 2351,
+        "name": "Хлібці",
+        "parent_id": 2349,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2379,
+    "name": "Чай, кава, гарячі напої",
+    "parent_id": null,
+    "children": [
+      {
+        "id": 2383,
+        "name": "Гарячий шоколад",
+        "parent_id": 2379,
+        "children": []
+      },
+      {
+        "id": 2381,
+        "name": "Кава",
+        "parent_id": 2379,
+        "children": []
+      },
+      {
+        "id": 2384,
+        "name": "Кавомашини",
+        "parent_id": 2379,
+        "children": []
+      },
+      {
+        "id": 2382,
+        "name": "Какао",
+        "parent_id": 2379,
+        "children": []
+      },
+      {
+        "id": 2380,
+        "name": "Чай",
+        "parent_id": 2379,
+        "children": []
+      }
+    ]
+  }
+]

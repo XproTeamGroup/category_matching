@@ -24,7 +24,7 @@
 
 3. Запустіть:
    ```bash
-   python translate_categories_v2.py
+   python translate_categories.py
    ```
 
 ---

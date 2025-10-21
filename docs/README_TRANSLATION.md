@@ -53,7 +53,7 @@ ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxx
 
 3. Запустіть покращену версію:
 ```bash
-python translate_categories_v2.py
+python translate_categories.py
 ```
 
 ### Варіант 2: Windows BAT файл
