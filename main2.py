@@ -8,7 +8,7 @@ from datetime import datetime
 
 # --- Конфигурация ---
 NEW_CATEGORIES_FILE = 'new.json'
-OLD_CATEGORIES_FILES = ['5_1.json']
+OLD_CATEGORIES_FILES = ['6.json']
 OUTPUT_DIR = 'report'  # Базовая директория для отчетов
 CHUNK_SIZE = 10 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
 CLAUDE_MODEL = "claude-3-5-haiku-20241022" # Можно использовать "claude-3-sonnet-20240229" для меньших затрат
@@ -19,7 +19,7 @@ TEMPERATURE = 0.0 # Температура для Claude (0.0 для более 
 # Убедитесь, что ваш API-ключ установлен как переменная окружения
 # export ANTHROPIC_API_KEY="YOUR_CLAUDE_API_KEY"
 # Если не установлено, можно раскомментировать и вставить здесь:
-os.environ["ANTHROPIC_API_KEY"] = "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"
+os.environ["ANTHROPIC_API_KEY"] = "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"
 
 client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
