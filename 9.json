@@ -1,0 +1,691 @@
+ [
+    {
+      "id": 12813,
+      "name": "Алкогольні напої",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/alkogolni-napoji/",
+      "children": [
+        {
+          "id": 12815,
+          "name": "Вино",
+          "parent_id": 12813,
+          "url": "https://market.rukavychka.ua/vyno/",
+          "children": []
+        },
+        {
+          "id": 12818,
+          "name": "Віскі, Бренді, Ром, Джин",
+          "parent_id": 12813,
+          "url": "https://market.rukavychka.ua/viski_brendi_rom_dzhyn/",
+          "children": []
+        },
+        {
+          "id": 12816,
+          "name": "Горілка",
+          "parent_id": 12813,
+          "url": "https://market.rukavychka.ua/horilka/",
+          "children": []
+        },
+        {
+          "id": 12817,
+          "name": "Лікери та бальзами",
+          "parent_id": 12813,
+          "url": "https://market.rukavychka.ua/likeri-ta-balzami/",
+          "children": []
+        },
+        {
+          "id": 12814,
+          "name": "Пиво",
+          "parent_id": 12813,
+          "url": "https://market.rukavychka.ua/pivo/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12790,
+      "name": "Бакалія",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/bakalija/",
+      "children": [
+        {
+          "id": 12791,
+          "name": "Борошно",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/boroshno/",
+          "children": []
+        },
+        {
+          "id": 12798,
+          "name": "Готові сніданки",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/hotovi_snidanky/",
+          "children": []
+        },
+        {
+          "id": 12792,
+          "name": "Для випічки та десертів",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/dlja-vipichki-ta-desertiv/",
+          "children": []
+        },
+        {
+          "id": 12793,
+          "name": "Каші та мюслі",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/kashi-ta-mjusli/",
+          "children": []
+        },
+        {
+          "id": 12794,
+          "name": "Крупа",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/krupa/",
+          "children": []
+        },
+        {
+          "id": 12795,
+          "name": "Макаронні вироби",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/makaronni-virobi/",
+          "children": []
+        },
+        {
+          "id": 12796,
+          "name": "Сіль",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/sil/",
+          "children": []
+        },
+        {
+          "id": 12797,
+          "name": "Цукор та цукрозамінники",
+          "parent_id": 12790,
+          "url": "https://market.rukavychka.ua/cukor-ta-cukrozaminniki/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12841,
+      "name": "Дитячі товари",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/ditjachi-tovari/",
+      "children": [
+        {
+          "id": 12842,
+          "name": "Дитячі каші",
+          "parent_id": 12841,
+          "url": "https://market.rukavychka.ua/ditjachi-kashi/",
+          "children": []
+        },
+        {
+          "id": 12843,
+          "name": "Дитячі напої",
+          "parent_id": 12841,
+          "url": "https://market.rukavychka.ua/ditjachi-napoji/",
+          "children": []
+        },
+        {
+          "id": 12845,
+          "name": "Підгузники",
+          "parent_id": 12841,
+          "url": "https://market.rukavychka.ua/pidhuznyky/",
+          "children": []
+        },
+        {
+          "id": 12844,
+          "name": "Пюре дитячі та десерти",
+          "parent_id": 12841,
+          "url": "https://market.rukavychka.ua/pjure-ditjachi/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12853,
+      "name": "Для дому",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/dlja-domu/",
+      "children": [
+        {
+          "id": 12854,
+          "name": "Для взуття",
+          "parent_id": 12853,
+          "url": "https://market.rukavychka.ua/dlja-vzuttja/",
+          "children": []
+        },
+        {
+          "id": 12855,
+          "name": "Дрібниці для дому",
+          "parent_id": 12853,
+          "url": "https://market.rukavychka.ua/dribnici-dlja-domu/",
+          "children": []
+        },
+        {
+          "id": 12856,
+          "name": "Кухонне приладдя",
+          "parent_id": 12853,
+          "url": "https://market.rukavychka.ua/kuhonne-priladdja/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12777,
+      "name": "Заморожені продукти",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/zamorozheni-produkti/",
+      "children": [
+        {
+          "id": 12778,
+          "name": "Випічка та тісто",
+          "parent_id": 12777,
+          "url": "https://market.rukavychka.ua/vipichka-ta-tisto/",
+          "children": []
+        },
+        {
+          "id": 12779,
+          "name": "Напівфабрикати",
+          "parent_id": 12777,
+          "url": "https://market.rukavychka.ua/napivfabrikati/",
+          "children": []
+        },
+        {
+          "id": 12780,
+          "name": "Риба та морепродукти",
+          "parent_id": 12777,
+          "url": "https://market.rukavychka.ua/riba-ta-moreprodukti/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12799,
+      "name": "Консерви, олія, оцет",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/konservi-olija-ocet/",
+      "children": [
+        {
+          "id": 12800,
+          "name": "Джем, варення, повидло",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/dzhem-varennja-povidlo/",
+          "children": []
+        },
+        {
+          "id": 12802,
+          "name": "Консервована риба",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/konservovana-riba/",
+          "children": []
+        },
+        {
+          "id": 12803,
+          "name": "Консервоване м'ясо",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/konservovane-mjaso/",
+          "children": []
+        },
+        {
+          "id": 12801,
+          "name": "Консервовані овочі",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/konservovani-ovochi/",
+          "children": []
+        },
+        {
+          "id": 12804,
+          "name": "Мед",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/med/",
+          "children": []
+        },
+        {
+          "id": 12805,
+          "name": "Олія",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/olija/",
+          "children": []
+        },
+        {
+          "id": 12806,
+          "name": "Оцет",
+          "parent_id": 12799,
+          "url": "https://market.rukavychka.ua/ocet/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12848,
+      "name": "Косметика та догляд",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/kosmetika-ta-dogljad/",
+      "children": [
+        {
+          "id": 12850,
+          "name": "Вологі серветки",
+          "parent_id": 12848,
+          "url": "https://market.rukavychka.ua/vologi-servetki/",
+          "children": []
+        },
+        {
+          "id": 12849,
+          "name": "Особиста гігієна",
+          "parent_id": 12848,
+          "url": "https://market.rukavychka.ua/osobista-gigina/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12761,
+      "name": "М’ясо, риба, птиця",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/mjaso-riba-pticja/",
+      "children": [
+        {
+          "id": 12762,
+          "name": "Ікра",
+          "parent_id": 12761,
+          "url": "https://market.rukavychka.ua/ikra/",
+          "children": []
+        },
+        {
+          "id": 12763,
+          "name": "Ковбаса і сосиски",
+          "parent_id": 12761,
+          "url": "https://market.rukavychka.ua/kovbasa-i-sosiski/",
+          "children": []
+        },
+        {
+          "id": 12764,
+          "name": "М’ясо і напівфабрикати",
+          "parent_id": 12761,
+          "url": "https://market.rukavychka.ua/mjaso-i-napivfabrikati/",
+          "children": []
+        },
+        {
+          "id": 12765,
+          "name": "Риба і морепродукти",
+          "parent_id": 12761,
+          "url": "https://market.rukavychka.ua/riba-i-moreprodukti/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12766,
+      "name": "Молочні продукти та яйця",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/molochni-produkti-ta-jajcja/",
+      "children": [
+        {
+          "id": 12767,
+          "name": "Вершки",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/vershki/",
+          "children": []
+        },
+        {
+          "id": 12768,
+          "name": "Згущене молоко",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/zguschene-moloko/",
+          "children": []
+        },
+        {
+          "id": 12769,
+          "name": "Йогурти та десерти",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/jogurti-ta-deserti/",
+          "children": []
+        },
+        {
+          "id": 12770,
+          "name": "Кисломолочні напої",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/kislomolochni-napoji/",
+          "children": []
+        },
+        {
+          "id": 12771,
+          "name": "Масло і маргарин",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/maslo-i-margarin/",
+          "children": []
+        },
+        {
+          "id": 12772,
+          "name": "Молоко",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/moloko/",
+          "children": []
+        },
+        {
+          "id": 12773,
+          "name": "Сир",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/sir/",
+          "children": []
+        },
+        {
+          "id": 12774,
+          "name": "Сир кисломолочний",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/sir-kislomolochnij/",
+          "children": []
+        },
+        {
+          "id": 12775,
+          "name": "Сметана",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/smetana/",
+          "children": []
+        },
+        {
+          "id": 12776,
+          "name": "Яйця",
+          "parent_id": 12766,
+          "url": "https://market.rukavychka.ua/jajcja/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12823,
+      "name": "Напої",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/napoji/",
+      "children": [
+        {
+          "id": 12825,
+          "name": "Кава",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/kava/",
+          "children": []
+        },
+        {
+          "id": 12826,
+          "name": "Квас та сидр",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/kvas/",
+          "children": []
+        },
+        {
+          "id": 12827,
+          "name": "Мінеральна вода",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/mineralna-voda/",
+          "children": []
+        },
+        {
+          "id": 12828,
+          "name": "Соки та нектари",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/soki-ta-nektari/",
+          "children": []
+        },
+        {
+          "id": 12829,
+          "name": "Солодкі напої",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/solodki-napoji/",
+          "children": []
+        },
+        {
+          "id": 12824,
+          "name": "Топінг і сироп",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/toping-i-sirop/",
+          "children": []
+        },
+        {
+          "id": 12830,
+          "name": "Чай",
+          "parent_id": 12823,
+          "url": "https://market.rukavychka.ua/chaj/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12781,
+      "name": "Пекарня",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/pekarnja/",
+      "children": [
+        {
+          "id": 12782,
+          "name": "Десерти та випічка",
+          "parent_id": 12781,
+          "url": "https://market.rukavychka.ua/deserti-ta-vipichka/",
+          "children": []
+        },
+        {
+          "id": 12783,
+          "name": "Хліб",
+          "parent_id": 12781,
+          "url": "https://market.rukavychka.ua/hlib/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12846,
+      "name": "Побутова хімія",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/pobutova-himija/",
+      "children": [
+        {
+          "id": 12847,
+          "name": "Прибирання",
+          "parent_id": 12846,
+          "url": "https://market.rukavychka.ua/pribirannja/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12831,
+      "name": "Солодощі, чіпси, снеки",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/solodoschi-chipsi-sneki/",
+      "children": [
+        {
+          "id": 12832,
+          "name": "Горішки та насіння",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/gorishki-ta-nasinnja/",
+          "children": []
+        },
+        {
+          "id": 12833,
+          "name": "Жуйки та льодяники",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/zhujki-ta-lodjaniki/",
+          "children": []
+        },
+        {
+          "id": 12834,
+          "name": "Круасани",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/kruasani/",
+          "children": []
+        },
+        {
+          "id": 12835,
+          "name": "Печиво та вафлі",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/pechivo-ta-vafli/",
+          "children": []
+        },
+        {
+          "id": 12836,
+          "name": "Халва, козинаки, грильяж",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/halva-kozinaki-griljazh/",
+          "children": []
+        },
+        {
+          "id": 12837,
+          "name": "Цукерки та батончики",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/cukerki-ta-batonchiki/",
+          "children": []
+        },
+        {
+          "id": 12838,
+          "name": "Чіпси та сухарики",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/chipsi-ta-suhariki/",
+          "children": []
+        },
+        {
+          "id": 12839,
+          "name": "Шоколад в плитках",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/shokolad-v-plitkah/",
+          "children": []
+        },
+        {
+          "id": 12840,
+          "name": "Шоколадні пасти",
+          "parent_id": 12831,
+          "url": "https://market.rukavychka.ua/shokoladni-pasti/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12807,
+      "name": "Соуси та спеції",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/sousi-ta-speciji/",
+      "children": [
+        {
+          "id": 12808,
+          "name": "Гірчиця та хрін",
+          "parent_id": 12807,
+          "url": "https://market.rukavychka.ua/girchicja-ta-hrin/",
+          "children": []
+        },
+        {
+          "id": 12809,
+          "name": "Кетчуп",
+          "parent_id": 12807,
+          "url": "https://market.rukavychka.ua/ketchup/",
+          "children": []
+        },
+        {
+          "id": 12810,
+          "name": "Майонез",
+          "parent_id": 12807,
+          "url": "https://market.rukavychka.ua/majonez/",
+          "children": []
+        },
+        {
+          "id": 12811,
+          "name": "Приправи та спеції",
+          "parent_id": 12807,
+          "url": "https://market.rukavychka.ua/pripravi-ta-speciji/",
+          "children": []
+        },
+        {
+          "id": 12812,
+          "name": "Соуси",
+          "parent_id": 12807,
+          "url": "https://market.rukavychka.ua/sousi/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12851,
+      "name": "Товари для тварин",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/tovari-dlja-tvarin/",
+      "children": [
+        {
+          "id": 12852,
+          "name": "Корм для тварин",
+          "parent_id": 12851,
+          "url": "https://market.rukavychka.ua/korm-dlja-tvarin/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12819,
+      "name": "Тютюнові вироби",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/tjutjunovi-virobi/",
+      "children": [
+        {
+          "id": 12820,
+          "name": "Сигарети",
+          "parent_id": 12819,
+          "url": "https://market.rukavychka.ua/sigareti/",
+          "children": []
+        },
+        {
+          "id": 12822,
+          "name": "Стіки для GLO",
+          "parent_id": 12819,
+          "url": "https://market.rukavychka.ua/stiki-dlja-glo/",
+          "children": []
+        },
+        {
+          "id": 12821,
+          "name": "Стіки для IQOS",
+          "parent_id": 12819,
+          "url": "https://market.rukavychka.ua/stiki-dlja-iqos/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12784,
+      "name": "Фрукти та овочі",
+      "parent_id": null,
+      "url": "https://market.rukavychka.ua/frukti-ta-ovochi/",
+      "children": [
+        {
+          "id": 12785,
+          "name": "Салати",
+          "parent_id": 12784,
+          "url": "https://market.rukavychka.ua/salati/",
+          "children": []
+        },
+        {
+          "id": 12786,
+          "name": "Свіжі овочі",
+          "parent_id": 12784,
+          "url": "https://market.rukavychka.ua/svizhi-ovochi/",
+          "children": []
+        },
+        {
+          "id": 12787,
+          "name": "Соління",
+          "parent_id": 12784,
+          "url": "https://market.rukavychka.ua/solinnja/",
+          "children": []
+        },
+        {
+          "id": 12788,
+          "name": "Сухофрукти",
+          "parent_id": 12784,
+          "url": "https://market.rukavychka.ua/suhofrukti/",
+          "children": []
+        },
+        {
+          "id": 12789,
+          "name": "Фрукти та ягоди",
+          "parent_id": 12784,
+          "url": "https://market.rukavychka.ua/frukti-ta-jagodi/",
+          "children": []
+        }
+      ]
+    }
+  ]

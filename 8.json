@@ -1,0 +1,4417 @@
+[
+    {
+      "id": 12413,
+      "name": "Азіатська кухня",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3708-aziatska-kukhnya",
+      "children": [
+        {
+          "id": 12420,
+          "name": "Азіатська вермишель, лапша",
+          "parent_id": 12413,
+          "url": "https://fozzyshop.ua/4426-aziatska-vermyshel-lapsha",
+          "children": []
+        },
+        {
+          "id": 12421,
+          "name": "Азіатський суп",
+          "parent_id": 12413,
+          "url": "https://fozzyshop.ua/4428-aziatskyy-sup",
+          "children": []
+        },
+        {
+          "id": 12422,
+          "name": "Азіатські приправи",
+          "parent_id": 12413,
+          "url": "https://fozzyshop.ua/4430-aziatski-prypravy",
+          "children": []
+        },
+        {
+          "id": 12423,
+          "name": "Кокосове молоко, вершки",
+          "parent_id": 12413,
+          "url": "https://fozzyshop.ua/4429-kokosove-moloko-vershky",
+          "children": []
+        },
+        {
+          "id": 12414,
+          "name": "Продукти для суші і ролів",
+          "parent_id": 12413,
+          "url": "https://fozzyshop.ua/4432-produkty-dlya-sushi-i-roliv",
+          "children": [
+            {
+              "id": 12416,
+              "name": "Водорості норі",
+              "parent_id": 12414,
+              "url": "https://fozzyshop.ua/4550-vodorosti-nori",
+              "children": []
+            },
+            {
+              "id": 12418,
+              "name": "Імбир, васабі",
+              "parent_id": 12414,
+              "url": "https://fozzyshop.ua/4548-imbyr-vasabi",
+              "children": []
+            },
+            {
+              "id": 12419,
+              "name": "Набір для приготування",
+              "parent_id": 12414,
+              "url": "https://fozzyshop.ua/4431-nabir-dlya-prygotuvannya",
+              "children": []
+            },
+            {
+              "id": 12417,
+              "name": "Оцет і соуси",
+              "parent_id": 12414,
+              "url": "https://fozzyshop.ua/4549-otset-i-sousy",
+              "children": []
+            },
+            {
+              "id": 12415,
+              "name": "Рис для суші",
+              "parent_id": 12414,
+              "url": "https://fozzyshop.ua/4551-rys-dlya-sushi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11976,
+      "name": "Алкоголь",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3654-alkogol",
+      "children": [
+        {
+          "id": 11997,
+          "name": "Вино",
+          "parent_id": 11976,
+          "url": "https://fozzyshop.ua/3684-vyno",
+          "children": [
+            {
+              "id": 12002,
+              "name": "Вина безалкогольні",
+              "parent_id": 11997,
+              "url": "https://fozzyshop.ua/4400-vyna-bezalkogolni",
+              "children": []
+            },
+            {
+              "id": 11999,
+              "name": "Вина тихі білі",
+              "parent_id": 11997,
+              "url": "https://fozzyshop.ua/4379-vyna-tykhi-bili",
+              "children": []
+            },
+            {
+              "id": 12000,
+              "name": "Вина тихі рожеві",
+              "parent_id": 11997,
+              "url": "https://fozzyshop.ua/4380-vyna-tykhi-rozhevi",
+              "children": []
+            },
+            {
+              "id": 12001,
+              "name": "Вина тихі солодкі, кріплені",
+              "parent_id": 11997,
+              "url": "https://fozzyshop.ua/3958-vyna-tykhi-solodki-kripleni",
+              "children": []
+            },
+            {
+              "id": 11998,
+              "name": "Вина тихі червоні",
+              "parent_id": 11997,
+              "url": "https://fozzyshop.ua/4295-vyna-tykhi-chervoni",
+              "children": []
+            },
+            {
+              "id": 12003,
+              "name": "Шампанське, вина ігристі",
+              "parent_id": 11997,
+              "url": "https://fozzyshop.ua/4015-shampanske-vyna-igrysti",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11986,
+          "name": "Коктейльні напої",
+          "parent_id": 11976,
+          "url": "https://fozzyshop.ua/3679-kokteylni-napoyi",
+          "children": [
+            {
+              "id": 11987,
+              "name": "Аперитив",
+              "parent_id": 11986,
+              "url": "https://fozzyshop.ua/4081-aperytyv",
+              "children": []
+            },
+            {
+              "id": 11988,
+              "name": "Біттер",
+              "parent_id": 11986,
+              "url": "https://fozzyshop.ua/4038-bitter",
+              "children": []
+            },
+            {
+              "id": 11989,
+              "name": "Вермут",
+              "parent_id": 11986,
+              "url": "https://fozzyshop.ua/4333-vermut",
+              "children": []
+            },
+            {
+              "id": 11990,
+              "name": "Лікер",
+              "parent_id": 11986,
+              "url": "https://fozzyshop.ua/4334-liker",
+              "children": []
+            },
+            {
+              "id": 11991,
+              "name": "Наливка",
+              "parent_id": 11986,
+              "url": "https://fozzyshop.ua/3979-nalyvka",
+              "children": []
+            },
+            {
+              "id": 11992,
+              "name": "Настоянка, бальзам",
+              "parent_id": 11986,
+              "url": "https://fozzyshop.ua/4012-nastoyanka-balzam",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11977,
+          "name": "Міцні напої",
+          "parent_id": 11976,
+          "url": "https://fozzyshop.ua/3846-mitsni-napoyi",
+          "children": [
+            {
+              "id": 11978,
+              "name": "Абсент",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/3983-absent",
+              "children": []
+            },
+            {
+              "id": 11984,
+              "name": "Безалкогольні міцні напої",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/4424-bezalkogolni-mitsni-napoyi",
+              "children": []
+            },
+            {
+              "id": 11979,
+              "name": "Віскі",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/4147-viski",
+              "children": []
+            },
+            {
+              "id": 11980,
+              "name": "Горілка",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/3985-gorilka",
+              "children": []
+            },
+            {
+              "id": 11981,
+              "name": "Джин, женевер",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/4072-dzhyn-zhenever",
+              "children": []
+            },
+            {
+              "id": 11982,
+              "name": "Коньяк, бренді, арманьяк",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/4150-konyak-brendi-armanyak",
+              "children": []
+            },
+            {
+              "id": 11983,
+              "name": "Ром",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/4285-rom",
+              "children": []
+            },
+            {
+              "id": 11985,
+              "name": "Текіла, мескаль",
+              "parent_id": 11977,
+              "url": "https://fozzyshop.ua/3996-tekila-meskal",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12004,
+          "name": "Пиво",
+          "parent_id": 11976,
+          "url": "https://fozzyshop.ua/3740-pyvo",
+          "children": [
+            {
+              "id": 12008,
+              "name": "Безалкогольне пиво",
+              "parent_id": 12004,
+              "url": "https://fozzyshop.ua/4401-bezalkogolne-pyvo",
+              "children": []
+            },
+            {
+              "id": 12005,
+              "name": "Вітчизняне крафтове пиво",
+              "parent_id": 12004,
+              "url": "https://fozzyshop.ua/4016-vitchyznyane-kraftove-pyvo",
+              "children": []
+            },
+            {
+              "id": 12006,
+              "name": "Вітчизняне пиво",
+              "parent_id": 12004,
+              "url": "https://fozzyshop.ua/4191-vitchyznyane-pyvo",
+              "children": []
+            },
+            {
+              "id": 12007,
+              "name": "Імпортне пиво",
+              "parent_id": 12004,
+              "url": "https://fozzyshop.ua/4294-importne-pyvo",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11993,
+          "name": "Слабоалкогольні напої",
+          "parent_id": 11976,
+          "url": "https://fozzyshop.ua/3709-slaboalkogolni-napoyi",
+          "children": [
+            {
+              "id": 11994,
+              "name": "Алкогольні коктейлі",
+              "parent_id": 11993,
+              "url": "https://fozzyshop.ua/4215-alkogolni-kokteyli",
+              "children": []
+            },
+            {
+              "id": 11995,
+              "name": "Алкоенергетик",
+              "parent_id": 11993,
+              "url": "https://fozzyshop.ua/4019-alkoenergetyk",
+              "children": []
+            },
+            {
+              "id": 11996,
+              "name": "Сидр",
+              "parent_id": 11993,
+              "url": "https://fozzyshop.ua/3913-sydr",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12034,
+      "name": "Бакалія, консервація",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3667-bakaliya-konservatsiya",
+      "children": [
+        {
+          "id": 12035,
+          "name": "Безглютенова продукція",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/4372-bezghlyutenova-produktsiya",
+          "children": []
+        },
+        {
+          "id": 12063,
+          "name": "Борошно, борошняні суміші",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3697-boroshno-boroshnyani-sumishi",
+          "children": [
+            {
+              "id": 12065,
+              "name": "Борошно житнє, кукурудзяне, гречане і т.д.",
+              "parent_id": 12063,
+              "url": "https://fozzyshop.ua/4488-boroshno-zhytnye-kukurudzyane-grechane-i-t-d",
+              "children": []
+            },
+            {
+              "id": 12064,
+              "name": "Борошно пшеничне",
+              "parent_id": 12063,
+              "url": "https://fozzyshop.ua/4487-boroshno-pshenychne",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12086,
+          "name": "Варення, сиропи, топінги",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3853-varennya-syropy-topingy",
+          "children": [
+            {
+              "id": 12087,
+              "name": "Варення, повидло",
+              "parent_id": 12086,
+              "url": "https://fozzyshop.ua/3969-varennya-povydlo",
+              "children": []
+            },
+            {
+              "id": 12088,
+              "name": "Джем, конфітюр",
+              "parent_id": 12086,
+              "url": "https://fozzyshop.ua/4289-dzhem-konfityur",
+              "children": []
+            },
+            {
+              "id": 12089,
+              "name": "Сироп",
+              "parent_id": 12086,
+              "url": "https://fozzyshop.ua/4308-syrop",
+              "children": []
+            },
+            {
+              "id": 12090,
+              "name": "Топінг",
+              "parent_id": 12086,
+              "url": "https://fozzyshop.ua/3942-toping",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12077,
+          "name": "Консервація, соління",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3691-konservatsiya-solinnya",
+          "children": [
+            {
+              "id": 12078,
+              "name": "Гриби консервовані",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/4141-gryby-konservovani",
+              "children": []
+            },
+            {
+              "id": 12079,
+              "name": "Консерви м'ясні",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/4199-konservy-m-yasni",
+              "children": []
+            },
+            {
+              "id": 12080,
+              "name": "Консерви овочеві",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/4143-konservy-ovochevi",
+              "children": []
+            },
+            {
+              "id": 12081,
+              "name": "Консерви рибні",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/3922-konservy-rybni",
+              "children": []
+            },
+            {
+              "id": 12082,
+              "name": "Консерви фруктові, ягідні",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/4281-konservy-fruktovi-yagidni",
+              "children": []
+            },
+            {
+              "id": 12083,
+              "name": "Кукурудза, горошок",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/4303-kukurudza-goroshok",
+              "children": []
+            },
+            {
+              "id": 12084,
+              "name": "Оливки, маслини",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/4148-olyvky-maslyny",
+              "children": []
+            },
+            {
+              "id": 12085,
+              "name": "Соління, хумус",
+              "parent_id": 12077,
+              "url": "https://fozzyshop.ua/3993-solinnya-khumus",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12074,
+          "name": "Крохмаль, сода",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3728-krokhmal-soda",
+          "children": [
+            {
+              "id": 12075,
+              "name": "Крохмаль",
+              "parent_id": 12074,
+              "url": "https://fozzyshop.ua/4200-krokhmal",
+              "children": []
+            },
+            {
+              "id": 12076,
+              "name": "Сода харчова",
+              "parent_id": 12074,
+              "url": "https://fozzyshop.ua/4179-soda-kharchova",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12048,
+          "name": "Крупи, бобові",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3772-krupy-bobovi",
+          "children": [
+            {
+              "id": 12060,
+              "name": "Булгур",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4474-bulgur",
+              "children": []
+            },
+            {
+              "id": 12057,
+              "name": "Горох",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4478-gorokh",
+              "children": []
+            },
+            {
+              "id": 12058,
+              "name": "Квасоля",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4477-kvasolya",
+              "children": []
+            },
+            {
+              "id": 12054,
+              "name": "Крупа вівсяна",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4481-krupa-vivsyana",
+              "children": []
+            },
+            {
+              "id": 12050,
+              "name": "Крупа гречана",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4485-krupa-grechana",
+              "children": []
+            },
+            {
+              "id": 12055,
+              "name": "Крупа манна",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4480-krupa-manna",
+              "children": []
+            },
+            {
+              "id": 12053,
+              "name": "Крупа перлова",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4482-krupa-perlova",
+              "children": []
+            },
+            {
+              "id": 12052,
+              "name": "Крупа пшенична",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4483-krupa-pshenychna",
+              "children": []
+            },
+            {
+              "id": 12051,
+              "name": "Крупа ячна",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4484-krupa-yachna",
+              "children": []
+            },
+            {
+              "id": 12061,
+              "name": "Кукурудза",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4473-kukurudza",
+              "children": []
+            },
+            {
+              "id": 12062,
+              "name": "Кус-кус та інші види круп",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4472-kus-kus-ta-inshi-vydy-krup",
+              "children": []
+            },
+            {
+              "id": 12056,
+              "name": "Пшоно",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4479-pshono",
+              "children": []
+            },
+            {
+              "id": 12049,
+              "name": "Рис",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4486-rys",
+              "children": []
+            },
+            {
+              "id": 12059,
+              "name": "Сочевиця",
+              "parent_id": 12048,
+              "url": "https://fozzyshop.ua/4475-sochevytsya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12045,
+          "name": "Макарони, паста",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3857-makarony-pasta",
+          "children": [
+            {
+              "id": 12047,
+              "name": "Макаронні вироби з борошна м`яких сортів",
+              "parent_id": 12045,
+              "url": "https://fozzyshop.ua/4489-makaronni-vyroby-z-boroshna-m-yakykh-sortiv",
+              "children": []
+            },
+            {
+              "id": 12046,
+              "name": "Макаронні вироби з борошна твердих сортів",
+              "parent_id": 12045,
+              "url": "https://fozzyshop.ua/4490-makaronni-vyroby-z-boroshna-tverdykh-sortiv",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12091,
+          "name": "Мед",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3714-med",
+          "children": []
+        },
+        {
+          "id": 12036,
+          "name": "Продукти швидкого приготування",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3734-produkty-shvydkogo-prygotuvannya",
+          "children": [
+            {
+              "id": 12037,
+              "name": "Вермішель, локшина",
+              "parent_id": 12036,
+              "url": "https://fozzyshop.ua/3916-vermishel-lokshyna",
+              "children": []
+            },
+            {
+              "id": 12038,
+              "name": "Каша швидкого приготування",
+              "parent_id": 12036,
+              "url": "https://fozzyshop.ua/3920-kasha-shvydkogo-prygotuvannya",
+              "children": []
+            },
+            {
+              "id": 12039,
+              "name": "Пюре швидкого приготування",
+              "parent_id": 12036,
+              "url": "https://fozzyshop.ua/4088-pyure-shvydkogo-prygotuvannya",
+              "children": []
+            },
+            {
+              "id": 12040,
+              "name": "Суп, бульйон",
+              "parent_id": 12036,
+              "url": "https://fozzyshop.ua/4171-sup-bulyon",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12070,
+          "name": "Сіль",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3771-sil",
+          "children": [
+            {
+              "id": 12072,
+              "name": "Сіль екстра",
+              "parent_id": 12070,
+              "url": "https://fozzyshop.ua/4516-sil-ekstra",
+              "children": []
+            },
+            {
+              "id": 12071,
+              "name": "Сіль кам`яна",
+              "parent_id": 12070,
+              "url": "https://fozzyshop.ua/3899-sil-kam-yana",
+              "children": []
+            },
+            {
+              "id": 12073,
+              "name": "Сіль морська",
+              "parent_id": 12070,
+              "url": "https://fozzyshop.ua/4001-sil-morska",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12092,
+          "name": "Соєві продукти",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3720-soyevi-produkty",
+          "children": []
+        },
+        {
+          "id": 12041,
+          "name": "Сухі сніданки",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/3793-sukhi-snidanky",
+          "children": [
+            {
+              "id": 12042,
+              "name": "Готові сніданки",
+              "parent_id": 12041,
+              "url": "https://fozzyshop.ua/4235-gotovi-snidanky",
+              "children": []
+            },
+            {
+              "id": 12043,
+              "name": "Гранола, мюслі",
+              "parent_id": 12041,
+              "url": "https://fozzyshop.ua/4106-granola-myusli",
+              "children": []
+            },
+            {
+              "id": 12044,
+              "name": "Пластівці",
+              "parent_id": 12041,
+              "url": "https://fozzyshop.ua/4203-plastivtsi",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12066,
+          "name": "Цукор",
+          "parent_id": 12034,
+          "url": "https://fozzyshop.ua/4512-tsukor",
+          "children": [
+            {
+              "id": 12067,
+              "name": "Цукор-пісок",
+              "parent_id": 12066,
+              "url": "https://fozzyshop.ua/4513-tsukor-pisok",
+              "children": []
+            },
+            {
+              "id": 12068,
+              "name": "Цукор-рафінад, шматковий, порційний",
+              "parent_id": 12066,
+              "url": "https://fozzyshop.ua/4515-tsukor-rafinad-shmatkovyy-portsiynyy",
+              "children": []
+            },
+            {
+              "id": 12069,
+              "name": "Цукрова пудра",
+              "parent_id": 12066,
+              "url": "https://fozzyshop.ua/4514-tsukrova-pudra",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12009,
+      "name": "Безалкогольні напої",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3651-bezalkogolni-napoyi",
+      "children": [
+        {
+          "id": 12010,
+          "name": "Вода мінеральна, питна",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/3768-voda-mineralna-pytna",
+          "children": []
+        },
+        {
+          "id": 12011,
+          "name": "Вода солодка",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/3687-voda-solodka",
+          "children": [
+            {
+              "id": 12012,
+              "name": "Вода солодка газована",
+              "parent_id": 12011,
+              "url": "https://fozzyshop.ua/4470-voda-solodka-gazovana",
+              "children": []
+            },
+            {
+              "id": 12013,
+              "name": "Вода солодка негазована",
+              "parent_id": 12011,
+              "url": "https://fozzyshop.ua/4471-voda-solodka-negazovana",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12016,
+          "name": "Енергетичні напої",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/3788-energetychni-napoyi",
+          "children": []
+        },
+        {
+          "id": 12015,
+          "name": "Квас",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/3844-kvas",
+          "children": []
+        },
+        {
+          "id": 12018,
+          "name": "Сиропи для коктейлів",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/4403-syropy-dlya-kokteyliv",
+          "children": []
+        },
+        {
+          "id": 12014,
+          "name": "Соки, нектари",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/3778-soky-nektary",
+          "children": []
+        },
+        {
+          "id": 12017,
+          "name": "Холодні чай, кава",
+          "parent_id": 12009,
+          "url": "https://fozzyshop.ua/3733-kholodni-chay-kava",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12346,
+      "name": "Заморожені продукти",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3661-zamorozheni-produkty",
+      "children": [
+        {
+          "id": 12376,
+          "name": "Заморожений корм для тварин",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3678-zamorozhenyy-korm-dlya-tvaryn",
+          "children": []
+        },
+        {
+          "id": 12371,
+          "name": "Заморожений чай, смузі",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3752-zamorozhenyy-chay-smuzi",
+          "children": []
+        },
+        {
+          "id": 12352,
+          "name": "Заморожені м'ясо, птиця",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3743-zamorozheni-m-yaso-ptytsya",
+          "children": [
+            {
+              "id": 12355,
+              "name": "Кролятина",
+              "parent_id": 12352,
+              "url": "https://fozzyshop.ua/4534-krolyatyna",
+              "children": []
+            },
+            {
+              "id": 12354,
+              "name": "Птиця",
+              "parent_id": 12352,
+              "url": "https://fozzyshop.ua/4535-ptytsya",
+              "children": []
+            },
+            {
+              "id": 12353,
+              "name": "Свинина",
+              "parent_id": 12352,
+              "url": "https://fozzyshop.ua/4536-svynyna",
+              "children": []
+            },
+            {
+              "id": 12356,
+              "name": "Яловичина та телятина",
+              "parent_id": 12352,
+              "url": "https://fozzyshop.ua/4533-yalovychyna-ta-telyatyna",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12347,
+          "name": "Заморожені риба, морепродукти",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3738-zamorozheni-ryba-moreprodukty",
+          "children": [
+            {
+              "id": 12349,
+              "name": "Заморожені морепродукти",
+              "parent_id": 12347,
+              "url": "https://fozzyshop.ua/4058-zamorozheni-moreprodukty",
+              "children": []
+            },
+            {
+              "id": 12350,
+              "name": "Заморожені рибні палички, бургери",
+              "parent_id": 12347,
+              "url": "https://fozzyshop.ua/4154-zamorozheni-rybni-palychky-burgery",
+              "children": []
+            },
+            {
+              "id": 12348,
+              "name": "Риба заморозка",
+              "parent_id": 12347,
+              "url": "https://fozzyshop.ua/4100-ryba-zamorozka",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12373,
+          "name": "Лід",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3821-lid",
+          "children": []
+        },
+        {
+          "id": 12372,
+          "name": "Морозиво",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3769-morozyvo",
+          "children": []
+        },
+        {
+          "id": 12357,
+          "name": "Напівфабрикати",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3680-napivfabrykaty",
+          "children": [
+            {
+              "id": 12358,
+              "name": "Вареники, пельмені",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4071-varenyky-pelmeni",
+              "children": []
+            },
+            {
+              "id": 12363,
+              "name": "Готові страви",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4272-gotovi-stravy",
+              "children": []
+            },
+            {
+              "id": 12364,
+              "name": "Заморожена випічка",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4317-zamorozhena-vypichka",
+              "children": []
+            },
+            {
+              "id": 12362,
+              "name": "Котлети, нагетси",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4274-kotlety-nagetsy",
+              "children": []
+            },
+            {
+              "id": 12360,
+              "name": "Млинці, бендерики",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4262-mlyntsi-benderyky",
+              "children": []
+            },
+            {
+              "id": 12365,
+              "name": "Піца, основа для піци, кальцоне",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4233-pitsa-osnova-dlya-pitsy-kaltsone",
+              "children": []
+            },
+            {
+              "id": 12359,
+              "name": "Равіолі, хінкалі",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4254-ravioli-khinkali",
+              "children": []
+            },
+            {
+              "id": 12361,
+              "name": "Сирники",
+              "parent_id": 12357,
+              "url": "https://fozzyshop.ua/4384-syrnyky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12366,
+          "name": "Овочі, фрукти, гриби заморожені",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3748-ovochi-frukty-gryby-zamorozheni",
+          "children": [
+            {
+              "id": 12370,
+              "name": "Заморожені гриби",
+              "parent_id": 12366,
+              "url": "https://fozzyshop.ua/3935-zamorozheni-gryby",
+              "children": []
+            },
+            {
+              "id": 12368,
+              "name": "Заморожені овочі",
+              "parent_id": 12366,
+              "url": "https://fozzyshop.ua/3882-zamorozheni-ovochi",
+              "children": []
+            },
+            {
+              "id": 12367,
+              "name": "Заморожені фрукти",
+              "parent_id": 12366,
+              "url": "https://fozzyshop.ua/4328-zamorozheni-frukty",
+              "children": []
+            },
+            {
+              "id": 12369,
+              "name": "Заморожені ягоди",
+              "parent_id": 12366,
+              "url": "https://fozzyshop.ua/4385-zamorozheni-yagody",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12351,
+          "name": "Равлики",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3868-ravlyky",
+          "children": []
+        },
+        {
+          "id": 12374,
+          "name": "Тісто заморожене",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3852-tisto-zamorozhene",
+          "children": []
+        },
+        {
+          "id": 12375,
+          "name": "Тісто, паста охолоджені",
+          "parent_id": 12346,
+          "url": "https://fozzyshop.ua/3779-tisto-pasta-okholodzheni",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12424,
+      "name": "Здорове і спортивне харчування",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3656-zdorove-i-sportyvne-kharchuvannya",
+      "children": [
+        {
+          "id": 12431,
+          "name": "БАД",
+          "parent_id": 12424,
+          "url": "https://fozzyshop.ua/3763-bad",
+          "children": []
+        },
+        {
+          "id": 12425,
+          "name": "Дієтичні продукти",
+          "parent_id": 12424,
+          "url": "https://fozzyshop.ua/3755-diyetychni-produkty",
+          "children": [
+            {
+              "id": 12427,
+              "name": "Варення, пюре, сиропи без цукру",
+              "parent_id": 12425,
+              "url": "https://fozzyshop.ua/4506-varennya-pyure-syropy-bez-tsukru",
+              "children": []
+            },
+            {
+              "id": 12428,
+              "name": "Діетичні кондитерські вироби",
+              "parent_id": 12425,
+              "url": "https://fozzyshop.ua/4561-dietychni-kondyterski-vyroby",
+              "children": []
+            },
+            {
+              "id": 12429,
+              "name": "Дієтичні харчові добавки",
+              "parent_id": 12425,
+              "url": "https://fozzyshop.ua/4507-diyetychni-kharchovi-dobavky",
+              "children": []
+            },
+            {
+              "id": 12426,
+              "name": "Цукрозамінники",
+              "parent_id": 12425,
+              "url": "https://fozzyshop.ua/4505-tsukrozaminnyky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12430,
+          "name": "Спортивне харчування",
+          "parent_id": 12424,
+          "url": "https://fozzyshop.ua/3671-sportyvne-kharchuvannya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12686,
+      "name": "Зоотовари",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3655-zootovary",
+      "children": [
+        {
+          "id": 12700,
+          "name": "Для гризунів",
+          "parent_id": 12686,
+          "url": "https://fozzyshop.ua/3735-dlya-gryzuniv",
+          "children": []
+        },
+        {
+          "id": 12687,
+          "name": "Для кішок",
+          "parent_id": 12686,
+          "url": "https://fozzyshop.ua/3781-dlya-kishok",
+          "children": [
+            {
+              "id": 12688,
+              "name": "Аксесуари для кішок",
+              "parent_id": 12687,
+              "url": "https://fozzyshop.ua/3955-aksesuary-dlya-kishok",
+              "children": []
+            },
+            {
+              "id": 12689,
+              "name": "Іграшки для кішок",
+              "parent_id": 12687,
+              "url": "https://fozzyshop.ua/4325-igrashky-dlya-kishok",
+              "children": []
+            },
+            {
+              "id": 12690,
+              "name": "Корм для кішок",
+              "parent_id": 12687,
+              "url": "https://fozzyshop.ua/4301-korm-dlya-kishok",
+              "children": []
+            },
+            {
+              "id": 12691,
+              "name": "Косметика, гігієна для кішок",
+              "parent_id": 12687,
+              "url": "https://fozzyshop.ua/4149-kosmetyka-gigiyena-dlya-kishok",
+              "children": []
+            },
+            {
+              "id": 12692,
+              "name": "Ласощі для кішок",
+              "parent_id": 12687,
+              "url": "https://fozzyshop.ua/4189-lasoshchi-dlya-kishok",
+              "children": []
+            },
+            {
+              "id": 12693,
+              "name": "Наповнювачі для туалету",
+              "parent_id": 12687,
+              "url": "https://fozzyshop.ua/3906-napovnyuvachi-dlya-tualetu",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12702,
+          "name": "Для птахів",
+          "parent_id": 12686,
+          "url": "https://fozzyshop.ua/3774-dlya-ptakhiv",
+          "children": []
+        },
+        {
+          "id": 12701,
+          "name": "Для риб та рептилій",
+          "parent_id": 12686,
+          "url": "https://fozzyshop.ua/3731-dlya-ryb-ta-reptyliy",
+          "children": []
+        },
+        {
+          "id": 12694,
+          "name": "Для собак",
+          "parent_id": 12686,
+          "url": "https://fozzyshop.ua/3859-dlya-sobak",
+          "children": [
+            {
+              "id": 12695,
+              "name": "Аксесуари для собак",
+              "parent_id": 12694,
+              "url": "https://fozzyshop.ua/3956-aksesuary-dlya-sobak",
+              "children": []
+            },
+            {
+              "id": 12696,
+              "name": "Іграшки для собак",
+              "parent_id": 12694,
+              "url": "https://fozzyshop.ua/4244-igrashky-dlya-sobak",
+              "children": []
+            },
+            {
+              "id": 12697,
+              "name": "Корм для собак",
+              "parent_id": 12694,
+              "url": "https://fozzyshop.ua/4155-korm-dlya-sobak",
+              "children": []
+            },
+            {
+              "id": 12698,
+              "name": "Косметика, гігієна для собак",
+              "parent_id": 12694,
+              "url": "https://fozzyshop.ua/4230-kosmetyka-gigiyena-dlya-sobak",
+              "children": []
+            },
+            {
+              "id": 12699,
+              "name": "Ласощі для собак",
+              "parent_id": 12694,
+              "url": "https://fozzyshop.ua/3900-lasoshchi-dlya-sobak",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12322,
+      "name": "Ковбаса, м'ясні вироби",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3665-kovbasa-m-yasni-vyroby",
+      "children": [
+        {
+          "id": 12323,
+          "name": "Варені ковбасні вироби",
+          "parent_id": 12322,
+          "url": "https://fozzyshop.ua/3791-vareni-kovbasni-vyroby",
+          "children": [
+            {
+              "id": 12324,
+              "name": "Ковбаса варена",
+              "parent_id": 12323,
+              "url": "https://fozzyshop.ua/3967-kovbasa-varena",
+              "children": []
+            },
+            {
+              "id": 12325,
+              "name": "Сардельки варені",
+              "parent_id": 12323,
+              "url": "https://fozzyshop.ua/4269-sardelky-vareni",
+              "children": []
+            },
+            {
+              "id": 12326,
+              "name": "Сосиски варені",
+              "parent_id": 12323,
+              "url": "https://fozzyshop.ua/3966-sosysky-vareni",
+              "children": []
+            },
+            {
+              "id": 12327,
+              "name": "Шинка варена",
+              "parent_id": 12323,
+              "url": "https://fozzyshop.ua/4005-shynka-varena",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12328,
+          "name": "Копчені ковбасні вироби",
+          "parent_id": 12322,
+          "url": "https://fozzyshop.ua/3848-kopcheni-kovbasni-vyroby",
+          "children": [
+            {
+              "id": 12329,
+              "name": "Варено-копчені ковбаси",
+              "parent_id": 12328,
+              "url": "https://fozzyshop.ua/4236-vareno-kopcheni-kovbasy",
+              "children": []
+            },
+            {
+              "id": 12330,
+              "name": "Ковбаси запечені",
+              "parent_id": 12328,
+              "url": "https://fozzyshop.ua/4014-kovbasy-zapecheni",
+              "children": []
+            },
+            {
+              "id": 12331,
+              "name": "Ковбаси напівкопчені",
+              "parent_id": 12328,
+              "url": "https://fozzyshop.ua/4181-kovbasy-napivkopcheni",
+              "children": []
+            },
+            {
+              "id": 12332,
+              "name": "Ковбаси сиров'ялені",
+              "parent_id": 12328,
+              "url": "https://fozzyshop.ua/4103-kovbasy-syrov-yaleni",
+              "children": []
+            },
+            {
+              "id": 12333,
+              "name": "Ковбаси сирокопчені",
+              "parent_id": 12328,
+              "url": "https://fozzyshop.ua/4111-kovbasy-syrokopcheni",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12334,
+          "name": "М'ясні делікатеси",
+          "parent_id": 12322,
+          "url": "https://fozzyshop.ua/3869-m-yasni-delikatesy",
+          "children": [
+            {
+              "id": 12335,
+              "name": "Балик",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4434-balyk",
+              "children": []
+            },
+            {
+              "id": 12336,
+              "name": "Бастурма",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4435-basturma",
+              "children": []
+            },
+            {
+              "id": 12337,
+              "name": "Буженина",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4436-buzhenyna",
+              "children": []
+            },
+            {
+              "id": 12338,
+              "name": "Грудинка, бекон",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4438-grudynka-bekon",
+              "children": []
+            },
+            {
+              "id": 12344,
+              "name": "Деликатеси копчені, запечені",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4440-delykatesy-kopcheni-zapecheni",
+              "children": []
+            },
+            {
+              "id": 12339,
+              "name": "Курячі копченості",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4439-kuryachi-kopchenosti",
+              "children": []
+            },
+            {
+              "id": 12340,
+              "name": "Рулет",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4442-rulet",
+              "children": []
+            },
+            {
+              "id": 12342,
+              "name": "Хамон, прошуто, окорок",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4441-khamon-proshuto-okorok",
+              "children": []
+            },
+            {
+              "id": 12343,
+              "name": "Шийка, коппа",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4443-shyyka-koppa",
+              "children": []
+            },
+            {
+              "id": 12341,
+              "name": "Шинка делікатесна",
+              "parent_id": 12334,
+              "url": "https://fozzyshop.ua/4437-shynka-delikatesna",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12345,
+          "name": "М'ясні субпродукти",
+          "parent_id": 12322,
+          "url": "https://fozzyshop.ua/3775-m-yasni-subprodukty",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12432,
+      "name": "Кошерні продукти",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3657-kosherni-produkty",
+      "children": []
+    },
+    {
+      "id": 12451,
+      "name": "Краса, гігієна",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3663-krasa-gigiyena",
+      "children": [
+        {
+          "id": 12452,
+          "name": "Догляд за волоссям",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3751-doglyad-za-volossyam",
+          "children": [
+            {
+              "id": 12458,
+              "name": "Аксесуари для волосся",
+              "parent_id": 12452,
+              "url": "https://fozzyshop.ua/4024-aksesuary-dlya-volossya",
+              "children": []
+            },
+            {
+              "id": 12457,
+              "name": "Засоби для укладання",
+              "parent_id": 12452,
+              "url": "https://fozzyshop.ua/3902-zasoby-dlya-ukladannya",
+              "children": []
+            },
+            {
+              "id": 12456,
+              "name": "Засоби для фарбування",
+              "parent_id": 12452,
+              "url": "https://fozzyshop.ua/4161-zasoby-dlya-farbuvannya",
+              "children": []
+            },
+            {
+              "id": 12454,
+              "name": "Кондиціонери, бальзами",
+              "parent_id": 12452,
+              "url": "https://fozzyshop.ua/3976-kondytsionery-balzamy",
+              "children": []
+            },
+            {
+              "id": 12455,
+              "name": "Масло, спрей, маска для волосся",
+              "parent_id": 12452,
+              "url": "https://fozzyshop.ua/3974-maslo-sprey-maska-dlya-volossya",
+              "children": []
+            },
+            {
+              "id": 12453,
+              "name": "Шампуні",
+              "parent_id": 12452,
+              "url": "https://fozzyshop.ua/4151-shampuni",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12464,
+          "name": "Догляд за обличчям і тілом",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3717-doglyad-za-oblychchyam-i-tilom",
+          "children": [
+            {
+              "id": 12465,
+              "name": "Аксесуари для макіяжу",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4117-aksesuary-dlya-makiyazhu",
+              "children": []
+            },
+            {
+              "id": 12466,
+              "name": "Декоративна косметика",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4080-dekoratyvna-kosmetyka",
+              "children": []
+            },
+            {
+              "id": 12467,
+              "name": "Дзеркала",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4261-dzerkala",
+              "children": []
+            },
+            {
+              "id": 12471,
+              "name": "Засоби для ніг",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4034-zasoby-dlya-nig",
+              "children": []
+            },
+            {
+              "id": 12468,
+              "name": "Засоби для обличчя",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4136-zasoby-dlya-oblychchya",
+              "children": []
+            },
+            {
+              "id": 12470,
+              "name": "Засоби для рук",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4055-zasoby-dlya-ruk",
+              "children": []
+            },
+            {
+              "id": 12469,
+              "name": "Засоби для тіла",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/3987-zasoby-dlya-tila",
+              "children": []
+            },
+            {
+              "id": 12472,
+              "name": "Інструменти для манікюру, педикюру",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/3988-instrumenty-dlya-manikyuru-pedykyuru",
+              "children": []
+            },
+            {
+              "id": 12473,
+              "name": "Косметичні набори",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/3970-kosmetychni-nabory",
+              "children": []
+            },
+            {
+              "id": 12474,
+              "name": "Маски косметичні",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4263-masky-kosmetychni",
+              "children": []
+            },
+            {
+              "id": 12475,
+              "name": "Парфумерні товари",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/3925-parfumerni-tovary",
+              "children": []
+            },
+            {
+              "id": 12476,
+              "name": "Сонцезахисні засоби",
+              "parent_id": 12464,
+              "url": "https://fozzyshop.ua/4059-sontsezakhysni-zasoby",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12459,
+          "name": "Догляд за ротовою порожниною",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3767-doglyad-za-rotovoyu-porozhnynoyu",
+          "children": [
+            {
+              "id": 12460,
+              "name": "Зубна паста",
+              "parent_id": 12459,
+              "url": "https://fozzyshop.ua/4138-zubna-pasta",
+              "children": []
+            },
+            {
+              "id": 12461,
+              "name": "Зубна щітка",
+              "parent_id": 12459,
+              "url": "https://fozzyshop.ua/4221-zubna-shchitka",
+              "children": []
+            },
+            {
+              "id": 12462,
+              "name": "Зубні нитки, флоси",
+              "parent_id": 12459,
+              "url": "https://fozzyshop.ua/3888-zubni-nytky-flosy",
+              "children": []
+            },
+            {
+              "id": 12463,
+              "name": "Ополіскувач для рота",
+              "parent_id": 12459,
+              "url": "https://fozzyshop.ua/3986-opoliskuvach-dlya-rota",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12477,
+          "name": "Засоби для гоління",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3692-zasoby-dlya-golinnya",
+          "children": [
+            {
+              "id": 12482,
+              "name": "Засоби для депіляції",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/3930-zasoby-dlya-depilyatsiyi",
+              "children": []
+            },
+            {
+              "id": 12478,
+              "name": "Картриджі для гоління",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/3890-kartrydzhi-dlya-golinnya",
+              "children": []
+            },
+            {
+              "id": 12484,
+              "name": "Лосьйони, креми після гоління",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/4218-losyony-kremy-pislya-golinnya",
+              "children": []
+            },
+            {
+              "id": 12480,
+              "name": "Одноразові станки",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/4031-odnorazovi-stanky",
+              "children": []
+            },
+            {
+              "id": 12483,
+              "name": "Піни, креми, гелі для гоління",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/4056-piny-kremy-geli-dlya-golinnya",
+              "children": []
+            },
+            {
+              "id": 12481,
+              "name": "Помазок, щітка для гоління",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/4185-pomazok-shchitka-dlya-golinnya",
+              "children": []
+            },
+            {
+              "id": 12479,
+              "name": "Станки для гоління",
+              "parent_id": 12477,
+              "url": "https://fozzyshop.ua/4313-stanky-dlya-golinnya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12485,
+          "name": "Засоби особистої гігієни",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3727-zasoby-osobystoyi-gigiyeny",
+          "children": [
+            {
+              "id": 12492,
+              "name": "Ватні диски, палички",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4258-vatni-dysky-palychky",
+              "children": []
+            },
+            {
+              "id": 12486,
+              "name": "Гелі для душу",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4069-geli-dlya-dushu",
+              "children": []
+            },
+            {
+              "id": 12490,
+              "name": "Губки, мочалки лазневі",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4270-gubky-mochalky-laznevi",
+              "children": []
+            },
+            {
+              "id": 12494,
+              "name": "Дезодоранти",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4116-dezodoranty",
+              "children": []
+            },
+            {
+              "id": 12488,
+              "name": "Засоби інтимної гігієни",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/3932-zasoby-intymnoyi-gigiyeny",
+              "children": []
+            },
+            {
+              "id": 12487,
+              "name": "Мило",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4065-mylo",
+              "children": []
+            },
+            {
+              "id": 12491,
+              "name": "Пемзи, щітки, терки для тіла",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4247-pemzy-shchitky-terky-dlya-tila",
+              "children": []
+            },
+            {
+              "id": 12496,
+              "name": "Підгузки, пелюшки для дорослих",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4107-pidguzky-pelyushky-dlya-doroslykh",
+              "children": []
+            },
+            {
+              "id": 12495,
+              "name": "Прокладки, тампони",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/3881-prokladky-tampony",
+              "children": []
+            },
+            {
+              "id": 12493,
+              "name": "Серветки, носові хустинки",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4182-servetky-nosovi-khustynky",
+              "children": []
+            },
+            {
+              "id": 12489,
+              "name": "Сіль, піна для ванни",
+              "parent_id": 12485,
+              "url": "https://fozzyshop.ua/4044-sil-pina-dlya-vanny",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12501,
+          "name": "Міні-аптека",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3845-mini-apteka",
+          "children": [
+            {
+              "id": 12502,
+              "name": "Аксесуари мініаптеки",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/4323-aksesuary-miniapteky",
+              "children": []
+            },
+            {
+              "id": 12503,
+              "name": "Антисептики",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/4000-antyseptyky",
+              "children": []
+            },
+            {
+              "id": 12504,
+              "name": "Креми, бальзами",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/4180-kremy-balzamy",
+              "children": []
+            },
+            {
+              "id": 12508,
+              "name": "Лубриканти",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/4529-lubrykanty",
+              "children": []
+            },
+            {
+              "id": 12505,
+              "name": "Маски",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/3992-masky",
+              "children": []
+            },
+            {
+              "id": 12506,
+              "name": "Пластир",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/4278-plastyr",
+              "children": []
+            },
+            {
+              "id": 12507,
+              "name": "Презервативи",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/3964-prezervatyvy",
+              "children": []
+            },
+            {
+              "id": 12509,
+              "name": "Тест-смужки",
+              "parent_id": 12501,
+              "url": "https://fozzyshop.ua/3965-test-smuzhky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12497,
+          "name": "Туалетний папір, паперові рушники",
+          "parent_id": 12451,
+          "url": "https://fozzyshop.ua/3831-tualetnyy-papir-paperovi-rushnyky",
+          "children": [
+            {
+              "id": 12500,
+              "name": "Паперові серветки",
+              "parent_id": 12497,
+              "url": "https://fozzyshop.ua/4226-paperovi-servetky",
+              "children": []
+            },
+            {
+              "id": 12499,
+              "name": "Рушники паперові",
+              "parent_id": 12497,
+              "url": "https://fozzyshop.ua/4006-rushnyky-paperovi",
+              "children": []
+            },
+            {
+              "id": 12498,
+              "name": "Туалетний папір",
+              "parent_id": 12497,
+              "url": "https://fozzyshop.ua/3907-tualetnyy-papir",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12394,
+      "name": "Кулінарія",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3643-kulinariya",
+      "children": [
+        {
+          "id": 12409,
+          "name": "Вареники, гіози",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3833-varenyky-giozy",
+          "children": []
+        },
+        {
+          "id": 12400,
+          "name": "Гарніри",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3705-garniry",
+          "children": []
+        },
+        {
+          "id": 12403,
+          "name": "Гриль",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3828-gryl",
+          "children": []
+        },
+        {
+          "id": 12411,
+          "name": "Десерти",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3806-deserty",
+          "children": []
+        },
+        {
+          "id": 12401,
+          "name": "М'ясні страви",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3829-m-yasni-stravy",
+          "children": []
+        },
+        {
+          "id": 12410,
+          "name": "Млинці",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3864-mlyntsi",
+          "children": []
+        },
+        {
+          "id": 12412,
+          "name": "Напої",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3803-napoyi",
+          "children": []
+        },
+        {
+          "id": 12408,
+          "name": "Овочі мариновані",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3719-ovochi-marynovani",
+          "children": []
+        },
+        {
+          "id": 12399,
+          "name": "Перші страви",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3835-pershi-stravy",
+          "children": []
+        },
+        {
+          "id": 12395,
+          "name": "Піца, бургери, пиріжки",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3816-pitsa-burgery-pyrizhky",
+          "children": [
+            {
+              "id": 12397,
+              "name": "Гамбургери, бутерброди",
+              "parent_id": 12395,
+              "url": "https://fozzyshop.ua/4526-gamburgery-buterbrody",
+              "children": []
+            },
+            {
+              "id": 12398,
+              "name": "Пиріжки",
+              "parent_id": 12395,
+              "url": "https://fozzyshop.ua/4527-pyrizhky",
+              "children": []
+            },
+            {
+              "id": 12396,
+              "name": "Піца",
+              "parent_id": 12395,
+              "url": "https://fozzyshop.ua/4525-pitsa",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12402,
+          "name": "Рибні страви",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3826-rybni-stravy",
+          "children": []
+        },
+        {
+          "id": 12405,
+          "name": "Салати",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3758-salaty",
+          "children": [
+            {
+              "id": 12407,
+              "name": "Салати з майонезом",
+              "parent_id": 12405,
+              "url": "https://fozzyshop.ua/4517-salaty-z-mayonezom",
+              "children": []
+            },
+            {
+              "id": 12406,
+              "name": "Салати з рослинною олією",
+              "parent_id": 12405,
+              "url": "https://fozzyshop.ua/4518-salaty-z-roslynnoyu-oliyeyu",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12404,
+          "name": "Соуси",
+          "parent_id": 12394,
+          "url": "https://fozzyshop.ua/3707-sousy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12177,
+      "name": "М'ясо, птиця",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3647-m-yaso-ptytsya",
+      "children": [
+        {
+          "id": 12186,
+          "name": "Кролик",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3808-krolyk",
+          "children": []
+        },
+        {
+          "id": 12191,
+          "name": "Напівфабрикати м'ясні",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3832-napivfabrykaty-m-yasni",
+          "children": []
+        },
+        {
+          "id": 12178,
+          "name": "Птиця",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3839-ptytsya",
+          "children": [
+            {
+              "id": 12179,
+              "name": "Гуска",
+              "parent_id": 12178,
+              "url": "https://fozzyshop.ua/4094-guska",
+              "children": []
+            },
+            {
+              "id": 12180,
+              "name": "Індичка",
+              "parent_id": 12178,
+              "url": "https://fozzyshop.ua/4046-indychka",
+              "children": []
+            },
+            {
+              "id": 12181,
+              "name": "Качка",
+              "parent_id": 12178,
+              "url": "https://fozzyshop.ua/3981-kachka",
+              "children": []
+            },
+            {
+              "id": 12182,
+              "name": "Курка",
+              "parent_id": 12178,
+              "url": "https://fozzyshop.ua/4250-kurka",
+              "children": []
+            },
+            {
+              "id": 12183,
+              "name": "Перепілка",
+              "parent_id": 12178,
+              "url": "https://fozzyshop.ua/4121-perepilka",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12185,
+          "name": "Свинина",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3790-svynyna",
+          "children": []
+        },
+        {
+          "id": 12188,
+          "name": "Стейки",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3827-steyky",
+          "children": []
+        },
+        {
+          "id": 12190,
+          "name": "Субпродукти",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3741-subprodukty",
+          "children": []
+        },
+        {
+          "id": 12187,
+          "name": "Фарш",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3716-farsh",
+          "children": []
+        },
+        {
+          "id": 12189,
+          "name": "Шашлик, гриль",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3694-shashlyk-gryl",
+          "children": []
+        },
+        {
+          "id": 12184,
+          "name": "Яловичина, телятина",
+          "parent_id": 12177,
+          "url": "https://fozzyshop.ua/3721-yalovychyna-telyatyna",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12281,
+      "name": "Молочна продукція, сир, яйця",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3650-molochna-produktsiya-syr-yaytsya",
+      "children": [
+        {
+          "id": 12317,
+          "name": "Безлактозна продукція",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/4371-bezlaktozna-produktsiya",
+          "children": []
+        },
+        {
+          "id": 12295,
+          "name": "Бутербродна намазка",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3676-buterbrodna-namazka",
+          "children": []
+        },
+        {
+          "id": 12298,
+          "name": "Вершки",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3798-vershky",
+          "children": []
+        },
+        {
+          "id": 12296,
+          "name": "Дитячі молочні продукти",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3795-dytyachi-molochni-produkty",
+          "children": []
+        },
+        {
+          "id": 12316,
+          "name": "Згущене молоко",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3675-zghushchene-moloko",
+          "children": []
+        },
+        {
+          "id": 12306,
+          "name": "Йогуртно-десертна продукція",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3747-yogurtno-desertna-produktsiya",
+          "children": [
+            {
+              "id": 12307,
+              "name": "Йогурти",
+              "parent_id": 12306,
+              "url": "https://fozzyshop.ua/4192-yogurty",
+              "children": []
+            },
+            {
+              "id": 12308,
+              "name": "Молочний бісквіт",
+              "parent_id": 12306,
+              "url": "https://fozzyshop.ua/4183-molochnyy-biskvit",
+              "children": []
+            },
+            {
+              "id": 12309,
+              "name": "Молочні десерти",
+              "parent_id": 12306,
+              "url": "https://fozzyshop.ua/3939-molochni-deserty",
+              "children": []
+            },
+            {
+              "id": 12310,
+              "name": "Молочні коктейлі",
+              "parent_id": 12306,
+              "url": "https://fozzyshop.ua/3903-molochni-kokteyli",
+              "children": []
+            },
+            {
+              "id": 12311,
+              "name": "Сирки глазуровані",
+              "parent_id": 12306,
+              "url": "https://fozzyshop.ua/3904-syrky-glazurovani",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12300,
+          "name": "Кисломолочні напої",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3854-kyslomolochni-napoyi",
+          "children": [
+            {
+              "id": 12303,
+              "name": "Айран",
+              "parent_id": 12300,
+              "url": "https://fozzyshop.ua/3892-ayran",
+              "children": []
+            },
+            {
+              "id": 12305,
+              "name": "Закваска суха",
+              "parent_id": 12300,
+              "url": "https://fozzyshop.ua/3962-zakvaska-sukha",
+              "children": []
+            },
+            {
+              "id": 12304,
+              "name": "Інші кисломолочні напої",
+              "parent_id": 12300,
+              "url": "https://fozzyshop.ua/3919-inshi-kyslomolochni-napoyi",
+              "children": []
+            },
+            {
+              "id": 12301,
+              "name": "Кефір",
+              "parent_id": 12300,
+              "url": "https://fozzyshop.ua/3997-kefir",
+              "children": []
+            },
+            {
+              "id": 12302,
+              "name": "Ряжанка",
+              "parent_id": 12300,
+              "url": "https://fozzyshop.ua/4051-ryazhanka",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12312,
+          "name": "Масло, маргарин, спред",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3702-maslo-margaryn-spred",
+          "children": [
+            {
+              "id": 12314,
+              "name": "Маргарин",
+              "parent_id": 12312,
+              "url": "https://fozzyshop.ua/4036-margaryn",
+              "children": []
+            },
+            {
+              "id": 12313,
+              "name": "Масло вершкове",
+              "parent_id": 12312,
+              "url": "https://fozzyshop.ua/4026-maslo-vershkove",
+              "children": []
+            },
+            {
+              "id": 12315,
+              "name": "Спред",
+              "parent_id": 12312,
+              "url": "https://fozzyshop.ua/3924-spred",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12297,
+          "name": "Молоко",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3718-moloko",
+          "children": []
+        },
+        {
+          "id": 12318,
+          "name": "Молочно-заморожена продукція",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3850-molochno-zamorozhena-produktsiya",
+          "children": []
+        },
+        {
+          "id": 12282,
+          "name": "Сир",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3757-syr",
+          "children": [
+            {
+              "id": 12291,
+              "name": "Копчений сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/4467-kopchenyy-syr",
+              "children": []
+            },
+            {
+              "id": 12283,
+              "name": "Крем-сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/3887-krem-syr",
+              "children": []
+            },
+            {
+              "id": 12284,
+              "name": "М'який сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/3917-m-yakyy-syr",
+              "children": []
+            },
+            {
+              "id": 12290,
+              "name": "Напівтвердий сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/4466-napivtverdyy-syr",
+              "children": []
+            },
+            {
+              "id": 12285,
+              "name": "Плавлений сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/3898-plavlenyy-syr",
+              "children": []
+            },
+            {
+              "id": 12286,
+              "name": "Розсільний сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/3914-rozsilnyy-syr",
+              "children": []
+            },
+            {
+              "id": 12287,
+              "name": "Сир з пліснявою",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/4197-syr-z-plisnyavoyu",
+              "children": []
+            },
+            {
+              "id": 12289,
+              "name": "Соус до сиру",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/4444-sous-do-syru",
+              "children": []
+            },
+            {
+              "id": 12288,
+              "name": "Твердий сир",
+              "parent_id": 12282,
+              "url": "https://fozzyshop.ua/4077-tverdyy-syr",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12292,
+          "name": "Сирна  продукція",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3673-syrna-produktsiya",
+          "children": [
+            {
+              "id": 12293,
+              "name": "Сир кисломолочний",
+              "parent_id": 12292,
+              "url": "https://fozzyshop.ua/4193-syr-kyslomolochnyy",
+              "children": []
+            },
+            {
+              "id": 12294,
+              "name": "Сиркова маса",
+              "parent_id": 12292,
+              "url": "https://fozzyshop.ua/3978-syrkova-masa",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12299,
+          "name": "Сметана",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3851-smetana",
+          "children": []
+        },
+        {
+          "id": 12319,
+          "name": "Яйця",
+          "parent_id": 12281,
+          "url": "https://fozzyshop.ua/3704-yaytsya",
+          "children": [
+            {
+              "id": 12320,
+              "name": "Яйця курячі",
+              "parent_id": 12319,
+              "url": "https://fozzyshop.ua/4468-yaytsya-kuryachi",
+              "children": []
+            },
+            {
+              "id": 12321,
+              "name": "Яйця перепелині",
+              "parent_id": 12319,
+              "url": "https://fozzyshop.ua/4469-yaytsya-perepelyni",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12216,
+      "name": "Овочі, фрукти, гриби",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3668-ovochi-frukty-gryby",
+      "children": [
+        {
+          "id": 12222,
+          "name": "Гриби",
+          "parent_id": 12216,
+          "url": "https://fozzyshop.ua/3823-gryby",
+          "children": [
+            {
+              "id": 12223,
+              "name": "Свіжі гриби",
+              "parent_id": 12222,
+              "url": "https://fozzyshop.ua/4002-svizhi-gryby",
+              "children": []
+            },
+            {
+              "id": 12224,
+              "name": "Сушені гриби",
+              "parent_id": 12222,
+              "url": "https://fozzyshop.ua/4124-susheni-gryby",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12225,
+          "name": "Зелень, салати",
+          "parent_id": 12216,
+          "url": "https://fozzyshop.ua/3834-zelen-salaty",
+          "children": [
+            {
+              "id": 12226,
+              "name": "Зелень свіжа",
+              "parent_id": 12225,
+              "url": "https://fozzyshop.ua/4027-zelen-svizha",
+              "children": []
+            },
+            {
+              "id": 12228,
+              "name": "Мікрогрін",
+              "parent_id": 12225,
+              "url": "https://fozzyshop.ua/4113-mikrogrin",
+              "children": []
+            },
+            {
+              "id": 12227,
+              "name": "Салати свіжі",
+              "parent_id": 12225,
+              "url": "https://fozzyshop.ua/4082-salaty-svizhi",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12220,
+          "name": "Овочі",
+          "parent_id": 12216,
+          "url": "https://fozzyshop.ua/3818-ovochi",
+          "children": [
+            {
+              "id": 12221,
+              "name": "Свіжі овочі",
+              "parent_id": 12220,
+              "url": "https://fozzyshop.ua/3873-svizhi-ovochi",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12229,
+          "name": "Сухофрукти, цукати",
+          "parent_id": 12216,
+          "url": "https://fozzyshop.ua/3710-sukhofrukty-tsukaty",
+          "children": []
+        },
+        {
+          "id": 12217,
+          "name": "Фрукти, ягоди",
+          "parent_id": 12216,
+          "url": "https://fozzyshop.ua/3866-frukty-yagody",
+          "children": [
+            {
+              "id": 12218,
+              "name": "Свіжі фрукти, ягоди",
+              "parent_id": 12217,
+              "url": "https://fozzyshop.ua/4253-svizhi-frukty-yagody",
+              "children": []
+            },
+            {
+              "id": 12219,
+              "name": "Фруктові нарізки",
+              "parent_id": 12217,
+              "url": "https://fozzyshop.ua/3937-fruktovi-narizky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12663,
+      "name": "Одяг, взуття, аксесуари",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3648-odyag-vzuttya-aksesuary",
+      "children": [
+        {
+          "id": 12675,
+          "name": "Аксесуари",
+          "parent_id": 12663,
+          "url": "https://fozzyshop.ua/3672-aksesuary",
+          "children": [
+            {
+              "id": 12682,
+              "name": "Аксесуари для шиття",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4008-aksesuary-dlya-shyttya",
+              "children": []
+            },
+            {
+              "id": 12683,
+              "name": "Антистатики",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4220-antystatyky",
+              "children": []
+            },
+            {
+              "id": 12684,
+              "name": "Валики для одягу",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4310-valyky-dlya-odyagu",
+              "children": []
+            },
+            {
+              "id": 12681,
+              "name": "Гаманці, візитниці",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4341-gamantsi-vizytnytsi",
+              "children": []
+            },
+            {
+              "id": 12676,
+              "name": "Головні убори",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4066-golovni-ubory",
+              "children": []
+            },
+            {
+              "id": 12680,
+              "name": "Окуляри, чохли для окулярів",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4177-okulyary-chokhly-dlya-okulyariv",
+              "children": []
+            },
+            {
+              "id": 12679,
+              "name": "Парасолі, дощовики",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4115-parasoli-doshchovyky",
+              "children": []
+            },
+            {
+              "id": 12678,
+              "name": "Рукавички, рукавиці",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/3933-rukavychky-rukavytsi",
+              "children": []
+            },
+            {
+              "id": 12677,
+              "name": "Хустки, шарфи, пов'язки",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4127-khustky-sharfy-pov-yazky",
+              "children": []
+            },
+            {
+              "id": 12685,
+              "name": "Чохли для взуття",
+              "parent_id": 12675,
+              "url": "https://fozzyshop.ua/4120-chokhly-dlya-vzuttya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12670,
+          "name": "Взуття",
+          "parent_id": 12663,
+          "url": "https://fozzyshop.ua/3840-vzuttya",
+          "children": [
+            {
+              "id": 12671,
+              "name": "Взуття для басейну, пляжу",
+              "parent_id": 12670,
+              "url": "https://fozzyshop.ua/4249-vzuttya-dlya-baseynu-plyazhu",
+              "children": []
+            },
+            {
+              "id": 12672,
+              "name": "Домашнє взуття",
+              "parent_id": 12670,
+              "url": "https://fozzyshop.ua/4228-domashnye-vzuttya",
+              "children": []
+            },
+            {
+              "id": 12674,
+              "name": "Засоби для догляду за взуттям",
+              "parent_id": 12670,
+              "url": "https://fozzyshop.ua/3889-zasoby-dlya-doglyadu-za-vzuttyam",
+              "children": []
+            },
+            {
+              "id": 12673,
+              "name": "Повсякденне взуття",
+              "parent_id": 12670,
+              "url": "https://fozzyshop.ua/4075-povsyakdenne-vzuttya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12664,
+          "name": "Одяг",
+          "parent_id": 12663,
+          "url": "https://fozzyshop.ua/3817-odyag",
+          "children": [
+            {
+              "id": 12665,
+              "name": "Верхній одяг",
+              "parent_id": 12664,
+              "url": "https://fozzyshop.ua/4251-verkhniy-odyag",
+              "children": []
+            },
+            {
+              "id": 12669,
+              "name": "Панчішно-шкарпеткові вироби",
+              "parent_id": 12664,
+              "url": "https://fozzyshop.ua/3886-panchishno-shkarpetkovi-vyroby",
+              "children": []
+            },
+            {
+              "id": 12667,
+              "name": "Спідня білизна жіноча",
+              "parent_id": 12664,
+              "url": "https://fozzyshop.ua/4219-spidnya-bilyzna-zhinocha",
+              "children": []
+            },
+            {
+              "id": 12668,
+              "name": "Спідня білизна чоловіча",
+              "parent_id": 12664,
+              "url": "https://fozzyshop.ua/4530-spidnya-bilyzna-cholovicha",
+              "children": []
+            },
+            {
+              "id": 12666,
+              "name": "Текстильно-трикотажний одяг",
+              "parent_id": 12664,
+              "url": "https://fozzyshop.ua/4275-tekstylno-trykotazhnyy-odyag",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12600,
+      "name": "Побутова хімія",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3814-pobutova-khimiya",
+      "children": [
+        {
+          "id": 12619,
+          "name": "Догляд за взуттям",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4092-doglyad-za-vzuttyam",
+          "children": []
+        },
+        {
+          "id": 12615,
+          "name": "Догляд за побутовою технікою",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4104-doglyad-za-pobutovoyu-tekhnikoyu",
+          "children": []
+        },
+        {
+          "id": 12616,
+          "name": "Засіб для посудомийних машин",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4231-zasib-dlya-posudomyynykh-mashyn",
+          "children": []
+        },
+        {
+          "id": 12601,
+          "name": "Засоби для прання",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4300-zasoby-dlya-prannya",
+          "children": [
+            {
+              "id": 12603,
+              "name": "Гель для прання",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4543-gel-dlya-prannya",
+              "children": []
+            },
+            {
+              "id": 12607,
+              "name": "Засоби для пом`якшення води",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4539-zasoby-dlya-pom-yakshennya-vody",
+              "children": []
+            },
+            {
+              "id": 12604,
+              "name": "Капсули для прання",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4542-kapsuly-dlya-prannya",
+              "children": []
+            },
+            {
+              "id": 12605,
+              "name": "Кондиціонери-ополіскувачі",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4541-kondytsionery-opoliskuvachi",
+              "children": []
+            },
+            {
+              "id": 12608,
+              "name": "Мило господарське",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4538-mylo-gospodarske",
+              "children": []
+            },
+            {
+              "id": 12606,
+              "name": "Плямовивідники для одягу",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4540-plyamovyvidnyky-dlya-odyagu",
+              "children": []
+            },
+            {
+              "id": 12602,
+              "name": "Порошок для прання",
+              "parent_id": 12601,
+              "url": "https://fozzyshop.ua/4537-poroshok-dlya-prannya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12609,
+          "name": "Засоби для прибирання",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4217-zasoby-dlya-prybyrannya",
+          "children": [
+            {
+              "id": 12611,
+              "name": "Миючі та чистячі засоби для дому",
+              "parent_id": 12609,
+              "url": "https://fozzyshop.ua/4545-myyuchi-ta-chystyachi-zasoby-dlya-domu",
+              "children": []
+            },
+            {
+              "id": 12610,
+              "name": "Чистка та дезінфекція ванної та туалету",
+              "parent_id": 12609,
+              "url": "https://fozzyshop.ua/4544-chystka-ta-dezinfektsiya-vannoyi-ta-tualetu",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12617,
+          "name": "Засоби для ручного миття посуду",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4162-zasoby-dlya-ruchnogo-myttya-posudu",
+          "children": []
+        },
+        {
+          "id": 12618,
+          "name": "Засоби захисту від комах",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4110-zasoby-zakhystu-vid-komakh",
+          "children": []
+        },
+        {
+          "id": 12612,
+          "name": "Освіжувачі повітря",
+          "parent_id": 12600,
+          "url": "https://fozzyshop.ua/4098-osvizhuvachi-povitrya",
+          "children": [
+            {
+              "id": 12613,
+              "name": "Автоматичні",
+              "parent_id": 12612,
+              "url": "https://fozzyshop.ua/4546-avtomatychni",
+              "children": []
+            },
+            {
+              "id": 12614,
+              "name": "Аерозолі та гелі",
+              "parent_id": 12612,
+              "url": "https://fozzyshop.ua/4547-aerozoli-ta-geli",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12192,
+      "name": "Риба, морепродукти",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3666-ryba-moreprodukty",
+      "children": [
+        {
+          "id": 12193,
+          "name": "Готова риба, морепродукти",
+          "parent_id": 12192,
+          "url": "https://fozzyshop.ua/3715-gotova-ryba-moreprodukty",
+          "children": [
+            {
+              "id": 12201,
+              "name": "В'ялена, сушена риба та морепродукти",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4239-v-yalena-sushena-ryba-ta-moreprodukty",
+              "children": []
+            },
+            {
+              "id": 12194,
+              "name": "Власні копченості",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4520-vlasni-kopchenosti",
+              "children": []
+            },
+            {
+              "id": 12195,
+              "name": "Ікра",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/3984-ikra",
+              "children": []
+            },
+            {
+              "id": 12199,
+              "name": "Крабові палички, сурімі охолоджені",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4057-krabovi-palychky-surimi-okholodzheni",
+              "children": []
+            },
+            {
+              "id": 12204,
+              "name": "Морська капуста, водорості",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4087-morska-kapusta-vodorosti",
+              "children": []
+            },
+            {
+              "id": 12196,
+              "name": "Пресерви, суші",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4320-preservy-sushi",
+              "children": []
+            },
+            {
+              "id": 12202,
+              "name": "Риба гарячего копчення",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4166-ryba-garyachego-kopchennya",
+              "children": []
+            },
+            {
+              "id": 12198,
+              "name": "Риба холодного копчення",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4446-ryba-kholodnogo-kopchennya",
+              "children": []
+            },
+            {
+              "id": 12197,
+              "name": "Рибна паста",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4311-rybna-pasta",
+              "children": []
+            },
+            {
+              "id": 12200,
+              "name": "Снекі рибні, із морепродуктів",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4448-sneki-rybni-iz-moreproduktiv",
+              "children": []
+            },
+            {
+              "id": 12203,
+              "name": "Солона риба, маринована",
+              "parent_id": 12193,
+              "url": "https://fozzyshop.ua/4170-solona-ryba-marynovana",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12210,
+          "name": "Заморожена риба, морепродукти",
+          "parent_id": 12192,
+          "url": "https://fozzyshop.ua/3802-zamorozhena-ryba-moreprodukty",
+          "children": [
+            {
+              "id": 12213,
+              "name": "Крабові палички, сурімі заморожені",
+              "parent_id": 12210,
+              "url": "https://fozzyshop.ua/4445-krabovi-palychky-surimi-zamorozheni",
+              "children": []
+            },
+            {
+              "id": 12212,
+              "name": "Морепродукти заморожені",
+              "parent_id": 12210,
+              "url": "https://fozzyshop.ua/3915-moreprodukty-zamorozheni",
+              "children": []
+            },
+            {
+              "id": 12214,
+              "name": "Равлики заморожені",
+              "parent_id": 12210,
+              "url": "https://fozzyshop.ua/4402-ravlyky-zamorozheni",
+              "children": []
+            },
+            {
+              "id": 12211,
+              "name": "Риба заморожена",
+              "parent_id": 12210,
+              "url": "https://fozzyshop.ua/4013-ryba-zamorozhena",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12215,
+          "name": "Напівфабрикати рибні, із морепродуктів",
+          "parent_id": 12192,
+          "url": "https://fozzyshop.ua/4383-napivfabrykaty-rybni-iz-moreproduktiv",
+          "children": []
+        },
+        {
+          "id": 12205,
+          "name": "Охолоджені риба, морепродукти",
+          "parent_id": 12192,
+          "url": "https://fozzyshop.ua/3744-okholodzheni-ryba-moreprodukty",
+          "children": [
+            {
+              "id": 12206,
+              "name": "Лососеві, форель",
+              "parent_id": 12205,
+              "url": "https://fozzyshop.ua/4508-lososevi-forel",
+              "children": []
+            },
+            {
+              "id": 12209,
+              "name": "Морепродукти та молюски",
+              "parent_id": 12205,
+              "url": "https://fozzyshop.ua/4560-moreprodukty-ta-molyusky",
+              "children": []
+            },
+            {
+              "id": 12207,
+              "name": "Морська риба",
+              "parent_id": 12205,
+              "url": "https://fozzyshop.ua/4509-morska-ryba",
+              "children": []
+            },
+            {
+              "id": 12208,
+              "name": "Річкова риба",
+              "parent_id": 12205,
+              "url": "https://fozzyshop.ua/4510-richkova-ryba",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12125,
+      "name": "Солодощі, снеки",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3644-solodoshchi-sneky",
+      "children": [
+        {
+          "id": 12131,
+          "name": "Борошняні кондитерські вироби",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3760-boroshnyani-kondyterski-vyroby",
+          "children": [
+            {
+              "id": 12132,
+              "name": "Бісквіти",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/3945-biskvity",
+              "children": []
+            },
+            {
+              "id": 12133,
+              "name": "Вафлі",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4212-vafli",
+              "children": []
+            },
+            {
+              "id": 12134,
+              "name": "Галети",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/3994-galety",
+              "children": []
+            },
+            {
+              "id": 12135,
+              "name": "Кекси",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/3895-keksy",
+              "children": []
+            },
+            {
+              "id": 12136,
+              "name": "Крекер",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4267-kreker",
+              "children": []
+            },
+            {
+              "id": 12137,
+              "name": "Круасани",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4135-kruasany",
+              "children": []
+            },
+            {
+              "id": 12138,
+              "name": "Маффіни",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/3896-maffiny",
+              "children": []
+            },
+            {
+              "id": 12139,
+              "name": "Печиво",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4133-pechyvo",
+              "children": []
+            },
+            {
+              "id": 12140,
+              "name": "Пряники",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4240-pryanyky",
+              "children": []
+            },
+            {
+              "id": 12141,
+              "name": "Рулети",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4091-rulety",
+              "children": []
+            },
+            {
+              "id": 12142,
+              "name": "Соломка",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4292-solomka",
+              "children": []
+            },
+            {
+              "id": 12143,
+              "name": "Сухарі",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/3936-sukhari",
+              "children": []
+            },
+            {
+              "id": 12144,
+              "name": "Сушка",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4070-sushka",
+              "children": []
+            },
+            {
+              "id": 12145,
+              "name": "Трубочки",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/3991-trubochky",
+              "children": []
+            },
+            {
+              "id": 12146,
+              "name": "Хлібні палички",
+              "parent_id": 12131,
+              "url": "https://fozzyshop.ua/4028-khlibni-palychky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12126,
+          "name": "Власна кондитерська",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/4574-vlasna-kondyterska",
+          "children": [
+            {
+              "id": 12130,
+              "name": "Зефір",
+              "parent_id": 12126,
+              "url": "https://fozzyshop.ua/4578-zefir",
+              "children": []
+            },
+            {
+              "id": 12129,
+              "name": "Кекси, рулети, печиво",
+              "parent_id": 12126,
+              "url": "https://fozzyshop.ua/4577-keksy-rulety-pechyvo",
+              "children": []
+            },
+            {
+              "id": 12128,
+              "name": "Тістечка",
+              "parent_id": 12126,
+              "url": "https://fozzyshop.ua/4576-tistechka",
+              "children": []
+            },
+            {
+              "id": 12127,
+              "name": "Торти",
+              "parent_id": 12126,
+              "url": "https://fozzyshop.ua/4575-torty",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12175,
+          "name": "Горіхи",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3863-gorikhy",
+          "children": []
+        },
+        {
+          "id": 12159,
+          "name": "Драже",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3724-drazhe",
+          "children": []
+        },
+        {
+          "id": 12166,
+          "name": "Жувальна гумка",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3860-zhuvalna-gumka",
+          "children": []
+        },
+        {
+          "id": 12160,
+          "name": "Зефір, мармелад",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3682-zefir-marmelad",
+          "children": [
+            {
+              "id": 12161,
+              "name": "Зефір",
+              "parent_id": 12160,
+              "url": "https://fozzyshop.ua/4492-zefir",
+              "children": []
+            },
+            {
+              "id": 12162,
+              "name": "Мармелад",
+              "parent_id": 12160,
+              "url": "https://fozzyshop.ua/4491-marmelad",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12176,
+          "name": "Насіння",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3712-nasinnya",
+          "children": []
+        },
+        {
+          "id": 12165,
+          "name": "Пасти шоколадні, горіхові",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3765-pasty-shokoladni-gorikhovi",
+          "children": []
+        },
+        {
+          "id": 12167,
+          "name": "Попкорн",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3762-popkorn",
+          "children": []
+        },
+        {
+          "id": 12172,
+          "name": "Рибні, м'ясні снеки",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3865-rybni-m-yasni-sneky",
+          "children": [
+            {
+              "id": 12173,
+              "name": "М'ясні снеки",
+              "parent_id": 12172,
+              "url": "https://fozzyshop.ua/4159-m-yasni-sneky",
+              "children": []
+            },
+            {
+              "id": 12174,
+              "name": "Рибні снеки",
+              "parent_id": 12172,
+              "url": "https://fozzyshop.ua/4078-rybni-sneky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12171,
+          "name": "Сирні снеки",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3695-syrni-sneky",
+          "children": []
+        },
+        {
+          "id": 12170,
+          "name": "Снеки кукурудзяні, палички",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3861-sneky-kukurudzyani-palychky",
+          "children": []
+        },
+        {
+          "id": 12164,
+          "name": "Солодка вата",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3813-solodka-vata",
+          "children": []
+        },
+        {
+          "id": 12168,
+          "name": "Сухарики, соломка",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3700-sukharyky-solomka",
+          "children": []
+        },
+        {
+          "id": 12163,
+          "name": "Східні солодощі, халва",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3801-skhidni-solodoshchi-khalva",
+          "children": []
+        },
+        {
+          "id": 12147,
+          "name": "Торти, тістечка",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3730-torty-tistechka",
+          "children": [
+            {
+              "id": 12148,
+              "name": "Коржі для торту",
+              "parent_id": 12147,
+              "url": "https://fozzyshop.ua/4173-korzhi-dlya-tortu",
+              "children": []
+            },
+            {
+              "id": 12149,
+              "name": "Тістечка",
+              "parent_id": 12147,
+              "url": "https://fozzyshop.ua/3891-tistechka",
+              "children": []
+            },
+            {
+              "id": 12150,
+              "name": "Торти",
+              "parent_id": 12147,
+              "url": "https://fozzyshop.ua/4153-torty",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12155,
+          "name": "Цукерки",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3819-tsukerky",
+          "children": [
+            {
+              "id": 12156,
+              "name": "Батончики фруктові, злакові",
+              "parent_id": 12155,
+              "url": "https://fozzyshop.ua/4373-batonchyky-fruktovi-zlakovi",
+              "children": []
+            },
+            {
+              "id": 12157,
+              "name": "Цукерки в коробках",
+              "parent_id": 12155,
+              "url": "https://fozzyshop.ua/4021-tsukerky-v-korobkakh",
+              "children": []
+            },
+            {
+              "id": 12158,
+              "name": "Цукерки вагові, фасовані",
+              "parent_id": 12155,
+              "url": "https://fozzyshop.ua/4266-tsukerky-vagovi-fasovani",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12169,
+          "name": "Чипси",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3699-chypsy",
+          "children": []
+        },
+        {
+          "id": 12151,
+          "name": "Шоколад",
+          "parent_id": 12125,
+          "url": "https://fozzyshop.ua/3723-shokolad",
+          "children": [
+            {
+              "id": 12152,
+              "name": "Батончик шоколадний",
+              "parent_id": 12151,
+              "url": "https://fozzyshop.ua/4190-batonchyk-shokoladnyy",
+              "children": []
+            },
+            {
+              "id": 12153,
+              "name": "Шоколадна плитка",
+              "parent_id": 12151,
+              "url": "https://fozzyshop.ua/4237-shokoladna-plytka",
+              "children": []
+            },
+            {
+              "id": 12154,
+              "name": "Яйце шоколадне, фігурки",
+              "parent_id": 12151,
+              "url": "https://fozzyshop.ua/4017-yaytse-shokoladne-figurky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12093,
+      "name": "Соуси, спеції, рослинна олія",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3646-sousy-spetsiyi-roslynna-oliya",
+      "children": [
+        {
+          "id": 12103,
+          "name": "Гірчиця, хрін",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3785-girchytsya-khrin",
+          "children": [
+            {
+              "id": 12104,
+              "name": "Васабі",
+              "parent_id": 12103,
+              "url": "https://fozzyshop.ua/3977-vasabi",
+              "children": []
+            },
+            {
+              "id": 12105,
+              "name": "Гірчиця",
+              "parent_id": 12103,
+              "url": "https://fozzyshop.ua/3934-girchytsya",
+              "children": []
+            },
+            {
+              "id": 12106,
+              "name": "Хрін",
+              "parent_id": 12103,
+              "url": "https://fozzyshop.ua/4064-khrin",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12113,
+          "name": "Інгредієнти для випічки",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3836-ingrediyenty-dlya-vypichky",
+          "children": [
+            {
+              "id": 12114,
+              "name": "Ароматизатори, екстракти",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4227-aromatyzatory-ekstrakty",
+              "children": []
+            },
+            {
+              "id": 12115,
+              "name": "Готові суміші для випічки",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/3947-gotovi-sumishi-dlya-vypichky",
+              "children": []
+            },
+            {
+              "id": 12117,
+              "name": "Дріжджі",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4283-drizhdzhi",
+              "children": []
+            },
+            {
+              "id": 12120,
+              "name": "Желе",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4521-zhele",
+              "children": []
+            },
+            {
+              "id": 12118,
+              "name": "Згущувачі",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4256-zghushchuvachi",
+              "children": []
+            },
+            {
+              "id": 12119,
+              "name": "Какао для випічки",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/3880-kakao-dlya-vypichky",
+              "children": []
+            },
+            {
+              "id": 12121,
+              "name": "Кисілі, кондитерські концентрати",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/3871-kysili-kondyterski-kontsentraty",
+              "children": []
+            },
+            {
+              "id": 12122,
+              "name": "Кондитерські вершки, крем",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/3878-kondyterski-vershky-krem",
+              "children": []
+            },
+            {
+              "id": 12123,
+              "name": "Прикраси випічки, десертів",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4063-prykrasy-vypichky-desertiv",
+              "children": []
+            },
+            {
+              "id": 12124,
+              "name": "Розпушувачі",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4184-rozpushuvachi",
+              "children": []
+            },
+            {
+              "id": 12116,
+              "name": "Сік концентрований",
+              "parent_id": 12113,
+              "url": "https://fozzyshop.ua/4433-sik-kontsentrovanyy",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12094,
+          "name": "Кетчуп, соус, маринад",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3683-ketchup-sous-marynad",
+          "children": [
+            {
+              "id": 12099,
+              "name": "В'ялені помідори",
+              "parent_id": 12094,
+              "url": "https://fozzyshop.ua/4067-v-yaleni-pomidory",
+              "children": []
+            },
+            {
+              "id": 12097,
+              "name": "Заправка, маринади",
+              "parent_id": 12094,
+              "url": "https://fozzyshop.ua/4331-zapravka-marynady",
+              "children": []
+            },
+            {
+              "id": 12095,
+              "name": "Кетчуп",
+              "parent_id": 12094,
+              "url": "https://fozzyshop.ua/3971-ketchup",
+              "children": []
+            },
+            {
+              "id": 12096,
+              "name": "Соус",
+              "parent_id": 12094,
+              "url": "https://fozzyshop.ua/4134-sous",
+              "children": []
+            },
+            {
+              "id": 12098,
+              "name": "Томатна паста",
+              "parent_id": 12094,
+              "url": "https://fozzyshop.ua/4186-tomatna-pasta",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12100,
+          "name": "Майонез, майонезні соуси",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3776-mayonez-mayonezni-sousy",
+          "children": [
+            {
+              "id": 12101,
+              "name": "Майонез",
+              "parent_id": 12100,
+              "url": "https://fozzyshop.ua/4225-mayonez",
+              "children": []
+            },
+            {
+              "id": 12102,
+              "name": "Майонезні соуси",
+              "parent_id": 12100,
+              "url": "https://fozzyshop.ua/4322-mayonezni-sousy",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12111,
+          "name": "Оцет",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3693-otset",
+          "children": []
+        },
+        {
+          "id": 12107,
+          "name": "Рослинна олія",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3822-roslynna-oliya",
+          "children": [
+            {
+              "id": 12110,
+              "name": "Інші олії",
+              "parent_id": 12107,
+              "url": "https://fozzyshop.ua/4314-inshi-oliyi",
+              "children": []
+            },
+            {
+              "id": 12109,
+              "name": "Оливкова олія",
+              "parent_id": 12107,
+              "url": "https://fozzyshop.ua/4302-olyvkova-oliya",
+              "children": []
+            },
+            {
+              "id": 12108,
+              "name": "Соняшникова олія",
+              "parent_id": 12107,
+              "url": "https://fozzyshop.ua/4234-sonyashnykova-oliya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12112,
+          "name": "Спеції, приправи",
+          "parent_id": 12093,
+          "url": "https://fozzyshop.ua/3858-spetsiyi-prypravy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12510,
+      "name": "Товари для дачі, відпочинку",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3669-tovary-dlya-dachi-vidpochynku",
+      "children": [
+        {
+          "id": 12536,
+          "name": "Багаж",
+          "parent_id": 12510,
+          "url": "https://fozzyshop.ua/3685-bagazh",
+          "children": [
+            {
+              "id": 12537,
+              "name": "Валізи",
+              "parent_id": 12536,
+              "url": "https://fozzyshop.ua/4282-valizy",
+              "children": []
+            },
+            {
+              "id": 12538,
+              "name": "Сумки для покупців",
+              "parent_id": 12536,
+              "url": "https://fozzyshop.ua/3909-sumky-dlya-pokuptsiv",
+              "children": []
+            },
+            {
+              "id": 12539,
+              "name": "Сумки, рюкзаки",
+              "parent_id": 12536,
+              "url": "https://fozzyshop.ua/4097-sumky-ryukzaky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12511,
+          "name": "Сад, город",
+          "parent_id": 12510,
+          "url": "https://fozzyshop.ua/3756-sad-gorod",
+          "children": [
+            {
+              "id": 12513,
+              "name": "Аксесуари для квітів",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/4102-aksesuary-dlya-kvitiv",
+              "children": []
+            },
+            {
+              "id": 12520,
+              "name": "Біопрепарати для очищення",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/4242-biopreparaty-dlya-ochyshchennya",
+              "children": []
+            },
+            {
+              "id": 12514,
+              "name": "Ґрунти, дренаж",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/4207-grunty-drenazh",
+              "children": []
+            },
+            {
+              "id": 12515,
+              "name": "Добрива, захист рослин",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/3877-dobryva-zakhyst-roslyn",
+              "children": []
+            },
+            {
+              "id": 12512,
+              "name": "Кімнатні рослини",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/3940-kimnatni-roslyny",
+              "children": []
+            },
+            {
+              "id": 12516,
+              "name": "Насіння",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/3954-nasinnya",
+              "children": []
+            },
+            {
+              "id": 12518,
+              "name": "Саджанці",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/3995-sadzhantsi",
+              "children": []
+            },
+            {
+              "id": 12519,
+              "name": "Садові інструменти",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/4096-sadovi-instrumenty",
+              "children": []
+            },
+            {
+              "id": 12517,
+              "name": "Цибулини квітів",
+              "parent_id": 12511,
+              "url": "https://fozzyshop.ua/4061-tsybulyny-kvitiv",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12535,
+          "name": "Спортивні товари",
+          "parent_id": 12510,
+          "url": "https://fozzyshop.ua/3794-sportyvni-tovary",
+          "children": []
+        },
+        {
+          "id": 12540,
+          "name": "Тара",
+          "parent_id": 12510,
+          "url": "https://fozzyshop.ua/3847-tara",
+          "children": []
+        },
+        {
+          "id": 12521,
+          "name": "Товари для активного відпочинку",
+          "parent_id": 12510,
+          "url": "https://fozzyshop.ua/3815-tovary-dlya-aktyvnogo-vidpochynku",
+          "children": [
+            {
+              "id": 12522,
+              "name": "Для зимового відпочинку",
+              "parent_id": 12521,
+              "url": "https://fozzyshop.ua/4224-dlya-zymovogo-vidpochynku",
+              "children": []
+            },
+            {
+              "id": 12523,
+              "name": "Для пляжу і басейну",
+              "parent_id": 12521,
+              "url": "https://fozzyshop.ua/3905-dlya-plyazhu-i-baseynu",
+              "children": []
+            },
+            {
+              "id": 12524,
+              "name": "Для туризму",
+              "parent_id": 12521,
+              "url": "https://fozzyshop.ua/4139-dlya-turyzmu",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12525,
+          "name": "Товари для пікніка",
+          "parent_id": 12510,
+          "url": "https://fozzyshop.ua/3688-tovary-dlya-piknika",
+          "children": [
+            {
+              "id": 12526,
+              "name": "Грилі, мангали, барбекю",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/3894-gryli-mangaly-barbekyu",
+              "children": []
+            },
+            {
+              "id": 12527,
+              "name": "Дрова, вугілля, брикети",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4009-drova-vugillya-brykety",
+              "children": []
+            },
+            {
+              "id": 12528,
+              "name": "Засоби для розпалювання",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4290-zasoby-dlya-rozpalyuvannya",
+              "children": []
+            },
+            {
+              "id": 12529,
+              "name": "Посуд для пікніка одноразовий",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4122-posud-dlya-piknika-odnorazovyy",
+              "children": []
+            },
+            {
+              "id": 12530,
+              "name": "Посуд для туризму",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4003-posud-dlya-turyzmu",
+              "children": []
+            },
+            {
+              "id": 12531,
+              "name": "Решітки, шампури",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4011-reshitky-shampury",
+              "children": []
+            },
+            {
+              "id": 12532,
+              "name": "Сірники, запальнички",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4167-sirnyky-zapalnychky",
+              "children": []
+            },
+            {
+              "id": 12533,
+              "name": "Стільці, гамаки, зонти пляжні",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4273-stiltsi-gamaky-zonty-plyazhni",
+              "children": []
+            },
+            {
+              "id": 12534,
+              "name": "Термосумки, акумулятори холоду",
+              "parent_id": 12525,
+              "url": "https://fozzyshop.ua/4004-termosumky-akumulyatory-kholodu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12230,
+      "name": "Товари для дітей",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3645-tovary-dlya-ditey",
+      "children": [
+        {
+          "id": 12231,
+          "name": "Аксесуари для новонароджених",
+          "parent_id": 12230,
+          "url": "https://fozzyshop.ua/3837-aksesuary-dlya-novonarodzhenykh",
+          "children": []
+        },
+        {
+          "id": 12232,
+          "name": "Гігієна та догляд",
+          "parent_id": 12230,
+          "url": "https://fozzyshop.ua/3736-gigiyena-ta-doglyad",
+          "children": [
+            {
+              "id": 12239,
+              "name": "Аксесуари для волосся дитячі",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4260-aksesuary-dlya-volossya-dytyachi",
+              "children": []
+            },
+            {
+              "id": 12236,
+              "name": "Вологі серветки",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4032-vologi-servetky",
+              "children": []
+            },
+            {
+              "id": 12243,
+              "name": "Дитячі автомобільні крісла",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4265-dytyachi-avtomobilni-krisla",
+              "children": []
+            },
+            {
+              "id": 12235,
+              "name": "Догляд за порожниною рота дитини",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4132-doglyad-za-porozhnynoyu-rota-dytyny",
+              "children": []
+            },
+            {
+              "id": 12234,
+              "name": "Догляд за шкірою дитини",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/3910-doglyad-za-shkiroyu-dytyny",
+              "children": []
+            },
+            {
+              "id": 12233,
+              "name": "Засоби для купання",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4321-zasoby-dlya-kupannya",
+              "children": []
+            },
+            {
+              "id": 12241,
+              "name": "Захист від комах для дітей",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/3972-zakhyst-vid-komakh-dlya-ditey",
+              "children": []
+            },
+            {
+              "id": 12238,
+              "name": "Пелюшки",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4060-pelyushky",
+              "children": []
+            },
+            {
+              "id": 12237,
+              "name": "Підгузки",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/3931-pidguzky",
+              "children": []
+            },
+            {
+              "id": 12240,
+              "name": "Прання дитячого одягу",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4202-prannya-dytyachogo-odyagu",
+              "children": []
+            },
+            {
+              "id": 12242,
+              "name": "Сонцезахисні засоби для дітей",
+              "parent_id": 12232,
+              "url": "https://fozzyshop.ua/4298-sontsezakhysni-zasoby-dlya-ditey",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12244,
+          "name": "Дитяче харчування",
+          "parent_id": 12230,
+          "url": "https://fozzyshop.ua/3770-dytyache-kharchuvannya",
+          "children": [
+            {
+              "id": 12255,
+              "name": "Борошняні вироби, батончики",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4259-boroshnyani-vyroby-batonchyky",
+              "children": []
+            },
+            {
+              "id": 12252,
+              "name": "Дитяча вода",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4129-dytyacha-voda",
+              "children": []
+            },
+            {
+              "id": 12250,
+              "name": "Дитячий суп",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4062-dytyachyy-sup",
+              "children": []
+            },
+            {
+              "id": 12254,
+              "name": "Дитячий чай",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4128-dytyachyy-chay",
+              "children": []
+            },
+            {
+              "id": 12247,
+              "name": "Дитячі каші",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/3893-dytyachi-kashi",
+              "children": []
+            },
+            {
+              "id": 12251,
+              "name": "Дитячі макаронні вироби",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/3901-dytyachi-makaronni-vyroby",
+              "children": []
+            },
+            {
+              "id": 12249,
+              "name": "Дитячі пюре",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4169-dytyachi-pyure",
+              "children": []
+            },
+            {
+              "id": 12253,
+              "name": "Дитячі соки",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4178-dytyachi-soky",
+              "children": []
+            },
+            {
+              "id": 12245,
+              "name": "Замінник грудного молока",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4039-zaminnyk-grudnogo-moloka",
+              "children": []
+            },
+            {
+              "id": 12248,
+              "name": "Молочні продукти для дітей",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4142-molochni-produkty-dlya-ditey",
+              "children": []
+            },
+            {
+              "id": 12246,
+              "name": "Сухі суміші",
+              "parent_id": 12244,
+              "url": "https://fozzyshop.ua/4158-sukhi-sumishi",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12257,
+          "name": "Дитячий одяг, взуття",
+          "parent_id": 12230,
+          "url": "https://fozzyshop.ua/3703-dytyachyy-odyag-vzuttya",
+          "children": [
+            {
+              "id": 12258,
+              "name": "Галантерея дитяча",
+              "parent_id": 12257,
+              "url": "https://fozzyshop.ua/4176-galantereya-dytyacha",
+              "children": []
+            },
+            {
+              "id": 12261,
+              "name": "Дитяче взуття",
+              "parent_id": 12257,
+              "url": "https://fozzyshop.ua/4023-dytyache-vzuttya",
+              "children": []
+            },
+            {
+              "id": 12259,
+              "name": "Дитячий одяг",
+              "parent_id": 12257,
+              "url": "https://fozzyshop.ua/3949-dytyachyy-odyag",
+              "children": []
+            },
+            {
+              "id": 12260,
+              "name": "Колготки дитячі,  шкарпетки",
+              "parent_id": 12257,
+              "url": "https://fozzyshop.ua/4101-kolgotky-dytyachi-shkarpetky",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12256,
+          "name": "Дитячий посуд",
+          "parent_id": 12230,
+          "url": "https://fozzyshop.ua/3843-dytyachyy-posud",
+          "children": []
+        },
+        {
+          "id": 12262,
+          "name": "Іграшки",
+          "parent_id": 12230,
+          "url": "https://fozzyshop.ua/3746-igrashky",
+          "children": [
+            {
+              "id": 12265,
+              "name": "LEGO",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4511-lego",
+              "children": []
+            },
+            {
+              "id": 12267,
+              "name": "Активні ігри",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4033-aktyvni-igry",
+              "children": []
+            },
+            {
+              "id": 12272,
+              "name": "Бульбашки",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/3929-bulbashky",
+              "children": []
+            },
+            {
+              "id": 12269,
+              "name": "Дитячий транспорт",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4198-dytyachyy-transport",
+              "children": []
+            },
+            {
+              "id": 12278,
+              "name": "Залізні дороги",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4054-zalizni-dorogy",
+              "children": []
+            },
+            {
+              "id": 12270,
+              "name": "Іграшки для малюків",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4229-igrashky-dlya-malyukiv",
+              "children": []
+            },
+            {
+              "id": 12271,
+              "name": "Іграшки для піску, води",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/3941-igrashky-dlya-pisku-vody",
+              "children": []
+            },
+            {
+              "id": 12280,
+              "name": "Іграшкова зброя",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/3872-igrashkova-zbroya",
+              "children": []
+            },
+            {
+              "id": 12268,
+              "name": "Ігрові набори",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4040-igrovi-nabory",
+              "children": []
+            },
+            {
+              "id": 12279,
+              "name": "Конструктори",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/3982-konstruktory",
+              "children": []
+            },
+            {
+              "id": 12275,
+              "name": "Ляльки, аксесуари до них",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4010-lyalky-aksesuary-do-nykh",
+              "children": []
+            },
+            {
+              "id": 12273,
+              "name": "М'які іграшки",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/3952-m-yaki-igrashky",
+              "children": []
+            },
+            {
+              "id": 12276,
+              "name": "Машинки, техніка, треки",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/3989-mashynky-tekhnika-treky",
+              "children": []
+            },
+            {
+              "id": 12266,
+              "name": "Набори для творчості",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4305-nabory-dlya-tvorchosti",
+              "children": []
+            },
+            {
+              "id": 12263,
+              "name": "Настільні ігри",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4144-nastilni-igry",
+              "children": []
+            },
+            {
+              "id": 12264,
+              "name": "Пазли",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4042-pazly",
+              "children": []
+            },
+            {
+              "id": 12277,
+              "name": "Роботи, трансформери",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4007-roboty-transformery",
+              "children": []
+            },
+            {
+              "id": 12274,
+              "name": "Фігурки",
+              "parent_id": 12262,
+              "url": "https://fozzyshop.ua/4048-figurky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12742,
+      "name": "Тютюнова продукція",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/4357-tyutyunova-produktsiya",
+      "children": [
+        {
+          "id": 12750,
+          "name": "Запальнички, сірники, попільнички",
+          "parent_id": 12742,
+          "url": "https://fozzyshop.ua/4361-zapalnychky-sirnyky-popilnychky",
+          "children": []
+        },
+        {
+          "id": 12745,
+          "name": "Сигари і аксесуари",
+          "parent_id": 12742,
+          "url": "https://fozzyshop.ua/4362-sygary-i-aksesuary",
+          "children": []
+        },
+        {
+          "id": 12744,
+          "name": "Сигарили",
+          "parent_id": 12742,
+          "url": "https://fozzyshop.ua/4363-sygaryly",
+          "children": []
+        },
+        {
+          "id": 12747,
+          "name": "Системи нагрівання тютюну",
+          "parent_id": 12742,
+          "url": "https://fozzyshop.ua/4360-systemy-nagrivannya-tyutyunu",
+          "children": [
+            {
+              "id": 12748,
+              "name": "Комплекти систем нагрівання тютюну",
+              "parent_id": 12747,
+              "url": "https://fozzyshop.ua/4365-komplekty-system-nagrivannya-tyutyunu",
+              "children": []
+            },
+            {
+              "id": 12749,
+              "name": "Тютюн для систем нагрівання",
+              "parent_id": 12747,
+              "url": "https://fozzyshop.ua/4366-tyutyun-dlya-system-nagrivannya",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12746,
+          "name": "Тютюн та аксесуари",
+          "parent_id": 12742,
+          "url": "https://fozzyshop.ua/4359-tyutyun-ta-aksesuary",
+          "children": []
+        },
+        {
+          "id": 12743,
+          "name": "Цигарки",
+          "parent_id": 12742,
+          "url": "https://fozzyshop.ua/4364-tsygarky",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12377,
+      "name": "Хлібобулочні вироби",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3664-khlibobulochni-vyroby",
+      "children": [
+        {
+          "id": 12385,
+          "name": "Багет",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3677-baget",
+          "children": []
+        },
+        {
+          "id": 12386,
+          "name": "Батон",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3825-baton",
+          "children": []
+        },
+        {
+          "id": 12390,
+          "name": "Булочки, здоба",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3732-bulochky-zdoba",
+          "children": []
+        },
+        {
+          "id": 12378,
+          "name": "Власна випічка",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/4579-vlasna-vypichka",
+          "children": [
+            {
+              "id": 12380,
+              "name": "Батон та лаваш",
+              "parent_id": 12378,
+              "url": "https://fozzyshop.ua/4581-baton-ta-lavash",
+              "children": []
+            },
+            {
+              "id": 12381,
+              "name": "Булочки та здоба",
+              "parent_id": 12378,
+              "url": "https://fozzyshop.ua/4582-bulochky-ta-zdoba",
+              "children": []
+            },
+            {
+              "id": 12382,
+              "name": "Випічка з листкового тіста",
+              "parent_id": 12378,
+              "url": "https://fozzyshop.ua/4583-vypichka-z-lystkovogo-tista",
+              "children": []
+            },
+            {
+              "id": 12384,
+              "name": "Кекси, пампухи та донати",
+              "parent_id": 12378,
+              "url": "https://fozzyshop.ua/4585-keksy-pampukhy-ta-donaty",
+              "children": []
+            },
+            {
+              "id": 12383,
+              "name": "Сендвічі та піца",
+              "parent_id": 12378,
+              "url": "https://fozzyshop.ua/4584-sendvichi-ta-pitsa",
+              "children": []
+            },
+            {
+              "id": 12379,
+              "name": "Хліб та багети",
+              "parent_id": 12378,
+              "url": "https://fozzyshop.ua/4580-khlib-ta-bagety",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12389,
+          "name": "Лаваш, тортилья",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3811-lavash-tortylya",
+          "children": []
+        },
+        {
+          "id": 12391,
+          "name": "Маца",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3750-matsa",
+          "children": []
+        },
+        {
+          "id": 12392,
+          "name": "Основа для піци, тарталетки",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3761-osnova-dlya-pitsy-tartaletky",
+          "children": []
+        },
+        {
+          "id": 12387,
+          "name": "Хліб",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3698-khlib",
+          "children": []
+        },
+        {
+          "id": 12393,
+          "name": "Хлібці, грісіні",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3855-khlibtsi-grisini",
+          "children": []
+        },
+        {
+          "id": 12388,
+          "name": "Чіабата",
+          "parent_id": 12377,
+          "url": "https://fozzyshop.ua/3766-chiabata",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12019,
+      "name": "Чай, кава",
+      "parent_id": null,
+      "url": "https://fozzyshop.ua/3660-chay-kava",
+      "children": [
+        {
+          "id": 12020,
+          "name": "Кава",
+          "parent_id": 12019,
+          "url": "https://fozzyshop.ua/3681-kava",
+          "children": [
+            {
+              "id": 12026,
+              "name": "Добавки до кави, розхідники",
+              "parent_id": 12020,
+              "url": "https://fozzyshop.ua/4378-dobavky-do-kavy-rozkhidnyky",
+              "children": []
+            },
+            {
+              "id": 12021,
+              "name": "Кава в зернах",
+              "parent_id": 12020,
+              "url": "https://fozzyshop.ua/3943-kava-v-zernakh",
+              "children": []
+            },
+            {
+              "id": 12024,
+              "name": "Кава в капсулах",
+              "parent_id": 12020,
+              "url": "https://fozzyshop.ua/4222-kava-v-kapsulakh",
+              "children": []
+            },
+            {
+              "id": 12022,
+              "name": "Кава мелена",
+              "parent_id": 12020,
+              "url": "https://fozzyshop.ua/4245-kava-melena",
+              "children": []
+            },
+            {
+              "id": 12023,
+              "name": "Кава розчинна",
+              "parent_id": 12020,
+              "url": "https://fozzyshop.ua/4074-kava-rozchynna",
+              "children": []
+            },
+            {
+              "id": 12025,
+              "name": "Кавовий напій",
+              "parent_id": 12020,
+              "url": "https://fozzyshop.ua/3998-kavovyy-napiy",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 12032,
+          "name": "Какао",
+          "parent_id": 12019,
+          "url": "https://fozzyshop.ua/3820-kakao",
+          "children": []
+        },
+        {
+          "id": 12033,
+          "name": "Цикорій",
+          "parent_id": 12019,
+          "url": "https://fozzyshop.ua/3690-tsykoriy",
+          "children": []
+        },
+        {
+          "id": 12027,
+          "name": "Чай",
+          "parent_id": 12019,
+          "url": "https://fozzyshop.ua/3842-chay",
+          "children": [
+            {
+              "id": 12029,
+              "name": "Чай пакетований",
+              "parent_id": 12027,
+              "url": "https://fozzyshop.ua/4157-chay-paketovanyy",
+              "children": []
+            },
+            {
+              "id": 12028,
+              "name": "Чай розсипний",
+              "parent_id": 12027,
+              "url": "https://fozzyshop.ua/4035-chay-rozsypnyy",
+              "children": []
+            },
+            {
+              "id": 12030,
+              "name": "Чай трав`яний",
+              "parent_id": 12027,
+              "url": "https://fozzyshop.ua/4464-chay-trav-yanyy",
+              "children": []
+            },
+            {
+              "id": 12031,
+              "name": "Чай фруктово-ягідний",
+              "parent_id": 12027,
+              "url": "https://fozzyshop.ua/4465-chay-fruktovo-yagidnyy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,3663 @@
+[
+    {
+      "id": 11150,
+      "name": "Бакалія",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/grocery-winetime/",
+      "children": [
+        {
+          "id": 11151,
+          "name": "Борошно",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/flour-winetime/",
+          "children": []
+        },
+        {
+          "id": 11203,
+          "name": "Все для суші",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/for-sushi-winetime/",
+          "children": []
+        },
+        {
+          "id": 11190,
+          "name": "Добавки для випічки та десертів",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/home-baking-winetime/",
+          "children": [
+            {
+              "id": 11200,
+              "name": "No name",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/poppy-winetime/",
+              "children": []
+            },
+            {
+              "id": 11191,
+              "name": "Ванілін",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/vanillin-winetime/",
+              "children": []
+            },
+            {
+              "id": 11192,
+              "name": "Готові суміші для випічки",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/baking-mix-winetime/",
+              "children": []
+            },
+            {
+              "id": 11193,
+              "name": "Желатин",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/gelatin-winetime/",
+              "children": []
+            },
+            {
+              "id": 11199,
+              "name": "Крем та глазур",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/cream-and-glaze-winetime/",
+              "children": []
+            },
+            {
+              "id": 11194,
+              "name": "Лимонна кислота",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/lemon-acid-winetime/",
+              "children": []
+            },
+            {
+              "id": 11197,
+              "name": "Посипка і декорація",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/crumble-topping-winetime/",
+              "children": []
+            },
+            {
+              "id": 11195,
+              "name": "Розпушувач для тіста",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/leaven-winetime/",
+              "children": []
+            },
+            {
+              "id": 11196,
+              "name": "Сухарі панірувальні",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/breadcrumbs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11198,
+              "name": "Цукрова пудра",
+              "parent_id": 11190,
+              "url": "https://winetime.zakaz.ua/uk/categories/powdered-sugar-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11201,
+          "name": "Дріжджі",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/yeast-winetime/",
+          "children": [
+            {
+              "id": 11202,
+              "name": "Сухі дріжджі",
+              "parent_id": 11201,
+              "url": "https://winetime.zakaz.ua/uk/categories/dry-yeast-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11152,
+          "name": "Крупи та бобові",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/pulses-and-grain-winetime/",
+          "children": [
+            {
+              "id": 11168,
+              "name": "Булгур",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/bulhur-winetime/",
+              "children": []
+            },
+            {
+              "id": 11165,
+              "name": "Вівсяна крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/oatmeal-winetime/",
+              "children": []
+            },
+            {
+              "id": 11162,
+              "name": "Горох",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/pea-winetime/",
+              "children": []
+            },
+            {
+              "id": 11154,
+              "name": "Гречана крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/buckwheat-winetime/",
+              "children": []
+            },
+            {
+              "id": 11170,
+              "name": "Інші крупи",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-cereals-winetime/",
+              "children": []
+            },
+            {
+              "id": 11160,
+              "name": "Квасоля",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/cereals-beans-winetime/",
+              "children": []
+            },
+            {
+              "id": 11158,
+              "name": "Кіноа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/quinoa-winetime/",
+              "children": []
+            },
+            {
+              "id": 11157,
+              "name": "Кукурудзяна крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/corn-groats-winetime/",
+              "children": []
+            },
+            {
+              "id": 11169,
+              "name": "Кус-кус",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/cuscus-winetime/",
+              "children": []
+            },
+            {
+              "id": 11163,
+              "name": "Манка",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/semolina-winetime/",
+              "children": []
+            },
+            {
+              "id": 11167,
+              "name": "Нут",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/chickpeas-winetime/",
+              "children": []
+            },
+            {
+              "id": 11161,
+              "name": "Перлова крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/pearl-groats-winetime/",
+              "children": []
+            },
+            {
+              "id": 11156,
+              "name": "Пшенична крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/wheat-groats-winetime/",
+              "children": []
+            },
+            {
+              "id": 11159,
+              "name": "Пшоняна крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/oat-groats-winetime/",
+              "children": []
+            },
+            {
+              "id": 11153,
+              "name": "Рис",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/rice-winetime/",
+              "children": []
+            },
+            {
+              "id": 11166,
+              "name": "Сочевиця",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/lentil-winetime/",
+              "children": []
+            },
+            {
+              "id": 11164,
+              "name": "Спельта",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/spelta-winetime/",
+              "children": []
+            },
+            {
+              "id": 11155,
+              "name": "Ячмінна крупа",
+              "parent_id": 11152,
+              "url": "https://winetime.zakaz.ua/uk/categories/barley-groats-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11171,
+          "name": "Макаронні вироби",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/pasta-winetime/",
+          "children": []
+        },
+        {
+          "id": 11172,
+          "name": "Олія та оцет",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/oil-and-vinegar-winetime/",
+          "children": [
+            {
+              "id": 11173,
+              "name": "Олія",
+              "parent_id": 11172,
+              "url": "https://winetime.zakaz.ua/uk/categories/oil-winetime/",
+              "children": []
+            },
+            {
+              "id": 11174,
+              "name": "Оцет",
+              "parent_id": 11172,
+              "url": "https://winetime.zakaz.ua/uk/categories/vinegar-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11189,
+          "name": "Продукти швидкого приготування",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/instant-food-winetime/",
+          "children": []
+        },
+        {
+          "id": 11204,
+          "name": "Сік концентрований",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/juice-concentrate-winetime/",
+          "children": []
+        },
+        {
+          "id": 11179,
+          "name": "Сіль",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/salt-winetime/",
+          "children": []
+        },
+        {
+          "id": 11180,
+          "name": "Сода та крохмаль",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/baking-soda-and-starch-winetime/",
+          "children": [
+            {
+              "id": 11182,
+              "name": "Крохмаль",
+              "parent_id": 11180,
+              "url": "https://winetime.zakaz.ua/uk/categories/starch-winetime/",
+              "children": []
+            },
+            {
+              "id": 11181,
+              "name": "Сода",
+              "parent_id": 11180,
+              "url": "https://winetime.zakaz.ua/uk/categories/baking-soda-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11183,
+          "name": "Сухі сніданки та пластівці",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/breakfast-cereals-and-porridge-winetime/",
+          "children": [
+            {
+              "id": 11188,
+              "name": "Гранола",
+              "parent_id": 11183,
+              "url": "https://winetime.zakaz.ua/uk/categories/granola-winetime/",
+              "children": []
+            },
+            {
+              "id": 11187,
+              "name": "Кранчі",
+              "parent_id": 11183,
+              "url": "https://winetime.zakaz.ua/uk/categories/crunchies-winetime/",
+              "children": []
+            },
+            {
+              "id": 11185,
+              "name": "Мюслі",
+              "parent_id": 11183,
+              "url": "https://winetime.zakaz.ua/uk/categories/muesli-winetime/",
+              "children": []
+            },
+            {
+              "id": 11184,
+              "name": "Пластівці",
+              "parent_id": 11183,
+              "url": "https://winetime.zakaz.ua/uk/categories/porridge-winetime/",
+              "children": []
+            },
+            {
+              "id": 11186,
+              "name": "Сухі сніданки",
+              "parent_id": 11183,
+              "url": "https://winetime.zakaz.ua/uk/categories/breakfast-cereals-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11175,
+          "name": "Цукор",
+          "parent_id": 11150,
+          "url": "https://winetime.zakaz.ua/uk/categories/sugar-winetime/",
+          "children": [
+            {
+              "id": 11176,
+              "name": "Цукор-пісок",
+              "parent_id": 11175,
+              "url": "https://winetime.zakaz.ua/uk/categories/sugar-1-winetime/",
+              "children": []
+            },
+            {
+              "id": 11177,
+              "name": "Цукор-рафінад",
+              "parent_id": 11175,
+              "url": "https://winetime.zakaz.ua/uk/categories/pressed-sugar-winetime/",
+              "children": []
+            },
+            {
+              "id": 11178,
+              "name": "Цукрозамінники",
+              "parent_id": 11175,
+              "url": "https://winetime.zakaz.ua/uk/categories/sweeteners-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11014,
+      "name": "Вино",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/wine-winetime/",
+      "children": [
+        {
+          "id": 11030,
+          "name": "Безалкогольне вино",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/non-alcoholic-wine-winetime/",
+          "children": []
+        },
+        {
+          "id": 11023,
+          "name": "Вермут, аперитив",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/vermouth-and-aperitif-winetime/",
+          "children": []
+        },
+        {
+          "id": 11024,
+          "name": "Кагор",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/cahor-winetime/",
+          "children": []
+        },
+        {
+          "id": 11025,
+          "name": "Мадера",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/madeira-wine-winetime/",
+          "children": []
+        },
+        {
+          "id": 11026,
+          "name": "Плодове вино",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/fruit-wine-winetime/",
+          "children": []
+        },
+        {
+          "id": 11027,
+          "name": "Портвейн",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/port-winetime/",
+          "children": []
+        },
+        {
+          "id": 11029,
+          "name": "Слабоалкогольні напої",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/low-alcohol-winetime/",
+          "children": []
+        },
+        {
+          "id": 11015,
+          "name": "Тихе вино",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/still-wine-winetime/",
+          "children": [
+            {
+              "id": 11016,
+              "name": "Біле тихе вино",
+              "parent_id": 11015,
+              "url": "https://winetime.zakaz.ua/uk/categories/still-white-wine-winetime/",
+              "children": []
+            },
+            {
+              "id": 11018,
+              "name": "Рожеве тихе вино",
+              "parent_id": 11015,
+              "url": "https://winetime.zakaz.ua/uk/categories/still-rose-wine-winetime/",
+              "children": []
+            },
+            {
+              "id": 11017,
+              "name": "Червоне тихе вино",
+              "parent_id": 11015,
+              "url": "https://winetime.zakaz.ua/uk/categories/still-red-wine-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11028,
+          "name": "Херес",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/sherry-winetime/",
+          "children": []
+        },
+        {
+          "id": 11019,
+          "name": "Шампанське та ігристе вино",
+          "parent_id": 11014,
+          "url": "https://winetime.zakaz.ua/uk/categories/champagne-sparkling-wine-winetime/",
+          "children": [
+            {
+              "id": 11020,
+              "name": "Біле шампанське та ігристе вино",
+              "parent_id": 11019,
+              "url": "https://winetime.zakaz.ua/uk/categories/white-champagne-sparkling-wine-winetime/",
+              "children": []
+            },
+            {
+              "id": 11022,
+              "name": "Рожеве шампанське та ігристе вино",
+              "parent_id": 11019,
+              "url": "https://winetime.zakaz.ua/uk/categories/rose-champagne-sparkling-wine-winetime/",
+              "children": []
+            },
+            {
+              "id": 11021,
+              "name": "Червоне шампанське та ігристе вино",
+              "parent_id": 11019,
+              "url": "https://winetime.zakaz.ua/uk/categories/red-champagne-sparkling-wine-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11380,
+      "name": "Гарячі напої",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/hot-drinks-winetime/",
+      "children": [
+        {
+          "id": 11384,
+          "name": "Кава",
+          "parent_id": 11380,
+          "url": "https://winetime.zakaz.ua/uk/categories/coffee-winetime/",
+          "children": [
+            {
+              "id": 11385,
+              "name": "Кава в зернах",
+              "parent_id": 11384,
+              "url": "https://winetime.zakaz.ua/uk/categories/coffee-bean-winetime/",
+              "children": []
+            },
+            {
+              "id": 11388,
+              "name": "Кава в капсулах",
+              "parent_id": 11384,
+              "url": "https://winetime.zakaz.ua/uk/categories/coffee-capsules-winetime/",
+              "children": []
+            },
+            {
+              "id": 11386,
+              "name": "Кава мелена",
+              "parent_id": 11384,
+              "url": "https://winetime.zakaz.ua/uk/categories/ground-coffee-winetime/",
+              "children": []
+            },
+            {
+              "id": 11387,
+              "name": "Кава розчинна",
+              "parent_id": 11384,
+              "url": "https://winetime.zakaz.ua/uk/categories/instant-coffee-winetime/",
+              "children": []
+            },
+            {
+              "id": 11389,
+              "name": "Кава у дріпах",
+              "parent_id": 11384,
+              "url": "https://winetime.zakaz.ua/uk/categories/drip-coffee-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11391,
+          "name": "Какао",
+          "parent_id": 11380,
+          "url": "https://winetime.zakaz.ua/uk/categories/cocoa-winetime/",
+          "children": []
+        },
+        {
+          "id": 11390,
+          "name": "Какао-напої та гарячий шоколад",
+          "parent_id": 11380,
+          "url": "https://winetime.zakaz.ua/uk/categories/cocoa-and-coffee-drinks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11381,
+          "name": "Чай",
+          "parent_id": 11380,
+          "url": "https://winetime.zakaz.ua/uk/categories/tea-winetime/",
+          "children": [
+            {
+              "id": 11382,
+              "name": "Чай пакетований",
+              "parent_id": 11381,
+              "url": "https://winetime.zakaz.ua/uk/categories/tea-bags-winetime/",
+              "children": []
+            },
+            {
+              "id": 11383,
+              "name": "Чай розсипчастий",
+              "parent_id": 11381,
+              "url": "https://winetime.zakaz.ua/uk/categories/loose-tea-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11446,
+      "name": "Гігієна та догляд",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/cosmetics-and-care-winetime/",
+      "children": [
+        {
+          "id": 11450,
+          "name": "Догляд за волоссям",
+          "parent_id": 11446,
+          "url": "https://winetime.zakaz.ua/uk/categories/hair-care-winetime/",
+          "children": [
+            {
+              "id": 11452,
+              "name": "Бальзам та кондиціонер для волосся",
+              "parent_id": 11450,
+              "url": "https://winetime.zakaz.ua/uk/categories/balsam-for-hair-winetime/",
+              "children": []
+            },
+            {
+              "id": 11451,
+              "name": "Шампунь для волосся",
+              "parent_id": 11450,
+              "url": "https://winetime.zakaz.ua/uk/categories/shampoo-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11453,
+          "name": "Догляд за обличчям",
+          "parent_id": 11446,
+          "url": "https://winetime.zakaz.ua/uk/categories/facial-cosmetics-winetime/",
+          "children": [
+            {
+              "id": 11454,
+              "name": "Молочко, гель, пінка для вмивання",
+              "parent_id": 11453,
+              "url": "https://winetime.zakaz.ua/uk/categories/gel-foam-for-face-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11455,
+          "name": "Догляд за тілом",
+          "parent_id": 11446,
+          "url": "https://winetime.zakaz.ua/uk/categories/body-cosmetics-winetime/",
+          "children": [
+            {
+              "id": 11456,
+              "name": "Гелі для душу",
+              "parent_id": 11455,
+              "url": "https://winetime.zakaz.ua/uk/categories/shower-gel-winetime/",
+              "children": []
+            },
+            {
+              "id": 11460,
+              "name": "Крем для рук",
+              "parent_id": 11455,
+              "url": "https://winetime.zakaz.ua/uk/categories/for-hands-winetime/",
+              "children": []
+            },
+            {
+              "id": 11457,
+              "name": "Крем для тіла",
+              "parent_id": 11455,
+              "url": "https://winetime.zakaz.ua/uk/categories/body-cream-winetime/",
+              "children": []
+            },
+            {
+              "id": 11459,
+              "name": "Лосьйон, олія, скраб для тіла",
+              "parent_id": 11455,
+              "url": "https://winetime.zakaz.ua/uk/categories/lotion-for-body-winetime/",
+              "children": []
+            },
+            {
+              "id": 11458,
+              "name": "Мило",
+              "parent_id": 11455,
+              "url": "https://winetime.zakaz.ua/uk/categories/soap-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11465,
+          "name": "Подарункові набори",
+          "parent_id": 11446,
+          "url": "https://winetime.zakaz.ua/uk/categories/gift-sets-winetime/",
+          "children": []
+        },
+        {
+          "id": 11447,
+          "name": "Туалетний папір",
+          "parent_id": 11446,
+          "url": "https://winetime.zakaz.ua/uk/categories/toilet-paper-winetime/",
+          "children": [
+            {
+              "id": 11448,
+              "name": "Туалетний папір в рулонах",
+              "parent_id": 11447,
+              "url": "https://winetime.zakaz.ua/uk/categories/toilet-paper-rolls-winetime/",
+              "children": []
+            },
+            {
+              "id": 11449,
+              "name": "Туалетний папір вологий",
+              "parent_id": 11447,
+              "url": "https://winetime.zakaz.ua/uk/categories/wet-toilet-paper-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11461,
+          "name": "Фармацевтика",
+          "parent_id": 11446,
+          "url": "https://winetime.zakaz.ua/uk/categories/pharmaceuticals-winetime/",
+          "children": [
+            {
+              "id": 11462,
+              "name": "Антисептичні засоби",
+              "parent_id": 11461,
+              "url": "https://winetime.zakaz.ua/uk/categories/antiseptics-winetime/",
+              "children": []
+            },
+            {
+              "id": 11463,
+              "name": "Вітаміни, пігулки, харчові добавки",
+              "parent_id": 11461,
+              "url": "https://winetime.zakaz.ua/uk/categories/pills-winetime/",
+              "children": []
+            },
+            {
+              "id": 11464,
+              "name": "Інші фармацевтичні товари",
+              "parent_id": 11461,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-pharmaceuticals-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11342,
+      "name": "Заморозка",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/frozen-winetime/",
+      "children": [
+        {
+          "id": 11350,
+          "name": "Десерти та торти заморожені",
+          "parent_id": 11342,
+          "url": "https://winetime.zakaz.ua/uk/categories/frozen-desserts-winetime/",
+          "children": []
+        },
+        {
+          "id": 11345,
+          "name": "Заморожена птиця та м'ясо",
+          "parent_id": 11342,
+          "url": "https://winetime.zakaz.ua/uk/categories/frozen-poultry-and-meat-winetime/",
+          "children": []
+        },
+        {
+          "id": 11344,
+          "name": "Заморожена риба та морепродукти",
+          "parent_id": 11342,
+          "url": "https://winetime.zakaz.ua/uk/categories/frozen-fish-and-seafood-winetime/",
+          "children": []
+        },
+        {
+          "id": 11343,
+          "name": "Морозиво",
+          "parent_id": 11342,
+          "url": "https://winetime.zakaz.ua/uk/categories/icecream-winetime/",
+          "children": []
+        },
+        {
+          "id": 11351,
+          "name": "Напівфабрикати та страви заморожені,",
+          "parent_id": 11342,
+          "url": "https://winetime.zakaz.ua/uk/categories/half-made-food-winetime/",
+          "children": [
+            {
+              "id": 11352,
+              "name": "Вареники",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/vareniki-winetime/",
+              "children": []
+            },
+            {
+              "id": 11354,
+              "name": "Голубці, перець, чебуреки",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/cabbage-rolls-chebureks-winetime/",
+              "children": []
+            },
+            {
+              "id": 11360,
+              "name": "Заморожені веганські продукти",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-vegan-food-winetime/",
+              "children": []
+            },
+            {
+              "id": 11358,
+              "name": "Заморожені хлібобулочні напівфабрикати",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-bakery-winetime/",
+              "children": []
+            },
+            {
+              "id": 11357,
+              "name": "Котлети, нагетси",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/meats-cutlets-nuggets-winetime/",
+              "children": []
+            },
+            {
+              "id": 11355,
+              "name": "Млинці, сирники",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-pancakes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11359,
+              "name": "Охолоджені напівфабрикати",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/chilled-dough-winetime/",
+              "children": []
+            },
+            {
+              "id": 11353,
+              "name": "Пельмені, равіолі, хінкалі",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-dumplings-winetime/",
+              "children": []
+            },
+            {
+              "id": 11356,
+              "name": "Рибні палички, бургери",
+              "parent_id": 11351,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-fish-sticks-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11346,
+          "name": "Овочі та фрукти заморожені",
+          "parent_id": 11342,
+          "url": "https://winetime.zakaz.ua/uk/categories/frozen-vegetables-and-fruits-winetime/",
+          "children": [
+            {
+              "id": 11347,
+              "name": "Заморожені гриби",
+              "parent_id": 11346,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-mushrooms-winetime/",
+              "children": []
+            },
+            {
+              "id": 11348,
+              "name": "Заморожені овочі",
+              "parent_id": 11346,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-vegetables-winetime/",
+              "children": []
+            },
+            {
+              "id": 11349,
+              "name": "Заморожені ягоди",
+              "parent_id": 11346,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-berries-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11253,
+      "name": "Консерви",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/canned-food-winetime/",
+      "children": [
+        {
+          "id": 11271,
+          "name": "Грибна консервація",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/canned-mushrooms-winetime/",
+          "children": []
+        },
+        {
+          "id": 11284,
+          "name": "Джем, варення, повидло",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/sweet-preservation-winetime/",
+          "children": [
+            {
+              "id": 11286,
+              "name": "Варення",
+              "parent_id": 11284,
+              "url": "https://winetime.zakaz.ua/uk/categories/whole-fruit-preserve-winetime/",
+              "children": []
+            },
+            {
+              "id": 11285,
+              "name": "Джем",
+              "parent_id": 11284,
+              "url": "https://winetime.zakaz.ua/uk/categories/jam-winetime/",
+              "children": []
+            },
+            {
+              "id": 11287,
+              "name": "Курд",
+              "parent_id": 11284,
+              "url": "https://winetime.zakaz.ua/uk/categories/kurd-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11280,
+          "name": "М'ясна консервація та гарніри",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/canned-meat-winetime/",
+          "children": []
+        },
+        {
+          "id": 11288,
+          "name": "Мед",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/honey-winetime/",
+          "children": []
+        },
+        {
+          "id": 11254,
+          "name": "Овочева консервація",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/canned-vegetables-winetime/",
+          "children": [
+            {
+              "id": 11265,
+              "name": "Інша овочева консервація",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-canned-vegetables-winetime/",
+              "children": []
+            },
+            {
+              "id": 11264,
+              "name": "Каперси",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/capers-winetime/",
+              "children": []
+            },
+            {
+              "id": 11259,
+              "name": "Консервована кукурудза",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-corn-winetime/",
+              "children": []
+            },
+            {
+              "id": 11260,
+              "name": "Консервована фасоля, нут",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-haricot-winetime/",
+              "children": []
+            },
+            {
+              "id": 11258,
+              "name": "Консервований горох",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-peas-winetime/",
+              "children": []
+            },
+            {
+              "id": 11257,
+              "name": "Консервований перець",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-pepper-winetime/",
+              "children": []
+            },
+            {
+              "id": 11261,
+              "name": "Консервовані баклажани",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-eggplant-winetime/",
+              "children": []
+            },
+            {
+              "id": 11255,
+              "name": "Консервовані огірки",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-cucumber-winetime/",
+              "children": []
+            },
+            {
+              "id": 11256,
+              "name": "Консервовані помідори",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-tomato-winetime/",
+              "children": []
+            },
+            {
+              "id": 11263,
+              "name": "Лечо",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-lecho-winetime/",
+              "children": []
+            },
+            {
+              "id": 11262,
+              "name": "Овочева ікра",
+              "parent_id": 11254,
+              "url": "https://winetime.zakaz.ua/uk/categories/vegetable-roe-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11282,
+          "name": "Оливки та маслини",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/olives-winetime/",
+          "children": []
+        },
+        {
+          "id": 11281,
+          "name": "Паштети",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/pate-winetime/",
+          "children": []
+        },
+        {
+          "id": 11272,
+          "name": "Рибна консервація",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/canned-fish-winetime/",
+          "children": [
+            {
+              "id": 11279,
+              "name": "Інша консервована риба",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-canned-fish-winetime/",
+              "children": []
+            },
+            {
+              "id": 11278,
+              "name": "Лосось консервований",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-salmon-winetime/",
+              "children": []
+            },
+            {
+              "id": 11273,
+              "name": "Печінка тріски консервована",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/cod-liver-winetime/",
+              "children": []
+            },
+            {
+              "id": 11274,
+              "name": "Сардина консервована",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/pilchards-winetime/",
+              "children": []
+            },
+            {
+              "id": 11277,
+              "name": "Скумбрія консервована",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/mackerels-winetime/",
+              "children": []
+            },
+            {
+              "id": 11275,
+              "name": "Тунець консервований",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/tuna-winetime/",
+              "children": []
+            },
+            {
+              "id": 11276,
+              "name": "Шпроти",
+              "parent_id": 11272,
+              "url": "https://winetime.zakaz.ua/uk/categories/kipper-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11289,
+          "name": "Сиропи і топінги",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/topping-winetime/",
+          "children": []
+        },
+        {
+          "id": 11266,
+          "name": "Фруктова консервація",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/canned-fruits-winetime/",
+          "children": [
+            {
+              "id": 11270,
+              "name": "Інша фруктова консервація",
+              "parent_id": 11266,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-canned-fruits-winetime/",
+              "children": []
+            },
+            {
+              "id": 11269,
+              "name": "Консервована вишня",
+              "parent_id": 11266,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-cherry-winetime/",
+              "children": []
+            },
+            {
+              "id": 11267,
+              "name": "Консервовані ананаси",
+              "parent_id": 11266,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-pineapple-winetime/",
+              "children": []
+            },
+            {
+              "id": 11268,
+              "name": "Консервовані персики",
+              "parent_id": 11266,
+              "url": "https://winetime.zakaz.ua/uk/categories/canned-peach-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11283,
+          "name": "Хумус",
+          "parent_id": 11253,
+          "url": "https://winetime.zakaz.ua/uk/categories/hummus-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11492,
+      "name": "Кулінарія",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/ready-meals-winetime/",
+      "children": [
+        {
+          "id": 11494,
+          "name": "Другі страви",
+          "parent_id": 11492,
+          "url": "https://winetime.zakaz.ua/uk/categories/main-dishes-winetime/",
+          "children": [
+            {
+              "id": 11498,
+              "name": "Борошняні вироби",
+              "parent_id": 11494,
+              "url": "https://winetime.zakaz.ua/uk/categories/flour-products-winetime/",
+              "children": []
+            },
+            {
+              "id": 11496,
+              "name": "М'ясні страви",
+              "parent_id": 11494,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-dishes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11497,
+              "name": "Овочеві страви та гарніри",
+              "parent_id": 11494,
+              "url": "https://winetime.zakaz.ua/uk/categories/vegetable-side-dishes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11495,
+              "name": "Рибні страви",
+              "parent_id": 11494,
+              "url": "https://winetime.zakaz.ua/uk/categories/fish-dishes-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11499,
+          "name": "Закуски",
+          "parent_id": 11492,
+          "url": "https://winetime.zakaz.ua/uk/categories/appetizers-winetime/",
+          "children": []
+        },
+        {
+          "id": 11493,
+          "name": "Перші страви",
+          "parent_id": 11492,
+          "url": "https://winetime.zakaz.ua/uk/categories/soups-winetime/",
+          "children": []
+        },
+        {
+          "id": 11500,
+          "name": "Салати",
+          "parent_id": 11492,
+          "url": "https://winetime.zakaz.ua/uk/categories/salads-winetime/",
+          "children": []
+        },
+        {
+          "id": 11501,
+          "name": "Сирні вироби та десерти",
+          "parent_id": 11492,
+          "url": "https://winetime.zakaz.ua/uk/categories/cheesecake-and-desserts-winetime/",
+          "children": []
+        },
+        {
+          "id": 11502,
+          "name": "Соління",
+          "parent_id": 11492,
+          "url": "https://winetime.zakaz.ua/uk/categories/pickles-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11397,
+      "name": "Кухня",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/kitchenware-winetime/",
+      "children": [
+        {
+          "id": 11417,
+          "name": "Кухонне приладдя",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/cooking-utensils-winetime/",
+          "children": [
+            {
+              "id": 11426,
+              "name": "Відкривачки, штопори",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/can-openers-and-corkscrews-winetime/",
+              "children": []
+            },
+            {
+              "id": 11428,
+              "name": "Вінчики, пензлики",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/whisk-and-pastry-brush-winetime/",
+              "children": []
+            },
+            {
+              "id": 11436,
+              "name": "Інше кухонне приладдя",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-kitchen-utensils-winetime/",
+              "children": []
+            },
+            {
+              "id": 11422,
+              "name": "Коврики та підставки під гаряче",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/hot-pads-winetime/",
+              "children": []
+            },
+            {
+              "id": 11419,
+              "name": "Лопатки, шумівки, ополоники, ложки",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/ladle-and-skimmer-winetime/",
+              "children": []
+            },
+            {
+              "id": 11434,
+              "name": "Миски та ковші для приготування",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/cooking-bowls-winetime/",
+              "children": []
+            },
+            {
+              "id": 11424,
+              "name": "Мірний посуд та лійки",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/measuring-utensils-winetime/",
+              "children": []
+            },
+            {
+              "id": 11423,
+              "name": "Млинки, набори для спецій",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/spice-grinder-winetime/",
+              "children": []
+            },
+            {
+              "id": 11427,
+              "name": "Молотки, товкачки, скалки, ступки",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-mallet-masher-rolling-pin-winetime/",
+              "children": []
+            },
+            {
+              "id": 11418,
+              "name": "Ножі, ножиці, овочечистки, точилки",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/knives-winetime/",
+              "children": []
+            },
+            {
+              "id": 11421,
+              "name": "Обробні дошки",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/cutting-boards-breadbaskets-winetime/",
+              "children": []
+            },
+            {
+              "id": 11431,
+              "name": "Підноси",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/trays-winetime/",
+              "children": []
+            },
+            {
+              "id": 11435,
+              "name": "Посуд для коктейлів та бару",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/cocktail-and-barware-winetime/",
+              "children": []
+            },
+            {
+              "id": 11429,
+              "name": "Преси, соковижималки, горіхоколи",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/garlic-press-and-juicers-winetime/",
+              "children": []
+            },
+            {
+              "id": 11430,
+              "name": "Пробки та насадки для пляшок",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/bottle-stoppers-winetime/",
+              "children": []
+            },
+            {
+              "id": 11432,
+              "name": "Сушарки та підставки для посуду",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/stand-holder-and-dish-dryers-winetime/",
+              "children": []
+            },
+            {
+              "id": 11420,
+              "name": "Тертки, сита, друшляки",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/kitchen-graters-colanders-winetime/",
+              "children": []
+            },
+            {
+              "id": 11433,
+              "name": "Тримачі для рушників та серветок",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/paper-and-napkin-holders-winetime/",
+              "children": []
+            },
+            {
+              "id": 11425,
+              "name": "Щипці та пінцети",
+              "parent_id": 11417,
+              "url": "https://winetime.zakaz.ua/uk/categories/kitchen-tongs-and-tweezers-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11441,
+          "name": "Одноразовий посуд",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/disposable-tableware-winetime/",
+          "children": [
+            {
+              "id": 11442,
+              "name": "Одноразові виделки, ложки, ножі, мішалки",
+              "parent_id": 11441,
+              "url": "https://winetime.zakaz.ua/uk/categories/disposable-spoons-forks-winetime/",
+              "children": []
+            },
+            {
+              "id": 11443,
+              "name": "Одноразові набори посуду",
+              "parent_id": 11441,
+              "url": "https://winetime.zakaz.ua/uk/categories/disposable-tableware-set-winetime/",
+              "children": []
+            },
+            {
+              "id": 11444,
+              "name": "Одноразові стакани",
+              "parent_id": 11441,
+              "url": "https://winetime.zakaz.ua/uk/categories/disposable-cups-winetime/",
+              "children": []
+            },
+            {
+              "id": 11445,
+              "name": "Одноразові тарілки",
+              "parent_id": 11441,
+              "url": "https://winetime.zakaz.ua/uk/categories/disposable-plates-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11437,
+          "name": "Пластиковий посуд",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/plastic-dishes-winetime/",
+          "children": []
+        },
+        {
+          "id": 11398,
+          "name": "Посуд для зберігання продуктів",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/storage-dishes-winetime/",
+          "children": [
+            {
+              "id": 11400,
+              "name": "Банки, ємності для зберігання продуктів",
+              "parent_id": 11398,
+              "url": "https://winetime.zakaz.ua/uk/categories/jars-and-bottles-winetime/",
+              "children": []
+            },
+            {
+              "id": 11401,
+              "name": "Термоси, термокружки",
+              "parent_id": 11398,
+              "url": "https://winetime.zakaz.ua/uk/categories/thermoses-and-thermo-mugs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11399,
+              "name": "Харчові контейнери, ланч-бокси",
+              "parent_id": 11398,
+              "url": "https://winetime.zakaz.ua/uk/categories/food-containers-winetime/",
+              "children": []
+            },
+            {
+              "id": 11402,
+              "name": "Хлібниці, кошики",
+              "parent_id": 11398,
+              "url": "https://winetime.zakaz.ua/uk/categories/breadbaskets-baskets-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11411,
+          "name": "Посуд для приготування",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/for-cooking-winetime/",
+          "children": [
+            {
+              "id": 11415,
+              "name": "Заварювальні чайники, френч-преси",
+              "parent_id": 11411,
+              "url": "https://winetime.zakaz.ua/uk/categories/teakettles-teapots-winetime/",
+              "children": []
+            },
+            {
+              "id": 11413,
+              "name": "Каструлі, ковші, гусятниці",
+              "parent_id": 11411,
+              "url": "https://winetime.zakaz.ua/uk/categories/pots-and-pans-winetime/",
+              "children": []
+            },
+            {
+              "id": 11414,
+              "name": "Кришки для посуду",
+              "parent_id": 11411,
+              "url": "https://winetime.zakaz.ua/uk/categories/cover-for-pan-winetime/",
+              "children": []
+            },
+            {
+              "id": 11412,
+              "name": "Сковороди, сотейники",
+              "parent_id": 11411,
+              "url": "https://winetime.zakaz.ua/uk/categories/frying-pans-winetime/",
+              "children": []
+            },
+            {
+              "id": 11416,
+              "name": "Чайники, турки, кавоварки",
+              "parent_id": 11411,
+              "url": "https://winetime.zakaz.ua/uk/categories/kettles-teapots-coffee-makers-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11403,
+          "name": "Посуд для сервірування столу",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/serving-dishes-winetime/",
+          "children": [
+            {
+              "id": 11408,
+              "name": "Глечики, графіни, набори для напоїв",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/glasses-decanters-winetime/",
+              "children": []
+            },
+            {
+              "id": 11410,
+              "name": "Інший посуд для сервірування",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/serving-items-winetime/",
+              "children": []
+            },
+            {
+              "id": 11405,
+              "name": "Келихи, склянки, стопки",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/glasses-jugs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11406,
+              "name": "Столові прибори",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/cutlery-winetime/",
+              "children": []
+            },
+            {
+              "id": 11404,
+              "name": "Тарілки, салатники, блюда, сервізи",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/plates-winetime/",
+              "children": []
+            },
+            {
+              "id": 11409,
+              "name": "Цукорниці, маслянки",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/sugar-bowls-and-butter-dish-winetime/",
+              "children": []
+            },
+            {
+              "id": 11407,
+              "name": "Чашки та сервізи",
+              "parent_id": 11403,
+              "url": "https://winetime.zakaz.ua/uk/categories/cups-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11438,
+          "name": "Товари для консервування",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/all-for-food-preservation-winetime/",
+          "children": [
+            {
+              "id": 11439,
+              "name": "Банки для консервування",
+              "parent_id": 11438,
+              "url": "https://winetime.zakaz.ua/uk/categories/canning-jars-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11440,
+          "name": "Форми та аксесуари для випікання",
+          "parent_id": 11397,
+          "url": "https://winetime.zakaz.ua/uk/categories/bakeware-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11060,
+      "name": "М'ясо та ковбасні вироби",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/meat-fish-poultry-winetime/",
+      "children": [
+        {
+          "id": 11096,
+          "name": "Веганські продукти",
+          "parent_id": 11060,
+          "url": "https://winetime.zakaz.ua/uk/categories/vegan-food-winetime/",
+          "children": []
+        },
+        {
+          "id": 11074,
+          "name": "Ковбаса і сосиски",
+          "parent_id": 11060,
+          "url": "https://winetime.zakaz.ua/uk/categories/sausages-winetime/",
+          "children": [
+            {
+              "id": 11081,
+              "name": "Зельц",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/sulze-winetime/",
+              "children": []
+            },
+            {
+              "id": 11083,
+              "name": "Інші ковбасні вироби",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-sausages-winetime/",
+              "children": []
+            },
+            {
+              "id": 11076,
+              "name": "Ковбаса варена",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/boiled-sausage-winetime/",
+              "children": []
+            },
+            {
+              "id": 11078,
+              "name": "Ковбаса запечена",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/baked-sausage-winetime/",
+              "children": []
+            },
+            {
+              "id": 11075,
+              "name": "Ковбаса копчена",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/smoked-sausage-winetime/",
+              "children": []
+            },
+            {
+              "id": 11077,
+              "name": "Ковбаса сиров'ялена",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/dried-sausage-winetime/",
+              "children": []
+            },
+            {
+              "id": 11082,
+              "name": "Сальтисон",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/salitison-winetime/",
+              "children": []
+            },
+            {
+              "id": 11080,
+              "name": "Сардельки",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/bockwurst-sausage-winetime/",
+              "children": []
+            },
+            {
+              "id": 11079,
+              "name": "Сосиски",
+              "parent_id": 11074,
+              "url": "https://winetime.zakaz.ua/uk/categories/vienna-sausage-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11084,
+          "name": "М'ясні вироби",
+          "parent_id": 11060,
+          "url": "https://winetime.zakaz.ua/uk/categories/delicatessen-winetime/",
+          "children": [
+            {
+              "id": 11085,
+              "name": "Вироби з м'яса птиці",
+              "parent_id": 11084,
+              "url": "https://winetime.zakaz.ua/uk/categories/poultry-delicatessen-winetime/",
+              "children": []
+            },
+            {
+              "id": 11086,
+              "name": "М'ясні делікатеси",
+              "parent_id": 11084,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-delicatessen-winetime/",
+              "children": []
+            },
+            {
+              "id": 11087,
+              "name": "М'ясні паштети, муси",
+              "parent_id": 11084,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-pate-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11088,
+          "name": "Напівфабрикати",
+          "parent_id": 11060,
+          "url": "https://winetime.zakaz.ua/uk/categories/half-finished-meat-winetime/",
+          "children": [
+            {
+              "id": 11089,
+              "name": "Ковбаски, чівапчічі",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/chilled-sausages-winetime/",
+              "children": []
+            },
+            {
+              "id": 11093,
+              "name": "Котлети охолоджені",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/chilled-cutlets-winetime/",
+              "children": []
+            },
+            {
+              "id": 11092,
+              "name": "Люля-кебаб",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/chilled-kebab-winetime/",
+              "children": []
+            },
+            {
+              "id": 11094,
+              "name": "М'ясні напівфабрикати в маринаді",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-in-marinade-winetime/",
+              "children": []
+            },
+            {
+              "id": 11090,
+              "name": "Супові набори",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/soup-set-winetime/",
+              "children": []
+            },
+            {
+              "id": 11091,
+              "name": "Фрикаделькі",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/meatballs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11095,
+              "name": "Шашлик",
+              "parent_id": 11088,
+              "url": "https://winetime.zakaz.ua/uk/categories/meat-barbecue-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11061,
+          "name": "Свіже м'ясо",
+          "parent_id": 11060,
+          "url": "https://winetime.zakaz.ua/uk/categories/fresh-meat-winetime/",
+          "children": [
+            {
+              "id": 11062,
+              "name": "Баранина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/lamb-winetime/",
+              "children": []
+            },
+            {
+              "id": 11063,
+              "name": "Індичка свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/turkey-winetime/",
+              "children": []
+            },
+            {
+              "id": 11065,
+              "name": "Качатина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/duck-winetime/",
+              "children": []
+            },
+            {
+              "id": 11070,
+              "name": "Козлятина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/goat-winetime/",
+              "children": []
+            },
+            {
+              "id": 11064,
+              "name": "Кролятина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/rabbit-winetime/",
+              "children": []
+            },
+            {
+              "id": 11066,
+              "name": "Курятина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/chicken-winetime/",
+              "children": []
+            },
+            {
+              "id": 11067,
+              "name": "Перепілка свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/quail-winetime/",
+              "children": []
+            },
+            {
+              "id": 11071,
+              "name": "Сало",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/lard-winetime/",
+              "children": []
+            },
+            {
+              "id": 11068,
+              "name": "Свинина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/pork-winetime/",
+              "children": []
+            },
+            {
+              "id": 11072,
+              "name": "Субпродукти",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/offal-products-winetime/",
+              "children": []
+            },
+            {
+              "id": 11073,
+              "name": "Фарш",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/mincemeat-winetime/",
+              "children": []
+            },
+            {
+              "id": 11069,
+              "name": "Яловичина свіжа",
+              "parent_id": 11061,
+              "url": "https://winetime.zakaz.ua/uk/categories/beef-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11031,
+      "name": "Міцний алкоголь",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/alcohol-winetime/",
+      "children": [
+        {
+          "id": 11038,
+          "name": "Бальзам, настоянка та наливка",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/balsam-bitter-winetime/",
+          "children": []
+        },
+        {
+          "id": 11039,
+          "name": "Бренді",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/brandy-winetime/",
+          "children": []
+        },
+        {
+          "id": 11032,
+          "name": "Віскі",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/whiskey-winetime/",
+          "children": []
+        },
+        {
+          "id": 11033,
+          "name": "Горілка",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/vodka-winetime/",
+          "children": []
+        },
+        {
+          "id": 11042,
+          "name": "Грапа",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/grappa-calvados-chacha-winetime/",
+          "children": []
+        },
+        {
+          "id": 11035,
+          "name": "Джин",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/gin-winetime/",
+          "children": []
+        },
+        {
+          "id": 11040,
+          "name": "Кальвадос",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/calvados-winetime/",
+          "children": []
+        },
+        {
+          "id": 11034,
+          "name": "Коньяк",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/cognac-winetime/",
+          "children": []
+        },
+        {
+          "id": 11036,
+          "name": "Лікер",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/liquor-winetime/",
+          "children": []
+        },
+        {
+          "id": 11041,
+          "name": "Ром",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/rum-winetime/",
+          "children": []
+        },
+        {
+          "id": 11037,
+          "name": "Текіла",
+          "parent_id": 11031,
+          "url": "https://winetime.zakaz.ua/uk/categories/tequila-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11361,
+      "name": "Напої",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/drinks-winetime/",
+      "children": [
+        {
+          "id": 11379,
+          "name": "Дитяче шампанське",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/baby-champagne-winetime/",
+          "children": []
+        },
+        {
+          "id": 11378,
+          "name": "Енергетики",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/energy-drinks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11374,
+          "name": "Квас",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/kvass-winetime/",
+          "children": [
+            {
+              "id": 11376,
+              "name": "Квас живий",
+              "parent_id": 11374,
+              "url": "https://winetime.zakaz.ua/uk/categories/kvass-unpasteurized-winetime/",
+              "children": []
+            },
+            {
+              "id": 11375,
+              "name": "Квас пастеризований",
+              "parent_id": 11374,
+              "url": "https://winetime.zakaz.ua/uk/categories/kvass-pasteurized-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11377,
+          "name": "Комбуча",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/kombucha-winetime/",
+          "children": []
+        },
+        {
+          "id": 11362,
+          "name": "Мінеральна вода",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/mineral-water-winetime/",
+          "children": [
+            {
+              "id": 11363,
+              "name": "Газована вода",
+              "parent_id": 11362,
+              "url": "https://winetime.zakaz.ua/uk/categories/carbonated-water-winetime/",
+              "children": []
+            },
+            {
+              "id": 11364,
+              "name": "Негазована вода",
+              "parent_id": 11362,
+              "url": "https://winetime.zakaz.ua/uk/categories/non-carbonated-water-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11365,
+          "name": "Соки і нектари",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/juices-and-nectars-winetime/",
+          "children": [
+            {
+              "id": 11368,
+              "name": "Морси",
+              "parent_id": 11365,
+              "url": "https://winetime.zakaz.ua/uk/categories/fruit-drinks-winetime/",
+              "children": []
+            },
+            {
+              "id": 11367,
+              "name": "Нектари",
+              "parent_id": 11365,
+              "url": "https://winetime.zakaz.ua/uk/categories/nectar-winetime/",
+              "children": []
+            },
+            {
+              "id": 11366,
+              "name": "Соки",
+              "parent_id": 11365,
+              "url": "https://winetime.zakaz.ua/uk/categories/juice-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11369,
+          "name": "Солодка вода та напої",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/soft-drinks-winetime/",
+          "children": [
+            {
+              "id": 11370,
+              "name": "Газовані напої",
+              "parent_id": 11369,
+              "url": "https://winetime.zakaz.ua/uk/categories/carbonated-soft-drinks-winetime/",
+              "children": []
+            },
+            {
+              "id": 11371,
+              "name": "Негазовані напої",
+              "parent_id": 11369,
+              "url": "https://winetime.zakaz.ua/uk/categories/non-carbonated-soft-drinks-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11372,
+          "name": "Холодний чай",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/ice-tea-winetime/",
+          "children": []
+        },
+        {
+          "id": 11373,
+          "name": "Холодні кавові напої",
+          "parent_id": 11361,
+          "url": "https://winetime.zakaz.ua/uk/categories/cold-coffee-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11392,
+      "name": "Пекарня",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/bakery-winetime/",
+      "children": [
+        {
+          "id": 11394,
+          "name": "Булочки",
+          "parent_id": 11392,
+          "url": "https://winetime.zakaz.ua/uk/categories/bagels-winetime/",
+          "children": []
+        },
+        {
+          "id": 11393,
+          "name": "Хліб",
+          "parent_id": 11392,
+          "url": "https://winetime.zakaz.ua/uk/categories/bread-winetime/",
+          "children": []
+        },
+        {
+          "id": 11396,
+          "name": "Хлібні палички, гріссіні",
+          "parent_id": 11392,
+          "url": "https://winetime.zakaz.ua/uk/categories/crispbread-winetime/",
+          "children": []
+        },
+        {
+          "id": 11395,
+          "name": "Хлібці",
+          "parent_id": 11392,
+          "url": "https://winetime.zakaz.ua/uk/categories/crisp-bread-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11043,
+      "name": "Пиво",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/beer-winetime/",
+      "children": [
+        {
+          "id": 11051,
+          "name": "Безалкогольне пиво",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/non-alcoholic-beer-winetime/",
+          "children": []
+        },
+        {
+          "id": 11044,
+          "name": "Ель",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/ale-winetime/",
+          "children": []
+        },
+        {
+          "id": 11048,
+          "name": "Лагер",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/lager-beer-winetime/",
+          "children": []
+        },
+        {
+          "id": 11050,
+          "name": "Пивні мікси",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/beer-mixes-winetime/",
+          "children": []
+        },
+        {
+          "id": 11045,
+          "name": "Пілснер",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/pilsner-beer-winetime/",
+          "children": []
+        },
+        {
+          "id": 11047,
+          "name": "Світле пиво",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/light-beer-winetime/",
+          "children": []
+        },
+        {
+          "id": 11049,
+          "name": "Сидр",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/cidr-winetime/",
+          "children": []
+        },
+        {
+          "id": 11046,
+          "name": "Темне пиво",
+          "parent_id": 11043,
+          "url": "https://winetime.zakaz.ua/uk/categories/dark-beer-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11540,
+      "name": "Побутова хімія",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/chemicals-winetime/",
+      "children": [
+        {
+          "id": 11559,
+          "name": "Засоби для взуття та тканини",
+          "parent_id": 11540,
+          "url": "https://winetime.zakaz.ua/uk/categories/for-shoes-and-clothes-winetime/",
+          "children": [
+            {
+              "id": 11560,
+              "name": "Крем для взуття",
+              "parent_id": 11559,
+              "url": "https://winetime.zakaz.ua/uk/categories/shoe-polish-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11547,
+          "name": "Засоби для миття посуду",
+          "parent_id": 11540,
+          "url": "https://winetime.zakaz.ua/uk/categories/for-washing-dishes-winetime/",
+          "children": [
+            {
+              "id": 11548,
+              "name": "Засоби для посудомийних машин",
+              "parent_id": 11547,
+              "url": "https://winetime.zakaz.ua/uk/categories/for-dishwashers-winetime/",
+              "children": []
+            },
+            {
+              "id": 11549,
+              "name": "Засоби для ручного миття посуду",
+              "parent_id": 11547,
+              "url": "https://winetime.zakaz.ua/uk/categories/liquid-means-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11550,
+          "name": "Засоби для побутової техніки",
+          "parent_id": 11540,
+          "url": "https://winetime.zakaz.ua/uk/categories/cleaners-for-household-appliances-winetime/",
+          "children": []
+        },
+        {
+          "id": 11541,
+          "name": "Засоби для прання",
+          "parent_id": 11540,
+          "url": "https://winetime.zakaz.ua/uk/categories/for-washing-winetime/",
+          "children": [
+            {
+              "id": 11543,
+              "name": "Гель для прання",
+              "parent_id": 11541,
+              "url": "https://winetime.zakaz.ua/uk/categories/gel-for-washing-winetime/",
+              "children": []
+            },
+            {
+              "id": 11546,
+              "name": "Господарське мило",
+              "parent_id": 11541,
+              "url": "https://winetime.zakaz.ua/uk/categories/laundry-soap-winetime/",
+              "children": []
+            },
+            {
+              "id": 11544,
+              "name": "Кондиціонери-ополіскувачі",
+              "parent_id": 11541,
+              "url": "https://winetime.zakaz.ua/uk/categories/laundry-conditioner-winetime/",
+              "children": []
+            },
+            {
+              "id": 11545,
+              "name": "Плямовивідники та відбілювачі",
+              "parent_id": 11541,
+              "url": "https://winetime.zakaz.ua/uk/categories/stain-removers-and-bleaches-winetime/",
+              "children": []
+            },
+            {
+              "id": 11542,
+              "name": "Пральні порошки",
+              "parent_id": 11541,
+              "url": "https://winetime.zakaz.ua/uk/categories/powder-detergent-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11551,
+          "name": "Засоби для прибирання",
+          "parent_id": 11540,
+          "url": "https://winetime.zakaz.ua/uk/categories/cleaning-products-winetime/",
+          "children": [
+            {
+              "id": 11555,
+              "name": "Засоби для миття підлоги",
+              "parent_id": 11551,
+              "url": "https://winetime.zakaz.ua/uk/categories/for-cleaning-floors-winetime/",
+              "children": []
+            },
+            {
+              "id": 11552,
+              "name": "Засоби для прибирання ванної кімнати",
+              "parent_id": 11551,
+              "url": "https://winetime.zakaz.ua/uk/categories/cleaning-for-bathroom-winetime/",
+              "children": []
+            },
+            {
+              "id": 11553,
+              "name": "Засоби для прибирання кухні",
+              "parent_id": 11551,
+              "url": "https://winetime.zakaz.ua/uk/categories/cleaning-for-kitchen-winetime/",
+              "children": []
+            },
+            {
+              "id": 11554,
+              "name": "Засоби для прибирання скляних поверхонь",
+              "parent_id": 11551,
+              "url": "https://winetime.zakaz.ua/uk/categories/for-glass-surfaces-winetime/",
+              "children": []
+            },
+            {
+              "id": 11556,
+              "name": "Універсальні чистячі засоби",
+              "parent_id": 11551,
+              "url": "https://winetime.zakaz.ua/uk/categories/universal-cleaners-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11557,
+          "name": "Освіжувачі повітря",
+          "parent_id": 11540,
+          "url": "https://winetime.zakaz.ua/uk/categories/air-fresheners-winetime/",
+          "children": [
+            {
+              "id": 11558,
+              "name": "Аерозольні та гелеві освіжувачі повітря",
+              "parent_id": 11557,
+              "url": "https://winetime.zakaz.ua/uk/categories/aerosol-gel-freshener-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11097,
+      "name": "Риба та морепродукти",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/fish-and-seafood-winetime/",
+      "children": [
+        {
+          "id": 11108,
+          "name": "Заморожені морепродукти",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/frozen-seafood-winetime/",
+          "children": []
+        },
+        {
+          "id": 11112,
+          "name": "Ікра",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/caviar-winetime/",
+          "children": []
+        },
+        {
+          "id": 11105,
+          "name": "Морепродукти",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/seafood-winetime/",
+          "children": [
+            {
+              "id": 11107,
+              "name": "Мариновані морепродукти",
+              "parent_id": 11105,
+              "url": "https://winetime.zakaz.ua/uk/categories/marinaded-seafoods-winetime/",
+              "children": []
+            },
+            {
+              "id": 11106,
+              "name": "Свіжі морепродукти",
+              "parent_id": 11105,
+              "url": "https://winetime.zakaz.ua/uk/categories/fresh-seafood-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11109,
+          "name": "Морська капуста та водорості",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/laminaria-winetime/",
+          "children": [
+            {
+              "id": 11110,
+              "name": "Заморожені морська капуста та водорості",
+              "parent_id": 11109,
+              "url": "https://winetime.zakaz.ua/uk/categories/frozen-laminaria-winetime/",
+              "children": []
+            },
+            {
+              "id": 11111,
+              "name": "Охолоджені морська капуста та водорості",
+              "parent_id": 11109,
+              "url": "https://winetime.zakaz.ua/uk/categories/chilled-laminaria-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11104,
+          "name": "Риба заморожена",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/frozen-fish-winetime/",
+          "children": []
+        },
+        {
+          "id": 11098,
+          "name": "Риба охолоджена",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/fresh-fish-winetime/",
+          "children": []
+        },
+        {
+          "id": 11099,
+          "name": "Риба приготована",
+          "parent_id": 11097,
+          "url": "https://winetime.zakaz.ua/uk/categories/prepared-fish-winetime/",
+          "children": [
+            {
+              "id": 11100,
+              "name": "Пресерви",
+              "parent_id": 11099,
+              "url": "https://winetime.zakaz.ua/uk/categories/marinated-fish-winetime/",
+              "children": []
+            },
+            {
+              "id": 11101,
+              "name": "Рибопродукти гарячого копчення",
+              "parent_id": 11099,
+              "url": "https://winetime.zakaz.ua/uk/categories/hot-smoked-fish-winetime/",
+              "children": []
+            },
+            {
+              "id": 11103,
+              "name": "Рибопродукти слабосолені",
+              "parent_id": 11099,
+              "url": "https://winetime.zakaz.ua/uk/categories/low-salted-fish-winetime/",
+              "children": []
+            },
+            {
+              "id": 11102,
+              "name": "Рибопродукти холодного копчення",
+              "parent_id": 11099,
+              "url": "https://winetime.zakaz.ua/uk/categories/cold-smoked-fish-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11290,
+      "name": "Солодощі",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/snacks-and-sweets-winetime/",
+      "children": [
+        {
+          "id": 11296,
+          "name": "Батончики",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/bars-winetime/",
+          "children": [
+            {
+              "id": 11297,
+              "name": "Злакові батончики",
+              "parent_id": 11296,
+              "url": "https://winetime.zakaz.ua/uk/categories/cereal-bars-winetime/",
+              "children": []
+            },
+            {
+              "id": 11298,
+              "name": "Шоколадні батончики",
+              "parent_id": 11296,
+              "url": "https://winetime.zakaz.ua/uk/categories/chocolate-bars-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11306,
+          "name": "Вафельні торти та вафлі",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/waffle-winetime/",
+          "children": []
+        },
+        {
+          "id": 11320,
+          "name": "Великодні солодощі",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/easter-sweets-winetime/",
+          "children": []
+        },
+        {
+          "id": 11301,
+          "name": "Драже",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/dragee-winetime/",
+          "children": []
+        },
+        {
+          "id": 11300,
+          "name": "Жувальна гумка",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/gum-winetime/",
+          "children": []
+        },
+        {
+          "id": 11313,
+          "name": "Зефір",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/marshmallow-winetime/",
+          "children": []
+        },
+        {
+          "id": 11319,
+          "name": "Інші солодощі",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/confectionery-winetime/",
+          "children": []
+        },
+        {
+          "id": 11308,
+          "name": "Кекси, рулети, бісквіти",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/cakes-and-biscuits-winetime/",
+          "children": []
+        },
+        {
+          "id": 11303,
+          "name": "Крекер",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/cracker-winetime/",
+          "children": []
+        },
+        {
+          "id": 11305,
+          "name": "Кукурудзяні палички, солодка вата",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/corn-curls-cotton-candy-winetime/",
+          "children": []
+        },
+        {
+          "id": 11314,
+          "name": "Мармелад",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/fruit-jelly-winetime/",
+          "children": []
+        },
+        {
+          "id": 11291,
+          "name": "Новорічні солодощі",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/new-year-sweets-set-winetime/",
+          "children": []
+        },
+        {
+          "id": 11302,
+          "name": "Печиво",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/cookies-winetime/",
+          "children": []
+        },
+        {
+          "id": 11307,
+          "name": "Пряники",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/gingerbread-winetime/",
+          "children": []
+        },
+        {
+          "id": 11304,
+          "name": "Сушка, соломка, сухарі",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/dried-crust-and-rolls-winetime/",
+          "children": []
+        },
+        {
+          "id": 11315,
+          "name": "Східні солодощі",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/oriental-sweets-winetime/",
+          "children": [
+            {
+              "id": 11316,
+              "name": "Козинаки, грильяж",
+              "parent_id": 11315,
+              "url": "https://winetime.zakaz.ua/uk/categories/honey-bar-and-nut-brittle-winetime/",
+              "children": []
+            },
+            {
+              "id": 11317,
+              "name": "Рахат-лукум",
+              "parent_id": 11315,
+              "url": "https://winetime.zakaz.ua/uk/categories/rahat-lakoum-winetime/",
+              "children": []
+            },
+            {
+              "id": 11318,
+              "name": "Халва",
+              "parent_id": 11315,
+              "url": "https://winetime.zakaz.ua/uk/categories/halva-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11310,
+          "name": "Торти та тістечка",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/pastries-and-cakes-winetime/",
+          "children": [
+            {
+              "id": 11312,
+              "name": "Тістечка",
+              "parent_id": 11310,
+              "url": "https://winetime.zakaz.ua/uk/categories/cakes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11311,
+              "name": "Торти",
+              "parent_id": 11310,
+              "url": "https://winetime.zakaz.ua/uk/categories/layer-cake-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11292,
+          "name": "Цукерки",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/candy-winetime/",
+          "children": [
+            {
+              "id": 11293,
+              "name": "Цукерки в коробках",
+              "parent_id": 11292,
+              "url": "https://winetime.zakaz.ua/uk/categories/candy-in-box-winetime/",
+              "children": []
+            },
+            {
+              "id": 11294,
+              "name": "Цукерки в пакетах",
+              "parent_id": 11292,
+              "url": "https://winetime.zakaz.ua/uk/categories/packed-candy-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11295,
+          "name": "Шоколад",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/chocolate-winetime/",
+          "children": []
+        },
+        {
+          "id": 11299,
+          "name": "Шоколадні яйця, фігурки",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/chocolate-figures-winetime/",
+          "children": []
+        },
+        {
+          "id": 11309,
+          "name": "Шоколадні, горіхові пасти",
+          "parent_id": 11290,
+          "url": "https://winetime.zakaz.ua/uk/categories/chocolate-paste-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11205,
+      "name": "Соуси та спеції",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/sauces-and-spices-winetime/",
+      "children": [
+        {
+          "id": 11208,
+          "name": "Гірчиця та хрін",
+          "parent_id": 11205,
+          "url": "https://winetime.zakaz.ua/uk/categories/mustard-and-horseradish-winetime/",
+          "children": []
+        },
+        {
+          "id": 11207,
+          "name": "Кетчуп",
+          "parent_id": 11205,
+          "url": "https://winetime.zakaz.ua/uk/categories/ketchup-winetime/",
+          "children": []
+        },
+        {
+          "id": 11206,
+          "name": "Майонез",
+          "parent_id": 11205,
+          "url": "https://winetime.zakaz.ua/uk/categories/mayonnese-winetime/",
+          "children": []
+        },
+        {
+          "id": 11226,
+          "name": "Приправи та спеції",
+          "parent_id": 11205,
+          "url": "https://winetime.zakaz.ua/uk/categories/herbs-and-spices-winetime/",
+          "children": [
+            {
+              "id": 11241,
+              "name": "Базилік сушений",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/dried-basil-winetime/",
+              "children": []
+            },
+            {
+              "id": 11236,
+              "name": "Бульйони і бульйонні кубики",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/bouillon-cube-winetime/",
+              "children": []
+            },
+            {
+              "id": 11240,
+              "name": "Зелень і трави",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/greens-and-herbs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11244,
+              "name": "Імбир сушений",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/ginger-spice-winetime/",
+              "children": []
+            },
+            {
+              "id": 11252,
+              "name": "Інші приправи і спеції",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-spices-winetime/",
+              "children": []
+            },
+            {
+              "id": 11242,
+              "name": "Карі",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/curry-winetime/",
+              "children": []
+            },
+            {
+              "id": 11243,
+              "name": "Кмин",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/caraway-winetime/",
+              "children": []
+            },
+            {
+              "id": 11245,
+              "name": "Кориця",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/cinnamon-winetime/",
+              "children": []
+            },
+            {
+              "id": 11237,
+              "name": "Куркума",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/turmeric-winetime/",
+              "children": []
+            },
+            {
+              "id": 11239,
+              "name": "Лавровий лист",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/bay-leaf-winetime/",
+              "children": []
+            },
+            {
+              "id": 11249,
+              "name": "Мускатний горіх",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/nutmeg-winetime/",
+              "children": []
+            },
+            {
+              "id": 11232,
+              "name": "Перець і паприка",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/pepper-seasoning-winetime/",
+              "children": []
+            },
+            {
+              "id": 11251,
+              "name": "Приправа до глінтвейну",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/mulled-wine-spice-winetime/",
+              "children": []
+            },
+            {
+              "id": 11234,
+              "name": "Приправа до картоплі",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-potatoes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11228,
+              "name": "Приправа до курки",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-chicken-winetime/",
+              "children": []
+            },
+            {
+              "id": 11227,
+              "name": "Приправа до м'яса",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-meat-winetime/",
+              "children": []
+            },
+            {
+              "id": 11248,
+              "name": "Приправа до перших страв",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-first-dishes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11233,
+              "name": "Приправа до плову",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-pilaf-winetime/",
+              "children": []
+            },
+            {
+              "id": 11229,
+              "name": "Приправа до риби",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-fish-winetime/",
+              "children": []
+            },
+            {
+              "id": 11246,
+              "name": "Приправа до салатів",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-salads-winetime/",
+              "children": []
+            },
+            {
+              "id": 11231,
+              "name": "Приправа до шашлику",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/seasoning-for-barbecue-winetime/",
+              "children": []
+            },
+            {
+              "id": 11230,
+              "name": "Приправа універсальна",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/universal-seasoning-winetime/",
+              "children": []
+            },
+            {
+              "id": 11250,
+              "name": "Тим’ян (чебрець)",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/thyme-winetime/",
+              "children": []
+            },
+            {
+              "id": 11238,
+              "name": "Хмелі-сунелі",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/hmeli-suneli-winetime/",
+              "children": []
+            },
+            {
+              "id": 11247,
+              "name": "Цибуля сушена",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/dried-onion-winetime/",
+              "children": []
+            },
+            {
+              "id": 11235,
+              "name": "Часник сушений",
+              "parent_id": 11226,
+              "url": "https://winetime.zakaz.ua/uk/categories/dried-garlic-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11209,
+          "name": "Соуси, маринади",
+          "parent_id": 11205,
+          "url": "https://winetime.zakaz.ua/uk/categories/sauces-winetime/",
+          "children": [
+            {
+              "id": 11210,
+              "name": "Аджика",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/adjika-winetime/",
+              "children": []
+            },
+            {
+              "id": 11211,
+              "name": "Бальзамічний",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/balsamic-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11212,
+              "name": "Барбекю",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/barbecue-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11213,
+              "name": "Горіховий",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/nut-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11224,
+              "name": "Заправки та маринади",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/flavoring-and-marinade-winetime/",
+              "children": []
+            },
+            {
+              "id": 11225,
+              "name": "Інші соуси",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/other-sauces-winetime/",
+              "children": []
+            },
+            {
+              "id": 11214,
+              "name": "Каррі",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/curry-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11215,
+              "name": "Перцевий, чилі, табаско",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/chili-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11216,
+              "name": "Песто",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/pesto-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11217,
+              "name": "Рибний",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/fish-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11218,
+              "name": "Сацебелі",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/sauce-satsebeli-winetime/",
+              "children": []
+            },
+            {
+              "id": 11220,
+              "name": "Сирний",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/cheese-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11219,
+              "name": "Соєвий",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11221,
+              "name": "Томатна паста, соуси",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/tomato-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11222,
+              "name": "Трюфельний",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/truffle-sauce-winetime/",
+              "children": []
+            },
+            {
+              "id": 11223,
+              "name": "Фруктовий",
+              "parent_id": 11209,
+              "url": "https://winetime.zakaz.ua/uk/categories/fruity-sauce-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11503,
+      "name": "Товари для дітей",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/babies-winetime/",
+      "children": [
+        {
+          "id": 11504,
+          "name": "Дитяче харчування",
+          "parent_id": 11503,
+          "url": "https://winetime.zakaz.ua/uk/categories/baby-foods-winetime/",
+          "children": [
+            {
+              "id": 11505,
+              "name": "Вода для дітей",
+              "parent_id": 11504,
+              "url": "https://winetime.zakaz.ua/uk/categories/water-for-baby-winetime/",
+              "children": []
+            },
+            {
+              "id": 11506,
+              "name": "Каші для дітей",
+              "parent_id": 11504,
+              "url": "https://winetime.zakaz.ua/uk/categories/porridge-for-babies-winetime/",
+              "children": []
+            },
+            {
+              "id": 11507,
+              "name": "Печиво для дітей",
+              "parent_id": 11504,
+              "url": "https://winetime.zakaz.ua/uk/categories/cookies-and-rusks-winetime/",
+              "children": []
+            },
+            {
+              "id": 11508,
+              "name": "Пюре для дітей",
+              "parent_id": 11504,
+              "url": "https://winetime.zakaz.ua/uk/categories/puree-for-babies-winetime/",
+              "children": []
+            },
+            {
+              "id": 11509,
+              "name": "Соки для дітей",
+              "parent_id": 11504,
+              "url": "https://winetime.zakaz.ua/uk/categories/juice-for-babies-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11511,
+          "name": "Дитячі іграшки",
+          "parent_id": 11503,
+          "url": "https://winetime.zakaz.ua/uk/categories/toys-for-babies-winetime/",
+          "children": []
+        },
+        {
+          "id": 11510,
+          "name": "Догляд за дитиною",
+          "parent_id": 11503,
+          "url": "https://winetime.zakaz.ua/uk/categories/care-babies-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11466,
+      "name": "Товари для дому",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/household-goods-winetime/",
+      "children": [
+        {
+          "id": 11487,
+          "name": "Відра, тази",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/pail-and-bowl-winetime/",
+          "children": []
+        },
+        {
+          "id": 11486,
+          "name": "Все для ванної кімнати",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/trivia-bathroom-winetime/",
+          "children": []
+        },
+        {
+          "id": 11489,
+          "name": "Догляд за одягом, чохли для речей",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/clothing-care-winetime/",
+          "children": []
+        },
+        {
+          "id": 11491,
+          "name": "Дрібниці для дому",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/melochi-dlya-doma-winetime/",
+          "children": []
+        },
+        {
+          "id": 11481,
+          "name": "Електротовари",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/equipment-winetime/",
+          "children": [
+            {
+              "id": 11482,
+              "name": "Батарейки",
+              "parent_id": 11481,
+              "url": "https://winetime.zakaz.ua/uk/categories/batteries-winetime/",
+              "children": []
+            },
+            {
+              "id": 11484,
+              "name": "Ліхтарики, термометри",
+              "parent_id": 11481,
+              "url": "https://winetime.zakaz.ua/uk/categories/flashlight-thermometer-winetime/",
+              "children": []
+            },
+            {
+              "id": 11485,
+              "name": "Побутова техніка",
+              "parent_id": 11481,
+              "url": "https://winetime.zakaz.ua/uk/categories/appliances-winetime/",
+              "children": []
+            },
+            {
+              "id": 11483,
+              "name": "Ручний інструмент та матеріали",
+              "parent_id": 11481,
+              "url": "https://winetime.zakaz.ua/uk/categories/hand-tools-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11490,
+          "name": "Кошики для зберігання",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/storage-baskets-winetime/",
+          "children": []
+        },
+        {
+          "id": 11467,
+          "name": "Паперові вироби",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/paper-goods-winetime/",
+          "children": [
+            {
+              "id": 11468,
+              "name": "Паперові рушники",
+              "parent_id": 11467,
+              "url": "https://winetime.zakaz.ua/uk/categories/paper-towels-winetime/",
+              "children": []
+            },
+            {
+              "id": 11469,
+              "name": "Серветки в коробці",
+              "parent_id": 11467,
+              "url": "https://winetime.zakaz.ua/uk/categories/wipes-in-box-winetime/",
+              "children": []
+            },
+            {
+              "id": 11470,
+              "name": "Серветки вологі",
+              "parent_id": 11467,
+              "url": "https://winetime.zakaz.ua/uk/categories/wet-wipes-winetime/",
+              "children": []
+            },
+            {
+              "id": 11471,
+              "name": "Серветки столові",
+              "parent_id": 11467,
+              "url": "https://winetime.zakaz.ua/uk/categories/table-napkins-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11472,
+          "name": "Приладдя для кухні",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/kitchen-accessories-winetime/",
+          "children": [
+            {
+              "id": 11473,
+              "name": "Губки господарчі",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/household-sponges-winetime/",
+              "children": []
+            },
+            {
+              "id": 11474,
+              "name": "Пакети для зберігання продуктів",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/food-packages-winetime/",
+              "children": []
+            },
+            {
+              "id": 11475,
+              "name": "Пакети для сміття",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/garbage-bags-winetime/",
+              "children": []
+            },
+            {
+              "id": 11479,
+              "name": "Плівка харчова",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/food-film-winetime/",
+              "children": []
+            },
+            {
+              "id": 11477,
+              "name": "Рукавички господарські",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/gloves-for-cleaning-winetime/",
+              "children": []
+            },
+            {
+              "id": 11478,
+              "name": "Серветки для прибиранння",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/cleaning-napkins-winetime/",
+              "children": []
+            },
+            {
+              "id": 11476,
+              "name": "Фольга та пергамент",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/foil-and-baking-paper-winetime/",
+              "children": []
+            },
+            {
+              "id": 11480,
+              "name": "Шкребки господарчі",
+              "parent_id": 11472,
+              "url": "https://winetime.zakaz.ua/uk/categories/scrapers-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11488,
+          "name": "Швабри, щітки, совки",
+          "parent_id": 11466,
+          "url": "https://winetime.zakaz.ua/uk/categories/mops-brushes-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11331,
+      "name": "Фрукти та овочі",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/fruits-and-vegetables-winetime/",
+      "children": [
+        {
+          "id": 11338,
+          "name": "Горіхи та сухофрукти",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/nuts-and-dried-fruits-winetime/",
+          "children": [
+            {
+              "id": 11339,
+              "name": "Горіхи",
+              "parent_id": 11338,
+              "url": "https://winetime.zakaz.ua/uk/categories/nuts-winetime/",
+              "children": []
+            },
+            {
+              "id": 11341,
+              "name": "Насіння",
+              "parent_id": 11338,
+              "url": "https://winetime.zakaz.ua/uk/categories/seeds-1-winetime/",
+              "children": []
+            },
+            {
+              "id": 11340,
+              "name": "Сухофрукти",
+              "parent_id": 11338,
+              "url": "https://winetime.zakaz.ua/uk/categories/dried-fruits-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11335,
+          "name": "Гриби",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/mushrooms-winetime/",
+          "children": []
+        },
+        {
+          "id": 11336,
+          "name": "Зелень",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/fresh-greens-winetime/",
+          "children": []
+        },
+        {
+          "id": 11333,
+          "name": "Овочі",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/vegetables-winetime/",
+          "children": []
+        },
+        {
+          "id": 11337,
+          "name": "Салати та соління",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/salads-and-pickles-winetime/",
+          "children": []
+        },
+        {
+          "id": 11332,
+          "name": "Фрукти",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/fruits-winetime/",
+          "children": []
+        },
+        {
+          "id": 11334,
+          "name": "Ягоди",
+          "parent_id": 11331,
+          "url": "https://winetime.zakaz.ua/uk/categories/berries-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11321,
+      "name": "Чипси та снеки",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/snacks-winetime/",
+      "children": [
+        {
+          "id": 11324,
+          "name": "Cухарики і грінки",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/saltine-rusks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11330,
+          "name": "Інші снеки",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/other-snacks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11329,
+          "name": "Кукурудзяні снеки",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/corn-snacks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11323,
+          "name": "Норі",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/nori-winetime/",
+          "children": []
+        },
+        {
+          "id": 11326,
+          "name": "Попкорн",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/popcorn-winetime/",
+          "children": []
+        },
+        {
+          "id": 11328,
+          "name": "Рибні та м'ясні снеки",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/packed-fish-snacks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11325,
+          "name": "Солоні горішки",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/salted-nuts-winetime/",
+          "children": []
+        },
+        {
+          "id": 11327,
+          "name": "Соняшникове та гарбузове насіння",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/seeds-winetime/",
+          "children": []
+        },
+        {
+          "id": 11322,
+          "name": "Чипси",
+          "parent_id": 11321,
+          "url": "https://winetime.zakaz.ua/uk/categories/chips-winetime/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 11113,
+      "name": "Яйця та молочні продукти",
+      "parent_id": null,
+      "url": "https://winetime.zakaz.ua/uk/categories/dairy-and-eggs-winetime/",
+      "children": [
+        {
+          "id": 11144,
+          "name": "Безлактозна продукція",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/dairy-free-food-and-drinks-winetime/",
+          "children": []
+        },
+        {
+          "id": 11145,
+          "name": "Безмолочна продукція",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/dairy-free-products-winetime/",
+          "children": []
+        },
+        {
+          "id": 11142,
+          "name": "Вершки",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/cream-winetime/",
+          "children": []
+        },
+        {
+          "id": 11141,
+          "name": "Десерти, пудинги, коктейлі",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/dairy-dessert-winetime/",
+          "children": []
+        },
+        {
+          "id": 11143,
+          "name": "Згущене молоко",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/condensed-milk-winetime/",
+          "children": []
+        },
+        {
+          "id": 11127,
+          "name": "Йогурт",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/yogurt-winetime/",
+          "children": []
+        },
+        {
+          "id": 11132,
+          "name": "Кисломолочні напої",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/sour-milk-drinks-winetime/",
+          "children": [
+            {
+              "id": 11135,
+              "name": "Айран, тан",
+              "parent_id": 11132,
+              "url": "https://winetime.zakaz.ua/uk/categories/ayran-winetime/",
+              "children": []
+            },
+            {
+              "id": 11136,
+              "name": "Інші кисломолочні напої",
+              "parent_id": 11132,
+              "url": "https://winetime.zakaz.ua/uk/categories/beverage-milk-winetime/",
+              "children": []
+            },
+            {
+              "id": 11133,
+              "name": "Кефір",
+              "parent_id": 11132,
+              "url": "https://winetime.zakaz.ua/uk/categories/kefir-winetime/",
+              "children": []
+            },
+            {
+              "id": 11134,
+              "name": "Ряжанка",
+              "parent_id": 11132,
+              "url": "https://winetime.zakaz.ua/uk/categories/ryazhenka-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11138,
+          "name": "Масло і маргарин",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/butter-and-margarine-winetime/",
+          "children": [
+            {
+              "id": 11139,
+              "name": "Масло",
+              "parent_id": 11138,
+              "url": "https://winetime.zakaz.ua/uk/categories/sweet-butter-winetime/",
+              "children": []
+            },
+            {
+              "id": 11140,
+              "name": "Масло Гхі",
+              "parent_id": 11138,
+              "url": "https://winetime.zakaz.ua/uk/categories/ghee-butter-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11121,
+          "name": "Молоко",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/milk-winetime/",
+          "children": [
+            {
+              "id": 11125,
+              "name": "Безлактозне",
+              "parent_id": 11121,
+              "url": "https://winetime.zakaz.ua/uk/categories/lactose-free-milk-winetime/",
+              "children": []
+            },
+            {
+              "id": 11122,
+              "name": "Пастеризоване",
+              "parent_id": 11121,
+              "url": "https://winetime.zakaz.ua/uk/categories/pasteurized-milk-winetime/",
+              "children": []
+            },
+            {
+              "id": 11124,
+              "name": "Пряжене",
+              "parent_id": 11121,
+              "url": "https://winetime.zakaz.ua/uk/categories/baked-milk-winetime/",
+              "children": []
+            },
+            {
+              "id": 11126,
+              "name": "Рослинне",
+              "parent_id": 11121,
+              "url": "https://winetime.zakaz.ua/uk/categories/vegetable-milk-winetime/",
+              "children": []
+            },
+            {
+              "id": 11123,
+              "name": "Ультрапастеризоване",
+              "parent_id": 11121,
+              "url": "https://winetime.zakaz.ua/uk/categories/uht-milk-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11128,
+          "name": "Сир кисломолочний",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/curd-winetime/",
+          "children": [
+            {
+              "id": 11129,
+              "name": "Сир кисломолочний без добавок",
+              "parent_id": 11128,
+              "url": "https://winetime.zakaz.ua/uk/categories/curd-without-additives-winetime/",
+              "children": []
+            },
+            {
+              "id": 11130,
+              "name": "Сирки глазуровані",
+              "parent_id": 11128,
+              "url": "https://winetime.zakaz.ua/uk/categories/glazed-curds-winetime/",
+              "children": []
+            },
+            {
+              "id": 11131,
+              "name": "Сиркові десерти",
+              "parent_id": 11128,
+              "url": "https://winetime.zakaz.ua/uk/categories/curds-desserts-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11114,
+          "name": "Сири",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/cheeses-winetime/",
+          "children": [
+            {
+              "id": 11120,
+              "name": "Закуски бутербродні",
+              "parent_id": 11114,
+              "url": "https://winetime.zakaz.ua/uk/categories/cheese-appetizer-winetime/",
+              "children": []
+            },
+            {
+              "id": 11119,
+              "name": "Крем-сир",
+              "parent_id": 11114,
+              "url": "https://winetime.zakaz.ua/uk/categories/cream-cheese-winetime/",
+              "children": []
+            },
+            {
+              "id": 11116,
+              "name": "М'який сир",
+              "parent_id": 11114,
+              "url": "https://winetime.zakaz.ua/uk/categories/soft-cheese-winetime/",
+              "children": []
+            },
+            {
+              "id": 11118,
+              "name": "Плавлений сир",
+              "parent_id": 11114,
+              "url": "https://winetime.zakaz.ua/uk/categories/process-cheese-winetime/",
+              "children": []
+            },
+            {
+              "id": 11117,
+              "name": "Розсільний сир",
+              "parent_id": 11114,
+              "url": "https://winetime.zakaz.ua/uk/categories/pickled-cheese-winetime/",
+              "children": []
+            },
+            {
+              "id": 11115,
+              "name": "Твердий і напівтвердий сир",
+              "parent_id": 11114,
+              "url": "https://winetime.zakaz.ua/uk/categories/hard-cheese-winetime/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 11137,
+          "name": "Сметана",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/sour-cream-winetime/",
+          "children": []
+        },
+        {
+          "id": 11146,
+          "name": "Яйця",
+          "parent_id": 11113,
+          "url": "https://winetime.zakaz.ua/uk/categories/eggs-winetime/",
+          "children": [
+            {
+              "id": 11147,
+              "name": "Курячі яйця",
+              "parent_id": 11146,
+              "url": "https://winetime.zakaz.ua/uk/categories/chicken-eggs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11148,
+              "name": "Перепелині яйця",
+              "parent_id": 11146,
+              "url": "https://winetime.zakaz.ua/uk/categories/quail-eggs-winetime/",
+              "children": []
+            },
+            {
+              "id": 11149,
+              "name": "Цесарині яйця",
+              "parent_id": 11146,
+              "url": "https://winetime.zakaz.ua/uk/categories/guinea-fowl-eggs-winetime/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]

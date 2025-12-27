@@ -8,7 +8,7 @@ from datetime import datetime
 
 # --- Конфигурация ---
 NEW_CATEGORIES_FILE = 'new.json'
-OLD_CATEGORIES_FILES = ['6.json']
+OLD_CATEGORIES_FILES = ['10.json']
 OUTPUT_DIR = 'report'  # Базовая директория для отчетов
 CHUNK_SIZE = 10 # Количество старых категорий для обработки за один запрос к Claude (уменьшено для тестирования)
 CLAUDE_MODEL = "claude-3-5-haiku-20241022" # Можно использовать "claude-3-sonnet-20240229" для меньших затрат
