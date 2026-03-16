@@ -1,0 +1,209 @@
+[
+  {
+    "source_id": "24461",
+    "source_name": "Victorinox ножі",
+    "reference_id": "24395",
+    "reference_name": "Кухонні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Кухонні ножі",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24499",
+    "source_name": "Індустріальні ліхтарі Fenix",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24543",
+    "source_name": "Пневматичні пістолети SPA",
+    "reference_id": "24415",
+    "reference_name": "Пружинно-поршневі",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Пружинно-поршневі",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24630",
+    "source_name": "ZIPP Toys іграшкові автомати",
+    "reference_id": "24386",
+    "reference_name": "Страйкбол",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24632",
+    "source_name": "ZIPP Toys іграшкові бластери",
+    "reference_id": "24386",
+    "reference_name": "Страйкбол",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24633",
+    "source_name": "ZIPP Toys іграшкові пістолети",
+    "reference_id": "24383",
+    "reference_name": "Револьвери пневматичні",
+    "reference_path": "Зброя > Пневматична зброя > Револьвери пневматичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24636",
+    "source_name": "Skif Outdoor аксесуари",
+    "reference_id": "24353",
+    "reference_name": "Коробки",
+    "reference_path": "Аксесуари > Коробки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24640",
+    "source_name": "BRS аксесуари",
+    "reference_id": "24353",
+    "reference_name": "Коробки",
+    "reference_path": "Аксесуари > Коробки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24659",
+    "source_name": "Naturehike спорядження",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24662",
+    "source_name": "Аксесуари к мультитулам",
+    "reference_id": "24373",
+    "reference_name": "Чохли",
+    "reference_path": "Ножі та інструменти > Аксесуари та комплектуючі > Чохли",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24706",
+    "source_name": "Condor жилети тактичні",
+    "reference_id": "24360",
+    "reference_name": "Інше",
+    "reference_path": "Одяг та взуття > Інше",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24782",
+    "source_name": "Набори для чищення MEGAline",
+    "reference_id": "24350",
+    "reference_name": "Подставки для чистки",
+    "reference_path": "Чистка та догляд > Подставки для чистки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24788",
+    "source_name": "Засоби для чищення зброї J-B",
+    "reference_id": "24350",
+    "reference_name": "Подставки для чистки",
+    "reference_path": "Чистка та догляд > Подставки для чистки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24793",
+    "source_name": "Кулі для пневматики JSB",
+    "reference_id": "24320",
+    "reference_name": "Набої для холодної пристрілки",
+    "reference_path": "Набої > Набої для холодної пристрілки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24866",
+    "source_name": "Плитоноски",
+    "reference_id": "24341",
+    "reference_name": "Кобури та сумки",
+    "reference_path": "Спорядження > Кобури та сумки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24878",
+    "source_name": "Повербанки Litheli",
+    "reference_id": "24353",
+    "reference_name": "Коробки",
+    "reference_path": "Аксесуари > Коробки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24880",
+    "source_name": "Osprey аксесуари",
+    "reference_id": "24353",
+    "reference_name": "Коробки",
+    "reference_path": "Аксесуари > Коробки",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24940",
+    "source_name": "Сила аксесуари",
+    "reference_id": "24357",
+    "reference_name": "Ремені збройові",
+    "reference_path": "Аксесуари > Ремені збройові",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24955",
+    "source_name": "Сила точила і каміння",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24956",
+    "source_name": "Сила аксесуари",
+    "reference_id": "24357",
+    "reference_name": "Ремені збройові",
+    "reference_path": "Аксесуари > Ремені збройові",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24673",
+    "source_name": "Olight ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24698",
+    "source_name": "BRS Мультипаливні пальники",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24741",
+    "source_name": "Defcon 5  жилети тактичні",
+    "reference_id": "24342",
+    "reference_name": "Навушники",
+    "reference_path": "Спорядження > Навушники",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  }
+]

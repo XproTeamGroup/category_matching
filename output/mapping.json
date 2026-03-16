@@ -1,0 +1,2063 @@
+[
+  {
+    "source_id": "24430",
+    "source_name": "Ganzo мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24431",
+    "source_name": "NexTool мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24432",
+    "source_name": "Roxon мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24460",
+    "source_name": "Victorinox мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24462",
+    "source_name": "Victorinox Кухонні ножі",
+    "reference_id": "24395",
+    "reference_name": "Кухонні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Кухонні ножі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24468",
+    "source_name": "Tramp рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24506",
+    "source_name": "Ножі з фіксованим клинком Cold Steel",
+    "reference_id": "24397",
+    "reference_name": "Ножі з фіксованим клинком",
+    "reference_path": "Ножі та інструменти > Ножі > Ножі з фіксованим клинком",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24509",
+    "source_name": "Boker Plus тактичні ручки",
+    "reference_id": "24325",
+    "reference_name": "Тактичні ручки",
+    "reference_path": "Ножі та інструменти > Тактичні ручки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24527",
+    "source_name": "Біноклі",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24528",
+    "source_name": "Монокуляри",
+    "reference_id": "24390",
+    "reference_name": "Монокуляри",
+    "reference_path": "Оптика > Прилади спостереження > Монокуляри",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24545",
+    "source_name": "Leatherman мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24570",
+    "source_name": "Ranger рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24606",
+    "source_name": "Favorite рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24609",
+    "source_name": "Select окуляри",
+    "reference_id": "24369",
+    "reference_name": "Окуляри",
+    "reference_path": "Оптика > Аксесуари та комплектуючі > Окуляри",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24615",
+    "source_name": "Skif мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24668",
+    "source_name": "Skif Outdoor рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24677",
+    "source_name": "Skif Outdoor рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24695",
+    "source_name": "Патчі Real Avid",
+    "reference_id": "24349",
+    "reference_name": "Патчі",
+    "reference_path": "Чистка та догляд > Патчі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24699",
+    "source_name": "Walker’s окуляри",
+    "reference_id": "24369",
+    "reference_name": "Окуляри",
+    "reference_path": "Оптика > Аксесуари та комплектуючі > Окуляри",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24701",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24727",
+    "source_name": "Мультитули Active",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24739",
+    "source_name": "Lansky мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24757",
+    "source_name": "Boker Мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24799",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24801",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24806",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24807",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24819",
+    "source_name": "Налобні",
+    "reference_id": "24337",
+    "reference_name": "Налобні",
+    "reference_path": "Ліхтарі > Налобні",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24828",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24831",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24845",
+    "source_name": "Рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24846",
+    "source_name": "Сумки",
+    "reference_id": "24346",
+    "reference_name": "Сумки",
+    "reference_path": "Спорядження > Сумки",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24847",
+    "source_name": "Чохли",
+    "reference_id": "24373",
+    "reference_name": "Чохли",
+    "reference_path": "Ножі та інструменти > Аксесуари та комплектуючі > Чохли",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24854",
+    "source_name": "Naturehike рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24855",
+    "source_name": "Naturehike сумки",
+    "reference_id": "24346",
+    "reference_name": "Сумки",
+    "reference_path": "Спорядження > Сумки",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24964",
+    "source_name": "Umarex окуляри",
+    "reference_id": "24369",
+    "reference_name": "Окуляри",
+    "reference_path": "Оптика > Аксесуари та комплектуючі > Окуляри",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "24433",
+    "source_name": "Adimanti лопати багатофункціональні",
+    "reference_id": "24326",
+    "reference_name": "Сокири, лопати та інше",
+    "reference_path": "Ножі та інструменти > Сокири, лопати та інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24434",
+    "source_name": "Масла і мастила Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24435",
+    "source_name": "Bestech ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24436",
+    "source_name": "Ножі Ganzo 6а серія",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24437",
+    "source_name": "Ножі Firebird 7а серія",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24438",
+    "source_name": "Ножі Ganzo 8а серія",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24439",
+    "source_name": "Ножі Firebird FH серія",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24440",
+    "source_name": "Армійські ножі Ruike",
+    "reference_id": "24397",
+    "reference_name": "Ножі з фіксованим клинком",
+    "reference_path": "Ножі та інструменти > Ножі > Ножі з фіксованим клинком",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24441",
+    "source_name": "Класичні ножі Ruike",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24442",
+    "source_name": "Спеціальні моделі Ruike",
+    "reference_id": "24394",
+    "reference_name": "Колекційні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Колекційні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24443",
+    "source_name": "Zero Tolerance ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24444",
+    "source_name": "DexShell шкарпетки",
+    "reference_id": "24359",
+    "reference_name": "Аксесуари",
+    "reference_path": "Одяг та взуття > Аксесуари",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24445",
+    "source_name": "DexShell рукавички",
+    "reference_id": "24359",
+    "reference_name": "Аксесуари",
+    "reference_path": "Одяг та взуття > Аксесуари",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24446",
+    "source_name": "DexShell шапки",
+    "reference_id": "24359",
+    "reference_name": "Аксесуари",
+    "reference_path": "Одяг та взуття > Аксесуари",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24447",
+    "source_name": "Ganzo точила і каміння",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24448",
+    "source_name": "Work Sharp точильні верстати і точила",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24449",
+    "source_name": "Fenix аксесуари",
+    "reference_id": "24363",
+    "reference_name": "Інше",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24450",
+    "source_name": "Велофари Fenix",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24451",
+    "source_name": "Кемпінгові ліхтарі Fenix",
+    "reference_id": "24340",
+    "reference_name": "Прожектори та кемпінгові ліхтарі",
+    "reference_path": "Ліхтарі > Прожектори та кемпінгові ліхтарі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24452",
+    "source_name": "Наключні ліхтарі",
+    "reference_id": "24339",
+    "reference_name": "Ліхтарі-брелоки",
+    "reference_path": "Ліхтарі > Ліхтарі-брелоки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24453",
+    "source_name": "Налобні ліхтарі Fenix",
+    "reference_id": "24337",
+    "reference_name": "Налобні",
+    "reference_path": "Ліхтарі > Налобні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24454",
+    "source_name": "Ручні стандартні ліхтарі",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24455",
+    "source_name": "Fenix ел живлення та зарядні пристрої",
+    "reference_id": "24366",
+    "reference_name": "Елементи живлення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Елементи живлення",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24456",
+    "source_name": "Ел живлення та зарядні пристрої",
+    "reference_id": "24366",
+    "reference_name": "Елементи живлення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Елементи живлення",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24457",
+    "source_name": "Spyderco точила і каміння",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24458",
+    "source_name": "Ganzo сокири і мачете",
+    "reference_id": "24326",
+    "reference_name": "Сокири, лопати та інше",
+    "reference_path": "Ножі та інструменти > Сокири, лопати та інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24459",
+    "source_name": "Lansky точила і каміння",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24463",
+    "source_name": "Victorinox точила і каміння",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24464",
+    "source_name": "Victorinox рюкзаки, багаж",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24465",
+    "source_name": "Ruixin точила",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24466",
+    "source_name": "Ножі Adimanti Skimen design",
+    "reference_id": "24397",
+    "reference_name": "Ножі з фіксованим клинком",
+    "reference_path": "Ножі та інструменти > Ножі > Ножі з фіксованим клинком",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24476",
+    "source_name": "Nextool лопати багатофункціональні",
+    "reference_id": "24326",
+    "reference_name": "Сокири, лопати та інше",
+    "reference_path": "Ножі та інструменти > Сокири, лопати та інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24490",
+    "source_name": "Work Sharp аксесуари до професiйних кухонних точилок",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24491",
+    "source_name": "Work Sharp аксесуари до унiверсальних  электричних точилок",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24492",
+    "source_name": "Work Sharp професiйнi кухоннi точилки электричнi",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24493",
+    "source_name": "Work Sharp унiверсальнi точилки электричнi",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24494",
+    "source_name": "Opinel ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24500",
+    "source_name": "Мисливські ліхтарі Fenix",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24501",
+    "source_name": "Набори Fenix",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24502",
+    "source_name": "Повсякденні ліхтарі Fenix",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24503",
+    "source_name": "Пошуково-рятувальні ліхтарі Fenix",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24504",
+    "source_name": "Тактичні ліхтарі Fenix",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24505",
+    "source_name": "Cold Steel ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24507",
+    "source_name": "Ножі складні Cold Steel",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24508",
+    "source_name": "Spyderco ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24510",
+    "source_name": "Boker ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24511",
+    "source_name": "Boker Plus ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24512",
+    "source_name": "Magnum by Boker ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24514",
+    "source_name": "Kershaw інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24515",
+    "source_name": "Kershaw ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24525",
+    "source_name": "CJRB ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24529",
+    "source_name": "Підзорні труби",
+    "reference_id": "24389",
+    "reference_name": "Підзорні труби і телескопи",
+    "reference_path": "Оптика > Прилади спостереження > Підзорні труби і телескопи",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24530",
+    "source_name": "Приціли",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24533",
+    "source_name": "Аксесуари для пневматики",
+    "reference_id": "24420",
+    "reference_name": "Аксесуари до РСР",
+    "reference_path": "Зброя > Пневматична зброя > Аксесуари та комплектуючі > Аксесуари до РСР",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24535",
+    "source_name": "SKIF Outdoor ліхтарі",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24536",
+    "source_name": "Пневматичні гвинтівки Artemis",
+    "reference_id": "24408",
+    "reference_name": "З газовою пружиною",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > З газовою пружиною",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24537",
+    "source_name": "Пневматичні гвинтівки Ekol",
+    "reference_id": "24409",
+    "reference_name": "Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24538",
+    "source_name": "Пневматичні гвинтівки Hatsan",
+    "reference_id": "24410",
+    "reference_name": "Пружинно-поршневі гвинтівки",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24539",
+    "source_name": "Пневматичні гвинтівки SPA",
+    "reference_id": "24411",
+    "reference_name": "Мультикомпресійні",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Мультикомпресійні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24540",
+    "source_name": "Пневматичні пістолети Zbroia",
+    "reference_id": "24415",
+    "reference_name": "Пружинно-поршневі",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Пружинно-поршневі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24541",
+    "source_name": "Пневматичні пістолети KWC",
+    "reference_id": "24415",
+    "reference_name": "Пружинно-поршневі",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Пружинно-поршневі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24542",
+    "source_name": "Пневматичні пістолети Profi",
+    "reference_id": "24415",
+    "reference_name": "Пружинно-поршневі",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Пружинно-поршневі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24546",
+    "source_name": "Leatherman ножі",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24565",
+    "source_name": "Кемпинг рюкзаки, сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24568",
+    "source_name": "Novator рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24590",
+    "source_name": "Рибальські сумки Brain",
+    "reference_id": "24346",
+    "reference_name": "Сумки",
+    "reference_path": "Спорядження > Сумки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24591",
+    "source_name": "Рибальські сумки Shimano",
+    "reference_id": "24346",
+    "reference_name": "Сумки",
+    "reference_path": "Спорядження > Сумки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24612",
+    "source_name": "Select рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24613",
+    "source_name": "Ножі Ganzo 7а серія",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24614",
+    "source_name": "Skif інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24616",
+    "source_name": "Skif ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24618",
+    "source_name": "Benchmade ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24619",
+    "source_name": "Acta Non Verba ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24620",
+    "source_name": "StatGear ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24621",
+    "source_name": "Вішери для зброї Ballistol",
+    "reference_id": "24348",
+    "reference_name": "Насадки (йоржики, вішери і т.д.)",
+    "reference_path": "Чистка та догляд > Насадки (йоржики, вішери і т.д.)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24622",
+    "source_name": "Засоби для чищення зброї",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24623",
+    "source_name": "Мастила для зброї Ballistol",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24624",
+    "source_name": "Патчі для чищення зброї Ballistol",
+    "reference_id": "24349",
+    "reference_name": "Патчі",
+    "reference_path": "Чистка та догляд > Патчі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24625",
+    "source_name": "Серветки для чищення зброї Ballistol",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24626",
+    "source_name": "Шомполи для зброї Ballistol",
+    "reference_id": "24352",
+    "reference_name": "Шомпола",
+    "reference_path": "Чистка та догляд > Шомпола",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24627",
+    "source_name": "Olight ліхтарі",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24631",
+    "source_name": "ZIPP Toys іграшкові арбалети",
+    "reference_id": "24398",
+    "reference_name": "Арбалети та комплектуючі",
+    "reference_path": "Зброя > Арбалети,луки та рогатки > Арбалети та комплектуючі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24643",
+    "source_name": "Lionsteel ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24644",
+    "source_name": "Лазерні дальнометри",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24645",
+    "source_name": "Fix it Sticks інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24646",
+    "source_name": "Due Cigni інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24647",
+    "source_name": "Due Cigni ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24648",
+    "source_name": "Due Cigni точила",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24649",
+    "source_name": "Naturehike інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24650",
+    "source_name": "Naturehike ліхтарі",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24654",
+    "source_name": "Naturehike рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24661",
+    "source_name": "Сold Steel інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24663",
+    "source_name": "Microtech інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24664",
+    "source_name": "Fox Leather аксесуари до ножів",
+    "reference_id": "24373",
+    "reference_name": "Чохли",
+    "reference_path": "Ножі та інструменти > Аксесуари та комплектуючі > Чохли",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24665",
+    "source_name": "Fox Leather ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24666",
+    "source_name": "Skif Plus ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24670",
+    "source_name": "Shimomura ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24700",
+    "source_name": "CRKT ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24702",
+    "source_name": "Leatherman Інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24704",
+    "source_name": "Victorinox інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24705",
+    "source_name": "Civivi ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24707",
+    "source_name": "Condor тактичні ремені",
+    "reference_id": "24357",
+    "reference_name": "Ремені збройові",
+    "reference_path": "Аксесуари > Ремені збройові",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24709",
+    "source_name": "Condor гідратори, рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24715",
+    "source_name": "Засоби для догляду за зброєю GNP",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24716",
+    "source_name": "Вішери для зброї Bore Tech",
+    "reference_id": "24348",
+    "reference_name": "Насадки (йоржики, вішери і т.д.)",
+    "reference_path": "Чистка та догляд > Насадки (йоржики, вішери і т.д.)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24717",
+    "source_name": "Засоби для догляду за зброєю Bore Tech",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24718",
+    "source_name": "Йоржі для зброї Bore Tech",
+    "reference_id": "24348",
+    "reference_name": "Насадки (йоржики, вішери і т.д.)",
+    "reference_path": "Чистка та догляд > Насадки (йоржики, вішери і т.д.)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24719",
+    "source_name": "Мастила для зброї Bore Tech",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24720",
+    "source_name": "Патчі для чищення зброї Bore Tech",
+    "reference_id": "24349",
+    "reference_name": "Патчі",
+    "reference_path": "Чистка та догляд > Патчі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24721",
+    "source_name": "Шомполи для зброї Bore Tech",
+    "reference_id": "24352",
+    "reference_name": "Шомпола",
+    "reference_path": "Чистка та догляд > Шомпола",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24722",
+    "source_name": "Artisan ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24723",
+    "source_name": "Outac рюкзаки, підсумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24753",
+    "source_name": "Пневматичні гвинтівки Beeman",
+    "reference_id": "24409",
+    "reference_name": "Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24758",
+    "source_name": "Кухонні точила",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24759",
+    "source_name": "Пневматичні пістолети Retay",
+    "reference_id": "24417",
+    "reference_name": "З попереднім накачуванням PCP",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > З попереднім накачуванням PCP",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24760",
+    "source_name": "Ножі Helle",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24762",
+    "source_name": "Засоби для чищення Hoppe`s",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24763",
+    "source_name": "Peltonen ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24768",
+    "source_name": "Засоби для чищення зброї Терен",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24771",
+    "source_name": "Пневматичні пістолети ASG",
+    "reference_id": "24417",
+    "reference_name": "З попереднім накачуванням PCP",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > З попереднім накачуванням PCP",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24774",
+    "source_name": "Пневматичні пістолети SAS",
+    "reference_id": "24417",
+    "reference_name": "З попереднім накачуванням PCP",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > З попереднім накачуванням PCP",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24775",
+    "source_name": "Пневматичні гвинтівки Crosman",
+    "reference_id": "24409",
+    "reference_name": "Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24776",
+    "source_name": "Пневматичні гвинтівки Optima",
+    "reference_id": "24409",
+    "reference_name": "Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24777",
+    "source_name": "Пневматичні гвинтівки Sig Sauer Air",
+    "reference_id": "24409",
+    "reference_name": "Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пневматичні гвинтівки PCP (з попереднім накачуванням)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24778",
+    "source_name": "Пневматичні пістолети Sig Sauer Air",
+    "reference_id": "24417",
+    "reference_name": "З попереднім накачуванням PCP",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > З попереднім накачуванням PCP",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24780",
+    "source_name": "Йоржі для зброї MEGAline",
+    "reference_id": "24348",
+    "reference_name": "Насадки (йоржики, вішери і т.д.)",
+    "reference_path": "Чистка та догляд > Насадки (йоржики, вішери і т.д.)",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24781",
+    "source_name": "Мастила RecOil",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24784",
+    "source_name": "Шомполи для зброї MEGAline",
+    "reference_id": "24352",
+    "reference_name": "Шомпола",
+    "reference_path": "Чистка та догляд > Шомпола",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24786",
+    "source_name": "Пневматичні пістолети Beeman",
+    "reference_id": "24417",
+    "reference_name": "З попереднім накачуванням PCP",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > З попереднім накачуванням PCP",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24787",
+    "source_name": "Засоби для догляду за зброєю Dewey",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24790",
+    "source_name": "Ножі TB Outdoor",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24791",
+    "source_name": "Extrema Ratio ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24860",
+    "source_name": "Пневматичні гвинтівки Umarex",
+    "reference_id": "24410",
+    "reference_name": "Пружинно-поршневі гвинтівки",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24861",
+    "source_name": "Пневматичні пістолети Umarex",
+    "reference_id": "24415",
+    "reference_name": "Пружинно-поршневі",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Пружинно-поршневі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24862",
+    "source_name": "Сivivi тактичні ручки",
+    "reference_id": "24325",
+    "reference_name": "Тактичні ручки",
+    "reference_path": "Ножі та інструменти > Тактичні ручки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24867",
+    "source_name": "Leapers жилети тактичні",
+    "reference_id": "24344",
+    "reference_name": "Розгрузки",
+    "reference_path": "Спорядження > Розгрузки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24868",
+    "source_name": "Leapers тактичні ремені",
+    "reference_id": "24357",
+    "reference_name": "Ремені збройові",
+    "reference_path": "Аксесуари > Ремені збройові",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24869",
+    "source_name": "Leapers гідратори, рюкзаки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24870",
+    "source_name": "Leapers рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24871",
+    "source_name": "Пневматичні гвинтівки Gamo",
+    "reference_id": "24408",
+    "reference_name": "З газовою пружиною",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > З газовою пружиною",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24872",
+    "source_name": "Пневматичні пістолети Gamo",
+    "reference_id": "24415",
+    "reference_name": "Пружинно-поршневі",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Пружинно-поршневі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24873",
+    "source_name": "Snugpak рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24874",
+    "source_name": "Helikon-Tex одяг",
+    "reference_id": "24360",
+    "reference_name": "Інше",
+    "reference_path": "Одяг та взуття > Інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24875",
+    "source_name": "Helikon-Tex рукавички",
+    "reference_id": "24359",
+    "reference_name": "Аксесуари",
+    "reference_path": "Одяг та взуття > Аксесуари",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24876",
+    "source_name": "Helikon-Tex рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24882",
+    "source_name": "Osprey питні системи",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24883",
+    "source_name": "Kanetsune точила, аксесуари",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24884",
+    "source_name": "Real Avid ножі",
+    "reference_id": "24397",
+    "reference_name": "Ножі з фіксованим клинком",
+    "reference_path": "Ножі та інструменти > Ножі > Ножі з фіксованим клинком",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24887",
+    "source_name": "Ukrarmor тактичні ремені",
+    "reference_id": "24357",
+    "reference_name": "Ремені збройові",
+    "reference_path": "Аксесуари > Ремені збройові",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24888",
+    "source_name": "Ukrarmor рюкзаки та сумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24890",
+    "source_name": "Засоби для догляду за зброєю MTM",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24892",
+    "source_name": "Quest акумулятори холоду",
+    "reference_id": "24366",
+    "reference_name": "Елементи живлення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Елементи живлення",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24895",
+    "source_name": "Benchmade інструменти",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24896",
+    "source_name": "Benchmade точила і каміння",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24897",
+    "source_name": "Old Bear ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24898",
+    "source_name": "Сила лопати",
+    "reference_id": "24326",
+    "reference_name": "Сокири, лопати та інше",
+    "reference_path": "Ножі та інструменти > Сокири, лопати та інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24899",
+    "source_name": "Nextorch ліхтарі",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24907",
+    "source_name": "Велосипедні мастила Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24908",
+    "source_name": "Інгібітори корозії Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24909",
+    "source_name": "Мастила для догляду за карбоном Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24910",
+    "source_name": "Мастила для зброї Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24911",
+    "source_name": "Мастило для замків Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24912",
+    "source_name": "Перетворювачі іржі Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24913",
+    "source_name": "Універсальні мастила Brunox",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24929",
+    "source_name": "Сила сокири",
+    "reference_id": "24326",
+    "reference_name": "Сокири, лопати та інше",
+    "reference_path": "Ножі та інструменти > Сокири, лопати та інше",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24936",
+    "source_name": "Сила мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24938",
+    "source_name": "Сила ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24962",
+    "source_name": "Пневматичні пістолети Ekol",
+    "reference_id": "24414",
+    "reference_name": "Мультикомпресійні",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні пістолети > Мультикомпресійні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24963",
+    "source_name": "Мастила для зброї Umarex",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24498",
+    "source_name": "Ліхтарі для дайвінгу Fenix",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24672",
+    "source_name": "Olight ліхтарі",
+    "reference_id": "24338",
+    "reference_name": "Тактичні",
+    "reference_path": "Ліхтарі > Тактичні",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24674",
+    "source_name": "Hapstone точила, аксесуари",
+    "reference_id": "24327",
+    "reference_name": "Точильні пристосування",
+    "reference_path": "Ножі та інструменти > Точильні пристосування",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24676",
+    "source_name": "Ножі Adimanti Samson by Ganzo",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24679",
+    "source_name": "Пальники Ganzo",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24680",
+    "source_name": "Adimanti сокири",
+    "reference_id": "24326",
+    "reference_name": "Сокири, лопати та інше",
+    "reference_path": "Ножі та інструменти > Сокири, лопати та інше",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24681",
+    "source_name": "Roxon ножi",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24685",
+    "source_name": "Naturehike пальники",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24686",
+    "source_name": "Масла Milfoam",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24687",
+    "source_name": "Піна Milfoam",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24688",
+    "source_name": "Buck ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24689",
+    "source_name": "Інструмент Real Avid",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24690",
+    "source_name": "Йорж Real Avid",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24692",
+    "source_name": "Мульти Інструмент Real Avid",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24693",
+    "source_name": "Набір для чистки Real Avid",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24694",
+    "source_name": "Набори Real Avid",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24697",
+    "source_name": "Шомпол Real Avid",
+    "reference_id": "24351",
+    "reference_name": "Засоби",
+    "reference_path": "Чистка та догляд > Засоби",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24728",
+    "source_name": "Active ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24735",
+    "source_name": "Ножі Firebird 8а серія",
+    "reference_id": "24397",
+    "reference_name": "Ножі з фіксованим клинком",
+    "reference_path": "Ножі та інструменти > Ножі > Ножі з фіксованим клинком",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24740",
+    "source_name": "Lansky ножі",
+    "reference_id": "24397",
+    "reference_name": "Ножі з фіксованим клинком",
+    "reference_path": "Ножі та інструменти > Ножі > Ножі з фіксованим клинком",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24742",
+    "source_name": "Defcon 5  рюкзаки, підсумки",
+    "reference_id": "24345",
+    "reference_name": "Рюкзаки",
+    "reference_path": "Спорядження > Рюкзаки",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24746",
+    "source_name": "Sencut ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24747",
+    "source_name": "Weknife ножі",
+    "reference_id": "24396",
+    "reference_name": "Складні ножі",
+    "reference_path": "Ножі та інструменти > Ножі > Складні ножі",
+    "method": "ai_force",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24923",
+    "source_name": "Nextorch аксесуари",
+    "reference_id": "24363",
+    "reference_name": "Інше",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Інше",
+    "method": "ai_force",
+    "confidence": "medium"
+  }
+]
