@@ -1,0 +1,176 @@
+[
+  {
+    "source_path": "Зброя та аксесуари > Зброя під патрон Флобера",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки",
+    "reasoning": "The source leaf \"Зброя під патрон Флобера\" refers to air rifles that use Flobert cartridges, which are typically spring‑piston (пружинно‑поршневі) rifles. The closest matching reference leaf is \"Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно‑поршневі гвинтівки\" (id 24410)."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Страйкбольна зброя",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "reasoning": "The leaf category \"Страйкбольна зброя\" refers to paintball guns, which are a type of airsoft/pneumatic weapon. In the reference tree, the closest semantic match is \"Зброя > Пневматична зброя > Страйкбол\" (id 24386). No other reference category more specifically matches paintball guns."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Макети масо-габаритні",
+    "result": "matched",
+    "reference_path": "Зброя > Макети",
+    "reasoning": "The leaf category \"Макети масо-габаритні\" refers to large‑scale models of weapons. The reference tree contains a category \"Зброя > Макети\" (id 24468) that covers models of firearms and related items. This is the most specific and semantically appropriate match."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Оптика збройова",
+    "result": "matched",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source leaf \"Оптика збройова\" refers to weapon optics, which primarily includes optical sights. The reference category that best matches this is \"Оптика > Приціли > Оптичні\" (id 24392), covering optical sights for firearms."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Кобури, підсумки і чохли",
+    "result": "matched",
+    "reference_path": "Спорядження > Кобури та сумки",
+    "reasoning": "The leaf category lists protective covers (кобури), ammunition pouches (підсумки) and weapon cases (чохли). In the reference tree, the closest semantic match that encompasses covers and bags is \"Спорядження > Кобури та сумки\" (id 24341). This category covers protective covers for firearms and various types of bags/pouches, which aligns with the source category’s contents."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Аксесуари, тюнінг зброї",
+    "result": "matched",
+    "reference_path": "Тюнінг > Інше",
+    "reasoning": "The source leaf describes general accessories used for tuning weapons. In the reference tree, the most appropriate category is \"Тюнінг > Інше\" (id 24313), which covers miscellaneous tuning accessories that do not fit into more specific sub‑categories such as stocks, grips, or barrel extensions."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Кулі для пневматики",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Набої > Кульки та кулі",
+    "reasoning": "The leaf category \"Кулі для пневматики\" refers to ammunition (bullets) used in pneumatic weapons (air guns). In the reference tree the most appropriate category that covers all types of airgun bullets is \"Набої > Набої для холодної пристрілки\" (id 24419), which is the generic category for pneumatic ammunition."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Патрони Флобера",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Набої > Набої Флобера",
+    "reasoning": "The leaf category \"Патрони Флобера\" refers to Flobert cartridges, which are ammunition for air guns. In the reference tree the most semantically appropriate match is the specific category for Flobert ammunition under air‑gun ammunition: \"Зброя > Пневматична зброя > Набої > Набої Флобера\"."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Кульки BB",
+    "result": "matched",
+    "reference_path": "Набої > Набої для холодної пристрілки",
+    "reasoning": "\"Кульки BB\" are BB pellets used in airsoft guns, which are considered cold‑weapon ammunition. The reference category that covers such ammunition is \"Набої > Набої для холодної пристрілки\" (id 24320)."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В пневматичні гвинтівки",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки",
+    "reasoning": "The source leaf \"Б/В пневматичні гвинтівки\" refers to used pneumatic rifles. In the reference tree the closest matching leaf category is \"Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки\" (id 24410), which covers spring‑piston pneumatic rifles – a common type of pneumatic rifle."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В Флобери",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "reasoning": "The leaf category \"Б/В Флобери\" refers to airsoft guns of the Flebo brand. In the reference hierarchy, the most appropriate category for all airsoft guns is \"Зброя > Пневматична зброя > Страйкбол\" (id 24386). This category encompasses all types of airsoft firearms, including pistols, rifles, revolvers, and other models from Flebo. No more specific reference category exists for the Flebo brand, so \"Страйкбол\" is the best semantic match."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В стартова зброя",
+    "result": "matched",
+    "reference_path": "Зброя > Стартова (шумова) зброя",
+    "reasoning": "The leaf category \"Б/В стартова зброя\" refers to starter or training weapons, which aligns with the reference category \"Зброя > Стартова (шумова) зброя\" (Starter/noisy weapons)."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В страйкбольна зброя",
+    "result": "matched",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "reasoning": "The leaf category \"Б/В страйкбольна зброя\" refers to strikeball (pneumatic) weapons. The reference tree contains a matching category \"Зброя > Пневматична зброя > Страйкбол\" (id 24386) which covers the same product type."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В кобури",
+    "result": "matched",
+    "reference_path": "Спорядження > Кобури та сумки",
+    "reasoning": "The leaf \"Б/В кобури\" refers to bags or cases for weapons (\"кобури\" in Ukrainian). The reference tree contains a category \"Спорядження > Кобури та сумки\" (id 24341) which is the direct equivalent for weapon bags and cases. No other reference category matches this product type more specifically."
+  },
+  {
+    "source_path": "Тактичне екіпірування > Сумки та рюкзаки",
+    "result": "matched",
+    "reference_path": "Спорядження > Сумки",
+    "reasoning": "The source leaf category \"Сумки та рюкзаки\" refers to tactical bags and backpacks. In the reference tree, the closest semantic match is the category \"Спорядження > Сумки\" (id 24346), which covers various types of tactical bags. No other reference category combines both bags and backpacks, so this is the best single match."
+  },
+  {
+    "source_path": "Тактичне екіпірування > Одяг",
+    "result": "matched",
+    "reference_path": "Одяг та взуття > Інше",
+    "reasoning": "The source leaf \"Одяг\" refers to tactical clothing items. In the reference tree the closest matching leaf category is \"Інше\" under the parent \"Одяг та взуття\", which serves as a generic catch‑all for clothing and footwear items. No more specific leaf exists for \"Одяг\" alone, so the best fit is the generic \"Інше\" category."
+  },
+  {
+    "source_path": "Тактичне екіпірування > Навушники тактичні",
+    "result": "matched",
+    "reference_path": "Спорядження > Навушники",
+    "reasoning": "The source leaf \"Навушники тактичні\" refers to tactical headphones, a specific type of headphones. In the reference tree the closest and most appropriate category is \"Навушники\" under \"Спорядження\", which encompasses all headphones, including tactical variants. No other reference category matches more specifically."
+  },
+  {
+    "source_path": "Туризм та Відпочинок > Туристичні меблі",
+    "result": "matched",
+    "reference_path": "Активний відпочинок, туризм та хобі > Стільці, крісла",
+    "reasoning": "The source leaf \"Туристичні меблі\" refers to furniture used in outdoor or travel settings, such as chairs, stools, tables, etc. In the reference tree, the closest category that covers outdoor furniture is \"Стільці, крісла\" (chairs, stools) under \"Активний відпочинок, туризм та хобі\". No other reference category directly matches the concept of tourist furniture, so this is the best semantic match."
+  },
+  {
+    "source_path": "Туризм та Відпочинок > Ліхтарі",
+    "result": "matched",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "reasoning": "The source leaf \"Ліхтарі\" refers to flashlights/lanterns in general. In the reference tree the most generic subcategory that covers handheld and pocket flashlights is \"Ліхтарі > Ручні та кишенькові ліхтарі\". This matches the product type without being overly specific."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Пневматичні гвинтівки",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf \"Пневматичні гвинтівки\" is a generic category for all pneumatic rifles. In the reference tree, this category is represented only as a parent node, with specific sub‑categories for each type of pneumatic rifle (e.g., \"З газовою пружиною\", \"Мультикомпресійні\", \"PCP\", \"Пружинно‑поршневі\"). No single reference leaf matches the generic source category, so a direct mapping to a leaf id is not possible. The domain is weapons, so it is not out of scope."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Пневматичні пістолети",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The reference tree contains only specific sub‑categories of pneumatic pistols (e.g., PCP, CO2, multi‑compression, spring‑piston). The source leaf \"Пневматичні пістолети\" is a generic parent category that would encompass all these sub‑types, but no exact or near‑exact reference category matches this generic level. Therefore no suitable reference category exists for a direct mapping."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Засоби для самооборони",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf \"Засоби для самооборони\" refers to non‑lethal self‑defence tools such as pepper spray, stun guns, etc. The reference catalogue does not contain a dedicated leaf for non‑lethal weapons or self‑defence equipment. The closest conceptual match would be \"Травматична зброя\", but that category is not present as a leaf in the reference list. Therefore no suitable reference leaf exists, though the domain is related to weapons."
+  },
+  {
+    "source_path": "Зброя та аксесуари > Арбалети, луки і рогатки",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf \"Арбалети, луки і рогатки\" represents a grouping of crossbows, bows, and slings. In the reference tree, the closest matches are the sub‑categories under \"Зброя > Арбалети,луки та рогатки\": \"Арбалети та комплектуючі\", \"Луки та комплектуючі\", \"Рогатки та комплектуючі\", etc. None of these reference categories encompass all three weapon types together, and the parent category \"Зброя > Арбалети,луки та рогатки\" is not a leaf in the reference list. Therefore there is no single reference leaf that fully matches the source leaf. The domain is related (weapons), so it is not out of scope, but no exact match exists."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В пневматичні пістолети",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf refers to used pneumatic pistols in general. The reference tree contains only specific subcategories of pneumatic pistols (e.g., PCP, CO2, multi‑compression, spring‑piston). No reference leaf matches the generic category, so no suitable mapping exists."
+  },
+  {
+    "source_path": "Туризм та Відпочинок > Намети, тенти",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The reference hierarchy contains no leaf category that explicitly covers tents or shelters. The closest related domain is \"Активний відпочинок, туризм та хобі\", but its subcategories (e.g., \"Спальні мішки\", \"Мангали\", \"Термосумки\") do not include tents. Therefore, there is no suitable match within the reference tree. The category is related to outdoor gear but not represented, so it is considered out of scope for a specific mapping."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/У оптика",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The leaf category \"Б/У оптика\" refers to used optical equipment such as scopes, binoculars, night‑vision devices, and thermal scopes. In the reference tree the most comprehensive optical category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical scopes and related devices. No single reference leaf covers all types of optics, but this category is the closest generic match for used optics."
+  },
+  {
+    "source_path": "Туризм та Відпочинок > Холодильники та термоси",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf contains thermoses and refrigerators. The reference tree has a category for thermoses – \"Термоса и термочашки\" – which is the closest match. No reference category covers refrigerators, but the overall domain (camping and outdoor gear) is present, so the mapping is valid and not out of scope."
+  },
+  {
+    "source_path": "Туризм та Відпочинок > Балони та пальники газові",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf \"Балони та пальники газові\" refers to gas balloons and burners used in outdoor activities. The closest matching reference category is \"Активний відпочинок, туризм та хобі > Газові пальники та плити\", which covers gas burners and stoves for camping and outdoor use. No other reference category more specifically matches gas balloons, so this is the best semantic fit."
+  },
+  {
+    "source_path": "Б/У зброя та аксесуари > Б/В ММГ та СХП",
+    "result": "out_of_scope",
+    "reference_path": null,
+    "reasoning": "The leaf category \"Б/В ММГ та СХП\" does not correspond to any of the reference categories. The abbreviation \"ММГ\" and \"СХП\" are not represented in the reference tree, and no semantic match can be established with the available categories. Therefore, the category is considered out of scope."
+  }
+]

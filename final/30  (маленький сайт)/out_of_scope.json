@@ -1,0 +1,44 @@
+[
+  {
+    "id": "25395",
+    "name": "Велокомп'ютери",
+    "path": "Годинник, електроніка > Велокомп'ютери",
+    "reasoning": "The source leaf category \"Велокомп'ютери\" refers to bike computers – electronic devices used by cyclists. None of the reference leaf categories cover electronic devices, watches, or cycling accessories. The reference tree focuses on weapons, tactical gear, outdoor equipment, and related accessories, with no category for electronic cycling equipment. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "25397",
+    "name": "Смарт-ваги",
+    "path": "Годинник, електроніка > Смарт-ваги",
+    "reasoning": "The leaf category \"Смарт-ваги\" refers to smart digital scales, which are consumer electronics for measuring weight. The reference category list contains no category related to scales, weight measurement devices, or general consumer electronics. The store’s focus is on weapons, tactical, and outdoor equipment, making smart scales outside the scope of the available categories."
+  },
+  {
+    "id": "25398",
+    "name": "Морське обладнання",
+    "path": "Годинник, електроніка > Морське обладнання",
+    "reasoning": "The leaf category \"Морське обладнання\" (marine equipment) refers to items such as navigation instruments, marine electronics, and related gear. None of the reference leaf categories cover marine equipment or related electronics; the closest parent category \"Годинник, електроніка\" is not present in the reference list. Therefore there is no suitable match."
+  },
+  {
+    "id": "25399",
+    "name": "Камери",
+    "path": "Годинник, електроніка > Камери",
+    "reasoning": "The reference taxonomy does not contain a category for cameras or surveillance equipment. The closest categories are optics or drones, but cameras are not included. Therefore no suitable match."
+  },
+  {
+    "id": "25401",
+    "name": "Трекер для собак",
+    "path": "Годинник, електроніка > Трекер для собак",
+    "reasoning": "The source leaf \"Трекер для собак\" refers to a GPS or electronic tracking device for dogs. None of the reference categories describe such a product. The reference tree contains categories related to weapons, tactical gear, outdoor equipment, optics, and communication devices, but there is no category for pet tracking devices or general consumer electronics. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "25403",
+    "name": "Кабелі та зарядні пристрої",
+    "path": "Годинник, електроніка > Кабелі та зарядні пристрої",
+    "reasoning": "The reference catalog contains categories related to weapons, optics, tactical gear, and a few electronics subcategories (e.g., power elements for flashlights). No category in the reference list directly corresponds to general cables and chargers for electronic devices. Therefore, there is no suitable match."
+  },
+  {
+    "id": "25407",
+    "name": "Велосипедні машини",
+    "path": "Кардіотренажери > Велосипедні машини",
+    "reasoning": "The leaf category \"Велосипедні машини\" refers to stationary exercise bicycles (cardiotrainers). None of the reference leaf categories cover exercise equipment or stationary bikes; the reference set is limited to weapons, tactical gear, and outdoor equipment. Therefore there is no suitable match in the reference tree."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24967",
+    "name": "Зброя та аксесуари",
+    "parent_id": null,
+    "supplier_id": "24",
+    "final": "1",
+    "url": null,
+    "created_at": "2026-03-15 00:24:50",
+    "updated_at": "2026-03-15 00:24:50",
+    "is_active": "1",
+    "assignment_category_id": null,
+    "worked": "0",
+    "process_matcher": "0",
+    "sync": "0",
+    "feed_id": "5",
+    "feed_category_id": "261",
+    "translations": null
+  },
+  {
+    "id": "24974",
+    "name": "Холості набої",
+    "parent_id": null,
+    "supplier_id": "24",
+    "final": "1",
+    "url": null,
+    "created_at": "2026-03-15 00:25:46",
+    "updated_at": "2026-03-15 00:25:46",
+    "is_active": "1",
+    "assignment_category_id": null,
+    "worked": "0",
+    "process_matcher": "0",
+    "sync": "0",
+    "feed_id": "14",
+    "feed_category_id": "333",
+    "translations": null
+  },
+  {
+    "source_id": "24968",
+    "source_name": "Зброя під патрон Флобера",
+    "reference_id": "24320",
+    "reference_name": "Набої для холодної пристрілки",
+    "reference_path": "Набої > Набої для холодної пристрілки",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24969",
+    "source_name": "Стартова (шумова) зброя",
+    "reference_id": "24408",
+    "reference_name": "З газовою пружиною",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > З газовою пружиною",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24976",
+    "source_name": "Засоби для самооборони",
+    "reference_id": "24420",
+    "reference_name": "Аксесуари до РСР",
+    "reference_path": "Зброя > Пневматична зброя > Аксесуари та комплектуючі > Аксесуари до РСР",
+    "confidence": "medium"
+  }
+]

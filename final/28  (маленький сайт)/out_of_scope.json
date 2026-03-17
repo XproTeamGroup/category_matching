@@ -1,0 +1,8 @@
+[
+  {
+    "id": "25326",
+    "name": "Товари б/у или уценка",
+    "path": "Разное полезное > Товари б/у или уценка",
+    "reasoning": "The leaf category \"Товари б/у или уценка\" translates to \"Used or discounted goods\" and is a generic, non‑specific category that could contain any type of item. The reference taxonomy contains only specific product categories (e.g., weapons, optics, tactical gear) and does not include a category for used or discounted items. Therefore there is no suitable match in the reference tree, and the category is considered out of scope."
+  }
+]

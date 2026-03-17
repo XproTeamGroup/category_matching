@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "25404",
+    "source_name": "Кріплення",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25405",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25406",
+    "source_name": "Чохли",
+    "reference_id": "24373",
+    "reference_name": "Чохли",
+    "reference_path": "Ножі та інструменти > Аксесуари та комплектуючі > Чохли",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25394",
+    "source_name": "Спортивний годинник",
+    "source_path": "Годинник, електроніка > Спортивний годинник",
+    "reference_id": "24467",
+    "reference_name": "Спортивні товари",
+    "reference_path": "Активний відпочинок, туризм та хобі > Спортивні товари",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "\"Спортивний годинник\" (sport watch) is a type of sports equipment or gear. The reference tree contains a broad category for sports-related items: \"Активний відпочинок, туризм та хобі > Спортивні товари\" (id 24467). No more specific watch or electronics category exists, so the best semantic match is the general sports goods category."
+  },
+  {
+    "source_id": "25400",
+    "source_name": "Зарядні пристрої",
+    "source_path": "Годинник, електроніка > Зарядні пристрої",
+    "reference_id": "24464",
+    "reference_name": "Повербанки та акумулятори",
+    "reference_path": "Активний відпочинок, туризм та хобі > Повербанки та акумулятори",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Зарядні пристрої\" (charging devices) refers to items that charge batteries or provide portable power, such as power banks, battery chargers, and related accessories. In the reference tree, the most semantically aligned category is \"Повербанки та акумулятори\" (portable power banks and batteries), which covers the same product types."
+  }
+]

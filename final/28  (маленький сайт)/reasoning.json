@@ -1,0 +1,182 @@
+[
+  {
+    "source_path": "Релоадинг > Веси для пороха",
+    "result": "matched",
+    "reference_path": "Релоадинг > Вимірювальний інструмент",
+    "reasoning": "\"Веси\" in Ukrainian refers to weighing scales (plural of \"вес\" meaning \"scale/weight\"). In reloading, powder scales are used to measure propellant. The reference tree contains the leaf category \"Релоадинг > Вимірювальний інструмент\" (id 24488) which covers measurement instruments such as scales. No other reference category matches this function more specifically."
+  },
+  {
+    "source_path": "Разное полезное > Уход за оружием",
+    "result": "matched",
+    "reference_path": "Чистка та догляд > Засоби",
+    "reasoning": "The source leaf \"Уход за оружием\" (Care for weapons) refers to products used for cleaning, maintenance, and general upkeep of firearms. In the reference tree, the most appropriate category is \"Чистка та догляд > Засоби\" (Cleaning and maintenance > Supplies), which includes cleaning solutions, lubricants, and other maintenance items for weapons."
+  },
+  {
+    "source_path": "Разное полезное > Несортированние товари",
+    "result": "matched",
+    "reference_path": "Аксесуари > Коробки",
+    "reasoning": "The leaf name \"Несортированние товари\" translates to \"unsorted goods\" or \"miscellaneous items\". In the reference hierarchy the only category that is generic enough to accommodate a wide range of miscellaneous items is \"Аксесуари > Коробки\" (boxes), which can hold various objects that do not fit into more specific categories. No other reference category matches the broad, unsorted nature of the source leaf, so this is the best available match."
+  },
+  {
+    "source_path": "Релоадинг > Для гладкоствола > Запчасти",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для гладкоствола > Запчастини",
+    "reasoning": "The leaf name \"Запчасти\" (parts) refers to components used in reloading smooth‑bore firearms. In the reference tree the closest semantic match is the category \"Запчастини\" under the same parent path \"Релоадинг > Для гладкоствола > Запчастини\" (id 24476)."
+  },
+  {
+    "source_path": "Релоадинг > Для нарезного > Матрици",
+    "result": "matched",
+    "reference_path": "Релоадинг > Матриці",
+    "reasoning": "The Ukrainian term \"Матрици\" (plural of \"матриця\") refers to molds used in reloading firearms. In the reference tree, there is a leaf category \"Релоадинг > Матриці\" that directly matches this product type. The parent context \"Для нарезного\" indicates the subcategory for rimfire or centerfire reloading, but the specific product category is the molds themselves, which aligns with the reference \"Матриці\"."
+  },
+  {
+    "source_path": "Релоадинг > Для нарезного > Калибратори",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для нарізного > Калібратори",
+    "reasoning": "The source leaf category \"Калибратори\" matches exactly the reference leaf category with the same name and parent path. It refers to devices used for measuring bullet caliber in reloading, which is precisely what the reference category represents."
+  },
+  {
+    "source_path": "Релоадинг > Для нарезного > Смазка для гильз",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для нарізного > Мастило для гільз",
+    "reasoning": "The Ukrainian term \"Смазка для гильз\" translates to \"lubricant for casings\". In the reference tree, the closest match is the category \"Мастило для гільз\" (oil for casings) under \"Релоадинг > Для нарізного\". The product types and function align exactly."
+  },
+  {
+    "source_path": "Релоадинг > Для нарезного > Подготовка гильз",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для нарізного > Калібратори",
+    "reasoning": "The Ukrainian term \"Подготовка гильз\" translates to \"case preparation\" in the context of reloading. The reference tree contains a category for a key component of case preparation: \"Мастило для гільз\" (case lubricant). This product is commonly used during the case preparation process, making it the most semantically appropriate match among the available reloading categories."
+  },
+  {
+    "source_path": "Релоадинг > Для нарезного > Молотковие набори",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для нарізного > Молоткові набори",
+    "reasoning": "The source leaf \"Молотковие набори\" (hammer sets for reloading smoothbore firearms) directly matches the reference category \"Релоадинг > Для нарізного > Молоткові набори\". The names are equivalent in Russian/Ukrainian, and the parent context confirms the domain."
+  },
+  {
+    "source_path": "Релоадинг > Дозатори пороха > Механические дозатори",
+    "result": "matched",
+    "reference_path": "Релоадинг > Дозатори пороха > Механічні дозатори",
+    "reasoning": "The source leaf \"Механические дозатори\" (mechanical powder dispensers) directly corresponds to the reference leaf \"Механічні дозатори\" (id 24485) under \"Релоадинг > Дозатори пороха > Механічні дозатори\"."
+  },
+  {
+    "source_path": "Релоадинг > Дозатори пороха > Єлектронние диспенсери",
+    "result": "matched",
+    "reference_path": "Релоадинг > Дозатори пороха > Єлектронні диспенсери",
+    "reasoning": "The source leaf \"Єлектронние диспенсери\" (electronic powder dispensers) matches exactly the reference leaf with id 24486, which is \"Релоадинг > Дозатори пороха > Єлектронні диспенсери\". The names are identical (aside from a minor spelling variation), and the product type is the same."
+  },
+  {
+    "source_path": "Релоадинг > Дозатори пороха > Другие види дозировки",
+    "result": "matched",
+    "reference_path": "Релоадинг > Дозатори пороха > Інші види дозування",
+    "reasoning": "The source leaf \"Другие види дозировки\" is Russian for \"Other types of dispensing\". In the reference tree, the category \"Релоадинг > Дозатори пороха > Інші види дозування\" (id 24487) is the direct semantic match, covering the same product type. Therefore it is the best fit."
+  },
+  {
+    "source_path": "Релоадинг > Измерительний инструмент > Штангенциркули",
+    "result": "matched",
+    "reference_path": "Релоадинг > Вимірювальний інструмент",
+    "reasoning": "Штангенциркули (calipers) are precision measuring tools used in reloading to measure bullet and cartridge dimensions. The reference tree contains a category for measuring instruments under reloading – \"Релоадинг > Вимірювальний інструмент\" (id 24488). This is the most appropriate semantic match."
+  },
+  {
+    "source_path": "Релоадинг > Измерительний инструмент > Компаратори плечей и джампа",
+    "result": "matched",
+    "reference_path": "Релоадинг > Вимірювальний інструмент",
+    "reasoning": "Компаратори плечей и джампа – це інструменти вимірювання, що використовуються при ремаркуванні патронів для перевірки кута плеча і розміру джампа (частини патрону, що входить у ствол). У референсній ієрархії такі інструменти входять до категорії \"Релоадинг > Вимірювальний інструмент\" (id 24488)."
+  },
+  {
+    "source_path": "Релоадинг > Измерительний инструмент > Хронографи",
+    "result": "matched",
+    "reference_path": "Релоадинг > Вимірювальний інструмент",
+    "reasoning": "Хронографи – це інструменти вимірювання часу, що використовуються в процесі релоадингу (наприклад, для вимірювання часу горіння пороху). У референсній структурі існує категорія \"Релоадинг > Вимірювальний інструмент\", яка охоплює всі інструменти вимірювання, включаючи хронографи. Тому найкращим відповідником є саме ця категорія."
+  },
+  {
+    "source_path": "Релоадинг > Измерительний инструмент > Спец. Инструмент",
+    "result": "matched",
+    "reference_path": "Релоадинг > Вимірювальний інструмент",
+    "reasoning": "The leaf \"Спец. Инструмент\" is a subcategory under \"Релоадинг > Измерительний инструмент\" (Reloading > Measuring instrument). The reference tree contains a leaf category \"Вимірювальний інструмент\" (id 24488) that matches this domain. No more specific reference category exists, so the best match is the measuring instrument category."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Тигели для свинца",
+    "result": "matched",
+    "reference_path": "Релоадинг > Матриці",
+    "reasoning": "Тигели для свинца – це форми (моделі) для лиття свинцевих куль, що використовуються при релоадингу. У референсній структурі найближчим відповідником є категорія \"Матриці\" (id 24442), яка охоплює різні типи форм/моделей, що застосовуються в процесі лиття куль."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Пулелейки для нарезного",
+    "result": "matched",
+    "reference_path": "Релоадинг > Матриці",
+    "reasoning": "Пулелейки – це форми для лиття пуль, що використовуються при релоадингу для нарізних (rimmed) патронів. У референс-дереві є категорія \"Релоадинг > Матриці\", яка охоплює різні типи форм і матриць, включаючи форми для лиття пуль. Інші підкатегорії релоадингу (наприклад, \"Для нарізного > Воронки для пороха\", \"Капсулятори\" тощо) не відповідають саме формам для пуль, тому найточнішим відповідником є \"Матриці\"."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Сайзери для пуль",
+    "result": "matched",
+    "reference_path": "Релоадинг > Лиття куль > Форми для лиття картечі",
+    "reasoning": "Сайзери для пуль – це форми для лиття пуль, що використовуються при переробці патронів. У наданому списку є лише одна категорія, що містить форми для лиття: \"Релоадинг > Лиття куль > Форми для лиття картечі\" (id 24492). Вона найближче відповідає функціональності сайзерів, оскільки обидві категорії стосуються форм для лиття у процесі релоадингу."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Покритие для пуль",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для гладкоствола > Запчастини",
+    "reasoning": "\"Покритие для пуль\" – це покриття (жолудь, обгортка) для самих пуль, що використовується при ручному литті/підготовці патронів. У нашому каталозі такі аксесуари розміщені у розділі \"Релоадинг > Для гладкоствола > Запчастини\", який охоплює різноманітні частини та компоненти для гладкоствольного лиття, включаючи покриття для пуль. Інші розділи (наприклад, для нарізного лиття, дозатори пороха тощо) не містять саме покриття для пуль, тому найточнішим відповідником є \"Запчастини\"."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Пулелейки для гладкого",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для гладкоствола > Запчастини",
+    "reasoning": "Пулелейки для гладкого – це малі форми для лиття пуль, призначені для гладкоствольних зброї. У референс-дереві найвідповідніше підходить категорія \"Релоадинг > Для гладкоствола > Запчастини\" (id 24476), яка охоплює частини та аксесуари для гладкоствольного релоадингу, включаючи пулелейки."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Форми для литья картечи",
+    "result": "matched",
+    "reference_path": "Релоадинг > Лиття куль > Форми для лиття картечі",
+    "reasoning": "The leaf category \"Форми для литья картечи\" refers to molds used for casting bullet casings, which directly matches the reference category \"Релоадинг > Лиття куль > Форми для лиття картечі\" (id 24492)."
+  },
+  {
+    "source_path": "Релоадинг > Литье пуль > Другие аксесуари для литья",
+    "result": "matched",
+    "reference_path": "Релоадинг > Матриці",
+    "reasoning": "The source leaf \"Другие аксесуари для литья\" refers to accessories used in bullet casting. In the reference tree, the most specific category that covers bullet casting accessories is \"Релоадинг > Матриці\" (molds), which are essential components for casting bullets. Other reference categories such as \"Преси\" or \"Вимірювальний інструмент\" are more generic or serve different functions. Therefore, the best match is \"Матриці\"."
+  },
+  {
+    "source_path": "Разное полезное > Кейси, подставки, коробки > Подставки для гильз",
+    "result": "matched",
+    "reference_path": "Релоадинг > Для нарізного > Шелхолдери",
+    "reasoning": "The Ukrainian term \"Подставки для гильз\" literally translates to \"stands for shells\" (гильза = shell). In the reference hierarchy, the closest functional match is \"Релоадинг > Для нарізного > Шелхолдери\" (shell holders/stands) with id 24477. No other reference category directly refers to shell stands, and the term is specific to reloading equipment, so this is the best semantic match."
+  },
+  {
+    "source_path": "Разное полезное > Кейси, подставки, коробки > Коробки для патронов",
+    "result": "matched",
+    "reference_path": "Аксесуари > Коробки",
+    "reasoning": "The leaf category \"Коробки для патронов\" refers to storage boxes specifically designed for holding cartridges. In the reference tree, the most semantically appropriate category is \"Аксесуари > Коробки\" (id 24353), which covers generic boxes used as accessories. The category \"Патронташі\" (id 24355) refers to magazines or feed devices, not storage boxes, so it is less suitable. Therefore, the best match is the generic boxes category."
+  },
+  {
+    "source_path": "Разное полезное > Кейси, подставки, коробки > Ящики герметичние",
+    "result": "matched",
+    "reference_path": "Спорядження > Чохли і кейси збройові > Чохли збройові",
+    "reasoning": "\"Ящики герметичні\" (airtight boxes) are protective containers used for storing weapons, ammunition or other tactical gear. In the reference tree the closest semantic match is the category for protective cases under \"Спорядження > Чохли і кейси збройові\". The sub‑category \"Чохли збройові\" specifically refers to armored or protective cases, which aligns with the hermetic nature of the source category."
+  },
+  {
+    "source_path": "Разное полезное > Стрелковие аксесуари > Активние стрелковие наушники",
+    "result": "matched",
+    "reference_path": "Спорядження > Навушники",
+    "reasoning": "The leaf name \"Активние стрелковие наушники\" (active shooting headphones) refers to headphones used by shooters for hearing protection and possibly active noise cancellation. In the reference tree the only category that covers headphones/ear protection for shooting or tactical use is \"Спорядження > Навушники\" (id 24342). No other reference category matches the specific product type, so this is the best semantic match."
+  },
+  {
+    "source_path": "Разное полезное > Стрелковие аксесуари > Стрелковие очки",
+    "result": "matched",
+    "reference_path": "Спорядження > Окуляри, їх комплектуючі та аксесуари",
+    "reasoning": "The leaf category \"Стрелковие очки\" translates to \"shooting glasses\" or protective eyewear used in shooting sports or tactical situations. In the reference tree, the most semantically appropriate category is \"Спорядження > Окуляри, їх комплектуючі та аксесуари\" (equipment > glasses, their components and accessories), which covers protective eyewear and related accessories."
+  },
+  {
+    "source_path": "Разное полезное > Динамометрические отвертки",
+    "result": "unmatched",
+    "reference_path": null,
+    "reasoning": "The source leaf \"Динамометрические отвертки\" refers to torque wrenches (a type of hand tool). In the reference tree, the closest domain is \"Ножі та інструменти\" (knives and tools), but there is no specific leaf category for torque wrenches or similar hand tools. Therefore no exact or near‑exact match exists in the reference list."
+  },
+  {
+    "source_path": "Разное полезное > Товари б/у или уценка",
+    "result": "out_of_scope",
+    "reference_path": null,
+    "reasoning": "The leaf category \"Товари б/у или уценка\" translates to \"Used or discounted goods\" and is a generic, non‑specific category that could contain any type of item. The reference taxonomy contains only specific product categories (e.g., weapons, optics, tactical gear) and does not include a category for used or discounted items. Therefore there is no suitable match in the reference tree, and the category is considered out of scope."
+  }
+]

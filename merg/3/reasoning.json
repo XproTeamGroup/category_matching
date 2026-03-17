@@ -1,0 +1,527 @@
+[
+  {
+    "source_path": "Телескопи",
+    "reference_path": "Оптика > Прилади спостереження > Підзорні труби і телескопи",
+    "reasoning": "The source category refers to telescopes, which are optical observation instruments. In the reference hierarchy, the most specific matching leaf is \"Оптика > Прилади спостереження > Підзорні труби і телескопи\" (id 24389)."
+  },
+  {
+    "source_path": "Тепловізори > Тепловізори Dipol",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізори (thermal imaging devices) are a type of night‑vision/optical equipment. The reference tree contains the closest related category \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\", which covers night‑vision accessories and related optics. No more specific category for thermal imaging exists, so this is the best available match."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Rix",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal sight scopes, a type of optical sight used for firearms. The reference hierarchy contains no dedicated thermal sight category, but the closest semantic match is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical sights in general. Thermal sights are a subset of optical sights, so this is the most appropriate mapping."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли GUIDE",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to a guide about thermal scopes, which are a type of night‑vision/thermal optics. The closest matching reference category that encompasses such devices is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\" (id 24393). This category is specific to night‑vision and thermal optics accessories, making it the best fit for a guide on thermal scopes."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Delta",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли – це тип прицілів, що використовують інфрачервоні сенсори для відображення теплових сигналів. У наданому дереві категорій є лише загальна секція «Оптика > Приціли > Оптичні» (id 24392), яка охоплює всі види прицілів, включаючи тепловізійні. Інші категорії (наприклад, «Коліматорні» або «Аксесуари») не відповідають типу продукту, а «AR Платформа > Приціли > Оптичні» стосується лише прицілів для автоматичних рушниць. Тому найкращим відповідником є «Оптика > Приціли > Оптичні»."
+  },
+  {
+    "source_path": "Тепловізійні приціли > ATN MARS-HD",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні приціли (thermal sights) are a type of night‑vision/thermal imaging device. In the reference tree the only category that covers night‑vision related equipment is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\". Although this reference category is labeled as accessories, it is the closest semantic match for thermal sights, as no dedicated thermal‑sight category exists."
+  },
+  {
+    "source_path": "Тепловізійні приціли > ATN THOR-HD",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли (thermal sights) are a type of optical sight used for night vision and target acquisition. The reference hierarchy does not contain a dedicated thermal‑sight category, but the closest semantic match is the general optical sight category under \"Оптика > Приціли > Оптичні\". This category encompasses all optical sighting devices, including thermal imaging scopes, making it the most appropriate mapping."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки Guide",
+    "reference_path": "Оптика > Аксесуари та комплектуючі > Інше",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що додаються до оптичних приладів (наприклад, тепловізорів або прицілів) для розширення їх функціональності. У наданому дереві категорій є лише загальна секція \"Оптика > Аксесуари та комплектуючі > Інше\", яка охоплює різноманітні специфічні аксесуари, що не підпадають під інші підкатегорії. Тому найточнішим відповідником є ця категорія."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки HikMicro",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що підключаються до тепловізорів або прицілів нічного бачення. У наданому дереві категорій найближчою відповідністю є \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\", де розміщуються різноманітні доповнення до прицілів і нічних приладів."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки INFIRAY",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що доповнюють прилади нічного бачення або тепловізори. У референс-дереві найближчою категорією, що охоплює аксесуари до приладів нічного бачення, є \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\" (id 24393). Інші категорії (наприклад, підзорні труби, приціли) не охоплюють саме тепловізійні насадки, тому вибір 24393 є найточнішим."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки Pulsar",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що додаються до тепловізійних приладів (наприклад, тепловізійних прицілів або камер). У наданому дереві категорій найближчою відповіддю є «Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари», де розміщуються різноманітні доповнення до приладів нічного бачення, включаючи тепловізійні. Інші категорії (наприклад, «Ліхтарі» або «Оптика > Приціли > Оптичні») не охоплюють саме тепловізійні насадки. Тому найкращим збігом є категорія 24393."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки ATN",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що додаються до приладів нічного бачення або оптичних прицілів, щоб забезпечити тепловізійний режим. У наданому дереві категорій найближчою відповіддю є «Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари», де розміщуються різноманітні доповнення до приладів нічного бачення, включаючи тепловізійні насадки."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки Armasight",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що додаються до тепловізорів, які належать до категорії приладів нічного бачення (ПНБ). У референс-дереві існує категорія \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\", яка охоплює саме такі пристрої."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки AGM",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що додаються до тепловізійних приладів (наприклад, тепловізійних прицілів або телескопів). У наданому дереві категорій найближчою відповіддю є «Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари», де розміщуються різноманітні доповнення до приладів нічного бачення, включаючи тепловізійні пристрої."
+  },
+  {
+    "source_path": "Тепловізійні насадки > Тепловізійні насадки PARD",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні насадки – це аксесуари, що додаються до приладів нічного бачення або тепловізорів, тому найкращим відповідником у дереві є категорія «Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари», яка охоплює різноманітні доповнення до нічних приладів, включаючи тепловізійні насадки."
+  },
+  {
+    "source_path": "Квадрокоптери > Dji Mavic 3",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "reasoning": "The source category describes a specific quadcopter model, which falls under the broader category of quadcopters. The reference tree contains a matching leaf category \"Дрони та безпілотники > Квадрокоптери\" (id 24434) that encompasses all quadcopter products, making it the most appropriate match."
+  },
+  {
+    "source_path": "Квадрокоптери > FPV дрони",
+    "reference_path": "Дрони та безпілотники > FPV",
+    "reasoning": "The source category refers to FPV (First Person View) drones that are quadcopters. In the reference hierarchy, the most specific matching category for FPV drones is \"Дрони та безпілотники > FPV\" (id 24435). The reference does not contain a combined subcategory of quadcopters and FPV, so the best fit is the FPV category under drones and unmanned vehicles."
+  },
+  {
+    "source_path": "Квадрокоптери > Квадрокоптеры DJI Matrice 4",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "reasoning": "The source category refers to quadcopter drones, specifically the DJI Matrice 4 model. In the reference hierarchy, the closest matching leaf category is \"Дрони та безпілотники > Квадрокоптери\" (id 24434), which covers all quadcopter drones. No other reference category more specifically matches the product type, so this is the best fit."
+  },
+  {
+    "source_path": "Квадрокоптери > Квадрокоптери з тепловізором",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "reasoning": "The source category describes quadcopters equipped with thermal imaging. In the reference hierarchy, the closest match is the general quadcopter category under drones and unmanned aerial vehicles. No specific thermal‑imaging subcategory exists, so the most appropriate mapping is to \"Дрони та безпілотники > Квадрокоптери\"."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі ATN",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі are a specialized type of binoculars that incorporate thermal imaging. They belong to the broader optical device category \"Прилади спостереження\" (observation instruments) under \"Оптика\". The most appropriate reference leaf is \"Оптика > Прилади спостереження > Біноклі\", which covers all binoculars, including thermal variants."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Fortuna",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі – це тип оптичного приладу спостереження, що дозволяє бачити тепловий сигнал. У наданому дереві категорій є «Оптика > Прилади спостереження > Біноклі», яка охоплює всі види біноклів, включаючи тепловізійні. Інші категорії (наприклад, «Біноклі з далекоміром») не відповідають специфіці тепловізійного пристрою, а «Монокуляри» – це інший тип пристрою. Тому найточнішим відповідником є категорія біноклів."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі HIKVISION",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі are a specialized type of binoculars used for thermal imaging. The reference tree contains a category for binoculars under \"Оптика > Прилади спостереження > Біноклі\" (id 24387), which is the most appropriate parent category for any kind of binoculars, including thermal variants. No other reference category explicitly mentions thermal optics, so this is the best semantic match."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі iRay (INFIRAY)",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі – це тип біноклів, що використовують інфрачервоний спектр. У референс-дереві вони підпадають під загальну категорію «Оптика > Прилади спостереження > Біноклі», яка охоплює всі види біноклів, включаючи тепловізійні."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі FLIR",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі – це спеціалізовані біноклі з термальним сенсором. У референс-дереві категорія \"Оптика > Прилади спостереження > Біноклі\" (id 24387) охоплює всі типи біноклів, включаючи термальні. Інші категорії (наприклад, \"Біноклі з далекоміром\") стосуються лише біноклів з дальноміром, а не термальних. Тому найточнішим відповідником є категорія 24387."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Delta",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі – це спеціалізовані біноклі, що використовують інфрачервоний спектр. У референс-дереві є категорія «Оптика > Прилади спостереження > Біноклі», яка охоплює всі види біноклів, включаючи тепловізійні. Інші категорії (наприклад, приціли, нічне бачення) не відповідають типу продукту, тому найкращим збігом є категорія біноклів."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Dipol",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі – це спеціалізований тип біноклів, тому найкращим відповідником у наданому дереві є загальна категорія \"Оптика > Прилади спостереження > Біноклі\". Немає окремої підкатегорії для тепловізійних біноклів, тому вибираємо найбільш конкретну доступну категорію."
+  },
+  {
+    "source_path": "Starlink > Старлінк на авто",
+    "reference_path": "Зв'язок > Starlink",
+    "reasoning": "The source category refers to Starlink equipment used on a vehicle. The reference tree contains a Starlink category under \"Зв'язок\" (communication). No more specific subcategory exists for automotive Starlink, so the best match is the parent Starlink category."
+  },
+  {
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення HikMicro",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to night‑vision scopes, which are a type of optical sight. In the reference tree the closest matching category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). No more specific night‑vision scope category exists, so this is the best fit."
+  },
+  {
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення ARMASIGHT",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to night‑vision sights, which are a type of optical sight. The reference tree does not contain a dedicated night‑vision sights leaf, but the closest specific match is \"Оптика > Приціли > Оптичні\" (optical sights). This category encompasses all optical sight types, including night‑vision variants."
+  },
+  {
+    "source_path": "Монокуляри нічного бачення > Монокуляри нічного бачення PVS 14",
+    "reference_path": "Оптика > Прилади спостереження > Монокуляри",
+    "reasoning": "The source category describes night‑vision monoculars. In the reference tree the closest match is the generic monocular category under optics: \"Оптика > Прилади спостереження > Монокуляри\" (id 24390). No other reference category specifically lists night‑vision monoculars, and the accessories or night‑vision scope categories are not appropriate for the product itself."
+  },
+  {
+    "source_path": "Монокуляри нічного бачення > Монокуляри нічного бачення Yukon",
+    "reference_path": "Оптика > Прилади спостереження > Монокуляри",
+    "reasoning": "The source category refers to night‑vision monoculars, which are a type of optical observation device. In the reference tree the closest match is the generic monocular category under \"Оптика > Прилади спостереження > Монокуляри\" (id 24390). No specific night‑vision monocular leaf exists, and the other optical categories (sights, accessories) do not fit the product type."
+  },
+  {
+    "source_path": "Окуляри нічного бачення > Окуляри нічного бачення AGM",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to night‑vision goggles, which fall under the broader optics domain. In the reference tree the only category that explicitly mentions night‑vision equipment is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\" (id 24393). Although this reference category is labeled as accessories, it is the most specific match available that includes night‑vision devices. No other reference category directly covers night‑vision goggles, so this is the best fit."
+  },
+  {
+    "source_path": "Окуляри нічного бачення > Окуляри нічного бачення Yukon",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to night‑vision goggles, which fall under the broader optics domain. In the reference tree the only category that explicitly mentions night‑vision devices is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\". Although this leaf is labeled as accessories, it is the closest semantic match available for night‑vision equipment. No other reference leaf directly corresponds to night‑vision goggles, so this is the best possible mapping."
+  },
+  {
+    "source_path": "Прилади нічного бачення > Прилади нічного бачення Nortis",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to night‑vision devices. In the reference tree the only category that includes night‑vision equipment is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\" (id 24393). No more specific reference category exists, so this is the best match."
+  },
+  {
+    "source_path": "Насадки нічного бачення > Насадки нічного бачення PARD",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to attachments for night‑vision devices, i.e., accessories for night‑vision optics. In the reference tree, the only category that explicitly covers accessories for night‑vision devices is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\" (id 24393). This is the most semantically appropriate match."
+  },
+  {
+    "source_path": "Насадки нічного бачення > Насадки нічного бачення PULSAR",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to accessories (attachments) for night‑vision devices. In the reference tree the only leaf that semantically matches night‑vision accessories is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\". Other optical sight categories are for optical sights, not night‑vision attachments. Therefore the best match is id 24393."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли Leupold",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category describes optical sights (Leupold brand). In the reference tree, the most specific matching leaf category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers all optical sights regardless of brand. No other reference category is more specific to Leupold or optical sights, so this is the best match."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли BURRIS",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically the Burris brand. The reference tree contains a category for optical sights under \"Оптика > Приціли > Оптичні\", which is the most appropriate match for this type of product."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли Vector Optics",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically a brand or type named Vector Optics. In the reference hierarchy, the most appropriate match is the category \"Оптика > Приціли > Оптичні\" (id 24392), which covers all optical sights. No other reference category more precisely matches this product type."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли HAKKO",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically the HAKKO brand. In the reference tree, the most appropriate match is the category for optical sights under optics: \"Оптика > Приціли > Оптичні\" (id 24392). This category encompasses all optical sight products, including brand-specific models such as HAKKO."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли VEBER",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (приціли) specifically of the VEBER brand. In the reference tree, the most appropriate category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category covers all optical sight products, including brand-specific items, and is the closest semantic match."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли Yukon",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically a type or brand named Yukon. In the reference tree, the closest semantic match is the category for optical sights under optics: \"Оптика > Приціли > Оптичні\" (id 24392). No other reference category more precisely matches optical sights, and the category is not generic or unrelated."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли БелОМО",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically optical sights. In the reference tree, the most specific matching category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical sights. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптические прицелы Nikon",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically Nikon brand. In the reference tree, the most appropriate leaf category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). No more specific Nikon subcategory exists, so this is the best match."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли VORTEX",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (приціли) of the VORTEX brand. In the reference tree, the most specific category that matches optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category encompasses all optical sight products, including brand-specific models such as VORTEX. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли Dedal",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (optical sights). In the reference tree, the most specific category that matches this domain is \"Оптика > Приціли > Оптичні\" (id 24392), which covers all optical sight products. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли KONUS",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (приціли) of the KONUS brand. In the reference hierarchy, optical sights are grouped under \"Оптика > Приціли > Оптичні\" (id 24392). This is the most specific and semantically appropriate match for optical sights, as opposed to other subcategories such as collimator sights or night vision accessories."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли STURMAN",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights made by the brand STURMAN. In the reference tree, the most specific category that covers optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This matches the product type and domain, so it is the appropriate mapping."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли BUSHNELL",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (Bushnell brand). In the reference tree, the most specific matching category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category encompasses all optical sight products, including those from specific manufacturers such as Bushnell."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли HAWKE",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically the HAWKE brand. In the reference tree, the most appropriate category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category covers all optical sight products, matching the source category's content."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли ВОМЗ",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (optical sights VOMZ). In the reference tree, the closest specific category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category covers all optical sights, including specialized types such as VOMZ. No other reference category matches more precisely."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли Leica",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights of the Leica brand, which are a type of optical sight. In the reference tree, the most specific matching category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). No brand‑specific subcategory exists, so the generic optical sight category is the best fit."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли Nightforce",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights from the Nightforce brand, which are a type of optical sight. In the reference tree, the most specific matching category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category encompasses all optical sight products, including those from Nightforce."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли NIKKO STIRLING",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category describes optical sights from the brand Nikko Stirling. In the reference tree, the most specific category that covers optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This matches the product type and brand focus, making it the appropriate mapping."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли SIGHTRON",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (SIGHTRON brand). In the reference tree, the most specific category that covers optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). No other reference category is more specific to optical sights, so this is the best match."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли BSA-OPTICS",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights (optical scopes). In the reference tree, the most specific matching category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical sights. The other optical sight category is \"Коліматорні\", which is a different type of sight. Therefore, the best match is the optical sights category."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли LEAPERS",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically a brand or type named LEAPERS. In the reference hierarchy, the closest matching leaf category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category encompasses all optical sight products, making it the most appropriate match."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли SCHMIDT & BENDER",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights made by Schmidt & Bender, which are a type of optical sight. In the reference hierarchy, the most specific matching category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category encompasses all optical sights, including those from Schmidt & Bender."
+  },
+  {
+    "source_path": "Оптичні приціли > Оптичні приціли SWAROVSKI",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to optical sights, specifically the Swarovski brand. In the reference tree, the most appropriate category for optical sights is \"Оптика > Приціли > Оптичні\" (id 24392). This category covers all optical sight products regardless of brand, making it the best match."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Hakko",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight. The reference tree contains a specific leaf category for collimator sights under optics: \"Оптика > Приціли > Коліматорні\". This is the most precise match."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Leupold",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391), which directly covers collimator sights. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли ВОМЗ Пілад",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight used on firearms. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391), which directly covers collimator sights. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Zenit",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, which are a type of optical sight. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391)."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорний приціл EOTech",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, specifically the EOTech brand. In the reference hierarchy, the closest matching leaf category is \"Оптика > Приціли > Коліматорні\" (id 24391), which covers all collimator sight products. No other reference category more specifically matches the brand or type, so this is the best fit."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Burris",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391), which directly covers collimator sights. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Aimpoint",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, specifically the Aimpoint brand. In the reference hierarchy, the closest matching leaf category is \"Оптика > Приціли > Коліматорні\" (id 24391), which covers all collimator sights regardless of brand. No other reference category more specifically matches Aimpoint collimator sights, so this is the best fit."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Sightmark",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight. In the reference tree, the closest matching leaf category is \"Оптика > Приціли > Коліматорні\" (id 24391), which specifically covers collimator sights. No other reference category more precisely matches this product type."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли БелОМО",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight used on firearms. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391), which directly covers collimator sights. No other reference category is more specific or appropriate."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Holosun",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, specifically the Holosun brand. In the reference hierarchy, the most appropriate category for collimator sights is \"Оптика > Приціли > Коліматорні\" (id 24391). This directly matches the product type and scope of the source category."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли Konus",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, which are optical sighting devices. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391), which directly corresponds to collimator sights."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли STURMAN",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, a type of optical sight. In the reference hierarchy, the closest specific category for collimator sights is \"Оптика > Приціли > Коліматорні\" (id 24391). This matches the product type and brand context."
+  },
+  {
+    "source_path": "Коліматорні приціли > Коліматорні приціли BUSHNELL",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "reasoning": "The source category refers to collimator sights, specifically Bushnell brand. In the reference tree, the most specific matching category is \"Оптика > Приціли > Коліматорні\" (id 24391), which covers all collimator sights regardless of brand. No other reference category is more specific to Bushnell or collimator sights, so this is the best match."
+  },
+  {
+    "source_path": "РЕБ > РЕБ рюкзак",
+    "reference_path": "Спорядження > Рюкзаки",
+    "reasoning": "The source category refers to a backpack (рюкзак) associated with the R.E.B. line, which is a type of tactical gear. The most appropriate reference category for backpacks in the store is \"Спорядження > Рюкзаки\"."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри ATN",
+    "reference_path": "Оптика > Далекоміри",
+    "reasoning": "Laser rangefinders are optical measuring devices, fitting within the \"Оптика > Далекоміри\" category."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Leica",
+    "reference_path": "Оптика > Далекоміри",
+    "reasoning": "Laser rangefinders are optical measuring devices. The reference category \"Оптика > Далекоміри\" is dedicated to rangefinders, including laser models. The source subcategory is a brand‑specific listing of laser rangefinders, so it fits best under this reference category."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Bushnell",
+    "reference_path": "Оптика > Далекоміри",
+    "reasoning": "Laser rangefinders are optical measuring devices that fall under the broader category of optical instruments. The reference tree contains a specific leaf category \"Оптика > Далекоміри\" (optics > rangefinders) that directly matches this product type. No other reference category more precisely captures laser rangefinders, so this is the best fit."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Nikon",
+    "reference_path": "Оптика > Далекоміри",
+    "reasoning": "Laser rangefinders are optical measuring devices, fitting under the reference category \"Оптика > Далекоміри\"."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Leupold",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Laser rangefinders are optical devices used for measuring distance, typically classified under optics or optical sights. The closest reference category that encompasses optical measuring devices is \"Оптика > Приціли > Оптичні\" (id 24392). No more specific laser rangefinder category exists in the reference tree, so this is the best semantic match."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Opti-Logic",
+    "reference_path": "Оптика > Далекоміри",
+    "reasoning": "Laser rangefinders are optical devices used to measure distance. The reference category \"Оптика > Далекоміри\" (id 24329) covers rangefinders, including laser models, making it the most appropriate match."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Carl Zeiss",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Laser rangefinders are optical devices used for distance measurement. In the reference tree, the closest category that encompasses optical measuring tools is \"Оптика > Приціли > Оптичні\" (id 24392). This category covers optical sights and related optical equipment, which is the most semantically appropriate match for laser rangefinders."
+  },
+  {
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Veber",
+    "reference_path": "Оптика > Далекоміри",
+    "reasoning": "Laser rangefinders are optical measuring devices that fall under the broader category of rangefinders. In the reference hierarchy, the most specific leaf that matches this product type is \"Оптика > Далекоміри\" (id 24329)."
+  },
+  {
+    "source_path": "Аксесуари > Джерела живлення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Елементи живлення",
+    "reasoning": "The source category refers to power sources such as batteries, chargers, and other energy supplies for electronic devices. In the reference tree, the most semantically aligned leaf category is \"Ліхтарі > Аксесуари для ліхтарів > Елементи живлення\" (id 24366), which specifically covers power elements for flashlights and similar devices. No other reference category directly addresses generic power sources, so this is the best match."
+  },
+  {
+    "source_path": "Аксесуари > Інфрачервоні ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "reasoning": "Інфрачервоні ліхтарі – це портативні світильники, які використовуються для нічного бачення або тактичних цілей. У референс-дереві вони належать до категорії \"Ліхтарі > Ручні та кишенькові ліхтарі\", що охоплює всі типи переносних ліхтарів, включаючи інфрачервоні моделі."
+  },
+  {
+    "source_path": "Тепловізори > Тепловізори INFIRAY (IRAY) > Cabin",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to a cabin (case or housing) for a thermal imaging device, which is an accessory for night‑vision/thermal optics. The closest reference category covering accessories for night‑vision devices is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\"."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли HikMicro > Panther",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли є оптичними приладами, що використовуються для наведення зброї. У наявному дереві категорій найближчою відповідністю є \"Оптика > Приціли > Оптичні\", де розміщуються різні типи прицілів, включаючи тепловізійні. Інші категорії (наприклад, приціли коліматорні або аксесуари до приладів нічного бачення) не охоплюють саме приціли тепловізійного типу."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли HikMicro > Thunder",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли – це тип прицілів, що використовуються з озброєнням. У наданому дереві категорій є лише загальна секція «Оптика > Приціли > Оптичні», яка охоплює різні види прицілів, включаючи тепловізійні. Інші категорії стосуються аксесуарів або нічного бачення, але не самих прицілів. Тому найкращим відповідником є «Оптика > Приціли > Оптичні»."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли PULSAR > Thermion",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal sights (Тепловізійні приціли) from the brand PULSAR. In the reference hierarchy, the closest matching category for any type of sight is \"Оптика > Приціли > Оптичні\" (id 24392). Although thermal scopes are a specific subtype, the reference tree does not contain a dedicated thermal-sight category, so the generic optical-sight category is the most appropriate match."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли PULSAR > Trail",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal sights (PULSAR Trail). The reference tree contains no dedicated thermal sight category, but the closest fit is the general optics category for sights: \"Оптика > Приціли > Оптичні\" (id 24392)."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли AGM > Secutor",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal sights, which are a type of optical sight. The closest matching leaf category in the reference tree is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical sights. No more specific category for thermal sights exists in the reference list."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли AGM > Varmint",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal scopes, a type of sight used with firearms. In the reference hierarchy the only category that contains scopes is \"Оптика > Приціли > Оптичні\" (id 24392). Although thermal scopes are not strictly optical, the reference tree does not provide a separate thermal or night‑vision category, so the closest match is the general scopes category."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Senopex > REX S series",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли є типом оптичних прицілів, що використовують інфрачервоні сенсори для відображення теплових сигналів. У наданому дереві категорій немає окремої підкатегорії для тепловізійних прицілів, але існує загальна категорія \"Оптика > Приціли > Оптичні\", яка охоплює різні види прицілів, включаючи тепловізійні. Тому найкращим відповідником є саме ця категорія."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли MARS 4 > MARS 4 на 640 матриці",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли – це пристрої оптичного типу, що використовуються для наведення зброї. У наданому дереві категорій є лише загальна секція «Оптика > Приціли», де розміщуються різні види прицілів. Найбільш відповідним підрозділом є «Оптика > Приціли > Оптичні» (id 24392), який охоплює всі типи прицілів, включаючи тепловізійні, оскільки вони належать до оптичної категорії."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли MARS 4 > MARS LT",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "Тепловізійні приціли (thermal scopes) are a type of optical sight. The reference tree contains a category for optical sights under \"Оптика > Приціли > Оптичні\" (id 24392). No dedicated thermal scope category exists, so the closest semantic match is this optical sight category."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли DEDAL > Venator",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal scopes, which are a type of optical sight. In the reference hierarchy, the closest matching category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical sights. No dedicated thermal scope category exists in the reference list, so this is the most appropriate match."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли DEDAL > T4 Pro / Hunter",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to thermal scopes, which are a type of optical sight. The reference tree contains a specific category for optical scopes under \"Оптика > Приціли > Оптичні\" (id 24392). No more specific thermal scope category exists, so this is the best match."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціл NVECTech > NVECTech серія SCL",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category describes thermal scopes, which are optical devices used for target acquisition. In the reference tree, the closest matching category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers scopes and related optical sighting devices. No dedicated thermal scope category exists, so this is the most appropriate match."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли ARMASIGHT > PREDATOR",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "Тепловізійні приціли – це тип приладів нічного бачення, що використовують інфрачервоні сигнали. У наданому дереві категорій є лише один розділ, який охоплює прилади нічного бачення – «Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари». Хоча це розділ для аксесуарів, він є найвідповіднішим, оскільки немає окремої категорії для тепловізійних прицілів. Інші категорії, такі як «AR Платформа > Приціли > Оптичні» або «Оптика > Приціли > Коліматорні», стосуються оптичних прицілів для зброї, а не тепловізійних пристроїв."
+  },
+  {
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли ARMASIGHT > ZEUS",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category refers to a thermal sight (Тепловізійні приціли) from the brand ARMASIGHT, model ZEUS. In the reference hierarchy, the closest matching category for any type of optical sight is \"Оптика > Приціли > Оптичні\" (id 24392). Although thermal scopes are a specific subcategory of optical devices, the reference tree does not contain a dedicated thermal scope leaf, so the most appropriate match is the general optical scopes category."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Pulsar Accolade > Accolade",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "The source category describes thermal binoculars, a type of optical observation device. In the reference tree, the closest match is the general binocular category under \"Оптика > Прилади спостереження > Біноклі\" (id 24387), which encompasses all binoculars, including thermal variants."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Pulsar Accolade > Accolade LRF",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "The source category describes thermal binoculars, a type of optical observation device. In the reference tree, the closest match is the general binocular category under optical observation equipment. No specific thermal binocular subcategory exists, so the best fit is \"Оптика > Прилади спостереження > Біноклі\"."
+  },
+  {
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі AGM > Тепловізійні біноклі AGM ObservIR",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "reasoning": "Тепловізійні біноклі – це спеціалізований тип біноклів, що використовуються для тепловізійного спостереження. У наданому дереві категорій немає окремої підкатегорії для тепловізійних біноклів, але існує загальна категорія \"Оптика > Прилади спостереження > Біноклі\", яка охоплює всі види біноклів, включаючи тепловізійні. Тому найкращим відповідником є ця категорія."
+  },
+  {
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення ATN > X-Sight 4K Pro",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The product is a night‑vision sight, which is an optical device used for aiming. In the reference tree, the closest category for such devices is \"Оптика > Приціли > Оптичні\" (id 24392). No dedicated night‑vision sight category exists, so the optical sights category is the most appropriate match."
+  },
+  {
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення ATN > X-Sight II HD",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The product is a night‑vision sight, which is a type of optical sight. The reference tree contains a category for optical sights under \"Оптика > Приціли > Оптичні\" (id 24392), which is the most appropriate match."
+  },
+  {
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення Pulsar > Pulsar Digisight",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "reasoning": "The source category describes night‑vision scopes, which are a type of optical sight. In the reference tree the only leaf category that covers scopes is \"Оптика > Приціли > Оптичні\" (id 24392). No more specific night‑vision scope category exists, so this is the best semantic match."
+  },
+  {
+    "source_path": "Приціли нічного бачення > Приціл нічного бачення Yukon > Yukon Sightline",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "reasoning": "The source category refers to night‑vision sights. In the reference tree the only category that explicitly mentions night‑vision devices is \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари\" (id 24393). Although the reference label is for accessories, it is the closest semantic match available for night‑vision sight products."
+  }
+]

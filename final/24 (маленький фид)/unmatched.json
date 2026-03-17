@@ -1,0 +1,14 @@
+[
+  {
+    "id": "24967",
+    "name": "Зброя та аксесуари",
+    "path": "Зброя та аксесуари",
+    "reasoning": "The source category is a broad umbrella that includes all types of weapons and their accessories. The reference list contains many specific leaf categories under \"Зброя\" and \"Аксесуари\", but none of them represent the entire set of weapons and accessories as a single category. Therefore there is no single reference leaf that matches the breadth of the source category. The domain is related (both are about weapons and accessories), but no specific reference category covers it."
+  },
+  {
+    "id": "24976",
+    "name": "Засоби для самооборони",
+    "path": "Засоби для самооборони",
+    "reasoning": "The source category refers to a range of personal protection items such as pepper spray, stun guns, self‑defence knives, personal alarms, etc. The reference tree does not contain a dedicated category for non‑lethal self‑defence tools. While knives could fall under \"Ножі та інструменти\", that would exclude the other items. No single reference category fully matches the breadth of \"Засоби для самооборони\", so the category is considered related to weapons but not represented in the reference list."
+  }
+]

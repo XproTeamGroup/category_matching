@@ -1,0 +1,56 @@
+[
+  {
+    "source_id": "25053",
+    "source_name": "Тепловізійні приціли IR-DEFENCE",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25055",
+    "source_name": "Тепловізійні приціли Dipol",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25230",
+    "source_name": "MARS LTV",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25231",
+    "source_name": "MARS LT",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25244",
+    "source_name": "FLIR RS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25252",
+    "source_name": "Accolade LRF",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "25396",
+    "name": "Навігатори",
+    "path": "Годинник, електроніка > Навігатори",
+    "reasoning": "The leaf category \"Навігатори\" refers to navigation devices such as GPS units or electronic navigation aids. In the reference tree there is no dedicated category for GPS or navigation equipment. The closest related categories are \"Зв'язок\" (communication devices) and \"Оптика\" (optical devices), but neither directly covers navigation units. Therefore no exact or semantic match exists in the reference list. The domain is related to electronics but not represented by a specific reference category, so it is considered out of scope but not completely unrelated."
+  },
+  {
+    "id": "25402",
+    "name": "Ремінці",
+    "path": "Годинник, електроніка > Ремінці",
+    "reasoning": "The leaf \"Ремінці\" (plural of \"ремінь\") in the context of \"Годинник, електроніка\" refers to watch straps or bands used with watches or other electronic devices. The reference catalogue contains an \"Аксесуари\" branch, but there is no specific subcategory for watch straps or bands. The closest related category is \"Аксесуари > Ремені збройові\", which is for military belts and does not match the product type. Therefore, no exact or semantic match exists in the reference tree, but the domain (accessories) is related."
+  }
+]

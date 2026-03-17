@@ -62,7 +62,10 @@ def _build_prompt_standard(
     batch: list[dict],
     examples: list[dict] | None = None,
 ) -> str:
-    source_lines = [f'{{"id": "{s["id"]}", "name": "{s["name"]}"}}' for s in batch]
+    source_lines = [
+        f'{{"id": "{s["id"]}", "path": "{s.get("path", s["name"])}"}}'
+        for s in batch
+    ]
     source_json = "[\n  " + ",\n  ".join(source_lines) + "\n]"
 
     examples_block = ""
@@ -75,7 +78,7 @@ EXAMPLES (known correct matches — use as reference for style and precision):
     return f"""You are an expert at product category classification.
 
 TASK: For each category in SOURCE, find the most suitable category from REFERENCE.
-Source names may contain a brand name followed by a category type.
+Source paths show the full hierarchy (e.g. "Brand > Electronics > Phones").
 
 REFERENCE (all available leaf categories — full paths from root):
 {ref_context}
@@ -101,7 +104,10 @@ def _build_prompt_force(
     batch: list[dict],
     examples: list[dict] | None = None,
 ) -> str:
-    source_lines = [f'{{"id": "{s["id"]}", "name": "{s["name"]}"}}' for s in batch]
+    source_lines = [
+        f'{{"id": "{s["id"]}", "path": "{s.get("path", s["name"])}"}}'
+        for s in batch
+    ]
     source_json = "[\n  " + ",\n  ".join(source_lines) + "\n]"
 
     examples_block = ""
@@ -115,6 +121,7 @@ EXAMPLES (known correct matches — use as reference for style and precision):
 
 TASK: For each category in SOURCE, find the best matching category from REFERENCE.
 Analyze the reference tree to understand the domain it covers.
+Source paths show the full hierarchy (e.g. "Brand > Electronics > Phones").
 
 REFERENCE (all available leaf categories — full paths from root):
 {ref_context}
@@ -145,7 +152,7 @@ def _build_prompt_verify(
     examples: list[dict] | None = None,
 ) -> str:
     """
-    batch items: {"id": str, "source_name": str, "reference_path": str}
+    batch items: {"id": str, "source_path": str, "reference_path": str}
     """
     pairs = json.dumps(batch, ensure_ascii=False, indent=2)
 
@@ -236,6 +243,111 @@ def _validate_verify_response(
     return items
 
 
+# ── Deep single-item prompt ───────────────────────────────────────────────────
+
+def _build_prompt_deep(
+    ref_context: str,
+    source: dict,
+    examples: list[dict] | None = None,
+) -> str:
+    examples_block = ""
+    if examples:
+        examples_block = f"""
+EXAMPLES (known correct matches — use as calibration):
+{_format_examples(examples)}
+"""
+
+    return f"""You are an expert at product category classification for a weapons, tactical, and outdoor equipment store.
+
+REFERENCE (all available leaf categories — full paths from root):
+{ref_context}
+{examples_block}
+SOURCE CATEGORY TO CLASSIFY:
+  leaf (the actual category): "{source["name"]}"
+  full path (parent context only): "{source.get("path", source["name"])}"
+
+IMPORTANT: Focus on the LEAF category name — that is what you are classifying.
+The path shows where it lives in the source tree, but do not let parent names
+mislead you about what the leaf category actually contains.
+
+INSTRUCTIONS:
+Step 1 — UNDERSTAND: What is the LEAF category "{source["name"]}"? What products does it contain?
+         - Consider synonyms, related terms, and how it might be named differently.
+         - If the term is Ukrainian or Russian and unfamiliar, try to decompose it morphologically
+           (e.g. "пулелійки" = "пуля"+"лійка" = bullet casting molds; "набоєприймач" = magazine).
+           Use the parent path as a strong hint for the domain.
+         - The parent path is only additional context — do not confuse it with the category itself.
+Step 2 — EXPLORE: Look through the reference tree. Which categories could potentially match?
+         Think broadly — consider parent categories, related domains, partial overlaps.
+         If you are uncertain about the exact meaning of a term, prefer a broader domain match
+         over declaring no match.
+Step 3 — DECIDE: Choose the single best match, or declare no match.
+         A valid match requires genuine semantic fit — the products from the source category
+         would actually belong in that reference category.
+         If no reasonable match exists, set mapped_to_id to null and classify out_of_scope:
+           true  — completely different domain (e.g. furniture, toys)
+           false — related domain but no specific reference category covers it
+
+RULES:
+- Use the exact "id" from REFERENCE
+- PRIORITY ORDER for matching:
+    1. Exact or near-exact name match (including synonym/translation equivalents, e.g. "патрон"="набій", "набої"="патрони", "рушниця"="гвинтівка")
+       Also match when source name is a compound of reference name (e.g. "Намети, тенти" → "Намети")
+    2. Specific product terminology match (caliber, weapon type, brand)
+    3. Semantic/functional match
+  Never jump to step 3 if a step 1 or 2 match exists in the reference tree.
+- Do NOT match on shared generic words alone ("аксесуари", "інше", "набори")
+- Prefer a specific match over a generic one
+- Reply with ONLY valid JSON, no text outside the JSON object
+
+RESPONSE (single JSON object):
+{{
+  "source_path": "{source.get("path", source["name"])}",
+  "reasoning": "...",
+  "mapped_to_id": "...",
+  "mapped_to_path": "...",
+  "out_of_scope": false
+}}"""
+
+
+def _validate_deep_response(
+    response_text: str,
+    valid_ids: set[str],
+    path_to_id: dict[str, str] | None = None,
+) -> dict[str, Any] | None:
+    text = response_text.strip()
+    start, end = text.find("{"), text.rfind("}")
+    if start == -1 or end == -1:
+        return None
+    try:
+        item = json.loads(text[start: end + 1])
+    except json.JSONDecodeError:
+        return None
+    if not isinstance(item, dict):
+        return None
+    mapped_id = item.get("mapped_to_id")
+    if mapped_id and str(mapped_id) not in valid_ids:
+        # Fallback: try to recover correct ID by matching the provided path
+        recovered_id = None
+        if path_to_id and item.get("mapped_to_path"):
+            candidate = str(item["mapped_to_path"]).strip()
+            # exact match first
+            recovered_id = path_to_id.get(candidate)
+            # normalized match: lowercase + collapse spaces
+            if not recovered_id:
+                norm_candidate = " ".join(candidate.lower().split())
+                norm_map = {" ".join(k.lower().split()): v for k, v in path_to_id.items()}
+                recovered_id = norm_map.get(norm_candidate)
+        if recovered_id:
+            item["mapped_to_id"] = recovered_id
+        else:
+            item["mapped_to_id"] = None
+            item["mapped_to_path"] = None
+    if "out_of_scope" not in item:
+        item["out_of_scope"] = False
+    return item
+
+
 # ── Core batch runner ─────────────────────────────────────────────────────────
 
 def _run_batches(
@@ -322,6 +434,7 @@ def match_with_ai(
             matched.append({
                 "source_id": src_id,
                 "source_name": src["name"],
+                "source_path": src.get("path", src["name"]),
                 "reference_id": mapped_id,
                 "reference_name": ref_leaf["name"],
                 "reference_path": ref_leaf["path"],
@@ -364,6 +477,7 @@ def match_with_ai_force(
             matched.append({
                 "source_id": src_id,
                 "source_name": src["name"],
+                "source_path": src.get("path", src["name"]),
                 "reference_id": mapped_id,
                 "reference_name": ref_leaf["name"],
                 "reference_path": ref_leaf["path"],
@@ -378,10 +492,84 @@ def match_with_ai_force(
     return matched, out_of_scope, still_unmatched
 
 
+def match_with_ai_deep(
+    source_categories: list[dict],
+    ref_leaves: list[dict],
+    examples: list[dict] | None = None,
+) -> tuple[list[dict[str, Any]], list[dict], list[dict]]:
+    """
+    Deep single-item matching with chain-of-thought reasoning.
+    Processes one category at a time, asks AI to reason before deciding.
+    Returns (matched, out_of_scope, unmatched).
+    """
+    if not source_categories:
+        return [], [], []
+
+    valid_ids = {leaf["id"] for leaf in ref_leaves}
+    ref_lookup = {leaf["id"]: leaf for leaf in ref_leaves}
+    path_to_id = {leaf["path"]: leaf["id"] for leaf in ref_leaves}
+    ref_context = _build_reference_context(ref_leaves)
+    total = len(source_categories)
+
+    matched, out_of_scope, unmatched = [], [], []
+
+    for i, src in enumerate(source_categories, 1):
+        src_id = str(src["id"])
+        print(f"    [{i}/{total}] {src.get('path', src['name'])[:60]}...")
+
+        prompt = _build_prompt_deep(ref_context, src, examples)
+        result = None
+
+        for attempt in range(1, config.MAX_RETRIES + 1):
+            try:
+                response_text = _call_api(prompt)
+                result = _validate_deep_response(response_text, valid_ids, path_to_id)
+                if result is not None:
+                    break
+                print(f"      Спроба {attempt}: невалідна відповідь, повторюю...")
+            except urllib.error.HTTPError as e:
+                print(f"      Спроба {attempt}: HTTP {e.code} — {e.reason}")
+                if attempt < config.MAX_RETRIES:
+                    time.sleep(2)
+            except Exception as e:
+                print(f"      Спроба {attempt}: помилка — {e}")
+                if attempt < config.MAX_RETRIES:
+                    time.sleep(2)
+
+        if result is None:
+            unmatched.append(src)
+            continue
+
+        mapped_id = str(result.get("mapped_to_id") or "")
+        reasoning = result.get("reasoning", "")
+        if reasoning:
+            print(f"      → {reasoning[:80]}...")
+
+        if mapped_id and mapped_id in valid_ids:
+            ref_leaf = ref_lookup[mapped_id]
+            matched.append({
+                "source_id": src_id,
+                "source_name": src["name"],
+                "source_path": src.get("path", src["name"]),
+                "reference_id": mapped_id,
+                "reference_name": ref_leaf["name"],
+                "reference_path": ref_leaf["path"],
+                "method": "ai_deep",
+                "confidence": "high",
+                "reasoning": reasoning,
+            })
+        elif result.get("out_of_scope"):
+            out_of_scope.append({**src, "reasoning": reasoning})
+        else:
+            unmatched.append({**src, "reasoning": reasoning})
+
+    return matched, out_of_scope, unmatched
+
+
 def verify_matches(
     matched: list[dict],
     examples: list[dict] | None = None,
-    methods_to_verify: frozenset[str] = frozenset({"ai", "ai_force"}),
+    methods_to_verify: frozenset[str] = frozenset({"ai", "ai_force", "ai_deep"}),
 ) -> tuple[list[dict], list[dict]]:
     """
     Verifies AI matches by asking the model: "Is this match correct?"
@@ -411,11 +599,12 @@ def verify_matches(
         print(f"    Верифікація батч {batch_num}/{total_batches} ({len(batch)} пар)...")
 
         verify_items = [
-            {
+            {k: v for k, v in {
                 "id": m["source_id"],
-                "source_name": m["source_name"],
+                "source_path": m.get("source_path", m["source_name"]),
                 "reference_path": m["reference_path"],
-            }
+                "reasoning": m.get("reasoning"),
+            }.items() if v is not None}
             for m in batch
         ]
         batch_ids = {item["id"] for item in verify_items}

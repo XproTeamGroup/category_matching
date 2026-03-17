@@ -1,0 +1,319 @@
+[
+  {
+    "source_id": "25276",
+    "source_name": "Стартова (шумова) зброя",
+    "reference_id": "24472",
+    "reference_name": "Стартова (шумова) зброя",
+    "reference_path": "Зброя > Стартова (шумова) зброя",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25284",
+    "source_name": "Холості набої",
+    "reference_id": "24466",
+    "reference_name": "Холості набої",
+    "reference_path": "Набої > Холості набої",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25297",
+    "source_name": "Окуляри",
+    "reference_id": "24369",
+    "reference_name": "Окуляри",
+    "reference_path": "Оптика > Аксесуари та комплектуючі > Окуляри",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25299",
+    "source_name": "Головні убори",
+    "reference_id": "24461",
+    "reference_name": "Головні убори",
+    "reference_path": "Спорядження > Головні убори",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25300",
+    "source_name": "Рукавички",
+    "reference_id": "24462",
+    "reference_name": "Рукавички",
+    "reference_path": "Спорядження > Рукавички",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25301",
+    "source_name": "Аксесуари",
+    "reference_id": "24393",
+    "reference_name": "Аксесуари",
+    "reference_path": "Оптика > Приціли та прилади нічного бачення (ПНБ) > Аксесуари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25303",
+    "source_name": "Спортивні товари",
+    "reference_id": "24467",
+    "reference_name": "Спортивні товари",
+    "reference_path": "Активний відпочинок, туризм та хобі > Спортивні товари",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25306",
+    "source_name": "Мангали",
+    "reference_id": "24471",
+    "reference_name": "Мангали",
+    "reference_path": "Активний відпочинок, туризм та хобі > Мангали",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25309",
+    "source_name": "Генератори",
+    "reference_id": "24463",
+    "reference_name": "Генератори",
+    "reference_path": "Активний відпочинок, туризм та хобі > Генератори",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25310",
+    "source_name": "Мультитули",
+    "reference_id": "24323",
+    "reference_name": "Мультитули",
+    "reference_path": "Ножі та інструменти > Мультитули",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25312",
+    "source_name": "Повербанки та акумулятори",
+    "reference_id": "24464",
+    "reference_name": "Повербанки та акумулятори",
+    "reference_path": "Активний відпочинок, туризм та хобі > Повербанки та акумулятори",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25313",
+    "source_name": "Іграшки",
+    "reference_id": "24465",
+    "reference_name": "Іграшки",
+    "reference_path": "Активний відпочинок, туризм та хобі > Іграшки",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25275",
+    "source_name": "Зброя під патрон Флобера",
+    "source_path": "Зброя та аксесуари > Зброя під патрон Флобера",
+    "reference_id": "24410",
+    "reference_name": "Пружинно-поршневі гвинтівки",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Зброя під патрон Флобера\" refers to air rifles that use Flobert cartridges, which are typically spring‑piston (пружинно‑поршневі) rifles. The closest matching reference leaf is \"Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно‑поршневі гвинтівки\" (id 24410)."
+  },
+  {
+    "source_id": "25277",
+    "source_name": "Страйкбольна зброя",
+    "source_path": "Зброя та аксесуари > Страйкбольна зброя",
+    "reference_id": "24386",
+    "reference_name": "Страйкбол",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Страйкбольна зброя\" refers to paintball guns, which are a type of airsoft/pneumatic weapon. In the reference tree, the closest semantic match is \"Зброя > Пневматична зброя > Страйкбол\" (id 24386). No other reference category more specifically matches paintball guns."
+  },
+  {
+    "source_id": "25278",
+    "source_name": "Макети масо-габаритні",
+    "source_path": "Зброя та аксесуари > Макети масо-габаритні",
+    "reference_id": "24468",
+    "reference_name": "Макети",
+    "reference_path": "Зброя > Макети",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Макети масо-габаритні\" refers to large‑scale models of weapons. The reference tree contains a category \"Зброя > Макети\" (id 24468) that covers models of firearms and related items. This is the most specific and semantically appropriate match."
+  },
+  {
+    "source_id": "25279",
+    "source_name": "Оптика збройова",
+    "source_path": "Зброя та аксесуари > Оптика збройова",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Оптика збройова\" refers to weapon optics, which primarily includes optical sights. The reference category that best matches this is \"Оптика > Приціли > Оптичні\" (id 24392), covering optical sights for firearms."
+  },
+  {
+    "source_id": "25280",
+    "source_name": "Кобури, підсумки і чохли",
+    "source_path": "Зброя та аксесуари > Кобури, підсумки і чохли",
+    "reference_id": "24341",
+    "reference_name": "Кобури та сумки",
+    "reference_path": "Спорядження > Кобури та сумки",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category lists protective covers (кобури), ammunition pouches (підсумки) and weapon cases (чохли). In the reference tree, the closest semantic match that encompasses covers and bags is \"Спорядження > Кобури та сумки\" (id 24341). This category covers protective covers for firearms and various types of bags/pouches, which aligns with the source category’s contents."
+  },
+  {
+    "source_id": "25281",
+    "source_name": "Аксесуари, тюнінг зброї",
+    "source_path": "Зброя та аксесуари > Аксесуари, тюнінг зброї",
+    "reference_id": "24313",
+    "reference_name": "Інше",
+    "reference_path": "Тюнінг > Інше",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf describes general accessories used for tuning weapons. In the reference tree, the most appropriate category is \"Тюнінг > Інше\" (id 24313), which covers miscellaneous tuning accessories that do not fit into more specific sub‑categories such as stocks, grips, or barrel extensions."
+  },
+  {
+    "source_id": "25282",
+    "source_name": "Кулі для пневматики",
+    "source_path": "Зброя та аксесуари > Кулі для пневматики",
+    "reference_id": "24419",
+    "reference_name": "Кульки та кулі",
+    "reference_path": "Зброя > Пневматична зброя > Набої > Кульки та кулі",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Кулі для пневматики\" refers to ammunition (bullets) used in pneumatic weapons (air guns). In the reference tree the most appropriate category that covers all types of airgun bullets is \"Набої > Набої для холодної пристрілки\" (id 24419), which is the generic category for pneumatic ammunition."
+  },
+  {
+    "source_id": "25283",
+    "source_name": "Патрони Флобера",
+    "source_path": "Зброя та аксесуари > Патрони Флобера",
+    "reference_id": "24418",
+    "reference_name": "Набої Флобера",
+    "reference_path": "Зброя > Пневматична зброя > Набої > Набої Флобера",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Патрони Флобера\" refers to Flobert cartridges, which are ammunition for air guns. In the reference tree the most semantically appropriate match is the specific category for Flobert ammunition under air‑gun ammunition: \"Зброя > Пневматична зброя > Набої > Набої Флобера\"."
+  },
+  {
+    "source_id": "25285",
+    "source_name": "Кульки BB",
+    "source_path": "Зброя та аксесуари > Кульки BB",
+    "reference_id": "24320",
+    "reference_name": "Набої для холодної пристрілки",
+    "reference_path": "Набої > Набої для холодної пристрілки",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "\"Кульки BB\" are BB pellets used in airsoft guns, which are considered cold‑weapon ammunition. The reference category that covers such ammunition is \"Набої > Набої для холодної пристрілки\" (id 24320)."
+  },
+  {
+    "source_id": "25288",
+    "source_name": "Б/В пневматичні гвинтівки",
+    "source_path": "Б/У зброя та аксесуари > Б/В пневматичні гвинтівки",
+    "reference_id": "24410",
+    "reference_name": "Пружинно-поршневі гвинтівки",
+    "reference_path": "Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Б/В пневматичні гвинтівки\" refers to used pneumatic rifles. In the reference tree the closest matching leaf category is \"Зброя > Пневматична зброя > Пневматичні гвинтівки > Пружинно-поршневі гвинтівки\" (id 24410), which covers spring‑piston pneumatic rifles – a common type of pneumatic rifle."
+  },
+  {
+    "source_id": "25290",
+    "source_name": "Б/В Флобери",
+    "source_path": "Б/У зброя та аксесуари > Б/В Флобери",
+    "reference_id": "24386",
+    "reference_name": "Страйкбол",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Б/В Флобери\" refers to airsoft guns of the Flebo brand. In the reference hierarchy, the most appropriate category for all airsoft guns is \"Зброя > Пневматична зброя > Страйкбол\" (id 24386). This category encompasses all types of airsoft firearms, including pistols, rifles, revolvers, and other models from Flebo. No more specific reference category exists for the Flebo brand, so \"Страйкбол\" is the best semantic match."
+  },
+  {
+    "source_id": "25291",
+    "source_name": "Б/В стартова зброя",
+    "source_path": "Б/У зброя та аксесуари > Б/В стартова зброя",
+    "reference_id": "24472",
+    "reference_name": "Стартова (шумова) зброя",
+    "reference_path": "Зброя > Стартова (шумова) зброя",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Б/В стартова зброя\" refers to starter or training weapons, which aligns with the reference category \"Зброя > Стартова (шумова) зброя\" (Starter/noisy weapons)."
+  },
+  {
+    "source_id": "25294",
+    "source_name": "Б/В страйкбольна зброя",
+    "source_path": "Б/У зброя та аксесуари > Б/В страйкбольна зброя",
+    "reference_id": "24386",
+    "reference_name": "Страйкбол",
+    "reference_path": "Зброя > Пневматична зброя > Страйкбол",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Б/В страйкбольна зброя\" refers to strikeball (pneumatic) weapons. The reference tree contains a matching category \"Зброя > Пневматична зброя > Страйкбол\" (id 24386) which covers the same product type."
+  },
+  {
+    "source_id": "25295",
+    "source_name": "Б/В кобури",
+    "source_path": "Б/У зброя та аксесуари > Б/В кобури",
+    "reference_id": "24341",
+    "reference_name": "Кобури та сумки",
+    "reference_path": "Спорядження > Кобури та сумки",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf \"Б/В кобури\" refers to bags or cases for weapons (\"кобури\" in Ukrainian). The reference tree contains a category \"Спорядження > Кобури та сумки\" (id 24341) which is the direct equivalent for weapon bags and cases. No other reference category matches this product type more specifically."
+  },
+  {
+    "source_id": "25296",
+    "source_name": "Сумки та рюкзаки",
+    "source_path": "Тактичне екіпірування > Сумки та рюкзаки",
+    "reference_id": "24346",
+    "reference_name": "Сумки",
+    "reference_path": "Спорядження > Сумки",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf category \"Сумки та рюкзаки\" refers to tactical bags and backpacks. In the reference tree, the closest semantic match is the category \"Спорядження > Сумки\" (id 24346), which covers various types of tactical bags. No other reference category combines both bags and backpacks, so this is the best single match."
+  },
+  {
+    "source_id": "25298",
+    "source_name": "Одяг",
+    "source_path": "Тактичне екіпірування > Одяг",
+    "reference_id": "24360",
+    "reference_name": "Інше",
+    "reference_path": "Одяг та взуття > Інше",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Одяг\" refers to tactical clothing items. In the reference tree the closest matching leaf category is \"Інше\" under the parent \"Одяг та взуття\", which serves as a generic catch‑all for clothing and footwear items. No more specific leaf exists for \"Одяг\" alone, so the best fit is the generic \"Інше\" category."
+  },
+  {
+    "source_id": "25302",
+    "source_name": "Навушники тактичні",
+    "source_path": "Тактичне екіпірування > Навушники тактичні",
+    "reference_id": "24342",
+    "reference_name": "Навушники",
+    "reference_path": "Спорядження > Навушники",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Навушники тактичні\" refers to tactical headphones, a specific type of headphones. In the reference tree the closest and most appropriate category is \"Навушники\" under \"Спорядження\", which encompasses all headphones, including tactical variants. No other reference category matches more specifically."
+  },
+  {
+    "source_id": "25304",
+    "source_name": "Туристичні меблі",
+    "source_path": "Туризм та Відпочинок > Туристичні меблі",
+    "reference_id": "24456",
+    "reference_name": "Стільці, крісла",
+    "reference_path": "Активний відпочинок, туризм та хобі > Стільці, крісла",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Туристичні меблі\" refers to furniture used in outdoor or travel settings, such as chairs, stools, tables, etc. In the reference tree, the closest category that covers outdoor furniture is \"Стільці, крісла\" (chairs, stools) under \"Активний відпочинок, туризм та хобі\". No other reference category directly matches the concept of tourist furniture, so this is the best semantic match."
+  },
+  {
+    "source_id": "25307",
+    "source_name": "Ліхтарі",
+    "source_path": "Туризм та Відпочинок > Ліхтарі",
+    "reference_id": "24336",
+    "reference_name": "Ручні та кишенькові ліхтарі",
+    "reference_path": "Ліхтарі > Ручні та кишенькові ліхтарі",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Ліхтарі\" refers to flashlights/lanterns in general. In the reference tree the most generic subcategory that covers handheld and pocket flashlights is \"Ліхтарі > Ручні та кишенькові ліхтарі\". This matches the product type without being overly specific."
+  }
+]

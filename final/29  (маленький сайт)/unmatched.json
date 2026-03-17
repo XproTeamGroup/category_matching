@@ -1,0 +1,14 @@
+[
+  {
+    "id": "25388",
+    "name": "Метео",
+    "path": "Різне > Метео",
+    "reasoning": "The leaf category \"Метео\" refers to meteorological equipment or weather‑related items (e.g., weather stations, sensors, instruments). None of the reference categories in the store list correspond to weather or meteorological products. The category is related to outdoor gear, but no specific reference leaf matches it."
+  },
+  {
+    "id": "25391",
+    "name": "Штативи",
+    "path": "Різне > Штативи",
+    "reasoning": "The leaf category \"Штативи\" refers to tripods or stands used for cameras, rifles, or other equipment. In the reference tree, there is no dedicated category for tripods or stands. The closest categories are various mounting accessories under \"Оптика > Кріплення\" (e.g., моноблоки, планки, бази, кільця, спеціальні посадкові місця), but these are not tripods themselves. Therefore, there is no exact or semantic match in the reference categories. The category is related to the overall tactical/outdoor domain but lacks a specific reference category, so it is considered out of scope for mapping."
+  }
+]

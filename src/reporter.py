@@ -57,6 +57,9 @@ def build_stats(
     if rejected_by_verify is not None:
         stats["rejected_by_verify"] = len(rejected_by_verify)
 
+    all_with_reasoning = list(matched) + list(unmatched) + list(out_of_scope or [])
+    stats["reasoning_count"] = sum(1 for m in all_with_reasoning if m.get("reasoning"))
+
     return stats
 
 
@@ -108,6 +111,36 @@ def save_all(
         with open(_path("verify_rejected.json"), "w", encoding="utf-8") as f:
             json.dump(rejected_by_verify, f, ensure_ascii=False, indent=2)
 
+    # reasoning.json — all ai_deep decisions (matched, unmatched, out_of_scope)
+    reasoning_entries = []
+    for m in matched:
+        if m.get("reasoning"):
+            reasoning_entries.append({
+                "source_path": m.get("source_path", m["source_name"]),
+                "result": "matched",
+                "reference_path": m["reference_path"],
+                "reasoning": m["reasoning"],
+            })
+    for src in (unmatched or []):
+        if src.get("reasoning"):
+            reasoning_entries.append({
+                "source_path": src.get("source_path") or src.get("path") or src.get("source_name") or src.get("name", ""),
+                "result": "unmatched",
+                "reference_path": None,
+                "reasoning": src["reasoning"],
+            })
+    for src in (out_of_scope or []):
+        if src.get("reasoning"):
+            reasoning_entries.append({
+                "source_path": src.get("path", src["name"]),
+                "result": "out_of_scope",
+                "reference_path": None,
+                "reasoning": src["reasoning"],
+            })
+    if reasoning_entries:
+        with open(_path("reasoning.json"), "w", encoding="utf-8") as f:
+            json.dump(reasoning_entries, f, ensure_ascii=False, indent=2)
+
     # stats.json
     with open(_path("stats.json"), "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
@@ -144,5 +177,7 @@ def print_stats(stats: dict[str, Any]) -> None:
         print("    out_of_scope.json    — поза доменом reference")
     if "rejected_by_verify" in stats:
         print("    verify_rejected.json — відхилені верифікацією (для ручного перегляду)")
+    if stats.get("reasoning_count", 0) > 0:
+        print(f"    reasoning.json    — обґрунтування AI ({stats['reasoning_count']} записів)")
     print("    stats.json        — статистика")
     print("=" * 55)

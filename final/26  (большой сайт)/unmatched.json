@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25155",
+    "name": "РЕБ на авто",
+    "path": "РЕБ > РЕБ на авто",
+    "reasoning": "The source category refers to electronic warfare equipment used on vehicles. In the reference tree the only electronic warfare category is \"Дрони та безпілотники > РЕБ\" (id 24448), which specifically concerns drones. No reference category covers vehicle‑based electronic warfare, so there is no exact match."
+  },
+  {
+    "id": "25156",
+    "name": "Окопний РЕБ",
+    "path": "РЕБ > Окопний РЕБ",
+    "reasoning": "The source category refers to field electronic warfare equipment. The reference list contains only a single R.E.B. category, which is specifically for drones and UAVs (\"Дрони та безпілотники > РЕБ\"). No other reference category covers field or ground-based electronic warfare gear. Therefore, there is no exact match in the reference tree. The domain is related (electronic warfare), but the specific subcategory is missing."
+  },
+  {
+    "id": "25157",
+    "name": "Портативний РЕБ",
+    "path": "РЕБ > Портативний РЕБ",
+    "reasoning": "The source category refers to portable electronic countermeasure devices. In the reference tree, the only category containing the term \"РЕБ\" is \"Дрони та безпілотники > РЕБ\" (id 24448), which specifically concerns countermeasures for drones. There is no separate reference category for portable R.E.B. devices, and the existing category does not semantically match the portable nature of the source. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "25158",
+    "name": "РЕБ рюкзак",
+    "path": "РЕБ > РЕБ рюкзак",
+    "reasoning": "The source category refers to a backpack designed for electronic warfare (РЕБ) equipment. In the reference tree, there is no specific leaf category for RЕБ backpacks. The closest categories are \"Дрони та безпілотники > РЕБ\" (RЕБ equipment for drones) and the generic \"Спорядження > Рюкзаки\". Since the source is a specialized RЕБ backpack, it does not fit any existing reference leaf category, but it is still within the broader domain of tactical gear. Therefore, we mark it as out_of_scope: false with no mapping."
+  }
+]

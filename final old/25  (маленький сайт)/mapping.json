@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "24983",
+    "source_name": "Тепловізійні монокуляри",
+    "reference_id": "24390",
+    "reference_name": "Монокуляри",
+    "reference_path": "Оптика > Прилади спостереження > Монокуляри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24984",
+    "source_name": "Тепловізійні бінокуляри",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "24986",
+    "source_name": "Аксесуари до тепловізорів",
+    "reference_id": "24370",
+    "reference_name": "Інше",
+    "reference_path": "Оптика > Аксесуари та комплектуючі > Інше",
+    "method": "ai",
+    "confidence": "medium"
+  }
+]

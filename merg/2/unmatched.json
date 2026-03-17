@@ -1,0 +1,549 @@
+[
+  {
+    "id": "25218",
+    "name": "RATTLER",
+    "path": "Тепловізійні приціли > Тепловізійні приціли AGM > RATTLER"
+  },
+  {
+    "id": "25219",
+    "name": "Rattler V2",
+    "path": "Тепловізійні приціли > Тепловізійні приціли AGM > Rattler V2"
+  },
+  {
+    "id": "25220",
+    "name": "Secutor",
+    "path": "Тепловізійні приціли > Тепловізійні приціли AGM > Secutor"
+  },
+  {
+    "id": "25221",
+    "name": "Adder",
+    "path": "Тепловізійні приціли > Тепловізійні приціли AGM > Adder"
+  },
+  {
+    "id": "25222",
+    "name": "Varmint",
+    "path": "Тепловізійні приціли > Тепловізійні приціли AGM > Varmint"
+  },
+  {
+    "id": "25223",
+    "name": "Ocelot",
+    "path": "Тепловізійні приціли > Тепловізійні приціли PARD > Ocelot"
+  },
+  {
+    "id": "25224",
+    "name": "DOT A series",
+    "path": "Тепловізійні приціли > Тепловізійні приціли Senopex > DOT A series"
+  },
+  {
+    "id": "25225",
+    "name": "REX A series",
+    "path": "Тепловізійні приціли > Тепловізійні приціли Senopex > REX A series"
+  },
+  {
+    "id": "25226",
+    "name": "REX S series",
+    "path": "Тепловізійні приціли > Тепловізійні приціли Senopex > REX S series"
+  },
+  {
+    "id": "25227",
+    "name": "DOT S series",
+    "path": "Тепловізійні приціли > Тепловізійні приціли Senopex > DOT S series"
+  },
+  {
+    "id": "25228",
+    "name": "MARS 4 на 384 матриці",
+    "path": "Тепловізійні приціли > Тепловізійні приціли MARS 4 > MARS 4 на 384 матриці"
+  },
+  {
+    "id": "25229",
+    "name": "MARS 4 на 640 матриці",
+    "path": "Тепловізійні приціли > Тепловізійні приціли MARS 4 > MARS 4 на 640 матриці"
+  },
+  {
+    "id": "25230",
+    "name": "MARS LTV",
+    "path": "Тепловізійні приціли > Тепловізійні приціли MARS 4 > MARS LTV"
+  },
+  {
+    "id": "25231",
+    "name": "MARS LT",
+    "path": "Тепловізійні приціли > Тепловізійні приціли MARS 4 > MARS LT"
+  },
+  {
+    "id": "25232",
+    "name": "Venator",
+    "path": "Тепловізійні приціли > Тепловізійні приціли DEDAL > Venator"
+  },
+  {
+    "id": "25233",
+    "name": "T1 Pro",
+    "path": "Тепловізійні приціли > Тепловізійні приціли DEDAL > T1 Pro"
+  },
+  {
+    "id": "25234",
+    "name": "T2 Hunter",
+    "path": "Тепловізійні приціли > Тепловізійні приціли DEDAL > T2 Hunter"
+  },
+  {
+    "id": "25235",
+    "name": "T4 Pro / Hunter",
+    "path": "Тепловізійні приціли > Тепловізійні приціли DEDAL > T4 Pro / Hunter"
+  },
+  {
+    "id": "25236",
+    "name": "LEGAT-3F",
+    "path": "Тепловізійні приціли > Тепловізійні приціли ELECTROOPTIC > LEGAT-3F"
+  },
+  {
+    "id": "25237",
+    "name": "LEGAT-6F",
+    "path": "Тепловізійні приціли > Тепловізійні приціли ELECTROOPTIC > LEGAT-6F"
+  },
+  {
+    "id": "25238",
+    "name": "FORTUNA GENERAL",
+    "path": "Тепловізійні приціли > Тепловізійні приціл FORTUNA > FORTUNA GENERAL"
+  },
+  {
+    "id": "25239",
+    "name": "FORTUNA ONE",
+    "path": "Тепловізійні приціли > Тепловізійні приціл FORTUNA > FORTUNA ONE"
+  },
+  {
+    "id": "25240",
+    "name": "NVECTech Defender",
+    "path": "Тепловізійні приціли > Тепловізійні приціл NVECTech > NVECTech Defender"
+  },
+  {
+    "source_id": "25005",
+    "source_name": "Телескопи",
+    "source_path": "Телескопи",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25009",
+    "source_name": "Тепловізори Rix",
+    "source_path": "Тепловізори > Тепловізори Rix",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25013",
+    "source_name": "Тепловізори ARMASIGHT",
+    "source_path": "Тепловізори > Тепловізори ARMASIGHT",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25014",
+    "source_name": "Тепловізори ATN OTS-HD",
+    "source_path": "Тепловізори > Тепловізори ATN OTS-HD",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25016",
+    "source_name": "Тепловізори Guide",
+    "source_path": "Тепловізори > Тепловізори Guide",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25017",
+    "source_name": "Тепловізори NVECTECH",
+    "source_path": "Тепловізори > Тепловізори NVECTECH",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25018",
+    "source_name": "Тепловізори ATN OTS",
+    "source_path": "Тепловізори > Тепловізори ATN OTS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25019",
+    "source_name": "Тепловізори ThermEye Cyclops",
+    "source_path": "Тепловізори > Тепловізори ThermEye Cyclops",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25020",
+    "source_name": "Тепловізори DAHUA",
+    "source_path": "Тепловізори > Тепловізори DAHUA",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25021",
+    "source_name": "Тепловізори DALI",
+    "source_path": "Тепловізори > Тепловізори DALI",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25022",
+    "source_name": "Тепловізори Lahoux",
+    "source_path": "Тепловізори > Тепловізори Lahoux",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25024",
+    "source_name": "Тепловізори Dipol",
+    "source_path": "Тепловізори > Тепловізори Dipol",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25025",
+    "source_name": "Тепловізори KONUS",
+    "source_path": "Тепловізори > Тепловізори KONUS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25026",
+    "source_name": "Тепловізори Seek Thermal",
+    "source_path": "Тепловізори > Тепловізори Seek Thermal",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25027",
+    "source_name": "Тепловізори Leupold",
+    "source_path": "Тепловізори > Тепловізори Leupold",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25028",
+    "source_name": "Тепловізори автомобільні Delta",
+    "source_path": "Тепловізори > Тепловізори автомобільні Delta",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25032",
+    "source_name": "Тепловізійні приціли Rix",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Rix",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25037",
+    "source_name": "Тепловізійні приціли DAHUA",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли DAHUA",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25038",
+    "source_name": "Тепловізійні приціли Falcon",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Falcon",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25040",
+    "source_name": "Тепловізійні приціли GUIDE",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли GUIDE",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25041",
+    "source_name": "Тепловізійні приціли Yukon",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Yukon",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25042",
+    "source_name": "Тепловізійні приціли ATN MARS 5",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли ATN MARS 5",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25044",
+    "source_name": "Тепловізійні приціли Delta",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли Delta",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25046",
+    "source_name": "ATN MARS-HD",
+    "source_path": "Тепловізійні приціли > ATN MARS-HD",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25173",
+    "source_name": "Інфрачервоні ліхтарі",
+    "source_path": "Аксесуари > Інфрачервоні ліхтарі",
+    "reference_id": "24363",
+    "reference_name": "Інше",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Інше",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25241",
+    "source_name": "NVECTech серія X",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціл NVECTech > NVECTech серія X",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25242",
+    "source_name": "NVECTech серія S",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціл NVECTech > NVECTech серія S",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25243",
+    "source_name": "NVECTech серія SCL",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціл NVECTech > NVECTech серія SCL",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25244",
+    "source_name": "FLIR RS",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли FLIR > FLIR RS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25245",
+    "source_name": "CHARON",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли IWT > CHARON",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25246",
+    "source_name": "DEMON",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли IWT > DEMON",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25247",
+    "source_name": "MUTANT",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли IWT > MUTANT",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25248",
+    "source_name": "SHEITAN MK2",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли IWT > SHEITAN MK2",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25249",
+    "source_name": "PREDATOR",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли ARMASIGHT > PREDATOR",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25250",
+    "source_name": "ZEUS",
+    "source_path": "Тепловізійні приціли > Тепловізійні приціли ARMASIGHT > ZEUS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25251",
+    "source_name": "Accolade",
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Pulsar Accolade > Accolade",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25252",
+    "source_name": "Accolade LRF",
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі Pulsar Accolade > Accolade LRF",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25253",
+    "source_name": "Тепловізійні біноклі AGM ObservIR",
+    "source_path": "Тепловізійні біноклі > Тепловізійні біноклі AGM > Тепловізійні біноклі AGM ObservIR",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25254",
+    "source_name": "X-Sight 4K Pro",
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення ATN > X-Sight 4K Pro",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25255",
+    "source_name": "X-Sight LTV",
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення ATN > X-Sight LTV",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25256",
+    "source_name": "X-Sight II HD",
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення ATN > X-Sight II HD",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25257",
+    "source_name": "Pulsar Digex",
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення Pulsar > Pulsar Digex",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25258",
+    "source_name": "Pulsar Digisight Ultra",
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення Pulsar > Pulsar Digisight Ultra",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25259",
+    "source_name": "Pulsar Digisight",
+    "source_path": "Приціли нічного бачення > Приціли нічного бачення Pulsar > Pulsar Digisight",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25260",
+    "source_name": "Yukon Sightline",
+    "source_path": "Приціли нічного бачення > Приціл нічного бачення Yukon > Yukon Sightline",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25261",
+    "source_name": "Yukon Photon RT",
+    "source_path": "Приціли нічного бачення > Приціл нічного бачення Yukon > Yukon Photon RT",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25262",
+    "source_name": "Yukon Photon XT",
+    "source_path": "Приціли нічного бачення > Приціл нічного бачення Yukon > Yukon Photon XT",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25263",
+    "source_name": "Yukon Sentinel",
+    "source_path": "Приціли нічного бачення > Приціл нічного бачення Yukon > Yukon Sentinel",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "confidence": "medium"
+  }
+]

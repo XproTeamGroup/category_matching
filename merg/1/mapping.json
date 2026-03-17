@@ -1,0 +1,607 @@
+[
+  {
+    "source_id": "24987",
+    "source_name": "Ретранслятори",
+    "reference_id": "24438",
+    "reference_name": "Ретранслятори",
+    "reference_path": "Зв'язок > Ретранслятори",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25002",
+    "source_name": "Рації",
+    "reference_id": "24437",
+    "reference_name": "Рації",
+    "reference_path": "Зв'язок > Рації",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25066",
+    "source_name": "Квадрокоптери AUTEL",
+    "reference_id": "24434",
+    "reference_name": "Квадрокоптери",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25069",
+    "source_name": "Антени",
+    "reference_id": "24436",
+    "reference_name": "Антени",
+    "reference_path": "Дрони та безпілотники > Антени",
+    "method": "exact",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25080",
+    "source_name": "Біноклі Konus",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25081",
+    "source_name": "Біноклі Olympus",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25082",
+    "source_name": "Біноклі Yukon",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25083",
+    "source_name": "Біноклі Nikon",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25084",
+    "source_name": "Біноклі Carl Zeiss",
+    "reference_id": "24387",
+    "reference_name": "Біноклі",
+    "reference_path": "Оптика > Прилади спостереження > Біноклі",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25170",
+    "source_name": "Кріплення AGM",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25264",
+    "source_name": "Кріплення INNOMOUNT",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25265",
+    "source_name": "Кріплення ATN Contessa",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25266",
+    "source_name": "Кріплення Pulsar",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25267",
+    "source_name": "Кріплення MAK",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25268",
+    "source_name": "Кріплення NVECTECH / IRAY",
+    "reference_id": "24362",
+    "reference_name": "Кріплення",
+    "reference_path": "Ліхтарі > Аксесуари для ліхтарів > Кріплення",
+    "method": "normalized",
+    "confidence": "high"
+  },
+  {
+    "source_id": "25064",
+    "source_name": "Dji Mavic 3",
+    "source_path": "Квадрокоптери > Dji Mavic 3",
+    "reference_id": "24434",
+    "reference_name": "Квадрокоптери",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25065",
+    "source_name": "FPV дрони",
+    "source_path": "Квадрокоптери > FPV дрони",
+    "reference_id": "24435",
+    "reference_name": "FPV",
+    "reference_path": "Дрони та безпілотники > FPV",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25067",
+    "source_name": "Квадрокоптеры DJI Matrice 4",
+    "source_path": "Квадрокоптери > Квадрокоптеры DJI Matrice 4",
+    "reference_id": "24434",
+    "reference_name": "Квадрокоптери",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25068",
+    "source_name": "Квадрокоптери з тепловізором",
+    "source_path": "Квадрокоптери > Квадрокоптери з тепловізором",
+    "reference_id": "24434",
+    "reference_name": "Квадрокоптери",
+    "reference_path": "Дрони та безпілотники > Квадрокоптери",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25079",
+    "source_name": "Старлінк на авто",
+    "source_path": "Starlink > Старлінк на авто",
+    "reference_id": "24440",
+    "reference_name": "Starlink",
+    "reference_path": "Зв'язок > Starlink",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25118",
+    "source_name": "Оптичні приціли Leupold",
+    "source_path": "Оптичні приціли > Оптичні приціли Leupold",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25119",
+    "source_name": "Оптичні приціли BURRIS",
+    "source_path": "Оптичні приціли > Оптичні приціли BURRIS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25120",
+    "source_name": "Оптичні приціли Vector Optics",
+    "source_path": "Оптичні приціли > Оптичні приціли Vector Optics",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25121",
+    "source_name": "Оптичні приціли HAKKO",
+    "source_path": "Оптичні приціли > Оптичні приціли HAKKO",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25122",
+    "source_name": "Оптичні приціли VEBER",
+    "source_path": "Оптичні приціли > Оптичні приціли VEBER",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25123",
+    "source_name": "Оптичні приціли Yukon",
+    "source_path": "Оптичні приціли > Оптичні приціли Yukon",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25124",
+    "source_name": "Оптичні приціли БелОМО",
+    "source_path": "Оптичні приціли > Оптичні приціли БелОМО",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25125",
+    "source_name": "Оптические прицелы Nikon",
+    "source_path": "Оптичні приціли > Оптические прицелы Nikon",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25126",
+    "source_name": "Оптичні приціли VORTEX",
+    "source_path": "Оптичні приціли > Оптичні приціли VORTEX",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25127",
+    "source_name": "Оптичні приціли Dedal",
+    "source_path": "Оптичні приціли > Оптичні приціли Dedal",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25128",
+    "source_name": "Оптичні приціли KONUS",
+    "source_path": "Оптичні приціли > Оптичні приціли KONUS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25129",
+    "source_name": "Оптичні приціли STURMAN",
+    "source_path": "Оптичні приціли > Оптичні приціли STURMAN",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25130",
+    "source_name": "Оптичні приціли BUSHNELL",
+    "source_path": "Оптичні приціли > Оптичні приціли BUSHNELL",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25131",
+    "source_name": "Оптичні приціли HAWKE",
+    "source_path": "Оптичні приціли > Оптичні приціли HAWKE",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25132",
+    "source_name": "Оптичні приціли ВОМЗ",
+    "source_path": "Оптичні приціли > Оптичні приціли ВОМЗ",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25133",
+    "source_name": "Оптичні приціли Leica",
+    "source_path": "Оптичні приціли > Оптичні приціли Leica",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25134",
+    "source_name": "Оптичні приціли Nightforce",
+    "source_path": "Оптичні приціли > Оптичні приціли Nightforce",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25135",
+    "source_name": "Оптичні приціли NIKKO STIRLING",
+    "source_path": "Оптичні приціли > Оптичні приціли NIKKO STIRLING",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25136",
+    "source_name": "Оптичні приціли SIGHTRON",
+    "source_path": "Оптичні приціли > Оптичні приціли SIGHTRON",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25137",
+    "source_name": "Оптичні приціли BSA-OPTICS",
+    "source_path": "Оптичні приціли > Оптичні приціли BSA-OPTICS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25138",
+    "source_name": "Оптичні приціли LEAPERS",
+    "source_path": "Оптичні приціли > Оптичні приціли LEAPERS",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25139",
+    "source_name": "Оптичні приціли SCHMIDT & BENDER",
+    "source_path": "Оптичні приціли > Оптичні приціли SCHMIDT & BENDER",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25140",
+    "source_name": "Оптичні приціли SWAROVSKI",
+    "source_path": "Оптичні приціли > Оптичні приціли SWAROVSKI",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25141",
+    "source_name": "Коліматорні приціли Hakko",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Hakko",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25142",
+    "source_name": "Коліматорні приціли Leupold",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Leupold",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25143",
+    "source_name": "Коліматорні приціли ВОМЗ Пілад",
+    "source_path": "Коліматорні приціли > Коліматорні приціли ВОМЗ Пілад",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25144",
+    "source_name": "Коліматорні приціли Zenit",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Zenit",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25145",
+    "source_name": "Коліматорний приціл EOTech",
+    "source_path": "Коліматорні приціли > Коліматорний приціл EOTech",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25146",
+    "source_name": "Коліматорні приціли Burris",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Burris",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25147",
+    "source_name": "Коліматорні приціли Aimpoint",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Aimpoint",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25148",
+    "source_name": "Коліматорні приціли Sightmark",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Sightmark",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25149",
+    "source_name": "Коліматорні приціли БелОМО",
+    "source_path": "Коліматорні приціли > Коліматорні приціли БелОМО",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25150",
+    "source_name": "Коліматорні приціли Holosun",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Holosun",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25151",
+    "source_name": "Коліматорні приціли Konus",
+    "source_path": "Коліматорні приціли > Коліматорні приціли Konus",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25152",
+    "source_name": "Коліматорні приціли STURMAN",
+    "source_path": "Коліматорні приціли > Коліматорні приціли STURMAN",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25153",
+    "source_name": "Коліматорні приціли BUSHNELL",
+    "source_path": "Коліматорні приціли > Коліматорні приціли BUSHNELL",
+    "reference_id": "24391",
+    "reference_name": "Коліматорні",
+    "reference_path": "Оптика > Приціли > Коліматорні",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25164",
+    "source_name": "Лазерні далекоміри Leupold",
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Leupold",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25165",
+    "source_name": "Лазерні далекоміри Opti-Logic",
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Opti-Logic",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25166",
+    "source_name": "Лазерні далекоміри Sturman",
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Sturman",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25167",
+    "source_name": "Лазерні далекоміри Carl Zeiss",
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Carl Zeiss",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25168",
+    "source_name": "Лазерні далекоміри Hawke",
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Hawke",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "25169",
+    "source_name": "Лазерні далекоміри Veber",
+    "source_path": "Лазерні далекоміри > Лазерні далекоміри Veber",
+    "reference_id": "24329",
+    "reference_name": "Далекоміри",
+    "reference_path": "Оптика > Далекоміри",
+    "method": "ai",
+    "confidence": "medium"
+  }
+]

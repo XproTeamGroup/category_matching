@@ -1,0 +1,38 @@
+[
+  {
+    "id": "25372",
+    "name": "Цифрові камери для телескопів",
+    "path": "Астрономія > Цифрові камери для телескопів",
+    "reasoning": "The reference taxonomy contains categories for weapons, tactical gear, outdoor equipment, drones, optics (e.g., binoculars, scopes, thermal imaging), and related accessories, but it does not include any category for astronomy equipment such as telescopes or digital cameras used with telescopes. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "25373",
+    "name": "Кишенькові",
+    "path": "Мікроскопи > Кишенькові",
+    "reasoning": "The leaf category \"Кишенькові\" under the parent \"Мікроскопи\" refers to pocket‑sized microscopes. The reference catalogue contains no specific category for microscopes or pocket optical devices. The closest optical categories are for telescopes, sights, or night‑vision devices, none of which semantically match a pocket microscope. Therefore no suitable reference category exists."
+  },
+  {
+    "id": "25374",
+    "name": "Біологічні",
+    "path": "Мікроскопи > Біологічні",
+    "reasoning": "The source leaf category \"Біологічні\" refers to biological microscopes, a type of scientific instrument. The reference list contains categories related to weapons, optics, tactical gear, and outdoor equipment, but it does not include any category for microscopes or scientific instruments. Therefore there is no suitable reference category to map to."
+  },
+  {
+    "id": "25375",
+    "name": "Стерео",
+    "path": "Мікроскопи > Стерео",
+    "reasoning": "The leaf \"Стерео\" under the parent \"Мікроскопи\" indicates a category for stereo microscopes (optical devices). The reference catalogue contains no microscope or related optical subcategories, and the domain of microscopes is not covered by the existing weapon, tactical, or outdoor equipment categories. Therefore, there is no suitable reference match."
+  },
+  {
+    "id": "25378",
+    "name": "Мікропрепарати",
+    "path": "Мікроскопи > Мікропрепарати",
+    "reasoning": "The source leaf \"Мікропрепарати\" refers to microscope slides or preparations used in microscopy. The reference catalogue contains only categories related to weapons, tactical gear, and general optics for firearms (scopes, binoculars, night vision, etc.). No reference category explicitly covers microscope slides or laboratory microscopy accessories. The closest generic optics accessory category is \"Оптика > Аксесуари та комплектуючі > Інше\", but that is too broad and not specific to microscopy. Given the domain mismatch, the item is considered out of scope."
+  },
+  {
+    "id": "25380",
+    "name": "Цифрові камери",
+    "path": "Мікроскопи > Цифрові камери",
+    "reasoning": "The source leaf category \"Цифрові камери\" (digital cameras) does not correspond to any existing leaf category in the reference tree. None of the reference categories cover consumer or scientific cameras; the closest domains (optics, drones, communication, lighting) are not appropriate matches for digital cameras. Therefore the category is out of scope."
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "25293",
+    "source_name": "Б/У оптика",
+    "source_path": "Б/У зброя та аксесуари > Б/У оптика",
+    "reference_id": "24392",
+    "reference_name": "Оптичні",
+    "reference_path": "Оптика > Приціли > Оптичні",
+    "method": "verify_rejected",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Б/У оптика\" refers to used optical equipment such as scopes, binoculars, night‑vision devices, and thermal scopes. In the reference tree the most comprehensive optical category is \"Оптика > Приціли > Оптичні\" (id 24392), which covers optical scopes and related devices. No single reference leaf covers all types of optics, but this category is the closest generic match for used optics."
+  },
+  {
+    "source_id": "25308",
+    "source_name": "Холодильники та термоси",
+    "source_path": "Туризм та Відпочинок > Холодильники та термоси",
+    "reference_id": "24453",
+    "reference_name": "Термоса и термочашки",
+    "reference_path": "Активний відпочинок, туризм та хобі > Термоса и термочашки",
+    "method": "verify_rejected",
+    "confidence": "high",
+    "reasoning": "The source leaf contains thermoses and refrigerators. The reference tree has a category for thermoses – \"Термоса и термочашки\" – which is the closest match. No reference category covers refrigerators, but the overall domain (camping and outdoor gear) is present, so the mapping is valid and not out of scope."
+  },
+  {
+    "source_id": "25311",
+    "source_name": "Балони та пальники газові",
+    "source_path": "Туризм та Відпочинок > Балони та пальники газові",
+    "reference_id": "24460",
+    "reference_name": "Газові пальники та плити",
+    "reference_path": "Активний відпочинок, туризм та хобі > Газові пальники та плити",
+    "method": "verify_rejected",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Балони та пальники газові\" refers to gas balloons and burners used in outdoor activities. The closest matching reference category is \"Активний відпочинок, туризм та хобі > Газові пальники та плити\", which covers gas burners and stoves for camping and outdoor use. No other reference category more specifically matches gas balloons, so this is the best semantic fit."
+  }
+]
