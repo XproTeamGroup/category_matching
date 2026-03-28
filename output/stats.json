@@ -1,0 +1,14 @@
+{
+  "total_source": 451,
+  "matched": 270,
+  "unmatched": 44,
+  "match_rate_percent": 59.9,
+  "by_method": {
+    "exact": 46,
+    "ai_deep": 224
+  },
+  "out_of_scope": 137,
+  "matchable_total": 314,
+  "match_rate_of_matchable_percent": 86.0,
+  "reasoning_count": 403
+}

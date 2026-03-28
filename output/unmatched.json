@@ -1,0 +1,264 @@
+[
+  {
+    "id": "25413",
+    "name": "Болтові",
+    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Болтові",
+    "reasoning": "The leaf \"Болтові\" denotes bolt‑action rifles (a subcategory of rifles and carbines). The reference tree contains categories for firearms, but none for rifles, carbines, or bolt‑action firearms. Therefore there is no suitable reference category to map to."
+  },
+  {
+    "id": "25415",
+    "name": "Напівавтоматичні",
+    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Напівавтоматичні",
+    "reasoning": "The source leaf \"Напівавтоматичні\" refers to semi‑automatic rifles and carbines, a subcategory of firearms. The reference tree contains no category for rifles, carbines, or semi‑automatic firearms. The closest reference entries involve pneumatic rifles or handguns, which are not semantically equivalent. Therefore no suitable reference category exists, but the domain (firearms) is still related, so the item is out of scope for the current reference set."
+  },
+  {
+    "id": "25416",
+    "name": "Однозарядні",
+    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Однозарядні",
+    "reasoning": "The leaf category \"Однозарядні\" denotes single‑shot rifles or carbines. In the reference taxonomy there is no category for single‑shot firearms or for \"Гвинтівки та карабіни\". The closest reference categories are for pневматичні (air) rifles or revolvers, which are not equivalent. Therefore no exact or semantic match exists within the reference tree."
+  },
+  {
+    "id": "25417",
+    "name": "Штуцери",
+    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Штуцери",
+    "reasoning": "\"Штуцери\" is Ukrainian for sub‑machine guns. The reference catalogue does not contain a dedicated category for sub‑machine guns or for the broader class of \"Гвинтівки та карабіни\". The closest firearm category in the reference is \"Пістолети та револьвери\", but that does not cover sub‑machine guns. Therefore no exact or semantic match exists."
+  },
+  {
+    "id": "25420",
+    "name": "Стволи",
+    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Основні частини > Стволи",
+    "reasoning": "The source leaf category \"Стволи\" refers to firearm barrels, a component of firearms. The reference tree contains no explicit category for barrels or firearm components. The closest related categories are under \"Зброя > Пневматична зброя > Пневматичні гвинтівки\", but those are specific to air rifle types, not barrels in general. Therefore, there is no suitable leaf category in the reference set that matches \"Стволи\". The category is within the same domain (firearms) but lacks a direct reference counterpart."
+  },
+  {
+    "id": "25423",
+    "name": "Комбінована зброя",
+    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Рушниці > Комбінована зброя",
+    "reasoning": "The leaf category \"Комбінована зброя\" refers to combination weapons (e.g., a rifle combined with a pistol). The reference tree contains categories for firearms such as pistols, revolvers, and various types of rifles, but it does not include a specific category for combination weapons or for \"Рушниці\" (rifles). Therefore, there is no exact or near‑exact match in the reference list. The category is still within the firearms domain, but no specific reference category covers it."
+  },
+  {
+    "id": "25430",
+    "name": "Ручки та явари",
+    "path": "ІБІС Зброя > Зброя > Засоби самозахисту > Ручки та явари",
+    "reasoning": "The leaf category \"Ручки та явари\" refers to pistols and revolvers (handguns). In the reference tree, there is no leaf category that directly represents pistols and revolvers themselves; the only pistol/revolver related leaf categories are subcategories for accessories (e.g., magazines, other components). Therefore no suitable leaf match exists."
+  },
+  {
+    "id": "25449",
+    "name": "Матеріали для виробництва стріл",
+    "path": "ІБІС Зброя > Зброя > Метальна зброя > Стріли та кульки > Матеріали для виробництва стріл",
+    "reasoning": "The leaf category refers to materials used for making arrows (shaft, fletching, arrowheads, etc.). The reference catalog does not contain a specific category for arrow components or archery supplies; the closest related domain is ammunition under \"Набої\", but arrows are not ammunition. Therefore no exact or functional match exists."
+  },
+  {
+    "id": "25450",
+    "name": "Стріли для арбалетів",
+    "path": "ІБІС Зброя > Зброя > Метальна зброя > Стріли та кульки > Стріли для арбалетів",
+    "reasoning": "\"Стріли для арбалетів\" refers to crossbow bolts (ammunition for crossbows). The reference catalog contains ammunition categories for firearms and flobers, but no specific category for crossbow bolts or similar. Therefore there is no exact or semantic match in the reference tree. The domain is still weapons, but the specific product type is not represented."
+  },
+  {
+    "id": "25463",
+    "name": "Штативи",
+    "path": "ІБІС Зброя > Зброя > Оптика та приціли > Комплектуючі до оптики > Штативи",
+    "reasoning": "The leaf category \"Штативи\" refers to tripods or stands used with optics or firearms. In the reference tree, there is no explicit category for tripods. The closest related categories are under \"Оптика > Кріплення\" (bases, monoblocks, plates, etc.), but these describe mounting components rather than full tripods. Therefore, no exact or near‑exact match exists in the reference list. The domain (weapons and optics) is related, but the specific category is missing."
+  },
+  {
+    "id": "25474",
+    "name": "Механічні",
+    "path": "ІБІС Зброя > Зброя > Оптика та приціли > Приціли > Механічні",
+    "reasoning": "The leaf category \"Механічні\" refers to mechanical sights (iron sights) used on firearms. In the reference hierarchy, there is no explicit category for mechanical sights; the closest related categories are \"Оптика > Приціли > Коліматорні\" and \"Оптика > Приціли > Оптичні\", both of which describe optical sight types. Since mechanical sights are not represented in the reference tree, there is no suitable specific match."
+  },
+  {
+    "id": "25491",
+    "name": "Порох",
+    "path": "ІБІС Зброя > Зброя > Патрони > Релоадінг > Порох",
+    "reasoning": "The leaf category \"Порох\" refers to gunpowder used in reloading. In the reference tree there is no dedicated category for powder itself; the closest categories are for reloading accessories such as powder dispensers or powder funnels. Since the reference list does not contain a specific category for powder, we cannot map it to an existing id. The domain is related (reloading), but no exact match exists."
+  },
+  {
+    "id": "25495",
+    "name": "Інші комплектуючі до пневматичної зброї",
+    "path": "ІБІС Зброя > Зброя > Пневматична зброя > Комплектуючі до пневматичної зброї > Інші комплектуючі до пневматичної зброї",
+    "reasoning": "The source leaf \"Інші комплектуючі до пневматичної зброї\" refers to miscellaneous accessories for pneumatic weapons that are not covered by the specific sub‑categories in the reference tree (e.g., magazines, CO₂ cylinders, or RSR accessories). The reference list contains only specific accessory categories under \"Зброя > Пневматична зброя > Аксесуари та комплектуючі\" and does not include a generic \"Other accessories\" leaf. Therefore, there is no exact or near‑exact match in the reference hierarchy. The category is related to the same domain (pneumatic weapons accessories) but lacks a dedicated reference leaf, so it is considered out of scope for a precise mapping."
+  },
+  {
+    "id": "25507",
+    "name": "Кульки для страйкбольної зброї",
+    "path": "ІБІС Зброя > Зброя > Пневматична зброя > Пневматичні набої та балони > Кульки для страйкбольної зброї",
+    "reasoning": "The leaf category \"Кульки для страйкбольної зброї\" refers to paintballs used in paintball guns. The reference catalogue contains ammunition categories such as \"Набої > Набої Флобера\" (Flobert ammo) and other cold‑weapon or shell ammo, but it does not include a dedicated paintball ammo category. Therefore there is no exact or near‑exact match in the reference tree. Paintballs belong to the ammunition domain, which is related to the reference categories, but no specific reference category covers them."
+  },
+  {
+    "id": "25521",
+    "name": "Механічні приціли для пістолетів",
+    "path": "ІБІС Зброя > Зброя > Пістолети та револьвери > Прицільні пристосування для пістолетів > Механічні приціли для пістолетів",
+    "reasoning": "The source category refers to mechanical sights for pistols, a type of firearm accessory. In the reference tree, the closest related categories are under \"Оптика > Приціли\" (optical sights, collimator sights, and night‑vision sights). None of these subcategories explicitly cover non‑optical mechanical sights, and there is no separate leaf category for such sights. Therefore, no exact or near‑exact match exists in the reference list. The category belongs to the same general domain (firearm accessories) but is not represented by a specific reference category."
+  },
+  {
+    "id": "25525",
+    "name": "Спортивна зброя",
+    "path": "ІБІС Зброя > Зброя > Пістолети та револьвери > Спортивна зброя",
+    "reasoning": "The source leaf \"Спортивна зброя\" refers to sporting firearms (pistols and revolvers used for target shooting). The reference catalogue contains no leaf category that directly represents sporting firearms; it only lists accessory subcategories under \"Пістолети та револьвери\" and other firearm-related categories. Therefore there is no exact or semantic match in the reference tree. The category is related to firearms but not covered by any specific reference leaf, so it is considered out of scope for mapping."
+  },
+  {
+    "id": "25544",
+    "name": "Хронографи",
+    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Електронне устаткування > Хронографи",
+    "reasoning": "The leaf category \"Хронографи\" refers to chronographs – electronic devices used to measure bullet velocity and time of flight. The reference catalogue does not contain a dedicated category for chronographs. The closest related categories are under \"Оптика > Приціли > Оптичні\" or \"Оптика > Приціли > Приціли\", but chronographs are not optical sights. Therefore no exact match exists in the reference tree."
+  },
+  {
+    "id": "25549",
+    "name": "Стендові тарілки",
+    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Засоби для стрільби > Стендові тарілки",
+    "reasoning": "Стендові тарілки – це тарілки, що використовуються як цілі на стрільбових полях. У наданому списку референсних категорій немає жодної, що безпосередньо охоплює цілі або тарілки для стрільби. Найближчі категорії – це «Набої» (порушують предмет), «Оптика» (не пов’язана з тарілками) або «Тюнінг» (не охоплює цілі). Тому жодна конкретна категорія не підходить, хоча предмет належить до сфери стрільби."
+  },
+  {
+    "id": "25550",
+    "name": "Стрілецькі мати",
+    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Засоби для стрільби > Стрілецькі мати",
+    "reasoning": "The leaf category \"Стрілецькі мати\" refers to shooting stands or platforms used in target shooting. None of the reference categories directly correspond to this type of equipment. The closest related domains in the reference tree are \"Зброя\" and \"Спорядження\", but there is no specific subcategory for shooting stands. Therefore, no suitable match exists."
+  },
+  {
+    "id": "25556",
+    "name": "Вабці та комплектуючі",
+    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Мисливські аксесуари > Вабці та комплектуючі",
+    "reasoning": "The leaf category \"Вабці та комплектуючі\" refers to hunting decoys (вабки) and related accessories. None of the reference categories explicitly cover decoys or hunting‑specific accessories. The closest broad categories (e.g., \"Оптика\", \"Спорядження\", \"Аксесуари\") are too generic and do not match the specific product type. Therefore, there is no suitable reference category for this leaf."
+  },
+  {
+    "id": "25614",
+    "name": "Підствольні",
+    "path": "ІБІС Риболовля > Ножі та ліхтарі > Ліхтарі > Підствольні",
+    "reasoning": "The leaf category \"Підствольні\" refers to under‑barrel attachments for firearms (e.g., under‑barrel grenade launchers, foregrips, bipods, etc.). None of the reference categories explicitly cover this type of firearm accessory. The closest reference categories are related to AR platform mounts or general firearm tuning, but they do not match the specific concept of under‑barrel attachments. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "25617",
+    "name": "Бритви",
+    "path": "ІБІС Риболовля > Ножі та ліхтарі > Ножі та комплектуючі > Бритви",
+    "reasoning": "\"Бритви\" – це леза для брів/шкіри, що належать до категорії інструментів для різання. У референс‑дереві немає окремої підкатегорії для бритв, але існує загальна категорія \"Ножі та інструменти > Аксесуари та комплектуючі > Інше\", яка охоплює різні інструменти та аксесуари, що не підпадають під інші підкатегорії. Тому найкращим відповідником є саме ця категорія."
+  },
+  {
+    "id": "25631",
+    "name": "Інші аксесуари",
+    "path": "ІБІС Риболовля > Одяг та взуття > Аксесуари > Інші аксесуари",
+    "reasoning": "The leaf category \"Інші аксесуари\" refers to miscellaneous accessories for fishing gear (e.g., fishing line holders, tackle boxes, etc.). The reference taxonomy contains categories for weapons, tactical gear, and outdoor equipment, but none of the leaf categories explicitly cover fishing accessories. The closest generic categories (e.g., \"Аксесуари > Коробки\", \"Аксесуари > Мішені\") are specific to firearms and do not semantically match fishing gear. Therefore, there is no suitable reference match."
+  },
+  {
+    "id": "25651",
+    "name": "Розвантажувальні та бронежилети",
+    "path": "ІБІС Риболовля > Одяг та взуття > Екіпірування > Розвантажувальні та бронежилети",
+    "reasoning": "The leaf category \"Розвантажувальні та бронежилети\" refers to body armor and protective gear. None of the reference categories explicitly cover body armor or protective gear. The closest related domain is tactical gear under \"Спорядження\", but no specific reference category matches. Therefore, no direct mapping exists."
+  },
+  {
+    "id": "25715",
+    "name": "Петлев'язи",
+    "path": "ІБІС Риболовля > Рибальство > Інструмент > Петлев'язи"
+  },
+  {
+    "id": "25729",
+    "name": "Карабіни та застібки",
+    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Карабіни та застібки",
+    "reasoning": "The leaf category \"Карабіни та застібки\" refers to carabiners and fasteners used in fishing gear. None of the reference categories explicitly cover carabiners or general fasteners. The closest related category in the reference tree would be \"Спорядження > Кобури та сумки\", but that category is for pouches and bags, not for fasteners. Therefore there is no suitable match."
+  },
+  {
+    "id": "25737",
+    "name": "Поплавці",
+    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Поплавці",
+    "reasoning": "The leaf category \"Поплавці\" refers to fishing floats (bobbers). None of the reference categories explicitly cover fishing equipment or floats. The closest broader domain is \"Активний відпочинок, туризм та хобі\", but there is no specific subcategory for fishing gear. Therefore, no suitable match exists in the reference tree."
+  },
+  {
+    "id": "25756",
+    "name": "Зимові",
+    "path": "ІБІС Риболовля > Рибальство > Вудилища > Зимові",
+    "reasoning": "The leaf name \"Зимові\" (Ukrainian for \"Winter\") indicates a subcategory of fishing rods used in winter fishing. The reference taxonomy contains no fishing‑related categories such as \"Вудилища\", \"Риболовля\" or any subcategory that would logically hold winter fishing rods. Since fishing equipment is a related outdoor domain but not represented in the reference tree, we cannot map it to an existing id. Therefore the category is out of scope for the current reference set, but still within the broader outdoor equipment domain."
+  },
+  {
+    "id": "25786",
+    "name": "Род-поди",
+    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Род-поди",
+    "reasoning": "The leaf category \"Род-поди\" refers to fishing rod holders or stands used in angling. The reference taxonomy contains no specific category for fishing gear or rod supports. While fishing equipment falls under the broader outdoor domain, the available reference categories are limited to weapons, tactical gear, and general outdoor items such as tents, sleeping bags, and camping tools, none of which directly match rod holders. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "25793",
+    "name": "Ваги",
+    "path": "ІБІС Риболовля > Рибальство > Піклування про рибу > Ваги",
+    "reasoning": "The leaf category \"Ваги\" refers to fishing scales used for weighing fish. None of the reference categories contain a direct match for scales or weighing equipment. The closest related domain in the reference tree is outdoor equipment, but no specific category for scales exists. Therefore, no suitable reference category can be assigned."
+  },
+  {
+    "id": "25796",
+    "name": "Кукани",
+    "path": "ІБІС Риболовля > Рибальство > Садки та підсаки > Кукани",
+    "reasoning": "The Ukrainian term \"Кукани\" refers to fishing lures or artificial baits used in angling. The reference category list contains no specific category for fishing gear, bait, or lures. While fishing is an outdoor activity, the reference tree does not provide a matching leaf category for this domain. Therefore, there is no suitable reference match, but the domain is related to outdoor equipment, so it is not completely unrelated."
+  },
+  {
+    "id": "25816",
+    "name": "Атрактанти та ліквіди",
+    "path": "ІБІС Риболовля > Рибальство > Харчування > Атрактанти та ліквіди",
+    "reasoning": "The leaf category \"Атрактанти та ліквіди\" refers to fish attractants and related liquids used in fishing. The reference catalogue contains no specific category for fishing lures, bait, or fishing chemicals. The closest broad domain is \"Активний відпочинок, туризм та хобі\", which covers outdoor activities including fishing, but none of its sub‑categories match the nature of attractants. Therefore there is no suitable specific match, but the domain is related to outdoor/hobby activities, so it is not entirely out of scope."
+  },
+  {
+    "id": "25826",
+    "name": "Спреї",
+    "path": "ІБІС Риболовля > Рибальство > Харчування > Спреї",
+    "reasoning": "The leaf category \"Спреї\" refers to sprays used in fishing (e.g., fish attractants, insect repellents, bait sprays). The reference taxonomy does not contain a dedicated category for fishing sprays or bait products. The closest broad category would be \"Активний відпочинок, туризм та хобі > Спортивні товари\", but that is too generic and does not specifically match the product type. Therefore no exact or near‑exact match exists."
+  },
+  {
+    "id": "25831",
+    "name": "Ехолоти",
+    "path": "ІБІС Риболовля > Рибальство > Човни та аксесуари > Ехолоти",
+    "reasoning": "\"Ехолоти\" is a Ukrainian term for fishing rods (fishing lines). The reference category list contains no specific category for fishing equipment or rods. The closest broad category would be \"Активний відпочинок, туризм та хобі > Спортивні товари\", but that is too generic and does not explicitly cover fishing rods. Therefore there is no suitable match in the reference tree."
+  },
+  {
+    "id": "25844",
+    "name": "Закладні",
+    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Закладні"
+  },
+  {
+    "id": "25845",
+    "name": "Карабіни",
+    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Карабіни",
+    "reasoning": "Карабіни – це спеціалізоване альпінізм/підйомне обладнання, яке не представлено у списку референтних категорій. Найближчі схожі назви – «Кріплення» у підкатегорі «Оптика» або «AR Платформа», але вони стосуються оптичного/AR обладнання, а не альпінізму. Тому жодна референтна категорія не відповідає цій назві."
+  },
+  {
+    "id": "25865",
+    "name": "Подушки",
+    "path": "ІБІС Риболовля > Спорядження > Бівак > Подушки",
+    "reasoning": "The leaf category \"Подушки\" refers to pillows used in fishing or camping gear. The reference taxonomy does not contain a dedicated pillow category. The closest related category is \"Спальні мішки\" (sleeping bags) under \"Активний відпочинок, туризм та хобі\", but it does not represent pillows. Therefore no exact match exists, but the domain is still outdoor/camping equipment, so it is related but not covered."
+  },
+  {
+    "id": "25875",
+    "name": "Туристичні килимки",
+    "path": "ІБІС Риболовля > Спорядження > Бівак > Туристичні килимки",
+    "reasoning": "Туристичні килимки – це підкладки/підстилки, що використовуються під спальні мішки або для сидіння під час походів. У наданому списку референсних категорій немає жодної, що безпосередньо відповідає \"килимкам\" або \"підстилкам\". Найближчі категорії – \"Спальні мішки\" (засоби для сну) або \"Термосумки, термобокси\" (засоби для зберігання), але вони не охоплюють функцію підкладки. Тому жодна конкретна референсна категорія не підходить, хоча предмет належить до того ж загального домену активного відпочинку та туризму."
+  },
+  {
+    "id": "25884",
+    "name": "Парасольки",
+    "path": "ІБІС Риболовля > Спорядження > Додатковий інвентар > Парасольки",
+    "reasoning": "Парасольки – це невеликі парасолі/захисні навісні, що використовуються в риболовлі для захисту від сонця чи дощу. У наданому списку категорій немає жодної, що відповідає цьому типу товару (наприклад, «Парасольки», «Захисні навісні» тощо). Найближчі категорії – «Намети» або «Спортивні товари», але вони не охоплюють саме парасолі. Тому жодна конкретна категорія не підходить."
+  },
+  {
+    "id": "25897",
+    "name": "Аптечки",
+    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Аптечки",
+    "reasoning": "The leaf category \"Аптечки\" refers to first‑aid kits, a type of survival gear. The reference catalogue contains no explicit category for first‑aid kits or general medical supplies. The closest related domains are \"Активний відпочинок, туризм та хобі\" (which includes food for survival and personal protection gear) and \"Спорядження\" (which lists various tactical gear). However, none of the reference leaf categories match the specific product type of first‑aid kits. Therefore no suitable reference category exists."
+  },
+  {
+    "id": "25904",
+    "name": "Фільтри для води",
+    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Питне спорядження > Фільтри для води",
+    "reasoning": "The source leaf \"Фільтри для води\" refers to water purification filters used in survival and outdoor gear. In the reference tree, there is no specific category for water filters or water purification equipment. The closest broad categories are \"Активний відпочинок, туризм та хобі > Спортивні товари\" or \"Посуд\", but these are too generic and do not semantically match the product type. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "25905",
+    "name": "Термоковдри",
+    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Термоковдри",
+    "reasoning": "Термоковдри – це термальні ковдри, що використовуються в засобах виживання. У наданому списку референсних категорій немає жодної, що безпосередньо відповідає термальним ковдрам. Найближчою тематичною категорією є \"Термосумки, термобокси\", але це контейнери, а не ковдри. Тому жодна конкретна категорія не підходить, хоча предмети належать до того ж загального домену активного відпочинку та туризму."
+  },
+  {
+    "id": "25919",
+    "name": "Акумулятори холоду",
+    "path": "ІБІС Риболовля > Спорядження > Кухня та посуд > Термопродукція > Акумулятори холоду",
+    "reasoning": "\"Акумулятори холоду\" – це холодні пакети/пакети із льодом, що використовуються для зберігання риби чи інших продуктів під час риболовлі. У наданому списку референсних категорій немає прямого відповідника для холодних пакетів. Найближчі категорії – \"Термосумки, термобокси\" або \"Термоса и термочашки\", але вони описують контейнери, а не самі холодні пакети. Тому жодна категорія не відповідає точно, хоча предмет належить до сфери активного відпочинку/туризму, що є суміжною галуззю."
+  },
+  {
+    "id": "25920",
+    "name": "Термокухлі",
+    "path": "ІБІС Риболовля > Спорядження > Кухня та посуд > Термопродукція > Термокухлі",
+    "reasoning": "Термокухлі – це портативні термальні кухонні посуд, що використовуються під час активного відпочинку та туризму. У наданому списку посилань немає категорії, що точно відповідає термальним кухонним посудам. Найближчими є \"Термосумки, термобокси\" (24454) та \"Термоса и термочашки\" (24453), що стосуються контейнерів для зберігання їжі, а не самих кухонних посуд. Тому конкретного відповідника немає, але категорія належить до того ж домену активного відпочинку, тому це не повністю поза сферою."
+  }
+]
