@@ -93,6 +93,13 @@ def filter_unmatched(categories: list[dict]) -> tuple[list[dict], int]:
 
 def print_tree_stats(categories: list[dict], label: str) -> None:
     total = len(categories)
-    leaves = sum(1 for c in categories if str(c.get("final", "0")) == "1")
     roots = sum(1 for c in categories if c.get("parent_id") is None)
-    print(f"[{label}] total={total}, leaves={leaves}, roots={roots}, non-leaves={total - leaves}")
+    leaves_by_final = sum(1 for c in categories if str(c.get("final", "0")) == "1")
+    if leaves_by_final:
+        leaves = leaves_by_final
+        method = "final"
+    else:
+        parent_ids = {str(c["parent_id"]) for c in categories if c.get("parent_id") is not None}
+        leaves = sum(1 for c in categories if str(c["id"]) not in parent_ids)
+        method = "no-children fallback"
+    print(f"[{label}] total={total}, leaves={leaves} ({method}), roots={roots}, non-leaves={total - leaves}")

@@ -1,264 +1,2314 @@
 [
   {
-    "id": "25413",
-    "name": "Болтові",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Болтові",
-    "reasoning": "The leaf \"Болтові\" denotes bolt‑action rifles (a subcategory of rifles and carbines). The reference tree contains categories for firearms, but none for rifles, carbines, or bolt‑action firearms. Therefore there is no suitable reference category to map to."
+    "id": "2200",
+    "name": "Продукти без кофеїну",
+    "path": "Здорове харчування та Еко товари > Продукти без кофеїну",
+    "reasoning": "The leaf category 'Продукти без кофеїну' means 'Caffeine-free products' — products that contain no caffeine. Looking through the reference tree, there is a category 'Безкофеїнова кава' (id: 501) under 'Кава, чай > Кава', which specifically covers caffeine-free coffee. However, the source category is broader — it covers all caffeine-free products, not just coffee. In the reference tree, there is also a 'Здорове харчування' section with categories like 'Без доданого цукру' (id: 301), 'Безлактозні продукти' (id: 299), 'Безглютенові продукти' (id: 300) — these are health-focused exclusion categories. The closest semantic match in the reference tree for a broad 'caffeine-free products' category would be under healthy eating. However, there is no exact 'без кофеїну' category in the reference. The best partial match is 'Безкофеїнова кава' (id: 501), but that only covers coffee, not all caffeine-free products. Since the source category is broader than any single reference category, and the closest domain match (healthy eating / caffeine-free) has no direct equivalent leaf category, but 'Безкофеїнова кава' is the closest specific match, I will map to it as the best available option. Actually, reconsidering — the source category covers all caffeine-free products broadly, which is a health-oriented category. The reference has no general 'caffeine-free' category. The best match remains 'Безкофеїнова кава' as the only caffeine-related category, but it's too narrow. Given no exact match exists, I'll declare no match with out_of_scope false since it's a related food/health domain."
   },
   {
-    "id": "25415",
-    "name": "Напівавтоматичні",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Напівавтоматичні",
-    "reasoning": "The source leaf \"Напівавтоматичні\" refers to semi‑automatic rifles and carbines, a subcategory of firearms. The reference tree contains no category for rifles, carbines, or semi‑automatic firearms. The closest reference entries involve pneumatic rifles or handguns, which are not semantically equivalent. Therefore no suitable reference category exists, but the domain (firearms) is still related, so the item is out of scope for the current reference set."
+    "id": "2211",
+    "name": "Товари для дітей",
+    "path": "Власні марки > Товари для дітей",
+    "reasoning": "The leaf category 'Товари для дітей' means 'Products for children/kids'. This is a broad category covering various children's products. In the reference tree, there is a top-level section 'Дитячі товари' (Children's goods) with many subcategories. However, since this is under 'Власні марки' (Own brands), it likely refers to a general children's products category. There is no single leaf node that exactly matches a broad 'Товари для дітей' category. The closest specific leaf that could represent a general children's products catch-all is 'Товари для мам' (id 846) but that's for mothers. Looking at the reference, there are many children's subcategories but no single broad 'Товари для дітей' leaf. The best semantic match among available leaves would be within the children's section. Since the source is a broad category under own brands for children's products, and there's no exact broad match, but 'Дитячі товари' section exists with subcategories - none of which alone covers the full breadth. Given no single leaf covers all children's products broadly, and considering the closest available option, I'll map to null as no single leaf category adequately represents this broad category without being misleading."
   },
   {
-    "id": "25416",
-    "name": "Однозарядні",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Однозарядні",
-    "reasoning": "The leaf category \"Однозарядні\" denotes single‑shot rifles or carbines. In the reference taxonomy there is no category for single‑shot firearms or for \"Гвинтівки та карабіни\". The closest reference categories are for pневматичні (air) rifles or revolvers, which are not equivalent. Therefore no exact or semantic match exists within the reference tree."
+    "id": "2271",
+    "name": "М'ясні делікатеси",
+    "path": "Ковбаси, сосиски, делікатеси > М'ясні делікатеси",
+    "reasoning": "The leaf category 'М'ясні делікатеси' means 'Meat delicacies/deli meats' — products like balyk, buzhenytsya, ham, bacon, brisket, meat rolls, etc. In the reference tree, there is a direct match: 'М'ясо > Ковбаси і м'ясні делікатеси > М'ясні делікатеси' which is a parent node containing multiple sub-categories. However, since we need a leaf category, the closest and most semantically appropriate leaf would be the broader 'М'ясні делікатеси' grouping. Looking at the reference leaves under this path, there are specific sub-categories (балик, буженина, шинка, etc.) but no single leaf called exactly 'М'ясні делікатеси'. The best match among the leaves is 'Копченості' (id 152) or another specific one, but since the source category is a general 'М'ясні делікатеси' encompassing all deli meats, and there is no single leaf that covers the full scope, I should look for the best fit. Actually, reviewing the reference, id 152 'Копченості' is too narrow. The source category maps most broadly to the meat delicacies section. Given no single leaf covers all meat delicacies generically, the closest specific leaf with a near-exact name match in context is id 159 'М'ясо-ковбасна нарізка' — but that's sliced meats. The most semantically fitting broad leaf is actually not present as a single leaf. However, 'М'ясні делікатеси' as a concept best aligns with id 152 'Копченості' or id 144 'Буженина'. Since the source is a general category, and the reference has no single 'М'ясні делікатеси' leaf, the closest match by name and function is the parent grouping. Among available leaves, id 152 'Копченості' under М'ясні делікатеси is a reasonable fit but too narrow. The best available leaf match is id 152 given it represents a core meat delicacy product type, but actually the full category is best represented. I'll map to id 152 as the closest leaf, but reconsidering — the source category name exactly matches the parent node 'М'ясні делікатеси' in the reference, which contains leaves 143-155. Since no single leaf covers the whole, I'll select the most representative or note no exact leaf match. Given the instructions to pick the best single leaf, id 152 'Копченості' is too specific. I'll map to null with out_of_scope false since no single leaf covers the general 'М'ясні делікатеси' category."
   },
   {
-    "id": "25417",
-    "name": "Штуцери",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Гвинтівки та карабіни > Штуцери",
-    "reasoning": "\"Штуцери\" is Ukrainian for sub‑machine guns. The reference catalogue does not contain a dedicated category for sub‑machine guns or for the broader class of \"Гвинтівки та карабіни\". The closest firearm category in the reference is \"Пістолети та револьвери\", but that does not cover sub‑machine guns. Therefore no exact or semantic match exists."
+    "id": "5502",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category 'Акційні пропозиції' means 'Promotional offers' or 'Special offers' in Ukrainian. This is a marketing/promotional category that groups discounted or special-deal products together, not a specific product category. Looking through the reference tree, there are categories like 'Спеціальні пропозиції (Виключити)' which is the closest conceptual match, but those are marked as excluded and contain subcategories for food delivery and charity collections. There is no direct equivalent promotional/sale category in the reference tree that would be a genuine semantic fit for a general 'promotional offers' category. Since this is a meta-category (promotional grouping) rather than a product category, and no reference category genuinely covers this concept, there is no valid match. However, this is not out of scope in terms of domain — it's just a structural/marketing category that doesn't map to any specific product leaf in the reference tree."
   },
   {
-    "id": "25420",
-    "name": "Стволи",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Основні частини > Стволи",
-    "reasoning": "The source leaf category \"Стволи\" refers to firearm barrels, a component of firearms. The reference tree contains no explicit category for barrels or firearm components. The closest related categories are under \"Зброя > Пневматична зброя > Пневматичні гвинтівки\", but those are specific to air rifle types, not barrels in general. Therefore, there is no suitable leaf category in the reference set that matches \"Стволи\". The category is within the same domain (firearms) but lacks a direct reference counterpart."
+    "id": "5504",
+    "name": "Каталог Вигідних пропозицій",
+    "path": "Каталог Вигідних пропозицій",
+    "reasoning": "The leaf category 'Каталог Вигідних пропозицій' translates to 'Catalog of Advantageous/Profitable Offers' — essentially a promotional deals catalog. This is a meta-category representing special offers or discounts across various products, not a specific product category. Looking at the reference tree, the closest conceptual match would be the 'Спеціальні пропозиції (Виключити)' branch, but none of the leaf categories under it precisely match a general deals catalog. The reference tree does not contain a generic 'special offers catalog' leaf category. This is a promotional/navigational category rather than a product category, and no genuine semantic fit exists among the available leaf categories."
   },
   {
-    "id": "25423",
-    "name": "Комбінована зброя",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Рушниці > Комбінована зброя",
-    "reasoning": "The leaf category \"Комбінована зброя\" refers to combination weapons (e.g., a rifle combined with a pistol). The reference tree contains categories for firearms such as pistols, revolvers, and various types of rifles, but it does not include a specific category for combination weapons or for \"Рушниці\" (rifles). Therefore, there is no exact or near‑exact match in the reference list. The category is still within the firearms domain, but no specific reference category covers it."
+    "id": "5510",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The leaf category 'Новорічні подарунки для дорослих' means 'New Year gifts for adults'. This is a seasonal gift category containing various products packaged or curated as gifts for adults during the New Year holiday. Looking through the reference tree, the closest match would be in the sweets/holiday gifts section. The reference has 'Солодощі до свят > Подарункові цукерки' (id 462) and 'Солодощі до свят > Солодкі подарунки для дітей' (id 460), but these are specifically for sweets/candy gifts and children respectively. There is no direct equivalent for adult New Year gift sets in the reference tree. The category could contain a wide variety of products (alcohol, cosmetics, food sets, etc.) that don't map cleanly to any single reference leaf category. The reference does not have a general 'New Year gifts for adults' or 'holiday gift sets for adults' category. Since this is a broad gift category that spans multiple domains and no single reference category adequately covers it, but it is related to the food/household goods domain present in the reference, this is a case of no specific match rather than being completely out of scope."
   },
   {
-    "id": "25430",
-    "name": "Ручки та явари",
-    "path": "ІБІС Зброя > Зброя > Засоби самозахисту > Ручки та явари",
-    "reasoning": "The leaf category \"Ручки та явари\" refers to pistols and revolvers (handguns). In the reference tree, there is no leaf category that directly represents pistols and revolvers themselves; the only pistol/revolver related leaf categories are subcategories for accessories (e.g., magazines, other components). Therefore no suitable leaf match exists."
+    "id": "5518",
+    "name": "Безалкогольні напої",
+    "path": "Здорове харчування та спосіб життя > Безалкогольні напої",
+    "reasoning": "The leaf category 'Безалкогольні напої' means 'Non-alcoholic beverages'. This covers drinks that contain no alcohol. Looking through the reference tree, there are several non-alcoholic beverage categories under 'Алкоголь. Напої. Тютюн > Напої' such as mineral water, sweet drinks, juices, kvass, energy drinks, etc. However, there is no single umbrella 'Безалкогольні напої' category. The closest specific match would be the general non-alcoholic drinks section. Given the parent context 'Здорове харчування та спосіб життя' (Healthy eating and lifestyle), this likely refers to healthy non-alcoholic drinks. The reference tree has 'Комбуча і ферментовані напої' (id 540) which fits healthy beverages, but that's too specific. There's also 'Безалкогольний алкоголь > Безалкогольне вино' and 'Безалкогольне пиво' but those are specific. The most general non-alcoholic beverage categories are water, juices, soft drinks. Since no single umbrella 'Безалкогольні напої' category exists in the reference, but the domain is clearly beverages (non-alcoholic), the best broad match would be mineral water or juices. However, since the source is a broad category covering all non-alcoholic beverages and no single reference category covers this breadth, I'll note it's in the related domain but no specific reference category covers it as a whole umbrella. Actually, looking more carefully, 'Соки і нектари > Соки' (id 533) is too specific. The best match for a general non-alcoholic beverages category would be null with out_of_scope false, as the domain exists but no umbrella category matches."
   },
   {
-    "id": "25449",
-    "name": "Матеріали для виробництва стріл",
-    "path": "ІБІС Зброя > Зброя > Метальна зброя > Стріли та кульки > Матеріали для виробництва стріл",
-    "reasoning": "The leaf category refers to materials used for making arrows (shaft, fletching, arrowheads, etc.). The reference catalog does not contain a specific category for arrow components or archery supplies; the closest related domain is ammunition under \"Набої\", but arrows are not ammunition. Therefore no exact or functional match exists."
+    "id": "5768",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі",
+    "reasoning": "The leaf category 'Інші солодощі' means 'Other sweets/confectionery' in Ukrainian. This is a catch-all category for sweets that don't fit into more specific subcategories. Looking at the reference tree, there are many specific sweet/confectionery categories under 'Бакалія і консерви > Солодощі'. However, 'Інші солодощі' is a generic residual category. The reference tree does not have a direct 'other sweets' catch-all, but the closest broad match would be within the sweets domain. Since the rule says not to match on shared generic words alone and there is no specific 'other sweets' category in the reference, I need to consider whether any specific category fits. Eastern sweets (Східні солодощі) is one option but too specific. Given that this is a generic residual sweets category with no specific match in the reference tree, and it is clearly in the food/confectionery domain (not out of scope), I will map it to null as no specific reference category covers a generic 'other sweets' bucket without misclassifying products."
   },
   {
-    "id": "25450",
-    "name": "Стріли для арбалетів",
-    "path": "ІБІС Зброя > Зброя > Метальна зброя > Стріли та кульки > Стріли для арбалетів",
-    "reasoning": "\"Стріли для арбалетів\" refers to crossbow bolts (ammunition for crossbows). The reference catalog contains ammunition categories for firearms and flobers, but no specific category for crossbow bolts or similar. Therefore there is no exact or semantic match in the reference tree. The domain is still weapons, but the specific product type is not represented."
+    "id": "5873",
+    "name": "Вішаки, плечики",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Вішаки, плечики",
+    "reasoning": "The leaf category 'Вішаки, плечики' refers to clothes hangers and coat hangers — household storage accessories for clothing. Looking through the reference tree, there is no category specifically for clothes hangers or clothing storage accessories. The closest related categories would be household goods (Госптовари), but none of the specific leaf categories cover hangers. The category 'Догляд за одягом і взуттям' (id 645) is about clothing and shoe care products, not storage hardware. 'Господарчі дрібниці' (id 639) is too generic. This product type (clothes hangers) is a home/household item that exists in the domain of the store but has no specific matching leaf category in the reference tree."
   },
   {
-    "id": "25463",
-    "name": "Штативи",
-    "path": "ІБІС Зброя > Зброя > Оптика та приціли > Комплектуючі до оптики > Штативи",
-    "reasoning": "The leaf category \"Штативи\" refers to tripods or stands used with optics or firearms. In the reference tree, there is no explicit category for tripods. The closest related categories are under \"Оптика > Кріплення\" (bases, monoblocks, plates, etc.), but these describe mounting components rather than full tripods. Therefore, no exact or near‑exact match exists in the reference list. The domain (weapons and optics) is related, but the specific category is missing."
+    "id": "5875",
+    "name": "Сушарки для одягу",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Сушарки для одягу",
+    "reasoning": "The leaf category 'Сушарки для одягу' means 'clothes dryers/drying racks' — products used for drying laundry. Looking through the reference tree, there is no category for clothes dryers or laundry drying equipment. The closest related categories are household goods (Госптовари, non-food), but none specifically cover clothes drying racks or appliances. The category 'Побутова техніка і електроніка' (id 691) could potentially cover electric dryers, but it is too generic and the match is not strong enough to be considered a genuine semantic fit for the specific product category. There is also 'Догляд за одягом і взуттям' (id 645) which covers clothing and footwear care products, but this is about chemical/cleaning products rather than drying equipment. No reasonable specific match exists in the reference tree for clothes drying racks/dryers."
   },
   {
-    "id": "25474",
-    "name": "Механічні",
-    "path": "ІБІС Зброя > Зброя > Оптика та приціли > Приціли > Механічні",
-    "reasoning": "The leaf category \"Механічні\" refers to mechanical sights (iron sights) used on firearms. In the reference hierarchy, there is no explicit category for mechanical sights; the closest related categories are \"Оптика > Приціли > Коліматорні\" and \"Оптика > Приціли > Оптичні\", both of which describe optical sight types. Since mechanical sights are not represented in the reference tree, there is no suitable specific match."
+    "id": "6384",
+    "name": "Піротехніка, феєрверки, хлопавки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка, феєрверки, хлопавки",
+    "reasoning": "The leaf category 'Піротехніка, феєрверки, хлопавки' contains pyrotechnics, fireworks, and party poppers — festive/celebratory items. Looking through the reference tree, there is no dedicated category for pyrotechnics or fireworks. The closest related categories are holiday/party goods. 'Товари для свят > Для днів народжень і вечірок' (id 674) covers party items, and 'Тематичні свята' (id 676) covers themed holidays. However, pyrotechnics/fireworks are a distinct product type not well captured by these. The category 'Госптовари, non-food > Для дому > Товари для свят' section is the closest domain match, but none of the subcategories specifically cover fireworks or pyrotechnics. Since these are festive/holiday products, the best available match would be 'Для днів народжень і вечірок' (id 674) or 'Тематичні свята' (id 676), but neither is a strong semantic fit for pyrotechnics specifically. There is no specific reference category for fireworks/pyrotechnics in the reference tree. The domain is related (household/holiday goods) but no specific category covers it, so mapped_to_id should be null with out_of_scope false."
   },
   {
-    "id": "25491",
-    "name": "Порох",
-    "path": "ІБІС Зброя > Зброя > Патрони > Релоадінг > Порох",
-    "reasoning": "The leaf category \"Порох\" refers to gunpowder used in reloading. In the reference tree there is no dedicated category for powder itself; the closest categories are for reloading accessories such as powder dispensers or powder funnels. Since the reference list does not contain a specific category for powder, we cannot map it to an existing id. The domain is related (reloading), but no exact match exists."
+    "id": "6404",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category 'Акційні пропозиції' means 'Promotional offers' or 'Special offers' in Ukrainian. This is a marketing/promotional category that groups discounted or featured products, not a specific product category. Looking through the reference tree, there are categories like 'Спеціальні пропозиції (Виключити)' which are marked for exclusion and relate to special offers/promotions. However, 'Акційні пропозиції' as a standalone promotional category does not map to any specific product leaf category in the reference tree. The reference tree does have special offer categories but they are marked as exclusions and contain subcategories for food delivery. Since 'Акційні пропозиції' is purely a promotional/marketing grouping without a specific product domain, and no reference category genuinely matches this concept as a product category, there is no valid semantic fit to any leaf category in the reference."
   },
   {
-    "id": "25495",
-    "name": "Інші комплектуючі до пневматичної зброї",
-    "path": "ІБІС Зброя > Зброя > Пневматична зброя > Комплектуючі до пневматичної зброї > Інші комплектуючі до пневматичної зброї",
-    "reasoning": "The source leaf \"Інші комплектуючі до пневматичної зброї\" refers to miscellaneous accessories for pneumatic weapons that are not covered by the specific sub‑categories in the reference tree (e.g., magazines, CO₂ cylinders, or RSR accessories). The reference list contains only specific accessory categories under \"Зброя > Пневматична зброя > Аксесуари та комплектуючі\" and does not include a generic \"Other accessories\" leaf. Therefore, there is no exact or near‑exact match in the reference hierarchy. The category is related to the same domain (pneumatic weapons accessories) but lacks a dedicated reference leaf, so it is considered out of scope for a precise mapping."
+    "id": "6405",
+    "name": "Оптом дешевше",
+    "path": "Оптом дешевше",
+    "reasoning": "The leaf category 'Оптом дешевше' translates to 'Cheaper in bulk' or 'Wholesale discount' — this is a promotional/pricing category, not a specific product category. It indicates bulk purchasing deals rather than a specific type of product. There is no equivalent promotional or bulk-pricing category in the reference tree. The reference tree contains specific product categories (food, household goods, hygiene, etc.) but no category for bulk deals or wholesale pricing promotions. This is a cross-category promotional concept that doesn't map to any single product leaf category in the reference."
   },
   {
-    "id": "25507",
-    "name": "Кульки для страйкбольної зброї",
-    "path": "ІБІС Зброя > Зброя > Пневматична зброя > Пневматичні набої та балони > Кульки для страйкбольної зброї",
-    "reasoning": "The leaf category \"Кульки для страйкбольної зброї\" refers to paintballs used in paintball guns. The reference catalogue contains ammunition categories such as \"Набої > Набої Флобера\" (Flobert ammo) and other cold‑weapon or shell ammo, but it does not include a dedicated paintball ammo category. Therefore there is no exact or near‑exact match in the reference tree. Paintballs belong to the ammunition domain, which is related to the reference categories, but no specific reference category covers them."
+    "id": "6408",
+    "name": "Алкогольні напої до Нового року",
+    "path": "Новий рік > Алкогольні напої до Нового року",
+    "reasoning": "The leaf category 'Алкогольні напої до Нового року' translates to 'Alcoholic beverages for New Year'. This is a seasonal/thematic grouping of alcoholic drinks for the New Year holiday. The products in this category would be alcoholic beverages (wines, spirits, champagne, etc.) marketed for New Year celebrations. In the reference tree, there is no single category that covers all alcoholic beverages together as a holiday collection. However, the most common alcoholic beverage associated with New Year celebrations is sparkling wine/champagne. Looking at the reference categories, there are specific alcohol subcategories under 'Алкоголь. Напої. Тютюн > Алкоголь'. The closest broad match would be sparkling wines/champagne (id 591 - Ігристі вина), but this category likely contains a mix of different alcoholic beverages. There is no generic 'all alcohol' category in the reference. Since this is a thematic/seasonal grouping that could contain any type of alcohol (wine, spirits, beer, champagne), and there is no single reference category that maps to 'alcoholic beverages in general' or 'holiday alcohol', the best approach is to note that no single reference category adequately covers this mixed seasonal alcohol category. However, given New Year associations strongly with sparkling wine/champagne, id 591 (Ігристі вина) is a reasonable but imperfect match. Since the category is a broad seasonal collection of various alcoholic drinks with no single reference equivalent, I'll declare no match as it spans multiple alcohol subcategories."
   },
   {
-    "id": "25521",
-    "name": "Механічні приціли для пістолетів",
-    "path": "ІБІС Зброя > Зброя > Пістолети та револьвери > Прицільні пристосування для пістолетів > Механічні приціли для пістолетів",
-    "reasoning": "The source category refers to mechanical sights for pistols, a type of firearm accessory. In the reference tree, the closest related categories are under \"Оптика > Приціли\" (optical sights, collimator sights, and night‑vision sights). None of these subcategories explicitly cover non‑optical mechanical sights, and there is no separate leaf category for such sights. Therefore, no exact or near‑exact match exists in the reference list. The category belongs to the same general domain (firearm accessories) but is not represented by a specific reference category."
+    "id": "6410",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The leaf category 'Новорічні подарунки для дорослих' means 'New Year gifts for adults'. This is a holiday gift category targeting adults, which could contain various items like sweets, alcohol, cosmetics, etc. Looking at the reference tree, the closest match is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id: 462) or 'Бакалія і консерви > Солодощі > Солодощі до свят > Солодкі подарунки для дітей' (id: 460), but these are too specific. The most semantically fitting category in the reference tree is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id: 462), however this is only for candy gifts. There is no general 'gifts for adults' or 'New Year gifts' category in the reference tree. The category is not out of scope (it's related to food/household goods domain), but no single reference category adequately covers a broad 'New Year gifts for adults' assortment. However, the closest thematic match would be holiday sweets/gifts. Given no specific general gift category exists, and the domain is related but not specifically covered, mapped_to_id should be null."
   },
   {
-    "id": "25525",
-    "name": "Спортивна зброя",
-    "path": "ІБІС Зброя > Зброя > Пістолети та револьвери > Спортивна зброя",
-    "reasoning": "The source leaf \"Спортивна зброя\" refers to sporting firearms (pistols and revolvers used for target shooting). The reference catalogue contains no leaf category that directly represents sporting firearms; it only lists accessory subcategories under \"Пістолети та револьвери\" and other firearm-related categories. Therefore there is no exact or semantic match in the reference tree. The category is related to firearms but not covered by any specific reference leaf, so it is considered out of scope for mapping."
+    "id": "6710",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі",
+    "reasoning": "The leaf category 'Інші солодощі' means 'Other sweets/confectionery'. This is a catch-all category for sweets that don't fit into more specific subcategories. In the reference tree, there are many specific sweet categories under 'Бакалія і консерви > Солодощі'. The source category is a generic 'other sweets' bucket. There is no direct 'Інші солодощі' category in the reference. However, the closest broad match would be within the sweets domain. Since the category is a generic catch-all for sweets, and there's no equivalent 'other sweets' category in the reference, I need to consider what products might fall here. Given it's under 'Солодощі' (sweets), products could include various confectionery items. The reference has many specific sweet subcategories but no generic 'other sweets' catch-all. Since the category name uses the generic word 'інші' (others/other), per the rules I should not match on shared generic words alone. There is no specific reference category that covers a generic 'other sweets' bucket. The domain is food/confectionery which exists in the reference tree, but no specific category matches this catch-all. I will map it to null with out_of_scope false since the domain exists but no specific reference category covers this generic catch-all."
   },
   {
-    "id": "25544",
-    "name": "Хронографи",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Електронне устаткування > Хронографи",
-    "reasoning": "The leaf category \"Хронографи\" refers to chronographs – electronic devices used to measure bullet velocity and time of flight. The reference catalogue does not contain a dedicated category for chronographs. The closest related categories are under \"Оптика > Приціли > Оптичні\" or \"Оптика > Приціли > Приціли\", but chronographs are not optical sights. Therefore no exact match exists in the reference tree."
-  },
-  {
-    "id": "25549",
-    "name": "Стендові тарілки",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Засоби для стрільби > Стендові тарілки",
-    "reasoning": "Стендові тарілки – це тарілки, що використовуються як цілі на стрільбових полях. У наданому списку референсних категорій немає жодної, що безпосередньо охоплює цілі або тарілки для стрільби. Найближчі категорії – це «Набої» (порушують предмет), «Оптика» (не пов’язана з тарілками) або «Тюнінг» (не охоплює цілі). Тому жодна конкретна категорія не підходить, хоча предмет належить до сфери стрільби."
-  },
-  {
-    "id": "25550",
-    "name": "Стрілецькі мати",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Засоби для стрільби > Стрілецькі мати",
-    "reasoning": "The leaf category \"Стрілецькі мати\" refers to shooting stands or platforms used in target shooting. None of the reference categories directly correspond to this type of equipment. The closest related domains in the reference tree are \"Зброя\" and \"Спорядження\", but there is no specific subcategory for shooting stands. Therefore, no suitable match exists."
-  },
-  {
-    "id": "25556",
-    "name": "Вабці та комплектуючі",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Мисливські аксесуари > Вабці та комплектуючі",
-    "reasoning": "The leaf category \"Вабці та комплектуючі\" refers to hunting decoys (вабки) and related accessories. None of the reference categories explicitly cover decoys or hunting‑specific accessories. The closest broad categories (e.g., \"Оптика\", \"Спорядження\", \"Аксесуари\") are too generic and do not match the specific product type. Therefore, there is no suitable reference category for this leaf."
-  },
-  {
-    "id": "25614",
-    "name": "Підствольні",
-    "path": "ІБІС Риболовля > Ножі та ліхтарі > Ліхтарі > Підствольні",
-    "reasoning": "The leaf category \"Підствольні\" refers to under‑barrel attachments for firearms (e.g., under‑barrel grenade launchers, foregrips, bipods, etc.). None of the reference categories explicitly cover this type of firearm accessory. The closest reference categories are related to AR platform mounts or general firearm tuning, but they do not match the specific concept of under‑barrel attachments. Therefore, no suitable reference category exists."
-  },
-  {
-    "id": "25617",
-    "name": "Бритви",
-    "path": "ІБІС Риболовля > Ножі та ліхтарі > Ножі та комплектуючі > Бритви",
-    "reasoning": "\"Бритви\" – це леза для брів/шкіри, що належать до категорії інструментів для різання. У референс‑дереві немає окремої підкатегорії для бритв, але існує загальна категорія \"Ножі та інструменти > Аксесуари та комплектуючі > Інше\", яка охоплює різні інструменти та аксесуари, що не підпадають під інші підкатегорії. Тому найкращим відповідником є саме ця категорія."
-  },
-  {
-    "id": "25631",
-    "name": "Інші аксесуари",
-    "path": "ІБІС Риболовля > Одяг та взуття > Аксесуари > Інші аксесуари",
-    "reasoning": "The leaf category \"Інші аксесуари\" refers to miscellaneous accessories for fishing gear (e.g., fishing line holders, tackle boxes, etc.). The reference taxonomy contains categories for weapons, tactical gear, and outdoor equipment, but none of the leaf categories explicitly cover fishing accessories. The closest generic categories (e.g., \"Аксесуари > Коробки\", \"Аксесуари > Мішені\") are specific to firearms and do not semantically match fishing gear. Therefore, there is no suitable reference match."
-  },
-  {
-    "id": "25651",
-    "name": "Розвантажувальні та бронежилети",
-    "path": "ІБІС Риболовля > Одяг та взуття > Екіпірування > Розвантажувальні та бронежилети",
-    "reasoning": "The leaf category \"Розвантажувальні та бронежилети\" refers to body armor and protective gear. None of the reference categories explicitly cover body armor or protective gear. The closest related domain is tactical gear under \"Спорядження\", but no specific reference category matches. Therefore, no direct mapping exists."
-  },
-  {
-    "id": "25715",
-    "name": "Петлев'язи",
-    "path": "ІБІС Риболовля > Рибальство > Інструмент > Петлев'язи"
-  },
-  {
-    "id": "25729",
-    "name": "Карабіни та застібки",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Карабіни та застібки",
-    "reasoning": "The leaf category \"Карабіни та застібки\" refers to carabiners and fasteners used in fishing gear. None of the reference categories explicitly cover carabiners or general fasteners. The closest related category in the reference tree would be \"Спорядження > Кобури та сумки\", but that category is for pouches and bags, not for fasteners. Therefore there is no suitable match."
-  },
-  {
-    "id": "25737",
-    "name": "Поплавці",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Поплавці",
-    "reasoning": "The leaf category \"Поплавці\" refers to fishing floats (bobbers). None of the reference categories explicitly cover fishing equipment or floats. The closest broader domain is \"Активний відпочинок, туризм та хобі\", but there is no specific subcategory for fishing gear. Therefore, no suitable match exists in the reference tree."
-  },
-  {
-    "id": "25756",
-    "name": "Зимові",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Зимові",
-    "reasoning": "The leaf name \"Зимові\" (Ukrainian for \"Winter\") indicates a subcategory of fishing rods used in winter fishing. The reference taxonomy contains no fishing‑related categories such as \"Вудилища\", \"Риболовля\" or any subcategory that would logically hold winter fishing rods. Since fishing equipment is a related outdoor domain but not represented in the reference tree, we cannot map it to an existing id. Therefore the category is out of scope for the current reference set, but still within the broader outdoor equipment domain."
-  },
-  {
-    "id": "25786",
-    "name": "Род-поди",
-    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Род-поди",
-    "reasoning": "The leaf category \"Род-поди\" refers to fishing rod holders or stands used in angling. The reference taxonomy contains no specific category for fishing gear or rod supports. While fishing equipment falls under the broader outdoor domain, the available reference categories are limited to weapons, tactical gear, and general outdoor items such as tents, sleeping bags, and camping tools, none of which directly match rod holders. Therefore, no suitable reference category exists."
-  },
-  {
-    "id": "25793",
-    "name": "Ваги",
-    "path": "ІБІС Риболовля > Рибальство > Піклування про рибу > Ваги",
-    "reasoning": "The leaf category \"Ваги\" refers to fishing scales used for weighing fish. None of the reference categories contain a direct match for scales or weighing equipment. The closest related domain in the reference tree is outdoor equipment, but no specific category for scales exists. Therefore, no suitable reference category can be assigned."
-  },
-  {
-    "id": "25796",
-    "name": "Кукани",
-    "path": "ІБІС Риболовля > Рибальство > Садки та підсаки > Кукани",
-    "reasoning": "The Ukrainian term \"Кукани\" refers to fishing lures or artificial baits used in angling. The reference category list contains no specific category for fishing gear, bait, or lures. While fishing is an outdoor activity, the reference tree does not provide a matching leaf category for this domain. Therefore, there is no suitable reference match, but the domain is related to outdoor equipment, so it is not completely unrelated."
-  },
-  {
-    "id": "25816",
-    "name": "Атрактанти та ліквіди",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Атрактанти та ліквіди",
-    "reasoning": "The leaf category \"Атрактанти та ліквіди\" refers to fish attractants and related liquids used in fishing. The reference catalogue contains no specific category for fishing lures, bait, or fishing chemicals. The closest broad domain is \"Активний відпочинок, туризм та хобі\", which covers outdoor activities including fishing, but none of its sub‑categories match the nature of attractants. Therefore there is no suitable specific match, but the domain is related to outdoor/hobby activities, so it is not entirely out of scope."
-  },
-  {
-    "id": "25826",
-    "name": "Спреї",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Спреї",
-    "reasoning": "The leaf category \"Спреї\" refers to sprays used in fishing (e.g., fish attractants, insect repellents, bait sprays). The reference taxonomy does not contain a dedicated category for fishing sprays or bait products. The closest broad category would be \"Активний відпочинок, туризм та хобі > Спортивні товари\", but that is too generic and does not specifically match the product type. Therefore no exact or near‑exact match exists."
-  },
-  {
-    "id": "25831",
-    "name": "Ехолоти",
-    "path": "ІБІС Риболовля > Рибальство > Човни та аксесуари > Ехолоти",
-    "reasoning": "\"Ехолоти\" is a Ukrainian term for fishing rods (fishing lines). The reference category list contains no specific category for fishing equipment or rods. The closest broad category would be \"Активний відпочинок, туризм та хобі > Спортивні товари\", but that is too generic and does not explicitly cover fishing rods. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25844",
-    "name": "Закладні",
-    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Закладні"
-  },
-  {
-    "id": "25845",
-    "name": "Карабіни",
-    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Карабіни",
-    "reasoning": "Карабіни – це спеціалізоване альпінізм/підйомне обладнання, яке не представлено у списку референтних категорій. Найближчі схожі назви – «Кріплення» у підкатегорі «Оптика» або «AR Платформа», але вони стосуються оптичного/AR обладнання, а не альпінізму. Тому жодна референтна категорія не відповідає цій назві."
-  },
-  {
-    "id": "25865",
-    "name": "Подушки",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Подушки",
-    "reasoning": "The leaf category \"Подушки\" refers to pillows used in fishing or camping gear. The reference taxonomy does not contain a dedicated pillow category. The closest related category is \"Спальні мішки\" (sleeping bags) under \"Активний відпочинок, туризм та хобі\", but it does not represent pillows. Therefore no exact match exists, but the domain is still outdoor/camping equipment, so it is related but not covered."
-  },
-  {
-    "id": "25875",
-    "name": "Туристичні килимки",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Туристичні килимки",
-    "reasoning": "Туристичні килимки – це підкладки/підстилки, що використовуються під спальні мішки або для сидіння під час походів. У наданому списку референсних категорій немає жодної, що безпосередньо відповідає \"килимкам\" або \"підстилкам\". Найближчі категорії – \"Спальні мішки\" (засоби для сну) або \"Термосумки, термобокси\" (засоби для зберігання), але вони не охоплюють функцію підкладки. Тому жодна конкретна референсна категорія не підходить, хоча предмет належить до того ж загального домену активного відпочинку та туризму."
-  },
-  {
-    "id": "25884",
+    "id": "6909",
     "name": "Парасольки",
-    "path": "ІБІС Риболовля > Спорядження > Додатковий інвентар > Парасольки",
-    "reasoning": "Парасольки – це невеликі парасолі/захисні навісні, що використовуються в риболовлі для захисту від сонця чи дощу. У наданому списку категорій немає жодної, що відповідає цьому типу товару (наприклад, «Парасольки», «Захисні навісні» тощо). Найближчі категорії – «Намети» або «Спортивні товари», але вони не охоплюють саме парасолі. Тому жодна конкретна категорія не підходить."
+    "path": "Товари для дому > Галантерея > Парасольки",
+    "reasoning": "The leaf category 'Парасольки' means 'Umbrellas' in Ukrainian. These are personal accessories/fashion items used for rain or sun protection. Looking through the reference tree, there is no category for umbrellas or similar accessories. The closest categories in the reference tree are clothing and accessories under 'Госптовари, non-food > Для дому > Одяг і аксесуари', which includes items like socks, stockings, footwear, bags, and headwear, but no umbrellas specifically. While umbrellas are accessories, none of the listed subcategories (колготки, шкарпетки, взуття, валізи, головні убори, білизна) semantically cover umbrellas. There is no reasonable match in the reference tree for umbrellas as a product category."
   },
   {
-    "id": "25897",
-    "name": "Аптечки",
-    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Аптечки",
-    "reasoning": "The leaf category \"Аптечки\" refers to first‑aid kits, a type of survival gear. The reference catalogue contains no explicit category for first‑aid kits or general medical supplies. The closest related domains are \"Активний відпочинок, туризм та хобі\" (which includes food for survival and personal protection gear) and \"Спорядження\" (which lists various tactical gear). However, none of the reference leaf categories match the specific product type of first‑aid kits. Therefore no suitable reference category exists."
+    "id": "6910",
+    "name": "Інша галантерея",
+    "path": "Товари для дому > Галантерея > Інша галантерея",
+    "reasoning": "The leaf category 'Інша галантерея' means 'Other haberdashery/notions' — a catch-all for small household goods, accessories, sewing notions, fasteners, ribbons, buttons, zippers, and similar small items. This is a home goods / household accessories category. Looking through the reference tree, there is no specific haberdashery or notions category. The closest domain would be household goods ('Господарчі товари') but none of the specific subcategories match haberdashery products. The category is not out of scope in terms of domain (it's household/home goods related), but there is no specific reference category that covers haberdashery/notions items."
   },
   {
-    "id": "25904",
-    "name": "Фільтри для води",
-    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Питне спорядження > Фільтри для води",
-    "reasoning": "The source leaf \"Фільтри для води\" refers to water purification filters used in survival and outdoor gear. In the reference tree, there is no specific category for water filters or water purification equipment. The closest broad categories are \"Активний відпочинок, туризм та хобі > Спортивні товари\" or \"Посуд\", but these are too generic and do not semantically match the product type. Therefore, no suitable reference category exists."
+    "id": "6911",
+    "name": "Подарункові сертифікати",
+    "path": "Товари для дому > Подарункові сертифікати",
+    "reasoning": "The leaf category 'Подарункові сертифікати' means 'Gift Certificates' in Ukrainian. Looking through the entire reference tree, there is no category for gift certificates or vouchers. The closest related categories might be in the holiday/celebration goods section (Товари для свят) or packaging (Подарункова упаковка), but none of these actually cover gift certificates as a product type. Gift certificates are a financial/voucher product that doesn't fit into any of the available reference categories. This is a product type that simply doesn't exist in the reference taxonomy."
   },
   {
-    "id": "25905",
-    "name": "Термоковдри",
-    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Термоковдри",
-    "reasoning": "Термоковдри – це термальні ковдри, що використовуються в засобах виживання. У наданому списку референсних категорій немає жодної, що безпосередньо відповідає термальним ковдрам. Найближчою тематичною категорією є \"Термосумки, термобокси\", але це контейнери, а не ковдри. Тому жодна конкретна категорія не підходить, хоча предмети належать до того ж загального домену активного відпочинку та туризму."
+    "id": "7126",
+    "name": "Солодощі, чай, кава 27.11-10.12.2025",
+    "path": "Гарячі напої > Солодощі, чай, кава 27.11-10.12.2025",
+    "reasoning": "The leaf category 'Солодощі, чай, кава 27.11-10.12.2025' is a promotional/seasonal category covering sweets (солодощі), tea (чай), and coffee (кава) for a specific date range. It contains multiple product types. Since it combines sweets, tea, and coffee, I need to find the best single match. The reference tree has separate categories for each: sweets under 'Бакалія і консерви > Солодощі', tea under 'Кава, чай > Чай', and coffee under 'Кава, чай > Кава'. There is no combined category for all three. However, the parent context is 'Гарячі напої' (Hot beverages), suggesting the primary focus may be on tea and coffee as hot beverages. Looking at the reference, 'Кава, чай' is a parent node but not a leaf. Among the leaf categories, the combination of tea and coffee with sweets doesn't map cleanly to any single leaf. Since this is a promotional bundle category spanning multiple product types (sweets + tea + coffee), and there is no single leaf that covers all three, the closest domain match would be within 'Кава, чай' or 'Бакалія і консерви > Солодощі'. Given the multi-category nature and no single leaf covering this combination, and considering the parent 'Гарячі напої' context pointing to beverages, there is no single leaf category that genuinely covers all three product types together. This is a promotional grouping with no direct reference match, but it is within scope of the store's categories."
   },
   {
-    "id": "25919",
-    "name": "Акумулятори холоду",
-    "path": "ІБІС Риболовля > Спорядження > Кухня та посуд > Термопродукція > Акумулятори холоду",
-    "reasoning": "\"Акумулятори холоду\" – це холодні пакети/пакети із льодом, що використовуються для зберігання риби чи інших продуктів під час риболовлі. У наданому списку референсних категорій немає прямого відповідника для холодних пакетів. Найближчі категорії – \"Термосумки, термобокси\" або \"Термоса и термочашки\", але вони описують контейнери, а не самі холодні пакети. Тому жодна категорія не відповідає точно, хоча предмет належить до сфери активного відпочинку/туризму, що є суміжною галуззю."
+    "id": "7361",
+    "name": "Туалетна вода для жінок",
+    "path": "Гігієна та догляд > Косметика та парфумерія > Туалетна вода для жінок",
+    "reasoning": "The leaf category 'Туалетна вода для жінок' means 'Women's Eau de Toilette' — a fragrance/perfume product for women. Looking through the reference tree, there is no category for perfumes, fragrances, or eau de toilette. The closest domain would be 'Гігієна та краса' (Hygiene and Beauty), but none of the subcategories there cover perfumes or fragrances specifically. The categories under beauty/hygiene cover skincare, haircare, deodorants, shaving, makeup, etc., but not perfumery. Therefore, there is no reasonable match in the reference tree, but it is a related domain (beauty/personal care), so out_of_scope is false."
   },
   {
-    "id": "25920",
-    "name": "Термокухлі",
-    "path": "ІБІС Риболовля > Спорядження > Кухня та посуд > Термопродукція > Термокухлі",
-    "reasoning": "Термокухлі – це портативні термальні кухонні посуд, що використовуються під час активного відпочинку та туризму. У наданому списку посилань немає категорії, що точно відповідає термальним кухонним посудам. Найближчими є \"Термосумки, термобокси\" (24454) та \"Термоса и термочашки\" (24453), що стосуються контейнерів для зберігання їжі, а не самих кухонних посуд. Тому конкретного відповідника немає, але категорія належить до того ж домену активного відпочинку, тому це не повністю поза сферою."
+    "id": "7362",
+    "name": "Туалетна вода для чоловіків",
+    "path": "Гігієна та догляд > Косметика та парфумерія > Туалетна вода для чоловіків",
+    "reasoning": "The leaf category 'Туалетна вода для чоловіків' means 'Eau de toilette for men' — men's fragrance/perfume products. Looking through the reference tree, there is no specific category for perfumes, fragrances, or eau de toilette. The closest related categories are in the 'Гігієна та краса' section, specifically 'Для чоловіків' which contains men's grooming products like deodorants, shower products, hair/beard care, skincare, shaving, and condoms. However, none of these specifically cover fragrances or eau de toilette. The 'Декоративна косметика' and other beauty subcategories also don't include fragrances. There is no reference category that genuinely covers men's eau de toilette/fragrances, so this is a related domain (personal care/beauty) but no specific reference category covers it."
+  },
+  {
+    "id": "7457",
+    "name": "Святкові костюми",
+    "path": "Хобі та відпочинок > Товари для свята > Святкові костюми",
+    "reasoning": "The leaf category 'Святкові костюми' means 'Holiday/Party Costumes' — costumes worn for celebrations, holidays, carnivals, Halloween, etc. Looking through the reference tree, there is no specific category for costumes or party costumes. The closest related categories are under 'Госптовари, non-food > Для дому > Товари для свят' which includes items like 'Для днів народжень і вечірок', 'Тематичні свята', 'Святковий посуд і аксесуари', and 'Подарункова упаковка, листівки'. However, none of these specifically cover costumes/clothing. There is also clothing under 'Госптовари, non-food > Для дому > Одяг і аксесуари' but that covers everyday clothing items like socks, stockings, shoes. Costumes are a distinct product type not covered by any reference category. The domain (holiday/party goods) is related but no specific reference category covers holiday costumes."
+  },
+  {
+    "id": "7566",
+    "name": "Піротехніка та феєрверки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка та феєрверки",
+    "reasoning": "The leaf category 'Піротехніка та феєрверки' means 'Pyrotechnics and fireworks' — products like fireworks, sparklers, firecrackers, and similar pyrotechnic items. These are typically sold as festive/holiday items. Looking through the reference tree, there is no dedicated pyrotechnics or fireworks category. The closest contextual match might be holiday/celebration items under 'Товари для свят' (id 674-678), but those cover party decorations and accessories, not pyrotechnics specifically. There is also 'Запальнички, сірники' (id 644) which is fire-related but not pyrotechnics. No reference category genuinely covers pyrotechnic products. This is a related domain (festive goods) but no specific reference category covers fireworks/pyrotechnics."
+  },
+  {
+    "id": "7588",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category 'Акційні пропозиції' means 'Promotional offers' or 'Special offers' in Ukrainian. This is a promotional/marketing category that groups discounted or special-deal products together. Looking at the reference tree, there are categories under 'Спеціальні пропозиції (Виключити)' which are explicitly marked for exclusion and relate to special offers. However, 'Акційні пропозиції' as a standalone promotional category does not map to any specific product category in the reference tree. It is a cross-cutting marketing category that could contain products from any department. There is no direct equivalent in the reference tree that represents a general 'promotional offers' section without being tied to a specific product type. The 'Спеціальні пропозиції' categories are marked as excluded and are tied to specific product types (vegetables, meat, beer, etc.), not a general promotional umbrella. No genuine semantic fit exists for a general promotional offers category."
+  },
+  {
+    "id": "7594",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The leaf category 'Новорічні подарунки для дорослих' means 'New Year gifts for adults'. This is a holiday gift category targeting adults, which would typically contain gift sets, confectionery boxes, alcohol gift sets, and similar items. Looking through the reference tree, the closest match is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id: 462) or 'Бакалія і консерви > Солодощі > Солодощі до свят > Солодкі подарунки для дітей' — but those are too specific. The best match in the reference tree is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id: 462), however this is specifically candy gifts. A broader and more fitting match would be the holiday sweets/gifts section. Looking more carefully, 'Госптовари, non-food > Гігієна та краса > Подарункові набори' (id: 798) covers gift sets but is beauty-focused. The category 'Бакалія і консерви > Солодощі > Солодощі до свят' as a parent doesn't exist as a leaf. The most semantically appropriate leaf is id 462 'Подарункові цукерки' under holiday sweets, but adult gifts could also include alcohol. There is no general 'adult gift sets' category. The closest match remains the holiday gifts section — id 462 'Подарункові цукерки' is the best available leaf under holiday sweets. However, since adult New Year gifts span many categories (alcohol, cosmetics, sweets) and no single reference leaf covers this broad concept, and the reference has no general 'New Year gifts' category, this is best considered out of scope but in a related domain."
+  },
+  {
+    "id": "7718",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі",
+    "reasoning": "The leaf category 'Інші солодощі' means 'Other sweets/confectionery' in Ukrainian. This is a catch-all category for sweets that don't fit into more specific subcategories. Looking at the reference tree, there are many specific sweet/confectionery categories under 'Бакалія і консерви > Солодощі'. However, 'Інші солодощі' is a generic residual category. The reference tree does not have a direct 'other sweets' category. The closest broad match would be within the sweets domain. Since the source is a generic catch-all for sweets, and the reference has no equivalent generic 'other sweets' category, I should not match on shared generic words alone. However, looking at the options, Eastern sweets ('Східні солодощі') or other specific categories don't fit. The category could contain various types of candies, chocolates, or confectionery not classified elsewhere. Given no specific match exists for a generic 'other sweets' residual category, but the domain is clearly food/confectionery which is well represented in the reference tree, I'll map it to null with out_of_scope false since it's in the right domain but no specific reference category covers a generic 'other sweets' bucket."
+  },
+  {
+    "id": "7879",
+    "name": "Галантерея",
+    "path": "Товари для дому > Галантерея",
+    "reasoning": "Галантерея (haberdashery) refers to small accessories and notions such as buttons, threads, needles, ribbons, zippers, sewing accessories, and similar small household/textile goods. Looking through the reference tree, there is no category for sewing notions, haberdashery, or textile accessories. The closest categories in the reference tree are household goods (Госптовари), but none specifically cover haberdashery/sewing notions. The category 'Домашній текстиль' (id 672) covers home textiles but not haberdashery notions. There is no specific match in the reference tree for this type of product. Since this is a related household domain but no specific reference category covers haberdashery/sewing notions, it is out_of_scope: false with no mapped ID."
+  },
+  {
+    "id": "7880",
+    "name": "Вішаки та плечики",
+    "path": "Товари для дому > Вішаки та плечики",
+    "reasoning": "The leaf category 'Вішаки та плечики' refers to hangers and coat hangers (clothing hangers/hooks for hanging clothes). This is a home goods/household item. Looking through the reference tree, there is no specific category for hangers or coat hangers. The closest categories in the household goods section include 'Господарчі дрібниці' (id 639, small household items) or 'Аксесуари для ванни і туалету' (id 637), but neither specifically covers clothing hangers. 'Догляд за одягом і взуттям' (id 645) is about clothing/shoe care products, not storage accessories. There is no category that genuinely fits hangers and coat hangers in the reference tree. This is a home goods item that is within a related domain but has no specific matching reference category."
+  },
+  {
+    "id": "8134",
+    "name": "Горщики",
+    "path": "Товари для дітей > Догляд > Горщики",
+    "reasoning": "The leaf category 'Горщики' in the context of 'Товари для дітей > Догляд' refers to children's potty training toilets (дитячі горщики). Looking through the reference tree, there is a category 'Дитячі товари > Підгузки і пелюшки' and related child care categories, but no specific 'горщики' (potties) category. The closest related reference category would be 'Дитячі товари > Товари для мам' (id: 846) or hygiene-related children's items, but none specifically cover potties. There is also 'Госптовари, non-food > Гігієна та краса > Особиста гігієна та здоров'я > Аксесуари для ванни і туалету' (id: 637) which covers bathroom/toilet accessories, but this is for adults. Children's potties are a children's product category that exists in the reference tree's domain (дитячі товари) but there is no specific leaf category for it. Since it is within the children's products domain which exists in the reference tree but lacks a specific matching leaf category, this is a related domain with no specific coverage."
+  },
+  {
+    "id": "8205",
+    "name": "Бальзам, мазь, крем",
+    "path": "Гігієна та догляд > Фармацевтика > Бальзам, мазь, крем",
+    "reasoning": "The leaf category 'Бальзам, мазь, крем' refers to balms, ointments, and creams — pharmaceutical/medicinal topical products. In the reference tree, there is no dedicated pharmaceutical/medicinal ointment category. The closest matches would be body care creams ('Крем для тіла' id=758) or hand/foot creams ('Крем для рук і ніг' id=786), but these are cosmetic/care products, not pharmaceutical ointments/balms. There is also 'Антисептики, маски, пластирі, інше' (id=755) which covers some pharmaceutical/first-aid items. However, the source category specifically covers pharmaceutical balms, ointments and creams (медичні мазі, бальзами) which are medicinal products — not purely cosmetic creams. The reference tree lacks a proper pharmaceutical/medicinal topical products category. The 'Антисептики, маски, пластирі, інше' category is the closest in the health/hygiene domain but is not a good semantic fit for ointments and creams specifically. Since no reference category adequately covers pharmaceutical ointments/balms/creams, and this is a related domain (health/hygiene) but without a specific matching category, I declare no match with out_of_scope: false."
+  },
+  {
+    "id": "8310",
+    "name": "Інше",
+    "path": "Кухня > Одноразовий посуд > Інше",
+    "reasoning": "The leaf category 'Інше' (Other) sits under 'Кухня > Одноразовий посуд' (Kitchen > Disposable tableware). This represents miscellaneous disposable tableware/kitchenware items that don't fit into more specific subcategories. In the reference tree, there is a category 'Госптовари, non-food > Для дому > Одноразовий посуд > Набори посуду' (id=660) which covers sets/assortments of disposable tableware. However, 'Інше' is a generic catch-all and should not be matched purely on shared generic words. Looking at the reference disposable tableware categories: Склянки (657), Ложки/виделки/ножі (658), Тарілки (659), Набори посуду (660). The 'Інше' category would contain items that don't fit these specific types — possibly straws, containers, trays, etc. The closest match would be 'Набори посуду' (id=660) as a catch-all, but matching on a generic 'other' category to a specific reference category is not semantically sound. Per the rules, I should not match on shared generic words alone. Since no specific reference category covers 'other disposable tableware items', but the domain (disposable tableware for kitchen/home) is clearly represented in the reference tree, this is a related domain with no specific category covering the miscellaneous remainder."
+  },
+  {
+    "id": "8343",
+    "name": "Піротехніка та феєрверки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка та феєрверки",
+    "reasoning": "The leaf category 'Піротехніка та феєрверки' means 'Pyrotechnics and fireworks' — products like fireworks, sparklers, firecrackers, and similar pyrotechnic items. These are typically sold as festive/holiday items. Looking through the reference tree, there is no dedicated category for pyrotechnics or fireworks. The closest related categories might be 'Товари для свят' (holiday goods) under Госптовари, but none of the subcategories (для днів народжень, подарункова упаковка, тематичні свята, соломинки, святковий посуд) specifically cover pyrotechnics or fireworks. There is also 'Запальнички, сірники' (lighters, matches) which is in a different domain. No reasonable match exists in the reference tree for pyrotechnics/fireworks as a product category."
+  },
+  {
+    "id": "8388",
+    "name": "Подарункові сертифікати",
+    "path": "Хобі та відпочинок > Подарункові сертифікати",
+    "reasoning": "The leaf category 'Подарункові сертифікати' means 'Gift Certificates' — these are vouchers or certificates given as gifts. Looking through the reference tree, there is no category for gift certificates or vouchers. The closest gift-related categories are 'Товари для свят' (holiday goods) with subcategories like 'Подарункова упаковка, листівки' (gift wrapping, cards) or 'Подарункові цукерки' (gift candies), but none of these cover gift certificates as a product type. Gift certificates are a financial/service instrument, not a physical product category that fits into any of the available reference categories. This is a concept that simply doesn't exist in the reference taxonomy."
+  },
+  {
+    "id": "8402",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category 'Акційні пропозиції' means 'Promotional offers' or 'Special offers' in Ukrainian. This is a promotional/marketing category that groups discounted or special-deal products together, not a specific product category. Looking through the reference tree, the closest analogues are the 'Спеціальні пропозиції (Виключити)' categories (ids 3-13), which are explicitly marked as special/promotional offer categories. However, those are marked '(Виключити)' meaning they should be excluded. There is no clean promotional offers category in the reference tree that isn't marked for exclusion. The category 'Акційні пропозиції' is a cross-cutting promotional grouping that doesn't map to any specific product leaf category in the reference tree. It is not out of scope in terms of domain (it's a retail store category), but no specific reference category covers a generic 'promotional offers' grouping."
+  },
+  {
+    "id": "8408",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The leaf category 'Новорічні подарунки для дорослих' means 'New Year gifts for adults'. This is a holiday/seasonal gift category containing various gift items for adults. Looking through the reference tree, the closest match is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id 462) which covers holiday sweets/gifts, but that is too specific to candy. There is also 'Госптовари, non-food > Для дому > Товари для свят > Подарункова упаковка, листівки' (id 675) which is about gift packaging. However, none of these truly capture a broad 'gifts for adults' category. The reference tree does not have a general 'New Year gifts for adults' category. The closest thematic match would be holiday-related gift items. Given that this is a broad gift category for adults during New Year, and the reference tree has 'Солодощі до свят > Подарункові цукерки' (id 462) as a holiday gift option, but this is too narrow. There is no general adult gift category in the reference. This category is out of scope for this store's reference taxonomy (which is a grocery/household store), but it is related in domain (holiday goods exist in the reference). Since there is no specific reference category that covers general adult New Year gifts broadly, and the reference tree is a grocery/household store taxonomy, I will declare no match with out_of_scope: false as the domain partially overlaps."
+  },
+  {
+    "id": "8532",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі",
+    "reasoning": "The leaf category 'Інші солодощі' means 'Other sweets/confectionery' in Ukrainian. This is a catch-all category for sweets that don't fit into more specific subcategories. Looking at the reference tree, there are many specific sweets subcategories (chocolates, candies, marshmallows, eastern sweets, etc.) but no direct 'other sweets' catch-all. However, the reference tree does not have a generic 'other sweets' category. The closest broad match would be within the sweets section. Since this is a generic catch-all for sweets not covered by specific categories, and there is no equivalent generic catch-all in the reference, I need to find the best semantic fit. The reference has many specific sweets categories but no 'інші солодощі' equivalent. Given that this is a residual/catch-all sweets category, and the reference doesn't have an equivalent catch-all, but the domain is clearly food/confectionery which is well represented, I'll map it to null as there's no specific reference category that covers 'other sweets' as a catch-all — but the domain is in scope (food store). Setting out_of_scope to false since it's a related domain but no specific reference category covers a generic 'other sweets' residual."
+  },
+  {
+    "id": "8698",
+    "name": "Кошики для зберігання",
+    "path": "Товари для дому > Кошики для зберігання",
+    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — containers/baskets used for organizing and storing items at home. Looking through the reference tree, there is no specific category for storage baskets. The closest match would be under household goods. Category id 671 'Для зберігання продуктів' (For storing food products) is specifically for food storage, not general home storage baskets. Category id 639 'Господарчі дрібниці' (Household small items) is too generic. There is no specific reference category for home storage baskets/organizers. This is a home goods item that falls within the general household domain but no specific reference category covers storage baskets as a product type. It is not out of scope (it's a home goods item), but there is no adequate specific match in the reference tree."
+  },
+  {
+    "id": "8925",
+    "name": "Горщики",
+    "path": "Товари для дітей > Догляд > Горщики",
+    "reasoning": "The leaf category 'Горщики' in the context of 'Товари для дітей > Догляд' refers to children's potty training toilets (дитячі горщики). This is a baby/toddler care product. Looking through the reference tree, the closest match is 'Дитячі товари > Підгузки і пелюшки' or other child care categories. However, there is no specific category for children's potties. The category 'Дитячі товари > Товари для мам' (id 846) is too broad and unrelated. Looking more carefully, 'Для тварин > Для собак > Пелюшки і туалети для собак' is clearly wrong. There is no direct match for children's potties in the reference tree. The closest domain would be children's goods, but none of the specific leaf categories cover potty training toilets. The reference has categories for diapers, feeding, toys, cosmetics for children, but not potties specifically. This is a children's product that falls within the children's goods domain but has no specific matching leaf category."
+  },
+  {
+    "id": "9059",
+    "name": "Медичні вироби та прилади",
+    "path": "Гігієна та догляд > Фармацевтика > Медичні вироби та прилади",
+    "reasoning": "The leaf category 'Медичні вироби та прилади' (Medical devices and equipment) contains products like thermometers, blood pressure monitors, bandages, medical instruments, etc. Looking through the reference tree, the closest match is 'Антисептики, маски, пластирі, інше' (id 755) under personal hygiene and health, which partially overlaps but is too narrow. There is no dedicated medical devices/equipment category in the reference tree. The reference tree does not contain a category specifically for medical devices and instruments. The closest domain would be personal hygiene and health (id 755), but that category focuses on antiseptics, masks, and plasters rather than medical devices and instruments broadly. Since there is no adequate match for medical devices and instruments as a category, but this is a health-related domain that is adjacent to categories present in the reference tree, I will declare no match with out_of_scope set to false."
+  },
+  {
+    "id": "9072",
+    "name": "Парфуми",
+    "path": "Гігієна та догляд > Парфуми",
+    "reasoning": "The leaf category 'Парфуми' means 'Perfumes/Fragrances' in Ukrainian. Looking through the reference tree, there is no dedicated perfume or fragrance category. The closest related categories are under 'Госптовари, non-food > Гігієна та краса' which includes personal care and beauty products. There is 'Аромати для дому' (id 682) which is home fragrances/diffusers, not personal perfumes. There is also 'Подарункові набори' (id 798) which could include perfume gift sets but is not specific to perfumes. The reference tree does not contain a specific category for personal perfumes/fragrances. Since perfumes are a beauty/personal care product that is related to the domain covered by the reference tree (hygiene and beauty), but no specific category exists for them, this is a related domain with no specific match."
+  },
+  {
+    "id": "9147",
+    "name": "Ножиці, ножі, леза",
+    "path": "Канцелярія > Офісне приладдя > Ножиці, ножі, леза",
+    "reasoning": "The leaf category 'Ножиці, ножі, леза' refers to scissors, knives, and blades used as office/stationery supplies (e.g., paper cutters, craft knives, scissors). Looking through the reference tree, the closest match is 'Кухонні ножі' (id 668) under Посуд, but that is specifically kitchen knives. There is no stationery/office scissors or craft knife category in the reference tree. The reference tree does not contain a category for office/stationery cutting tools. The domain (stationery/office supplies) is partially represented in the reference tree under 'Канцелярія, книги, журнали' but none of those subcategories cover scissors, knives, or blades. This is a stationery item not covered by any specific reference category, so it is related domain but no specific category covers it."
+  },
+  {
+    "id": "9198",
+    "name": "Календарі",
+    "path": "Хобі та відпочинок > Книги > Календарі",
+    "reasoning": "The leaf category 'Календарі' means 'Calendars' in Ukrainian. These are printed calendars, which fall under stationery/books/paper goods. Looking through the reference tree, there is no specific 'Calendars' category. The closest matches would be in the stationery/books section: 'Журнали і газети' (id 699) or 'Книги' (id 700) or 'Канцелярські аксесуари' (id 694). Calendars are not magazines/newspapers, not books in the traditional sense, and not really stationery accessories. The best semantic fit would be 'Книги' (id 700) since calendars are printed publications, but calendars are distinctly different from books. Alternatively, 'Канцелярські аксесуари' could work as a catch-all. However, none of these are a strong match. Given that calendars are printed paper products most commonly grouped with stationery/books in retail, and 'Журнали і газети' (magazines and newspapers) is the closest category for periodical printed materials, but calendars are not periodicals either. The best available match is 'Книги' (id 700) as printed publications, though it's imperfect. Since no specific calendar category exists and the domain (printed goods/stationery) is represented in the reference tree, this is a related domain with no specific category — mapped_to_id should be null with out_of_scope false."
+  },
+  {
+    "id": "9223",
+    "name": "Все для бані",
+    "path": "Хобі та відпочинок > Все для бані",
+    "reasoning": "The leaf category 'Все для бані' means 'Everything for the sauna/bathhouse' in Ukrainian. This would include products like sauna accessories, bath brushes, towels, sauna fragrances, etc. Looking through the reference tree, there is no specific category for sauna/bathhouse products. The closest related categories might be bathroom accessories (637 - аксесуари для ванни і туалету), home goods, or personal care, but none specifically cover sauna products. The category 'Аксесуари для ванни і туалету' (id 637) is about bathroom/toilet accessories rather than sauna equipment. There is no meaningful semantic match in the reference tree for sauna-specific products. This is a hobby/leisure/home category that simply doesn't have a corresponding leaf category in the reference tree."
+  },
+  {
+    "id": "9224",
+    "name": "Подарункові сертифікати",
+    "path": "Хобі та відпочинок > Подарункові сертифікати",
+    "reasoning": "The leaf category 'Подарункові сертифікати' means 'Gift Certificates' — these are vouchers or certificates given as gifts. Looking through the entire reference tree, there is no category for gift certificates or vouchers. The closest gift-related categories are 'Товари для свят' (holiday goods), 'Подарункова упаковка, листівки' (gift wrapping, cards), or 'Подарункові цукерки' (gift candies), but none of these cover gift certificates as a product type. Gift certificates are a financial/service instrument, not a physical product category present in this food and household goods store taxonomy. This is a related but uncovered concept — not completely out of domain (a store could sell gift certificates), but no specific reference category exists for it."
+  },
+  {
+    "id": "9264",
+    "name": "Піротехніка та феєрверки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка та феєрверки",
+    "reasoning": "The leaf category 'Піротехніка та феєрверки' means 'Pyrotechnics and fireworks' — products like fireworks, sparklers, firecrackers, and similar pyrotechnic items. These are typically sold as festive/holiday items. Looking through the reference tree, there is no dedicated pyrotechnics or fireworks category. The closest contextual match might be holiday/celebration items under 'Товари для свят' (id 674-678), but those categories cover party decorations, gift wrapping, and tableware — not pyrotechnics. There is also 'Запальнички, сірники' (id 644) which is fire-related but not pyrotechnics. No reference category genuinely covers pyrotechnic products. This is a related domain (festive/holiday goods) but no specific reference category covers fireworks or pyrotechnics."
+  },
+  {
+    "id": "9267",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category 'Акційні пропозиції' means 'Promotional offers' or 'Special offers' in Ukrainian. This is a marketing/promotional category that groups discounted or featured products, not a specific product category. Looking at the reference tree, there are categories like 'Спеціальні пропозиції (Виключити)' which are explicitly marked for exclusion. There is no direct equivalent promotional/sale category in the reference tree that would be a valid match. This category is a meta-category (promotional grouping) rather than a product category, and no reference category genuinely covers this concept as a product type."
+  },
+  {
+    "id": "9268",
+    "name": "Бери більше",
+    "path": "Бери більше",
+    "reasoning": "The leaf category 'Бери більше' translates to 'Take more' or 'Buy more' in Ukrainian. This appears to be a promotional/special offers category (like 'buy more, get more' deals). Looking at the reference tree, there is no equivalent promotional category. The closest categories are the 'Спеціальні пропозиції (Виключити)' categories, but those are marked for exclusion and contain food subcategories. 'Бери більше' is a generic promotional mechanic category that doesn't map to any specific product category in the reference tree. It's not out of scope in terms of domain (it's a retail store category), but there's no specific reference category that covers promotional bundles or 'buy more' deals."
+  },
+  {
+    "id": "9273",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The leaf category 'Новорічні подарунки для дорослих' means 'New Year gifts for adults'. This is a holiday gift category targeting adults. Looking through the reference tree, the closest match is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id 462) or gift-related categories. However, the most semantically fitting category is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' — but this is too narrow. The reference has a broader holiday sweets section. Looking more carefully, there is no specific 'New Year gifts for adults' category. The closest general gift/holiday category is 'Госптовари, non-food > Для дому > Товари для свят > Для днів народжень і вечірок' (id 674) or 'Подарункова упаковка, листівки' (id 675). However, adult New Year gifts typically include alcohol, sweets, cosmetics sets, etc. The reference category 'Бакалія і консерви > Солодощі > Солодощі до свят' subcategories cover holiday sweets/gifts. The best match considering the holiday gifting context for adults is 'Госптовари, non-food > Гігієна та краса > Подарункові набори' (id 798) — but that's beauty-specific. The most general holiday gift category is id 674 'Для днів народжень і вечірок' which is not quite right either. Given no specific 'New Year adult gifts' category exists, and the category is a broad gift assortment, the best available match is 'Бакалія і консерви > Солодощі > Солодощі до свят > Подарункові цукерки' (id 462) as holiday gift sweets are the most common adult gift item, but this is a partial match. Overall, no strong specific match exists in the reference tree for this broad gifting category."
+  },
+  {
+    "id": "9642",
+    "name": "Аксесуари для електроніки",
+    "path": "Товари для дому > Електротовари > Аксесуари для електроніки",
+    "reasoning": "The leaf category 'Аксесуари для електроніки' (Electronics Accessories) contains products like phone cases, cables, chargers, screen protectors, and other accessories for electronic devices. Looking through the reference tree, which is a grocery/food/household store catalog, there is a category 'Госптовари, non-food > Для дому > Побутова техніка і електроніка' (id: 691) that covers household appliances and electronics. However, this is a single broad category and not specifically about accessories for electronics. There is no specific category for electronics accessories in the reference tree. The closest match would be id 691 'Побутова техніка і електроніка', but electronics accessories are a distinct subcategory. Since the reference tree does have a general electronics category (id 691), this could be a partial match, but electronics accessories specifically are not well represented. Given that the domain (household goods/electronics) does exist in the reference tree but no specific category for electronics accessories exists, this is best classified as a related domain with no specific matching category."
+  },
+  {
+    "id": "9645",
+    "name": "Галантерея",
+    "path": "Товари для дому > Галантерея",
+    "reasoning": "The leaf category 'Галантерея' (haberdashery) refers to small household goods, accessories, and notions — typically items like sewing supplies, buttons, ribbons, small leather goods, bags, belts, and similar accessories. In the context of 'Товари для дому' (household goods), this likely covers small accessories and notions. Looking through the reference tree, the closest match would be in the household goods section. 'Господарчі дрібниці' (id 639) means 'household small items/knick-knacks' which could partially overlap, but haberdashery is more specific to textile accessories and small personal items. The category 'Валізи і сумки' (bags and suitcases, id 688) or 'Одяг і аксесуари' sections are partial matches. However, 'Галантерея' most broadly covers small accessories for personal use and home — the reference category 'Господарчі дрібниці' (id 639, 'household small items') is the closest functional match in the reference tree, though it's not a perfect match. Alternatively, looking at clothing/accessories categories, none specifically cover haberdashery. Given the imperfect fit, the closest available category is 'Господарчі дрібниці' under household goods, but this is a weak match. Since no specific haberdashery/notions category exists in the reference tree, and the domain (household accessories/notions) is related but not specifically covered, this is best marked as no match with out_of_scope false."
+  },
+  {
+    "id": "9821",
+    "name": "Фармацевтика",
+    "path": "Гігієна та догляд > Фармацевтика",
+    "reasoning": "The leaf category 'Фармацевтика' (Pharmaceuticals) refers to pharmaceutical products, medicines, drugs, and related health products. Looking through the reference tree, which is a grocery/food/household store catalog, there is no dedicated pharmaceutical or medicine category. The closest related category would be 'Антисептики, маски, пластирі, інше' (id: 755) under personal hygiene, but that only covers a narrow subset of pharmaceutical products. There are also vitamin/supplement categories under БАДи, but those are dietary supplements, not pharmaceuticals. No reference category adequately covers the broad pharmaceutical domain. However, this is not completely out of scope for a store that sells hygiene and health products — it's a related domain but simply not specifically represented in the reference tree."
+  },
+  {
+    "id": "9970",
+    "name": "Одяг",
+    "path": "Одяг та взуття > Одяг",
+    "reasoning": "The leaf category 'Одяг' means 'Clothing/Apparel'. Looking through the reference tree, which belongs to a weapons, tactical, and outdoor equipment store context mixed with a grocery/household store, I can find some clothing-related categories. The reference has 'Госптовари, non-food > Для дому > Одяг і аксесуари' which contains subcategories like колготки, шкарпетки, взуття, валізи, головні убори, білизна. However, none of these are a direct match for general 'Одяг' (clothing). There is also 'Дитячі товари > Дитячий одяг, взуття, текстиль' but that is specifically for children. The source category 'Одяг' is general adult clothing/apparel. The closest reference category would be within 'Госптовари, non-food > Для дому > Одяг і аксесуари' but there is no single leaf node that represents general 'Одяг' — the leaf nodes there are specific items like socks, stockings, shoes, bags, headwear, underwear. There is no general 'Одяг' leaf in the reference. Since clothing is a related domain (it appears in the reference tree under household goods) but no specific leaf category covers general adult clothing/apparel, this is a related domain with no specific match."
+  },
+  {
+    "id": "9973",
+    "name": "Різдвяний експрес знижок 10.12-06.01.26",
+    "path": "Різдвяний експрес знижок 10.12-06.01.26",
+    "reasoning": "The leaf category 'Різдвяний експрес знижок 10.12-06.01.26' translates to 'Christmas express of discounts 10.12-06.01.26' — this is a promotional/seasonal sale campaign running from December 10 to January 6, 2026. It is a marketing/promotional category, not a product category. Looking through the reference tree, there is no category for promotional campaigns or seasonal sales. The closest thematic match might be holiday-related categories like 'Солодощі до свят' or 'Товари для свят', but those are specific product categories, not promotional banners. This source category is a promotional wrapper that could contain any products across the store. There is no genuine semantic fit to any single reference leaf category."
+  },
+  {
+    "id": "11012",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category 'Акційні пропозиції' means 'Promotional offers' or 'Special offers' in Ukrainian. This is a promotional/marketing category that groups discounted or special-deal products together. Looking at the reference tree, there are categories under 'Спеціальні пропозиції (Виключити)' which are explicitly marked for exclusion, and they contain subcategories for food, beverages, home goods, and beauty products. However, 'Акційні пропозиції' as a standalone promotional category does not map to any specific product category in the reference tree. It is a cross-category promotional grouping that could contain any type of product on sale. There is no direct equivalent in the reference tree that represents a general 'promotional offers' category without being tied to a specific product type. The 'Спеціальні пропозиції' categories are marked for exclusion and contain specific subcategories. Since this is a generic promotional category with no specific product domain, and no reference category covers this concept, there is no valid match."
+  },
+  {
+    "id": "11013",
+    "name": "ЗнижкоLove",
+    "path": "ЗнижкоLove",
+    "reasoning": "The leaf category 'ЗнижкоLove' appears to be a promotional/marketing category name combining 'Знижко' (discount/sale) with 'Love'. This is a special promotional offers or discounts section, not a specific product category. It does not correspond to any specific product type in the reference tree. The reference tree does have special offer categories under 'Спеціальні пропозиції (Виключити)' but those are marked for exclusion and contain specific subcategories (vegetables, meat, beer, etc.). 'ЗнижкоLove' is a generic discount/promotional campaign category that doesn't map to any specific product leaf category in the reference tree. It is related to the grocery/retail domain but no specific reference category covers a generic promotional/discount section."
+  },
+  {
+    "id": "11319",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі",
+    "reasoning": "The leaf category 'Інші солодощі' means 'Other sweets/confectionery'. This is a catch-all category for sweets that don't fit into more specific subcategories. In the reference tree, there are many specific sweet categories but no direct 'other sweets' catch-all. However, the reference tree has a broad sweets section under 'Бакалія і консерви > Солодощі'. Since the source is a generic 'other sweets' category, I should not match it to a specific subcategory like chocolates, candies, or cookies. The rule states not to match on shared generic words alone. There is no 'Інші солодощі' or equivalent catch-all in the reference. The closest broad match would be within the sweets domain, but no single reference leaf category represents 'other sweets' generically. Given that this is a residual/catch-all category with no specific reference equivalent, but it is clearly in the food/sweets domain (not out of scope), I should set mapped_to_id to null with out_of_scope false."
+  },
+  {
+    "id": "11907",
+    "name": "Для консервації",
+    "path": "Побутова хімія та товари для дому > Господарчі товари > Для консервації",
+    "reasoning": "The leaf category 'Для консервації' means 'For canning/preservation' in Ukrainian. This refers to household goods used for home canning and food preservation — items like jars, lids, sealing rings, jar openers, etc. Looking at the reference tree, there is a category 'Бакалія і консерви > Консервація' but that contains actual canned food products, not the tools/accessories for canning. The source category is about the household tools and accessories used in the canning process. In the reference tree, 'Господарчі товари > Господарчі дрібниці' (id: 639) could be a partial match, but it's too generic. There is no specific reference category for canning accessories/tools. The closest domain match would be within household goods (Господарчі товари), but none of the specific subcategories precisely cover canning tools and accessories. Since this is a household goods category that exists in the reference domain but has no specific matching leaf category, this is a related domain with no specific coverage."
+  },
+  {
+    "id": "11945",
+    "name": "Для хобі",
+    "path": "Побутова хімія та товари для дому > Хобі та відпочинок > Для хобі",
+    "reasoning": "The leaf category 'Для хобі' (For hobbies) is a general hobby supplies category. Looking through the reference tree, there is no direct 'hobby' category. The closest matches could be in arts/crafts or leisure areas. The reference tree has 'Дитяча творчість та ігри' (children's creativity and games) but that's specifically for children. There's also 'Розваги на свіжому повітрі' (outdoor entertainment) but that's too specific. The reference tree has 'Для туризму і спорту' under picnic and recreation section (id 705), which is a broad leisure/hobby category. However, 'Для хобі' is a very generic hobby supplies category that doesn't map cleanly to any specific reference category. The reference tree doesn't have a general hobby category for adults. The best potential match would be 'Для туризму і спорту' (id 705) under picnic and recreation, but hobby supplies are broader than just tourism and sport. Given the lack of a specific hobby category in the reference tree, and that hobby supplies span many domains not covered by a single reference category, there is no adequate match. This is a related domain (household goods store) but no specific reference category covers general hobby supplies."
+  },
+  {
+    "id": "11971",
+    "name": "Подарункові сертифікати",
+    "path": "Подарункові сертифікати",
+    "reasoning": "The leaf category 'Подарункові сертифікати' means 'Gift Certificates' in Ukrainian. These are vouchers/certificates used as gifts. Looking through the reference tree, there is no category specifically for gift certificates or vouchers. The closest related categories might be gift-related items like 'Подарункова упаковка, листівки' (id 675) or 'Подарункові цукерки' (id 462), but these are for physical gift packaging/wrapping or gift candy boxes, not gift certificates. Gift certificates are a financial/service product that doesn't fit into any of the food, household, hygiene, or other product categories listed. There is also 'Стартові пакети, картки' (id 701) which covers starter packs and cards, but that refers to mobile/telecom starter packs. No genuine semantic match exists in the reference tree for gift certificates as a product category."
+  },
+  {
+    "id": "11972",
+    "name": "Новорічні знижки",
+    "path": "Новорічні знижки",
+    "reasoning": "The leaf category 'Новорічні знижки' translates to 'New Year discounts/sales' - this is a promotional/sale category for New Year holiday deals. Looking through the reference tree, there is no category specifically for holiday discounts or promotional sales. The closest related categories would be holiday-themed items like 'Солодощі до свят' (id 460-464) or party supplies, but 'Новорічні знижки' is a promotional umbrella category, not a specific product category. There is no matching reference category that covers holiday discount promotions. This is a promotional category that doesn't map to any specific product leaf category in the reference tree."
+  },
+  {
+    "id": "11973",
+    "name": "Онлайн дешевше",
+    "path": "Онлайн дешевше",
+    "reasoning": "The leaf category 'Онлайн дешевше' translates to 'Cheaper Online' — this is a promotional/marketing category indicating products available at a discount when purchased online. It is not a product category itself but a commercial/pricing label. There is no equivalent promotional pricing category in the reference tree. This is a meta-category used for marketing purposes and does not map to any specific product category in the reference list."
+  },
+  {
+    "id": "12243",
+    "name": "Дитячі автомобільні крісла",
+    "path": "Товари для дітей > Гігієна та догляд > Дитячі автомобільні крісла",
+    "reasoning": "The leaf category 'Дитячі автомобільні крісла' refers to child car seats — safety seats for children used in vehicles. Looking through the reference tree, there is no category for child car seats, automotive accessories for children, or any related safety equipment. The reference tree covers food, beverages, household goods, hygiene, pet supplies, and children's items like diapers, toys, clothing, and feeding accessories — but nothing related to automotive child safety seats. The closest children's categories (diapers, toys, clothing, cosmetics) do not cover car seats. This product is out of scope for this reference catalog, but it is a children's product domain that simply isn't represented in the available categories."
+  },
+  {
+    "id": "12259",
+    "name": "Дитячий одяг",
+    "path": "Товари для дітей > Дитячий одяг, взуття > Дитячий одяг",
+    "reasoning": "The leaf category 'Дитячий одяг' means 'Children's clothing'. Looking through the reference tree, there is no direct children's clothing category. However, there are subcategories under 'Дитячі товари > Дитячий одяг, взуття, текстиль' which include items like дитячі шкарпетки (id:842), дитячі колготки (id:843), дитячі головні убори і аксесуари (id:844), дитяче взуття (id:845). None of these specifically cover general children's clothing (shirts, pants, jackets, etc.). The parent category 'Дитячий одяг, взуття, текстиль' exists in the reference tree but only as a parent node, not a leaf. The available leaf nodes under that parent are too specific (socks, tights, hats, shoes) and do not represent general children's clothing. There is no leaf category that broadly covers 'Дитячий одяг' as a whole. Since the domain (children's products) exists in the reference tree but no specific leaf category covers general children's clothing, this is a related domain with no matching leaf."
+  },
+  {
+    "id": "12432",
+    "name": "Кошерні продукти",
+    "path": "Кошерні продукти",
+    "reasoning": "Кошерні продукти (Kosher products) are food products that comply with Jewish dietary laws. This is a dietary/religious classification that can encompass a wide range of food items. Looking through the reference tree, there is no specific 'kosher products' category. The closest conceptual match would be under 'Здорове харчування' (Healthy eating) section which contains categories like 'Органічна їжа', 'Веганські продукти', 'Безлактозні продукти', 'Безглютенові продукти', 'Без доданого цукру', 'Дієтичне харчування' — these are all special dietary categories. However, kosher is a religious dietary classification, not exactly a health food category. None of these categories specifically cover kosher products. The reference tree does not have a category that genuinely matches kosher products as a distinct food classification. Since this is a food-related category but no specific reference category covers it, this is a related domain with no specific match."
+  },
+  {
+    "id": "12450",
+    "name": "Сувеніри, календарі",
+    "path": "Канцтовари, книги, преса > Сувеніри, календарі",
+    "reasoning": "The leaf category 'Сувеніри, календарі' (Souvenirs, calendars) contains souvenir items and calendars. Looking through the reference tree, there is no specific category for souvenirs or calendars. The closest related categories are in the stationery/office supplies area under 'Госптовари, non-food > Для дому > Канцелярія, книги, журнали', but none of those subcategories specifically cover souvenirs or calendars. The category 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id: 683) could partially cover decorative souvenirs, but calendars don't fit there. There is also 'Госптовари, non-food > Для дому > Товари для свят > Подарункова упаковка, листівки' (id: 675) which is related to gifts but not souvenirs/calendars specifically. No single reference category adequately covers both souvenirs and calendars as a combined category. This is a related domain (home goods, stationery) but no specific reference category covers souvenirs and calendars together."
+  },
+  {
+    "id": "12475",
+    "name": "Парфумерні товари",
+    "path": "Краса, гігієна > Догляд за обличчям і тілом > Парфумерні товари",
+    "reasoning": "The leaf category 'Парфумерні товари' means 'Perfumery products/goods' — this includes perfumes, eau de toilette, colognes, and similar fragrance products. Looking through the reference tree, there is no dedicated perfumery or fragrance category. The closest related categories are in the hygiene/beauty section (Госптовари, non-food > Гігієна та краса), which includes body care, face care, hair care, men's grooming, etc. There is a category 'Аромати для дому' (id 682) but that covers home fragrances, not personal perfumery. There is also 'Подарункові набори' (id 798) in the beauty section. None of these specifically cover personal perfumes/fragrances. The reference tree lacks a perfumery category. Since this is a beauty/hygiene related domain but no specific reference category covers personal fragrances/perfumery products, this should be marked as no match but not out of scope."
+  },
+  {
+    "id": "12481",
+    "name": "Помазок, щітка для гоління",
+    "path": "Краса, гігієна > Засоби для гоління > Помазок, щітка для гоління"
+  },
+  {
+    "id": "12520",
+    "name": "Біопрепарати для очищення",
+    "path": "Товари для дачі, відпочинку > Сад, город > Біопрепарати для очищення"
+  },
+  {
+    "id": "12535",
+    "name": "Спортивні товари",
+    "path": "Товари для дачі, відпочинку > Спортивні товари"
+  },
+  {
+    "id": "12540",
+    "name": "Тара",
+    "path": "Товари для дачі, відпочинку > Тара"
+  },
+  {
+    "id": "12543",
+    "name": "Відра, ємності, кошики",
+    "path": "Товари для дому, авто > Господарські товари > Відра, ємності, кошики"
+  },
+  {
+    "id": "12544",
+    "name": "Фільтри для води, картриджі",
+    "path": "Товари для дому, авто > Господарські товари > Фільтри для води, картриджі"
+  },
+  {
+    "id": "12546",
+    "name": "Килимки",
+    "path": "Товари для дому, авто > Господарські товари > Килимки"
+  },
+  {
+    "id": "12547",
+    "name": "Рукавички господарські",
+    "path": "Товари для дому, авто > Господарські товари > Рукавички господарські"
+  },
+  {
+    "id": "12548",
+    "name": "Губки, скребки",
+    "path": "Товари для дому, авто > Господарські товари > Губки, скребки"
+  },
+  {
+    "id": "12549",
+    "name": "Швабри, щітки для прибирання",
+    "path": "Товари для дому, авто > Господарські товари > Швабри, щітки для прибирання"
+  },
+  {
+    "id": "12550",
+    "name": "Товари для догляду за одягом",
+    "path": "Товари для дому, авто > Господарські товари > Товари для догляду за одягом"
+  },
+  {
+    "id": "12551",
+    "name": "Фольга, пергамент,  рукав для запікання",
+    "path": "Товари для дому, авто > Господарські товари > Фольга, пергамент,  рукав для запікання"
+  },
+  {
+    "id": "12552",
+    "name": "Товари для зберігання їжі",
+    "path": "Товари для дому, авто > Господарські товари > Товари для зберігання їжі"
+  },
+  {
+    "id": "12553",
+    "name": "Серветки, ганчірки для прибирання",
+    "path": "Товари для дому, авто > Господарські товари > Серветки, ганчірки для прибирання"
+  },
+  {
+    "id": "12554",
+    "name": "Аксесуари для ванної кімнати",
+    "path": "Товари для дому, авто > Господарські товари > Аксесуари для ванної кімнати"
+  },
+  {
+    "id": "12556",
+    "name": "Посуд для приготування",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Посуд для приготування"
+  },
+  {
+    "id": "12557",
+    "name": "Посуд для сервірування",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Посуд для сервірування"
+  },
+  {
+    "id": "12558",
+    "name": "Посуд для суші",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Посуд для суші"
+  },
+  {
+    "id": "12559",
+    "name": "Посуд для холодних напоїв",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Посуд для холодних напоїв"
+  },
+  {
+    "id": "12560",
+    "name": "Посуд для чаю, кави",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Посуд для чаю, кави"
+  },
+  {
+    "id": "12561",
+    "name": "Чайники, термоси, френч-преси",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Чайники, термоси, френч-преси"
+  },
+  {
+    "id": "12562",
+    "name": "Пластиковий посуд",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Пластиковий посуд"
+  },
+  {
+    "id": "12563",
+    "name": "Кухонне приладдя",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Кухонне приладдя"
+  },
+  {
+    "id": "12564",
+    "name": "Кухонна навіска",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Кухонна навіска"
+  },
+  {
+    "id": "12565",
+    "name": "Ножі, ножиці",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Ножі, ножиці"
+  },
+  {
+    "id": "12566",
+    "name": "Аксесуари для випічки",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Аксесуари для випічки"
+  },
+  {
+    "id": "12567",
+    "name": "Кошики, хлібниці",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Кошики, хлібниці"
+  },
+  {
+    "id": "12568",
+    "name": "Консервування",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Консервування"
+  },
+  {
+    "id": "12570",
+    "name": "Набори одноразового посуду",
+    "path": "Товари для дому, авто > Одноразовий посуд > Набори одноразового посуду"
+  },
+  {
+    "id": "12571",
+    "name": "Тарілки, миски одноразові",
+    "path": "Товари для дому, авто > Одноразовий посуд > Тарілки, миски одноразові"
+  },
+  {
+    "id": "12572",
+    "name": "Склянки, келихи одноразові",
+    "path": "Товари для дому, авто > Одноразовий посуд > Склянки, келихи одноразові"
+  },
+  {
+    "id": "12573",
+    "name": "Виделки, ложки, ножі, мішалки одноразові",
+    "path": "Товари для дому, авто > Одноразовий посуд > Виделки, ложки, ножі, мішалки одноразові"
+  },
+  {
+    "id": "12574",
+    "name": "Контейнери одноразові",
+    "path": "Товари для дому, авто > Одноразовий посуд > Контейнери одноразові"
+  },
+  {
+    "id": "12575",
+    "name": "Скатертини одноразові",
+    "path": "Товари для дому, авто > Одноразовий посуд > Скатертини одноразові"
+  },
+  {
+    "id": "12576",
+    "name": "Шпажки, зубочистки, трубочки",
+    "path": "Товари для дому, авто > Одноразовий посуд > Шпажки, зубочистки, трубочки"
+  },
+  {
+    "id": "12578",
+    "name": "Текстиль для кухні",
+    "path": "Товари для дому, авто > Текстиль, декор > Текстиль для кухні"
+  },
+  {
+    "id": "12579",
+    "name": "Постільна білизна",
+    "path": "Товари для дому, авто > Текстиль, декор > Постільна білизна"
+  },
+  {
+    "id": "12580",
+    "name": "Подушки",
+    "path": "Товари для дому, авто > Текстиль, декор > Подушки"
+  },
+  {
+    "id": "12581",
+    "name": "Ковдри",
+    "path": "Товари для дому, авто > Текстиль, декор > Ковдри"
+  },
+  {
+    "id": "12582",
+    "name": "Пледи, покривала",
+    "path": "Товари для дому, авто > Текстиль, декор > Пледи, покривала"
+  },
+  {
+    "id": "12583",
+    "name": "Халати, лазневі рушники",
+    "path": "Товари для дому, авто > Текстиль, декор > Халати, лазневі рушники"
+  },
+  {
+    "id": "12584",
+    "name": "Вази",
+    "path": "Товари для дому, авто > Текстиль, декор > Вази"
+  },
+  {
+    "id": "12585",
+    "name": "Свічки, підсвічники",
+    "path": "Товари для дому, авто > Текстиль, декор > Свічки, підсвічники"
+  },
+  {
+    "id": "12587",
+    "name": "Ліхтарі, лампи, світильники",
+    "path": "Товари для дому, авто > Електротовари, освітлення > Ліхтарі, лампи, світильники"
+  },
+  {
+    "id": "12588",
+    "name": "Лампочки",
+    "path": "Товари для дому, авто > Електротовари, освітлення > Лампочки"
+  },
+  {
+    "id": "12589",
+    "name": "Батарейки, акумулятори",
+    "path": "Товари для дому, авто > Електротовари, освітлення > Батарейки, акумулятори"
+  },
+  {
+    "id": "12590",
+    "name": "Електротовари",
+    "path": "Товари для дому, авто > Електротовари, освітлення > Електротовари"
+  },
+  {
+    "id": "12591",
+    "name": "Товари для ремонту",
+    "path": "Товари для дому, авто > Товари для ремонту"
+  },
+  {
+    "id": "12593",
+    "name": "Автомастила",
+    "path": "Товари для дому, авто > Автотовари > Автомастила"
+  },
+  {
+    "id": "12595",
+    "name": "Автохімія",
+    "path": "Товари для дому, авто > Автотовари > Автохімія"
+  },
+  {
+    "id": "12596",
+    "name": "Технічна допомога",
+    "path": "Товари для дому, авто > Автотовари > Технічна допомога"
+  },
+  {
+    "id": "12597",
+    "name": "Автозапчастини, витратні матеріали",
+    "path": "Товари для дому, авто > Автотовари > Автозапчастини, витратні матеріали"
+  },
+  {
+    "id": "12598",
+    "name": "Електрообладнання",
+    "path": "Товари для дому, авто > Автотовари > Електрообладнання"
+  },
+  {
+    "id": "12599",
+    "name": "Автоаксесуари",
+    "path": "Товари для дому, авто > Автотовари > Автоаксесуари"
+  },
+  {
+    "id": "12607",
+    "name": "Засоби для пом`якшення води",
+    "path": "Побутова хімія > Засоби для прання > Засоби для пом`якшення води"
+  },
+  {
+    "id": "12608",
+    "name": "Мило господарське",
+    "path": "Побутова хімія > Засоби для прання > Мило господарське"
+  },
+  {
+    "id": "12615",
+    "name": "Догляд за побутовою технікою",
+    "path": "Побутова хімія > Догляд за побутовою технікою"
+  },
+  {
+    "id": "12622",
+    "name": "Блендери",
+    "path": "Побутова техніка > Кухонна побутова техніка > Блендери"
+  },
+  {
+    "id": "12623",
+    "name": "Ваги кухонні",
+    "path": "Побутова техніка > Кухонна побутова техніка > Ваги кухонні"
+  },
+  {
+    "id": "12624",
+    "name": "Грилі і електрошашличниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Грилі і електрошашличниці"
+  },
+  {
+    "id": "12625",
+    "name": "Електричні печі",
+    "path": "Побутова техніка > Кухонна побутова техніка > Електричні печі"
+  },
+  {
+    "id": "12626",
+    "name": "Електрочайники",
+    "path": "Побутова техніка > Кухонна побутова техніка > Електрочайники"
+  },
+  {
+    "id": "12627",
+    "name": "Кавоварки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Кавоварки"
+  },
+  {
+    "id": "12628",
+    "name": "Кавомолки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Кавомолки"
+  },
+  {
+    "id": "12629",
+    "name": "Кухонні комбайни",
+    "path": "Побутова техніка > Кухонна побутова техніка > Кухонні комбайни"
+  },
+  {
+    "id": "12630",
+    "name": "Міксери",
+    "path": "Побутова техніка > Кухонна побутова техніка > Міксери"
+  },
+  {
+    "id": "12631",
+    "name": "Мікрохвильові печі",
+    "path": "Побутова техніка > Кухонна побутова техніка > Мікрохвильові печі"
+  },
+  {
+    "id": "12632",
+    "name": "Млинниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Млинниці"
+  },
+  {
+    "id": "12633",
+    "name": "Морозивниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Морозивниці"
+  },
+  {
+    "id": "12634",
+    "name": "М`ясорубки",
+    "path": "Побутова техніка > Кухонна побутова техніка > М`ясорубки"
+  },
+  {
+    "id": "12635",
+    "name": "Мультиварки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Мультиварки"
+  },
+  {
+    "id": "12636",
+    "name": "Настільні плити",
+    "path": "Побутова техніка > Кухонна побутова техніка > Настільні плити"
+  },
+  {
+    "id": "12637",
+    "name": "Пароварки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Пароварки"
+  },
+  {
+    "id": "12638",
+    "name": "Соковижималки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Соковижималки"
+  },
+  {
+    "id": "12639",
+    "name": "Сушарки для овочів і фруктів",
+    "path": "Побутова техніка > Кухонна побутова техніка > Сушарки для овочів і фруктів"
+  },
+  {
+    "id": "12640",
+    "name": "Тостери",
+    "path": "Побутова техніка > Кухонна побутова техніка > Тостери"
+  },
+  {
+    "id": "12641",
+    "name": "Фритюрниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Фритюрниці"
+  },
+  {
+    "id": "12642",
+    "name": "Хлібопічки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Хлібопічки"
+  },
+  {
+    "id": "12644",
+    "name": "Догляд за одягом, взуттям",
+    "path": "Побутова техніка > Товари для догляду за будинком і одягом > Догляд за одягом, взуттям"
+  },
+  {
+    "id": "12645",
+    "name": "Пилососи",
+    "path": "Побутова техніка > Товари для догляду за будинком і одягом > Пилососи"
+  },
+  {
+    "id": "12646",
+    "name": "Праски, прасувальні системи",
+    "path": "Побутова техніка > Товари для догляду за будинком і одягом > Праски, прасувальні системи"
+  },
+  {
+    "id": "12648",
+    "name": "Ваги підлогові",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Ваги підлогові"
+  },
+  {
+    "id": "12649",
+    "name": "Електробритви",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Електробритви"
+  },
+  {
+    "id": "12650",
+    "name": "Косметичні прилади",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Косметичні прилади"
+  },
+  {
+    "id": "12651",
+    "name": "Машинки для стрижки, тримери",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Машинки для стрижки, тримери"
+  },
+  {
+    "id": "12652",
+    "name": "Плойки, випрямлячі, щипці для волосся",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Плойки, випрямлячі, щипці для волосся"
+  },
+  {
+    "id": "12653",
+    "name": "Фени",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Фени"
+  },
+  {
+    "id": "12655",
+    "name": "Вентилятори",
+    "path": "Побутова техніка > Кліматична техніка > Вентилятори"
+  },
+  {
+    "id": "12656",
+    "name": "Зволожувачі повітря",
+    "path": "Побутова техніка > Кліматична техніка > Зволожувачі повітря"
+  },
+  {
+    "id": "12657",
+    "name": "Обігрівачі",
+    "path": "Побутова техніка > Кліматична техніка > Обігрівачі"
+  },
+  {
+    "id": "12659",
+    "name": "Аксесуари до мобільних телефонів",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Аксесуари до мобільних телефонів"
+  },
+  {
+    "id": "12660",
+    "name": "Комп'ютерні аксесуари",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Комп'ютерні аксесуари"
+  },
+  {
+    "id": "12661",
+    "name": "Стартовий пакет для телефону",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Стартовий пакет для телефону"
+  },
+  {
+    "id": "12662",
+    "name": "Телевізори",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Телевізори"
+  },
+  {
+    "id": "12665",
+    "name": "Верхній одяг",
+    "path": "Одяг, взуття, аксесуари > Одяг > Верхній одяг"
+  },
+  {
+    "id": "12666",
+    "name": "Текстильно-трикотажний одяг",
+    "path": "Одяг, взуття, аксесуари > Одяг > Текстильно-трикотажний одяг"
+  },
+  {
+    "id": "12671",
+    "name": "Взуття для басейну, пляжу",
+    "path": "Одяг, взуття, аксесуари > Взуття > Взуття для басейну, пляжу"
+  },
+  {
+    "id": "12673",
+    "name": "Повсякденне взуття",
+    "path": "Одяг, взуття, аксесуари > Взуття > Повсякденне взуття"
+  },
+  {
+    "id": "12677",
+    "name": "Хустки, шарфи, пов'язки",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Хустки, шарфи, пов'язки"
+  },
+  {
+    "id": "12678",
+    "name": "Рукавички, рукавиці",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Рукавички, рукавиці"
+  },
+  {
+    "id": "12679",
+    "name": "Парасолі, дощовики",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Парасолі, дощовики"
+  },
+  {
+    "id": "12680",
+    "name": "Окуляри, чохли для окулярів",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Окуляри, чохли для окулярів"
+  },
+  {
+    "id": "12681",
+    "name": "Гаманці, візитниці",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Гаманці, візитниці"
+  },
+  {
+    "id": "12682",
+    "name": "Аксесуари для шиття",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Аксесуари для шиття"
+  },
+  {
+    "id": "12683",
+    "name": "Антистатики",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Антистатики"
+  },
+  {
+    "id": "12685",
+    "name": "Чохли для взуття",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Чохли для взуття"
+  },
+  {
+    "id": "12691",
+    "name": "Косметика, гігієна для кішок",
+    "path": "Зоотовари > Для кішок > Косметика, гігієна для кішок"
+  },
+  {
+    "id": "12692",
+    "name": "Ласощі для кішок",
+    "path": "Зоотовари > Для кішок > Ласощі для кішок"
+  },
+  {
+    "id": "12699",
+    "name": "Ласощі для собак",
+    "path": "Зоотовари > Для собак > Ласощі для собак"
+  },
+  {
+    "id": "12705",
+    "name": "Бенгальські вогні, серпантин, конфетті",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Бенгальські вогні, серпантин, конфетті"
+  },
+  {
+    "id": "12706",
+    "name": "Гірлянди електричні",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Гірлянди електричні"
+  },
+  {
+    "id": "12707",
+    "name": "Дощик, мішура, штучний сніг",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Дощик, мішура, штучний сніг"
+  },
+  {
+    "id": "12708",
+    "name": "Карнавальні товари",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Карнавальні товари"
+  },
+  {
+    "id": "12709",
+    "name": "Магніти, брелоки новорічні",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Магніти, брелоки новорічні"
+  },
+  {
+    "id": "12710",
+    "name": "М'яка новорічна іграшка",
+    "path": "Святкові, сезонні пропозиції > Новий рік > М'яка новорічна іграшка"
+  },
+  {
+    "id": "12711",
+    "name": "Наклейки, стікери на вікна, трафарети",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Наклейки, стікери на вікна, трафарети"
+  },
+  {
+    "id": "12712",
+    "name": "Новорічна творчість",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Новорічна творчість"
+  },
+  {
+    "id": "12713",
+    "name": "Новорічні прикраси інтер'єру",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Новорічні прикраси інтер'єру"
+  },
+  {
+    "id": "12714",
+    "name": "Новорічні сувеніри, статуетки",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Новорічні сувеніри, статуетки"
+  },
+  {
+    "id": "12715",
+    "name": "Паперові гірлянди, банери",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Паперові гірлянди, банери"
+  },
+  {
+    "id": "12716",
+    "name": "Піротехнічні вироби",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Піротехнічні вироби"
+  },
+  {
+    "id": "12717",
+    "name": "Подарункові коробки",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Подарункові коробки"
+  },
+  {
+    "id": "12718",
+    "name": "Ялинки, сосни, вінки з хвої",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Ялинки, сосни, вінки з хвої"
+  },
+  {
+    "id": "12719",
+    "name": "Ялинкові прикраси",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Ялинкові прикраси"
+  },
+  {
+    "id": "12721",
+    "name": "Сувеніри, статуетки, шкатулки",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Сувеніри, статуетки, шкатулки"
+  },
+  {
+    "id": "12722",
+    "name": "Магніти, брелоки, замки",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Магніти, брелоки, замки"
+  },
+  {
+    "id": "12723",
+    "name": "М'яка іграшка",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > М'яка іграшка"
+  },
+  {
+    "id": "12724",
+    "name": "Прикраси інтер'єру",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Прикраси інтер'єру"
+  },
+  {
+    "id": "12725",
+    "name": "Фоторамки",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Фоторамки"
+  },
+  {
+    "id": "12726",
+    "name": "Коробки подарункові",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Коробки подарункові"
+  },
+  {
+    "id": "12728",
+    "name": "Товари для свята",
+    "path": "Святкові, сезонні пропозиції > Свято > Товари для свята"
+  },
+  {
+    "id": "12729",
+    "name": "Листівки, конверти вітальні",
+    "path": "Святкові, сезонні пропозиції > Свято > Листівки, конверти вітальні"
+  },
+  {
+    "id": "12730",
+    "name": "Подарункові пакети, упаковки",
+    "path": "Святкові, сезонні пропозиції > Свято > Подарункові пакети, упаковки"
+  },
+  {
+    "id": "12732",
+    "name": "Барвники, наклейки великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Барвники, наклейки великодні"
+  },
+  {
+    "id": "12733",
+    "name": "Великодня творчість",
+    "path": "Святкові, сезонні пропозиції > Великдень > Великодня творчість"
+  },
+  {
+    "id": "12734",
+    "name": "Кошики великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Кошики великодні"
+  },
+  {
+    "id": "12735",
+    "name": "Магніти, брелоки великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Магніти, брелоки великодні"
+  },
+  {
+    "id": "12736",
+    "name": "М'яка іграшка великодня",
+    "path": "Святкові, сезонні пропозиції > Великдень > М'яка іграшка великодня"
+  },
+  {
+    "id": "12737",
+    "name": "Поминальні товари",
+    "path": "Святкові, сезонні пропозиції > Великдень > Поминальні товари"
+  },
+  {
+    "id": "12738",
+    "name": "Прикраси інтер'єру великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Прикраси інтер'єру великодні"
+  },
+  {
+    "id": "12739",
+    "name": "Сувеніри, статуетки великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Сувеніри, статуетки великодні"
+  },
+  {
+    "id": "12740",
+    "name": "Форми для випічки великодніх пасок",
+    "path": "Святкові, сезонні пропозиції > Великдень > Форми для випічки великодніх пасок"
+  },
+  {
+    "id": "12741",
+    "name": "Геловін",
+    "path": "Святкові, сезонні пропозиції > Геловін"
+  },
+  {
+    "id": "12857",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції"
+  },
+  {
+    "id": "12858",
+    "name": "Власні торгові марки",
+    "path": "Власні торгові марки"
+  },
+  {
+    "id": "12859",
+    "name": "Бери більше",
+    "path": "Бери більше"
+  },
+  {
+    "id": "12860",
+    "name": "ЗнижкоLove",
+    "path": "ЗнижкоLove"
+  },
+  {
+    "id": "12874",
+    "name": "Органічна косметика та догляд",
+    "path": "Здорове харчування та спосіб життя > Органічні товари > Органічна косметика та догляд"
+  },
+  {
+    "id": "12880",
+    "name": "Органічна побутова хімія",
+    "path": "Здорове харчування та спосіб життя > Органічні товари > Органічна побутова хімія"
+  },
+  {
+    "id": "12896",
+    "name": "Твердий сир",
+    "path": "Яйця та молочні продукти > Сир > Твердий сир"
+  },
+  {
+    "id": "12897",
+    "name": "Плавлений сир",
+    "path": "Яйця та молочні продукти > Сир > Плавлений сир"
+  },
+  {
+    "id": "12898",
+    "name": "Напівтвердий сир",
+    "path": "Яйця та молочні продукти > Сир > Напівтвердий сир"
+  },
+  {
+    "id": "12899",
+    "name": "Розсольний сир",
+    "path": "Яйця та молочні продукти > Сир > Розсольний сир"
+  },
+  {
+    "id": "12900",
+    "name": "Крем-сир",
+    "path": "Яйця та молочні продукти > Сир > Крем-сир"
+  },
+  {
+    "id": "12901",
+    "name": "М'який сир",
+    "path": "Яйця та молочні продукти > Сир > М'який сир"
+  },
+  {
+    "id": "12902",
+    "name": "Сир з пліснявою",
+    "path": "Яйця та молочні продукти > Сир > Сир з пліснявою"
+  },
+  {
+    "id": "12903",
+    "name": "Копчений сир",
+    "path": "Яйця та молочні продукти > Сир > Копчений сир"
+  },
+  {
+    "id": "12904",
+    "name": "Закуски бутербродні",
+    "path": "Яйця та молочні продукти > Сир > Закуски бутербродні"
+  },
+  {
+    "id": "12905",
+    "name": "Набори сирів та закусок",
+    "path": "Яйця та молочні продукти > Сир > Набори сирів та закусок"
+  },
+  {
+    "id": "12907",
+    "name": "Сирки глазуровані",
+    "path": "Яйця та молочні продукти > Сир кисломолочний та сиркові вироби > Сирки глазуровані"
+  },
+  {
+    "id": "12908",
+    "name": "Сир кисломолочний без добавок",
+    "path": "Яйця та молочні продукти > Сир кисломолочний та сиркові вироби > Сир кисломолочний без добавок"
+  },
+  {
+    "id": "12909",
+    "name": "Сир кисломолочний з добавками",
+    "path": "Яйця та молочні продукти > Сир кисломолочний та сиркові вироби > Сир кисломолочний з добавками"
+  },
+  {
+    "id": "12912",
+    "name": "Ультрапастеризоване молоко",
+    "path": "Яйця та молочні продукти > Молоко > Ультрапастеризоване молоко"
+  },
+  {
+    "id": "12913",
+    "name": "Пастеризоване молоко",
+    "path": "Яйця та молочні продукти > Молоко > Пастеризоване молоко"
+  },
+  {
+    "id": "12915",
+    "name": "Молоко кокосове",
+    "path": "Яйця та молочні продукти > Молоко > Молоко кокосове"
+  },
+  {
+    "id": "12916",
+    "name": "Рослинне молоко",
+    "path": "Яйця та молочні продукти > Молоко > Рослинне молоко"
+  },
+  {
+    "id": "12917",
+    "name": "Стерилізоване молоко",
+    "path": "Яйця та молочні продукти > Молоко > Стерилізоване молоко"
+  },
+  {
+    "id": "12918",
+    "name": "Пряжене молоко",
+    "path": "Яйця та молочні продукти > Молоко > Пряжене молоко"
+  },
+  {
+    "id": "12919",
+    "name": "Сухе молоко",
+    "path": "Яйця та молочні продукти > Молоко > Сухе молоко"
+  },
+  {
+    "id": "12924",
+    "name": "Коктейлі молочні та какао",
+    "path": "Яйця та молочні продукти > Десерти, пудинги, коктейлі > Коктейлі молочні та какао"
+  },
+  {
+    "id": "12929",
+    "name": "Яєчна суміш",
+    "path": "Яйця та молочні продукти > Яйця > Яєчна суміш"
+  },
+  {
+    "id": "12935",
+    "name": "Масло ГХІ",
+    "path": "Яйця та молочні продукти > Масло і маргарин > Масло ГХІ"
+  },
+  {
+    "id": "12938",
+    "name": "Ряжанка",
+    "path": "Яйця та молочні продукти > Кисломолочні напої > Ряжанка"
+  },
+  {
+    "id": "12939",
+    "name": "Айран, тан",
+    "path": "Яйця та молочні продукти > Кисломолочні напої > Айран, тан"
+  },
+  {
+    "id": "12941",
+    "name": "Інші кисломолочні напої",
+    "path": "Яйця та молочні продукти > Кисломолочні напої > Інші кисломолочні напої"
+  },
+  {
+    "id": "12942",
+    "name": "Сироватка",
+    "path": "Яйця та молочні продукти > Кисломолочні напої > Сироватка"
+  },
+  {
+    "id": "12944",
+    "name": "Пастеризовані вершки",
+    "path": "Яйця та молочні продукти > Вершки > Пастеризовані вершки"
+  },
+  {
+    "id": "12945",
+    "name": "Порційні вершки",
+    "path": "Яйця та молочні продукти > Вершки > Порційні вершки"
+  },
+  {
+    "id": "12946",
+    "name": "Збиті вершки",
+    "path": "Яйця та молочні продукти > Вершки > Збиті вершки"
+  },
+  {
+    "id": "12948",
+    "name": "Продукти з козячого молока",
+    "path": "Яйця та молочні продукти > Продукти з козячого молока"
+  },
+  {
+    "id": "12949",
+    "name": "Тофу",
+    "path": "Яйця та молочні продукти > Тофу"
+  },
+  {
+    "id": "12956",
+    "name": "Картопля та батат",
+    "path": "Фрукти та овочі > Овочі > Картопля та батат"
+  },
+  {
+    "id": "12957",
+    "name": "Цибуля",
+    "path": "Фрукти та овочі > Овочі > Цибуля"
+  },
+  {
+    "id": "12962",
+    "name": "Часник",
+    "path": "Фрукти та овочі > Овочі > Часник"
+  },
+  {
+    "id": "12963",
+    "name": "Редиска, редька",
+    "path": "Фрукти та овочі > Овочі > Редиска, редька"
+  },
+  {
+    "id": "12964",
+    "name": "Кабачки",
+    "path": "Фрукти та овочі > Овочі > Кабачки"
+  },
+  {
+    "id": "12965",
+    "name": "Баклажан",
+    "path": "Фрукти та овочі > Овочі > Баклажан"
+  },
+  {
+    "id": "12966",
+    "name": "Корінь селери",
+    "path": "Фрукти та овочі > Овочі > Корінь селери"
+  },
+  {
+    "id": "12969",
+    "name": "Цукіні",
+    "path": "Фрукти та овочі > Овочі > Цукіні"
+  },
+  {
+    "id": "12974",
+    "name": "Цитрусові фрукти",
+    "path": "Фрукти та овочі > Фрукти > Цитрусові фрукти"
+  },
+  {
+    "id": "12982",
+    "name": "Ананаси",
+    "path": "Фрукти та овочі > Фрукти > Ананаси"
+  },
+  {
+    "id": "12984",
+    "name": "Екзотичні фрукти",
+    "path": "Фрукти та овочі > Фрукти > Екзотичні фрукти"
+  },
+  {
+    "id": "12985",
+    "name": "Персики",
+    "path": "Фрукти та овочі > Фрукти > Персики"
+  },
+  {
+    "id": "12986",
+    "name": "Нектарини",
+    "path": "Фрукти та овочі > Фрукти > Нектарини"
+  },
+  {
+    "id": "12987",
+    "name": "Абрикоси",
+    "path": "Фрукти та овочі > Фрукти > Абрикоси"
+  },
+  {
+    "id": "12988",
+    "name": "Кавуни, дині",
+    "path": "Фрукти та овочі > Фрукти > Кавуни, дині"
+  },
+  {
+    "id": "12989",
+    "name": "Сливи",
+    "path": "Фрукти та овочі > Фрукти > Сливи"
+  },
+  {
+    "id": "12990",
+    "name": "Тамарінд, каштан",
+    "path": "Фрукти та овочі > Фрукти > Тамарінд, каштан"
+  },
+  {
+    "id": "12991",
+    "name": "Алича",
+    "path": "Фрукти та овочі > Фрукти > Алича"
+  },
+  {
+    "id": "12992",
+    "name": "Вишня, черешня",
+    "path": "Фрукти та овочі > Фрукти > Вишня, черешня"
+  },
+  {
+    "id": "12995",
+    "name": "Салат",
+    "path": "Фрукти та овочі > Зелень > Салат"
+  },
+  {
+    "id": "12996",
+    "name": "Петрушка свіжа",
+    "path": "Фрукти та овочі > Зелень > Петрушка свіжа"
+  },
+  {
+    "id": "12997",
+    "name": "Кріп свіжий",
+    "path": "Фрукти та овочі > Зелень > Кріп свіжий"
+  },
+  {
+    "id": "13001",
+    "name": "Стебло селери",
+    "path": "Фрукти та овочі > Зелень > Стебло селери"
+  },
+  {
+    "id": "13002",
+    "name": "Розмарин свіжий",
+    "path": "Фрукти та овочі > Зелень > Розмарин свіжий"
+  },
+  {
+    "id": "13003",
+    "name": "Базилік свіжий",
+    "path": "Фрукти та овочі > Зелень > Базилік свіжий"
+  },
+  {
+    "id": "13005",
+    "name": "Тим'ян свіжий",
+    "path": "Фрукти та овочі > Зелень > Тим'ян свіжий"
+  },
+  {
+    "id": "13007",
+    "name": "Родзинки",
+    "path": "Фрукти та овочі > Сухофрукти > Родзинки"
+  },
+  {
+    "id": "13008",
+    "name": "Інші сухофрукти",
+    "path": "Фрукти та овочі > Сухофрукти > Інші сухофрукти"
+  },
+  {
+    "id": "13009",
+    "name": "Курага",
+    "path": "Фрукти та овочі > Сухофрукти > Курага"
+  },
+  {
+    "id": "13010",
+    "name": "Чорнослив",
+    "path": "Фрукти та овочі > Сухофрукти > Чорнослив"
+  },
+  {
+    "id": "13011",
+    "name": "Фініки",
+    "path": "Фрукти та овочі > Сухофрукти > Фініки"
+  },
+  {
+    "id": "13012",
+    "name": "Фруктове асорті",
+    "path": "Фрукти та овочі > Сухофрукти > Фруктове асорті"
+  },
+  {
+    "id": "13013",
+    "name": "Журавлина",
+    "path": "Фрукти та овочі > Сухофрукти > Журавлина"
+  },
+  {
+    "id": "13014",
+    "name": "Цукати",
+    "path": "Фрукти та овочі > Сухофрукти > Цукати"
+  },
+  {
+    "id": "13015",
+    "name": "Банани сушені",
+    "path": "Фрукти та овочі > Сухофрукти > Банани сушені"
+  },
+  {
+    "id": "13016",
+    "name": "Манго сушений",
+    "path": "Фрукти та овочі > Сухофрукти > Манго сушений"
+  },
+  {
+    "id": "13017",
+    "name": "Інжир",
+    "path": "Фрукти та овочі > Сухофрукти > Інжир"
+  },
+  {
+    "id": "13018",
+    "name": "Яблука сушені",
+    "path": "Фрукти та овочі > Сухофрукти > Яблука сушені"
+  },
+  {
+    "id": "13020",
+    "name": "Свіжі",
+    "path": "Фрукти та овочі > Гриби > Свіжі"
+  },
+  {
+    "id": "13023",
+    "name": "Мигдаль",
+    "path": "Фрукти та овочі > Горіхи > Мигдаль"
+  },
+  {
+    "id": "13024",
+    "name": "Кеш'ю,макадамія,пекан",
+    "path": "Фрукти та овочі > Горіхи > Кеш'ю,макадамія,пекан"
+  },
+  {
+    "id": "13025",
+    "name": "Горіхове асорті",
+    "path": "Фрукти та овочі > Горіхи > Горіхове асорті"
+  },
+  {
+    "id": "13026",
+    "name": "Арахіс",
+    "path": "Фрукти та овочі > Горіхи > Арахіс"
+  },
+  {
+    "id": "13027",
+    "name": "Фундук",
+    "path": "Фрукти та овочі > Горіхи > Фундук"
+  },
+  {
+    "id": "13028",
+    "name": "Фісташки",
+    "path": "Фрукти та овочі > Горіхи > Фісташки"
+  },
+  {
+    "id": "13029",
+    "name": "Волоський горіх",
+    "path": "Фрукти та овочі > Горіхи > Волоський горіх"
+  },
+  {
+    "id": "13030",
+    "name": "Бразильский горіх",
+    "path": "Фрукти та овочі > Горіхи > Бразильский горіх"
+  },
+  {
+    "id": "13031",
+    "name": "Кедровий горіх",
+    "path": "Фрукти та овочі > Горіхи > Кедровий горіх"
+  },
+  {
+    "id": "13033",
+    "name": "Насіння кунжуту",
+    "path": "Фрукти та овочі > Насіння > Насіння кунжуту"
+  },
+  {
+    "id": "13034",
+    "name": "Салати і соління",
+    "path": "Фрукти та овочі > Салати і соління"
+  },
+  {
+    "id": "13037",
+    "name": "Курятина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Курятина свіжа"
+  },
+  {
+    "id": "13038",
+    "name": "Свинина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Свинина свіжа"
+  },
+  {
+    "id": "13041",
+    "name": "Яловичина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Яловичина свіжа"
+  },
+  {
+    "id": "13042",
+    "name": "Телятина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Телятина свіжа"
+  },
+  {
+    "id": "13043",
+    "name": "Індичатина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Індичатина свіжа"
+  },
+  {
+    "id": "13044",
+    "name": "Качатина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Качатина свіжа"
+  },
+  {
+    "id": "13045",
+    "name": "Кролятина свіжа",
+    "path": "М'ясо та ковбасні вироби > М’ясо охолоджене > Кролятина свіжа"
+  },
+  {
+    "id": "13048",
+    "name": "Ковбаса варена",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Ковбаса варена"
+  },
+  {
+    "id": "13049",
+    "name": "Ковбаса копчена",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Ковбаса копчена"
+  },
+  {
+    "id": "13050",
+    "name": "Ковбаса сиров'ялена",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Ковбаса сиров'ялена"
+  },
+  {
+    "id": "13051",
+    "name": "Ліверна ковбаса",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Ліверна ковбаса"
+  },
+  {
+    "id": "13052",
+    "name": "Кров'яна ковбаса",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Кров'яна ковбаса"
+  },
+  {
+    "id": "13055",
+    "name": "Інші ковбасні вироби",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Інші ковбасні вироби"
+  },
+  {
+    "id": "13056",
+    "name": "Ковбаса запечена",
+    "path": "М'ясо та ковбасні вироби > Ковбаса і сосиски > Ковбаса запечена"
+  },
+  {
+    "id": "13058",
+    "name": "Копчене м'ясо",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Копчене м'ясо"
+  },
+  {
+    "id": "13061",
+    "name": "Бекон",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Бекон"
+  },
+  {
+    "id": "13062",
+    "name": "Карбонад та балик",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Карбонад та балик"
+  },
+  {
+    "id": "13064",
+    "name": "Грудинка",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Грудинка"
+  },
+  {
+    "id": "13065",
+    "name": "Власне копчення",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Власне копчення"
+  },
+  {
+    "id": "13066",
+    "name": "Шийка",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Шийка"
+  },
+  {
+    "id": "13069",
+    "name": "Хліби м'ясні",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > Хліби м'ясні"
+  },
+  {
+    "id": "13070",
+    "name": "М'ясні делікатеси",
+    "path": "М'ясо та ковбасні вироби > М'ясні вироби > М'ясні делікатеси"
+  },
+  {
+    "id": "13082",
+    "name": "Лосось",
+    "path": "Риба та морепродукти > Риба охолоджена > Лосось"
+  },
+  {
+    "id": "13083",
+    "name": "Інша риба та раки",
+    "path": "Риба та морепродукти > Риба охолоджена > Інша риба та раки"
+  },
+  {
+    "id": "13084",
+    "name": "Форель",
+    "path": "Риба та морепродукти > Риба охолоджена > Форель"
+  },
+  {
+    "id": "13085",
+    "name": "Короп",
+    "path": "Риба та морепродукти > Риба охолоджена > Короп"
+  },
+  {
+    "id": "13086",
+    "name": "Сьомга",
+    "path": "Риба та морепродукти > Риба охолоджена > Сьомга"
+  },
+  {
+    "id": "13087",
+    "name": "Дорада",
+    "path": "Риба та морепродукти > Риба охолоджена > Дорада"
+  },
+  {
+    "id": "13088",
+    "name": "Товстолобик",
+    "path": "Риба та морепродукти > Риба охолоджена > Товстолобик"
+  },
+  {
+    "id": "13089",
+    "name": "Сібас",
+    "path": "Риба та морепродукти > Риба охолоджена > Сібас"
+  },
+  {
+    "id": "13090",
+    "name": "Білий амур",
+    "path": "Риба та морепродукти > Риба охолоджена > Білий амур"
+  },
+  {
+    "id": "13091",
+    "name": "Карась",
+    "path": "Риба та морепродукти > Риба охолоджена > Карась"
+  },
+  {
+    "id": "13110",
+    "name": "Морепродукти в розсолі",
+    "path": "Риба та морепродукти > Морепродукти > Морепродукти в розсолі"
+  },
+  {
+    "id": "13111",
+    "name": "Морепродукти свіжі",
+    "path": "Риба та морепродукти > Морепродукти > Морепродукти свіжі"
+  },
+  {
+    "id": "13113",
+    "name": "Солена риба",
+    "path": "Риба та морепродукти > Риба приготована > Солена риба"
+  },
+  {
+    "id": "13114",
+    "name": "Маринована риба",
+    "path": "Риба та морепродукти > Риба приготована > Маринована риба"
+  },
+  {
+    "id": "13115",
+    "name": "Риба холодного копчення",
+    "path": "Риба та морепродукти > Риба приготована > Риба холодного копчення"
+  },
+  {
+    "id": "13116",
+    "name": "Риба гарячого копчення",
+    "path": "Риба та морепродукти > Риба приготована > Риба гарячого копчення"
+  },
+  {
+    "id": "13117",
+    "name": "Сушена і в'ялена риба",
+    "path": "Риба та морепродукти > Риба приготована > Сушена і в'ялена риба"
+  },
+  {
+    "id": "13120",
+    "name": "Охолоджені крабові палички",
+    "path": "Риба та морепродукти > Крабові палички > Охолоджені крабові палички"
+  },
+  {
+    "id": "13122",
+    "name": "Ікорна та рибна паста",
+    "path": "Риба та морепродукти > Ікорна та рибна паста"
+  },
+  {
+    "id": "13147",
+    "name": "Ванільний цукор",
+    "path": "Бакалія > Для випічки та десертів > Ванільний цукор"
+  },
+  {
+    "id": "13154",
+    "name": "Желатин",
+    "path": "Бакалія > Для випічки та десертів > Желатин"
+  },
+  {
+    "id": "13156",
+    "name": "Ванілін",
+    "path": "Бакалія > Для випічки та десертів > Ванілін"
+  },
+  {
+    "id": "13158",
+    "name": "Кокосова стружка",
+    "path": "Бакалія > Для випічки та десертів > Кокосова стружка"
+  },
+  {
+    "id": "13159",
+    "name": "Мак",
+    "path": "Бакалія > Для випічки та десертів > Мак"
+  },
+  {
+    "id": "13162",
+    "name": "Барвники харчові",
+    "path": "Бакалія > Для випічки та десертів > Барвники харчові"
+  },
+  {
+    "id": "13164",
+    "name": "Сухі вершки та молоко",
+    "path": "Бакалія > Для випічки та десертів > Сухі вершки та молоко"
+  },
+  {
+    "id": "13244",
+    "name": "Шоколадна паста",
+    "path": "Солодощі > Шоколадна паста"
+  },
+  {
+    "id": "13247",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі"
+  },
+  {
+    "id": "13269",
+    "name": "Вішалки",
+    "path": "Товари для дому > Вішалки"
+  },
+  {
+    "id": "13279",
+    "name": "Для ремонту",
+    "path": "Товари для дому > Для ремонту"
+  },
+  {
+    "id": "13290",
+    "name": "Сушарки для білизни",
+    "path": "Товари для дому > Сушарки для білизни"
+  },
+  {
+    "id": "13399",
+    "name": "Лаваш та тортилья",
+    "path": "Пекарня > Лаваш та тортилья"
+  },
+  {
+    "id": "13401",
+    "name": "Житньо-пшеничний",
+    "path": "Пекарня > Хліб > Житньо-пшеничний"
+  },
+  {
+    "id": "13403",
+    "name": "Пшеничний",
+    "path": "Пекарня > Хліб > Пшеничний"
+  },
+  {
+    "id": "13404",
+    "name": "Житній",
+    "path": "Пекарня > Хліб > Житній"
+  },
+  {
+    "id": "13405",
+    "name": "Зерновий",
+    "path": "Пекарня > Хліб > Зерновий"
+  },
+  {
+    "id": "13406",
+    "name": "Заварний",
+    "path": "Пекарня > Хліб > Заварний"
+  },
+  {
+    "id": "13407",
+    "name": "Кукурудзяний",
+    "path": "Пекарня > Хліб > Кукурудзяний"
+  },
+  {
+    "id": "13408",
+    "name": "Висівковий",
+    "path": "Пекарня > Хліб > Висівковий"
+  },
+  {
+    "id": "13409",
+    "name": "Гречаний",
+    "path": "Пекарня > Хліб > Гречаний"
+  },
+  {
+    "id": "13410",
+    "name": "Чіабатта",
+    "path": "Пекарня > Хліб > Чіабатта"
+  },
+  {
+    "id": "13414",
+    "name": "Багет власного виробнитцва",
+    "path": "Пекарня > Власна пекарня > Багет власного виробнитцва"
+  },
+  {
+    "id": "13415",
+    "name": "Булочні вироби",
+    "path": "Пекарня > Власна пекарня > Булочні вироби"
+  },
+  {
+    "id": "13418",
+    "name": "Круасани власного виробництва",
+    "path": "Пекарня > Власна пекарня > Круасани власного виробництва"
+  },
+  {
+    "id": "13426",
+    "name": "Булочки",
+    "path": "Пекарня > Булочки та здобні вироби > Булочки"
+  },
+  {
+    "id": "13427",
+    "name": "Слойка",
+    "path": "Пекарня > Булочки та здобні вироби > Слойка"
+  },
+  {
+    "id": "13428",
+    "name": "Пампушки",
+    "path": "Пекарня > Булочки та здобні вироби > Пампушки"
+  },
+  {
+    "id": "13429",
+    "name": "Плетінка",
+    "path": "Пекарня > Булочки та здобні вироби > Плетінка"
+  },
+  {
+    "id": "13430",
+    "name": "Булочки для бургерів та хот-догів",
+    "path": "Пекарня > Булочки для бургерів та хот-догів"
+  },
+  {
+    "id": "13447",
+    "name": "Напівфабрикати та страви охолоджені",
+    "path": "Заморозка > Напівфабрикати та страви охолоджені"
+  },
+  {
+    "id": "13477",
+    "name": "Господарське мило",
+    "path": "Побутова хімія > Засоби для прання > Господарське мило"
+  },
+  {
+    "id": "13478",
+    "name": "Засоби для пом'якшення води",
+    "path": "Побутова хімія > Засоби для прання > Засоби для пом'якшення води"
+  },
+  {
+    "id": "13479",
+    "name": "Засоби для прасування та підкрохмалення",
+    "path": "Побутова хімія > Засоби для прання > Засоби для прасування та підкрохмалення"
+  },
+  {
+    "id": "13520",
+    "name": "Хумус",
+    "path": "Консерви > Хумус"
+  },
+  {
+    "id": "13535",
+    "name": "Консервовані супи",
+    "path": "Консерви > Консервовані супи"
+  },
+  {
+    "id": "13546",
+    "name": "Чай пакетований",
+    "path": "Гарячі напої > Чай > Чай пакетований"
+  },
+  {
+    "id": "13547",
+    "name": "Чай розсипний",
+    "path": "Гарячі напої > Чай > Чай розсипний"
+  },
+  {
+    "id": "13549",
+    "name": "Чай концентрований",
+    "path": "Гарячі напої > Чай > Чай концентрований"
+  },
+  {
+    "id": "13555",
+    "name": "Кава у дріпах",
+    "path": "Гарячі напої > Кава > Кава у дріпах"
+  },
+  {
+    "id": "13558",
+    "name": "Какао-напої та гарячий шоколад",
+    "path": "Гарячі напої > Какао-напої та гарячий шоколад"
+  },
+  {
+    "id": "13561",
+    "name": "Фільтри для чаю та кави",
+    "path": "Гарячі напої > Фільтри для чаю та кави"
+  },
+  {
+    "id": "13633",
+    "name": "Заморожений корм для тварин",
+    "path": "Товари для тварин > Заморожений корм для тварин"
+  },
+  {
+    "id": "13638",
+    "name": "Нашийники, повідки, намордники",
+    "path": "Товари для тварин > Догляд за тваринами > Нашийники, повідки, намордники"
+  },
+  {
+    "id": "13692",
+    "name": "Насадка для зубної щітки",
+    "path": "Гігієна та догляд > Догляд за ротовою порожниною > Насадка для зубної щітки"
+  },
+  {
+    "id": "13711",
+    "name": "Ефірні олії",
+    "path": "Гігієна та догляд > Ефірні олії"
+  },
+  {
+    "id": "13717",
+    "name": "Парфуми",
+    "path": "Гігієна та догляд > Косметика та парфумерія > Парфуми"
+  },
+  {
+    "id": "13741",
+    "name": "До святкового столу",
+    "path": "Алкоголь > До святкового столу"
+  },
+  {
+    "id": "13781",
+    "name": "Напій алкогольний",
+    "path": "Алкоголь > Напій алкогольний"
+  },
+  {
+    "id": "13783",
+    "name": "Товари з Європи",
+    "path": "Товари світу > Товари з Європи"
+  },
+  {
+    "id": "13784",
+    "name": "Товари з Азії",
+    "path": "Товари світу > Товари з Азії"
+  },
+  {
+    "id": "13785",
+    "name": "Товари з Китаю",
+    "path": "Товари світу > Товари з Китаю"
+  },
+  {
+    "id": "13786",
+    "name": "Товари з Таїланду",
+    "path": "Товари світу > Товари з Таїланду"
+  },
+  {
+    "id": "13787",
+    "name": "Товари з Туреччини",
+    "path": "Товари світу > Товари з Туреччини"
+  },
+  {
+    "id": "13788",
+    "name": "Товари з Америки",
+    "path": "Товари світу > Товари з Америки"
+  },
+  {
+    "id": "13789",
+    "name": "Товари з Арменії",
+    "path": "Товари світу > Товари з Арменії"
+  },
+  {
+    "id": "13790",
+    "name": "Товари з Азербайджану",
+    "path": "Товари світу > Товари з Азербайджану"
+  },
+  {
+    "id": "13836",
+    "name": "Ключ закаточний",
+    "path": "Кухня > Товари для консервування > Ключ закаточний"
+  },
+  {
+    "id": "13860",
+    "name": "Засоби для вигрібних ям та септиків",
+    "path": "Хобі та відпочинок > Дача, сад, город > Засоби для вигрібних ям та септиків"
+  },
+  {
+    "id": "13868",
+    "name": "Садові меблі",
+    "path": "Хобі та відпочинок > Дача, сад, город > Садові меблі"
+  },
+  {
+    "id": "13898",
+    "name": "Все для бані",
+    "path": "Хобі та відпочинок > Все для бані"
+  },
+  {
+    "id": "13899",
+    "name": "Подарункові сертифікати",
+    "path": "Хобі та відпочинок > Подарункові сертифікати"
+  },
+  {
+    "id": "13919",
+    "name": "Бухгалтерська документація",
+    "path": "Канцелярія > Зошити, блокноти, папір > Бухгалтерська документація"
+  },
+  {
+    "id": "13982",
+    "name": "Мобільний телефон",
+    "path": "Побутова техніка > Мобільні телефони та аксесуари > Мобільний телефон"
+  },
+  {
+    "id": "13983",
+    "name": "Аксесуари для телефонів",
+    "path": "Побутова техніка > Мобільні телефони та аксесуари > Аксесуари для телефонів"
+  },
+  {
+    "id": "13985",
+    "name": "Аксесуари для комп'ютерів",
+    "path": "Побутова техніка > Мультимедіа > Аксесуари для комп'ютерів"
+  },
+  {
+    "id": "13986",
+    "name": "Аксесуари до телевізорів",
+    "path": "Побутова техніка > Мультимедіа > Аксесуари до телевізорів"
+  },
+  {
+    "id": "13987",
+    "name": "Радіоприймачі",
+    "path": "Побутова техніка > Мультимедіа > Радіоприймачі"
+  },
+  {
+    "id": "13988",
+    "name": "Мережеві фільтри, подовжувачі",
+    "path": "Побутова техніка > Мультимедіа > Мережеві фільтри, подовжувачі"
+  },
+  {
+    "id": "13990",
+    "name": "Машинки для стрижки",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Машинки для стрижки"
+  },
+  {
+    "id": "13991",
+    "name": "Ваги підлогові",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Ваги підлогові"
+  },
+  {
+    "id": "13992",
+    "name": "Фен",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Фен"
+  },
+  {
+    "id": "13993",
+    "name": "Утюжки, плойки",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Утюжки, плойки"
+  },
+  {
+    "id": "13994",
+    "name": "Тримери, електробритви",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Тримери, електробритви"
+  },
+  {
+    "id": "13995",
+    "name": "Інші товари для краси, здоров'я та догляду",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Інші товари для краси, здоров'я та догляду"
+  },
+  {
+    "id": "13997",
+    "name": "Інші товари для догляду за будинком та одягом",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Інші товари для догляду за будинком та одягом"
+  },
+  {
+    "id": "13998",
+    "name": "Пароочисники та праски",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Пароочисники та праски"
+  },
+  {
+    "id": "13999",
+    "name": "Обігрівачі",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Обігрівачі"
+  },
+  {
+    "id": "14000",
+    "name": "Пилососи",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Пилососи"
+  },
+  {
+    "id": "14001",
+    "name": "Вентилятори",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Вентилятори"
+  },
+  {
+    "id": "14002",
+    "name": "Прасувальні дошки та аксесуари",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Прасувальні дошки та аксесуари"
+  },
+  {
+    "id": "14004",
+    "name": "Соковитискачі",
+    "path": "Побутова техніка > Техніка для кухні > Соковитискачі"
+  },
+  {
+    "id": "14005",
+    "name": "Електрогрилі",
+    "path": "Побутова техніка > Техніка для кухні > Електрогрилі"
+  },
+  {
+    "id": "14006",
+    "name": "Тостери",
+    "path": "Побутова техніка > Техніка для кухні > Тостери"
+  },
+  {
+    "id": "14007",
+    "name": "Плитки",
+    "path": "Побутова техніка > Техніка для кухні > Плитки"
+  },
+  {
+    "id": "14008",
+    "name": "Кавомолки",
+    "path": "Побутова техніка > Техніка для кухні > Кавомолки"
+  },
+  {
+    "id": "14009",
+    "name": "Інша техніка для кухні",
+    "path": "Побутова техніка > Техніка для кухні > Інша техніка для кухні"
+  },
+  {
+    "id": "14010",
+    "name": "Чайники",
+    "path": "Побутова техніка > Техніка для кухні > Чайники"
+  },
+  {
+    "id": "14011",
+    "name": "Блендери, подрібнювачі, м'ясорубки, міксери",
+    "path": "Побутова техніка > Техніка для кухні > Блендери, подрібнювачі, м'ясорубки, міксери"
+  },
+  {
+    "id": "14012",
+    "name": "Помпи для води та бутлі",
+    "path": "Побутова техніка > Техніка для кухні > Помпи для води та бутлі"
+  },
+  {
+    "id": "14013",
+    "name": "Кухонні ваги",
+    "path": "Побутова техніка > Техніка для кухні > Кухонні ваги"
+  },
+  {
+    "id": "14014",
+    "name": "Мультиварки, мультимейкери, мікрохвильові печі",
+    "path": "Побутова техніка > Техніка для кухні > Мультиварки, мультимейкери, мікрохвильові печі"
+  },
+  {
+    "id": "14015",
+    "name": "Кавоварки",
+    "path": "Побутова техніка > Техніка для кухні > Кавоварки"
+  },
+  {
+    "id": "14036",
+    "name": "Штучні ялинки",
+    "path": "Інтер'єр та текстиль > Новорічні товари > Штучні ялинки"
+  },
+  {
+    "id": "14040",
+    "name": "Товари до Гелловіну",
+    "path": "Інтер'єр та текстиль > Товари до Гелловіну"
+  },
+  {
+    "id": "14042",
+    "name": "Шкарпетки жіночі",
+    "path": "Одяг та взуття > Шкарпетки жіночі"
+  },
+  {
+    "id": "14043",
+    "name": "Шкарпетки чоловічі",
+    "path": "Одяг та взуття > Шкарпетки чоловічі"
+  },
+  {
+    "id": "14044",
+    "name": "Колготи жіночі",
+    "path": "Одяг та взуття > Колготи жіночі"
+  },
+  {
+    "id": "14045",
+    "name": "Дитячий одяг",
+    "path": "Одяг та взуття > Дитячий одяг"
+  },
+  {
+    "id": "14046",
+    "name": "Взуття",
+    "path": "Одяг та взуття > Взуття"
+  },
+  {
+    "id": "14047",
+    "name": "Чоловічий одяг",
+    "path": "Одяг та взуття > Чоловічий одяг"
+  },
+  {
+    "id": "14049",
+    "name": "Товари світу для Гурманів",
+    "path": "Гурман > Товари світу для Гурманів"
+  },
+  {
+    "id": "14052",
+    "name": "Хлібобулочні вироби для Гурманів",
+    "path": "Гурман > Хлібобулочні вироби для Гурманів"
+  },
+  {
+    "id": "14053",
+    "name": "Фрукти та овочі для Гурманів",
+    "path": "Гурман > Фрукти та овочі для Гурманів"
+  },
+  {
+    "id": "14055",
+    "name": "Сири для Гурманів",
+    "path": "Гурман > Сири для Гурманів"
+  },
+  {
+    "id": "14056",
+    "name": "Свіже м'ясо для Гурманів",
+    "path": "Гурман > Свіже м'ясо для Гурманів"
+  },
+  {
+    "id": "14057",
+    "name": "Свіжа риба для Гурманів",
+    "path": "Гурман > Свіжа риба для Гурманів"
+  },
+  {
+    "id": "14058",
+    "name": "Ковбасні та м'ясні вироби для Гурманів",
+    "path": "Гурман > Ковбасні та м'ясні вироби для Гурманів"
+  },
+  {
+    "id": "14066",
+    "name": "Все для прибирання (08.01-28.01.26)",
+    "path": "Вигідні пропозиції > Все для прибирання (08.01-28.01.26)"
+  },
+  {
+    "id": "14067",
+    "name": "Разом - незламні!",
+    "path": "Вигідні пропозиції > Разом - незламні!"
   }
 ]

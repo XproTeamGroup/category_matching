@@ -1,824 +1,104 @@
 [
   {
-    "id": "25424",
-    "name": "Напівавтоматичні",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Рушниці > Напівавтоматичні",
-    "reasoning": "The source leaf \"Напівавтоматичні\" refers to semi‑automatic rifles. In the reference tree there is no category for rifles, semi‑automatic firearms, or any subcategory under \"Зброя > Вогнепальна зброя\" that would match this. The closest reference categories are for pistols, revolvers, and various non‑rifle firearms, which do not semantically align with semi‑automatic rifles. Therefore no suitable match exists."
-  },
-  {
-    "id": "25425",
-    "name": "Помпові",
-    "path": "ІБІС Зброя > Зброя > Вогнепальна зброя > Рушниці > Помпові",
-    "reasoning": "The leaf category \"Помпові\" refers to pump‑action shotguns. The reference taxonomy contains categories for firearms, but there is no specific subcategory for shotguns or pump‑action firearms. Therefore no suitable reference category exists for this source leaf."
-  },
-  {
-    "id": "25428",
-    "name": "Битки",
-    "path": "ІБІС Зброя > Зброя > Засоби самозахисту > Битки",
-    "reasoning": "The leaf category \"Битки\" refers to self‑defence sticks or batons. The reference catalogue does not contain a dedicated category for batons or self‑defence sticks; the closest are weapon categories (pistols, rifles, etc.) which are not semantically equivalent. Therefore no suitable match exists."
-  },
-  {
-    "id": "25431",
-    "name": "Тростини та парасольки",
-    "path": "ІБІС Зброя > Зброя > Засоби самозахисту > Тростини та парасольки",
-    "reasoning": "The leaf category \"Тростини та парасольки\" refers to self‑defence sticks and umbrellas, which are non‑firearm personal protection tools. The reference catalogue contains no category for such items; the closest domain is \"Зброя\", but there is no subcategory for non‑firearm self‑defence equipment. Therefore the category does not match any existing reference leaf and is considered out of scope."
-  },
-  {
-    "id": "25435",
-    "name": "Обкладинки на документи",
-    "path": "ІБІС Зброя > Зброя > Зберігання та транспортування > Обкладинки на документи",
-    "reasoning": "The leaf category \"Обкладинки на документи\" translates to \"document covers\" and refers to protective covers for documents. None of the reference categories correspond to document covers or general protective covers for non‑weapon items. The closest reference categories are weapon cases or knife cases, which are specific to weapons or knives and do not match the intended product type. Therefore, there is no suitable match in the reference tree, and the category is considered out of scope for the weapons, tactical, and outdoor equipment domain."
-  },
-  {
-    "id": "25447",
-    "name": "Дротики для духових трубок",
-    "path": "ІБІС Зброя > Зброя > Метальна зброя > Стріли та кульки > Дротики для духових трубок",
-    "reasoning": "The leaf name \"Дротики для духових трубок\" refers to pipe tips or accessories for smoking pipes, a consumable item unrelated to firearms, ammunition, or tactical gear. None of the reference categories cover pipe accessories or smoking-related products, and the category is clearly outside the weapons/tactical/outdoor domain of the store."
-  },
-  {
-    "id": "25451",
-    "name": "Стріли для луків",
-    "path": "ІБІС Зброя > Зброя > Метальна зброя > Стріли та кульки > Стріли для луків",
-    "reasoning": "The leaf category \"Стріли для луків\" refers to arrows or arrowheads used with bows. In the reference tree, there is no specific category for arrows or bow ammunition. The closest ammunition categories are for firearms or cold‑weapon ammunition, which do not include arrows. Therefore, there is no suitable match in the reference categories."
-  },
-  {
-    "id": "25540",
-    "name": "Нашийники",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Аксесуари для собак > Нашийники",
-    "reasoning": "The leaf category \"Нашийники\" refers to dog collars, a pet accessory. None of the reference categories cover pet products or collars. All reference categories are related to weapons, tactical gear, or outdoor equipment. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25543",
-    "name": "Метеостанції",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Електронне устаткування > Метеостанції",
-    "reasoning": "The leaf category \"Метеостанції\" denotes weather monitoring equipment (meteorological stations). None of the reference categories cover weather or environmental monitoring devices; the reference tree focuses on weapons, tactical gear, outdoor equipment, and related accessories. Therefore there is no suitable match."
-  },
-  {
-    "id": "25547",
-    "name": "Мішені, тири та кулеуловлювачі",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Засоби для стрільби > Мішені, тири та кулеуловлювачі",
-    "reasoning": "The leaf category \"Мішені, тири та кулеуловлювачі\" refers to shooting targets, ranges and bullet catchers – a type of shooting accessory that is not represented in the reference taxonomy. No reference leaf category matches targets, ranges or bullet catchers, and the closest categories (e.g., \"Набої\", \"Оптика\", \"Спорядження\") are semantically distinct. Therefore the category is out of scope."
-  },
-  {
-    "id": "25548",
-    "name": "Пристрої для запуску тарілок",
-    "path": "ІБІС Зброя > Зброя > Стрілецькі аксесуари > Засоби для стрільби > Пристрої для запуску тарілок",
-    "reasoning": "The leaf category \"Пристрої для запуску тарілок\" refers to devices used to launch target plates in shooting sports. None of the reference categories cover such shooting accessories or plate launchers. The closest reference categories are for ammunition, reloading, optics, or firearms, none of which match the function or product type of a plate launcher. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25580",
-    "name": "Мечі та шаблі",
-    "path": "ІБІС Зброя > Зброя > Холодна зброя та інструменти > Мечі та шаблі",
-    "reasoning": "The reference catalog does not contain a dedicated category for swords or sabers. The closest related categories are for knives, axes, or other cold weapons, but none explicitly cover swords. Therefore the source category \"Мечі та шаблі\" does not map to any existing reference category."
-  },
-  {
-    "id": "25636",
-    "name": "Паски",
-    "path": "ІБІС Риболовля > Одяг та взуття > Аксесуари > Паски",
-    "reasoning": "The leaf category \"Паски\" refers to fishing rods (plural of \"паса\" in Ukrainian). The reference taxonomy contains no category for fishing equipment or fishing rods. All available leaf categories relate to weapons, tactical gear, outdoor equipment, optics, reloading, etc., none of which match fishing rods. Therefore the category is out of scope for the given reference taxonomy."
-  },
-  {
-    "id": "25647",
-    "name": "Чоботи",
-    "path": "ІБІС Риболовля > Одяг та взуття > Взуття > Чоботи",
-    "reasoning": "The source leaf category \"Чоботи\" refers to boots, a type of footwear. In the reference taxonomy, there is no category for footwear or boots; the closest are generic \"Одяг та взуття > Інше\" and \"Одяг та взуття > Аксесуари\", but these are not specific to boots and the reference list does not contain a dedicated boots category. Therefore the source category does not map to any existing reference category and is considered out of scope."
-  },
-  {
-    "id": "25649",
-    "name": "Наколінники та налокітники",
-    "path": "ІБІС Риболовля > Одяг та взуття > Екіпірування > Наколінники та налокітники",
-    "reasoning": "The leaf category \"Наколінники та налокітники\" refers to knee and elbow protective pads, typically used in fishing or sports gear. None of the reference categories cover protective gear of this type; the closest reference is \"Спорядження > Рукавички\" (gloves), which is not a match. Therefore, no suitable reference category exists."
-  },
-  {
-    "id": "25658",
-    "name": "Брюки та комбінезони",
-    "path": "ІБІС Риболовля > Одяг та взуття > Одяг > Брюки та комбінезони",
-    "reasoning": "The source leaf \"Брюки та комбінезони\" denotes pants and overalls, i.e., clothing items. In the reference hierarchy, the only clothing-related categories are the generic \"Одяг та взуття > Інше\" and \"Одяг та взуття > Аксесуари\", which are too broad and do not specifically match pants or overalls. No other reference category corresponds to clothing. Therefore, this source category does not map to any existing reference category and is considered out of scope for the weapons/tactical/outdoor equipment domain."
-  },
-  {
-    "id": "25662",
-    "name": "Светри та пуловери",
-    "path": "ІБІС Риболовля > Одяг та взуття > Одяг > Светри та пуловери",
-    "reasoning": "The leaf category \"Светри та пуловери\" refers to sweaters and pullovers, i.e., clothing items. The reference taxonomy contains only categories related to weapons, tactical gear, outdoor equipment, and related accessories. There is no reference category that covers general clothing or apparel. Therefore, this source category is outside the scope of the reference taxonomy."
-  },
-  {
-    "id": "25663",
-    "name": "Сорочки",
-    "path": "ІБІС Риболовля > Одяг та взуття > Одяг > Сорочки",
-    "reasoning": "The leaf \"Сорочки\" refers to shirts (Ukrainian \"сорочка\" = shirt). The reference taxonomy contains only categories related to weapons, tactical gear, outdoor equipment, and related accessories; it has no clothing or apparel categories. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25665",
-    "name": "Труси",
-    "path": "ІБІС Риболовля > Одяг та взуття > Одяг > Труси",
-    "reasoning": "The leaf \"Труси\" refers to underwear/underpants in Ukrainian. The reference taxonomy contains no specific category for underwear or undergarments. The closest generic category is \"Одяг та взуття > Інше\", but that is too broad and does not represent the specific product type. Since underwear is outside the weapons, tactical, and outdoor equipment domain covered by the reference tree, it is considered out of scope."
-  },
-  {
-    "id": "25666",
-    "name": "Футболки та джерсі",
-    "path": "ІБІС Риболовля > Одяг та взуття > Одяг > Футболки та джерсі",
-    "reasoning": "The leaf category \"Футболки та джерсі\" refers to T‑shirts and jerseys, i.e. apparel. The reference category list contains only weapons, tactical, outdoor equipment, and related accessories; it does not include any clothing or apparel categories. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25670",
-    "name": "Лазерна",
-    "path": "ІБІС Риболовля > Подарунки > Іграшкова зброя > Лазерна",
-    "reasoning": "The leaf category \"Лазерна\" refers to laser-based toy weapons (laser guns or laser pointers). The reference taxonomy contains no specific category for laser toy weapons or laser devices. The closest reference categories are under \"Оптика > Приціли та прилади нічного бачення (ПНБ) > Прилади\", which are intended for night‑vision equipment, not laser pointers. Therefore, there is no suitable match in the reference tree, and the category is considered out of scope."
-  },
-  {
-    "id": "25675",
-    "name": "Басейни",
-    "path": "ІБІС Риболовля > Подарунки > Ігрові набори > Басейни",
-    "reasoning": "The leaf category \"Басейни\" refers to bass fish, a fishing-related product. None of the reference categories cover fishing, fish, or related gifts. All reference categories are related to weapons, tactical gear, or outdoor equipment, which is a different domain. Therefore, there is no suitable match."
-  },
-  {
-    "id": "25681",
-    "name": "Треки",
-    "path": "ІБІС Риболовля > Подарунки > Ігрові набори > Треки",
-    "reasoning": "The leaf category \"Треки\" (tracks) appears under a fishing gift/game set context, suggesting it refers to game set components such as fishing tracks or trail markers. None of the reference categories cover game sets, fishing accessories, or track-related items. The closest reference categories are for weapons, optics, or general outdoor gear, none of which semantically match \"tracks\" in this context. Therefore, there is no suitable reference match."
-  },
-  {
-    "id": "25683",
-    "name": "Декор",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Декор",
-    "reasoning": "The leaf category \"Декор\" denotes decorative items or souvenirs, which are unrelated to the weapons, tactical, or outdoor equipment categories present in the reference list. No reference category matches this domain."
-  },
-  {
-    "id": "25684",
-    "name": "Журнали та книжки",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Журнали та книжки",
-    "reasoning": "The leaf category \"Журнали та книжки\" refers to journals and books, which are not represented in the reference category tree. All reference categories are related to weapons, tactical gear, outdoor equipment, drones, or accessories, and none correspond to publications. Therefore, there is no suitable match."
-  },
-  {
-    "id": "25685",
-    "name": "Календарі",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Календарі",
-    "reasoning": "The leaf category \"Календарі\" refers to calendars, a decorative gift item. None of the reference leaf categories correspond to calendars or any related decorative or gift items; all reference categories are related to weapons, tactical gear, outdoor equipment, or related accessories. Therefore there is no suitable match in the reference taxonomy."
-  },
-  {
-    "id": "25687",
-    "name": "Опудала та шкури тварин",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Опудала та шкури тварин",
-    "reasoning": "The leaf category \"Опудала та шкури тварин\" refers to animal skins and pelts used as decorative items or souvenirs. None of the reference categories in the provided list cover animal skins, fur, or decorative souvenirs. All reference categories are related to weapons, tactical gear, optics, ammunition, knives, or outdoor equipment. Therefore, there is no suitable match in the reference taxonomy."
-  },
-  {
-    "id": "25688",
-    "name": "Ручки та олівці",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Ручки та олівці",
-    "reasoning": "The leaf category \"Ручки та олівці\" refers to pens and pencils, i.e., writing instruments. None of the reference categories in the provided list cover stationery, office supplies, or writing instruments. All reference categories are related to weapons, tactical gear, outdoor equipment, or accessories for those domains. Therefore, there is no suitable match in the reference taxonomy."
-  },
-  {
-    "id": "25689",
-    "name": "Столове приладдя",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Столове приладдя",
-    "reasoning": "The leaf category \"Столове приладдя\" refers to tableware (utensils, dishes, etc.). None of the reference categories in the provided list cover household or kitchen items; all reference categories are related to weapons, tactical gear, outdoor equipment, or accessories for those domains. Therefore there is no suitable match in the reference taxonomy."
-  },
-  {
-    "id": "25690",
-    "name": "Сувеніри",
-    "path": "ІБІС Риболовля > Подарунки > Декор та сувеніри > Сувеніри",
-    "reasoning": "The leaf category \"Сувеніри\" (souvenirs) refers to decorative gift items. None of the reference categories cover souvenirs, gifts, or decorative items. All reference categories are related to weapons, tactical gear, optics, or outdoor equipment. Therefore there is no suitable match."
-  },
-  {
-    "id": "25697",
-    "name": "Будівельна техніка",
-    "path": "ІБІС Риболовля > Подарунки > Машинки та техніка > Будівельна техніка",
-    "reasoning": "The leaf category \"Будівельна техніка\" refers to construction machinery such as excavators, bulldozers, and other heavy equipment. None of the reference categories cover construction equipment or heavy machinery. The closest reference categories are for hand tools or weapons, which are semantically unrelated. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25698",
-    "name": "Ліцензійні машинки",
-    "path": "ІБІС Риболовля > Подарунки > Машинки та техніка > Ліцензійні машинки",
-    "reasoning": "The leaf category \"Ліцензійні машинки\" refers to licensed fishing machines, a type of fishing equipment. None of the reference categories cover fishing gear or related equipment; all reference categories are related to weapons, tactical gear, or general outdoor equipment. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25701",
-    "name": "Танки",
-    "path": "ІБІС Риболовля > Подарунки > Машинки та техніка > Танки",
-    "reasoning": "The leaf category \"Танки\" refers to toy or model tanks, which are not represented in the reference taxonomy. None of the reference categories cover toy vehicles or model equipment. Therefore, there is no suitable match within the provided categories."
-  },
-  {
-    "id": "25702",
-    "name": "Човни",
-    "path": "ІБІС Риболовля > Подарунки > Машинки та техніка > Човни",
-    "reasoning": "The leaf category \"Човни\" refers to boats or small watercraft. None of the reference leaf categories in the provided list correspond to boats, watercraft, or any related subcategory. The closest broad domain in the reference is \"Активний відпочинок, туризм та хобі\", but there is no specific category for boats within that domain. Therefore, the category is out of scope for the current reference taxonomy."
-  },
-  {
-    "id": "25704",
-    "name": "E-сертифікати",
-    "path": "ІБІС Риболовля > Подарунки > Сертифікати подарункові > E-сертифікати",
-    "reasoning": "The leaf category \"E-сертифікати\" refers to electronic gift certificates, a non‑product item used for gifting. The reference taxonomy contains only categories related to weapons, tactical gear, outdoor equipment, and related accessories. No reference leaf category represents certificates, vouchers, or any non‑physical gift item. Therefore there is no suitable match within the reference tree."
-  },
-  {
-    "id": "25705",
-    "name": "Подарункові сертифікати тиру",
-    "path": "ІБІС Риболовля > Подарунки > Сертифікати подарункові > Подарункові сертифікати тиру",
-    "reasoning": "The leaf category refers to gift certificates for the Tiru fishing brand. None of the reference categories represent gift certificates or a general \"подарунки\" (gifts) category. The reference tree focuses on weapons, tactical gear, and outdoor equipment, with no category for certificates or gift items. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25706",
+    "id": "2604",
     "name": "Сертифікати",
-    "path": "ІБІС Риболовля > Подарунки > Сертифікати подарункові > Сертифікати",
-    "reasoning": "The leaf category \"Сертифікати\" refers to gift certificates, a product type unrelated to weapons, tactical gear, or outdoor equipment. None of the reference leaf categories represent certificates, gift cards, or any similar financial or promotional items. Therefore, there is no suitable match in the reference taxonomy."
+    "path": "Товари для дому > Сертифікати",
+    "reasoning": "The leaf category 'Сертифікати' (Certificates) refers to gift certificates or vouchers. Looking through the reference tree, there is no category for gift certificates, vouchers, or similar products. The reference tree covers food, beverages, household goods, cosmetics, pet supplies, children's products, etc. Gift certificates/vouchers are a completely different type of product (a financial/gift instrument) that does not fit into any of the available leaf categories. This is out of scope for the reference catalog."
   },
   {
-    "id": "25710",
-    "name": "Глибиноміри",
-    "path": "ІБІС Риболовля > Рибальство > Інструмент > Глибиноміри",
-    "reasoning": "The leaf category \"Глибиноміри\" refers to depth meters used in fishing. None of the reference categories cover fishing equipment or instruments. All reference categories are related to weapons, tactical gear, or general outdoor gear, but there is no fishing or depth-measuring category. Therefore the source category is out of scope for the provided reference taxonomy."
+    "id": "5874",
+    "name": "Кошики, коробки, органайзери",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Кошики, коробки, органайзери",
+    "reasoning": "The leaf category 'Кошики, коробки, органайзери' (Baskets, boxes, organizers) refers to storage containers and organizers for home use, specifically in the context of clothing storage. Looking through the reference tree, this is a home goods / household item category. The reference tree does not contain a specific category for storage baskets, boxes, or organizers for clothing or home use. The closest categories in the reference tree are under 'Госптовари, non-food > Для дому' but none specifically cover storage baskets/boxes/organizers. The category 'Для зберігання продуктів' (id 671) is for food storage, not clothing/home organizers. This product type (home storage organizers) is completely outside the domain of a weapons, tactical, and outdoor equipment store, and no reasonable match exists in the reference tree."
   },
   {
-    "id": "25711",
-    "name": "Екстрактори",
-    "path": "ІБІС Риболовля > Рибальство > Інструмент > Екстрактори",
-    "reasoning": "The leaf category \"Екстрактори\" refers to fishing tools used to extract fish from nets or water. The reference taxonomy contains no fishing or general tool categories beyond knives and specific weapon-related items. Therefore, there is no suitable match in the reference list."
+    "id": "5882",
+    "name": "Попільнички",
+    "path": "Товари для дому > Дрібниці для дому > Попільнички",
+    "reasoning": "The leaf category 'Попільнички' means 'ashtrays' in Ukrainian — small household items used for collecting cigarette ash. Looking through the reference tree, there is no category specifically for ashtrays. The closest related categories might be household items or home décor. 'Господарчі дрібниці' (id 639) covers small household items, but ashtrays are not food-related products. The reference tree is primarily a grocery/food/personal care store catalog. Ashtrays are completely outside the domain of this store (weapons, tactical, outdoor equipment store context given in the system prompt, but the reference categories are actually for a grocery supermarket). There is no matching category for ashtrays in the reference tree. This is out of scope for the available categories."
   },
   {
-    "id": "25712",
-    "name": "Захвати",
-    "path": "ІБІС Риболовля > Рибальство > Інструмент > Захвати",
-    "reasoning": "The leaf category \"Захвати\" refers to fishing hooks, which are not represented in the reference taxonomy that focuses on weapons, tactical gear, and outdoor equipment. No reference category matches fishing hooks or related fishing gear, so the item is outside the scope of the provided categories."
+    "id": "5928",
+    "name": "Садові меблі",
+    "path": "Хобі та відпочинок > Дача, сад, город > Садові меблі",
+    "reasoning": "The leaf category 'Садові меблі' means 'Garden furniture' in Ukrainian — chairs, tables, loungers, benches and similar outdoor furniture items for garden/patio use. Scanning the entire reference tree, there is no category for furniture of any kind (garden, indoor, or otherwise). The reference tree covers food, beverages, household chemicals, personal care, pet supplies, baby products, supplements, and some general household goods. Garden furniture is completely outside the domain of this reference catalog (which is a food/grocery/household store, not a weapons/tactical/outdoor equipment store as described in the system prompt). No reasonable match exists."
   },
   {
-    "id": "25714",
-    "name": "Ножиці",
-    "path": "ІБІС Риболовля > Рибальство > Інструмент > Ножиці",
-    "reasoning": "The source leaf category \"Ножиці\" refers to scissors, a cutting tool distinct from knives. The reference taxonomy contains categories for knives and related accessories (e.g., \"Ножі та інструменти\", \"Ножі\", \"Ножни\"), but no category explicitly for scissors or similar tools. Therefore, there is no suitable match in the reference tree."
+    "id": "5952",
+    "name": "Товари для ремонту",
+    "path": "Хобі та відпочинок > Товари для ремонту",
+    "reasoning": "The leaf category 'Товари для ремонту' means 'Repair/renovation goods' — products used for home repair, construction, or renovation work (tools, materials, hardware, etc.). Looking through the reference tree, which is a grocery/food/household store catalog, there is no category for repair or construction goods. The closest categories are household goods ('Госптовари, non-food'), but these cover cleaning supplies, hygiene, kitchenware, and similar items — not repair/renovation materials. This category is completely outside the domain of the reference store."
   },
   {
-    "id": "25717",
-    "name": "Ретривери",
-    "path": "ІБІС Риболовля > Рибальство > Інструмент > Ретривери",
-    "reasoning": "The leaf category \"Ретривери\" refers to a type of fishing rod used for retrieving fish. The reference taxonomy contains categories for weapons, tactical gear, and general outdoor equipment, but it does not include any fishing‑related items such as rods, reels, or fishing accessories. Therefore there is no suitable match within the provided reference categories."
+    "id": "6884",
+    "name": "Кошики для зберігання",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Кошики для зберігання",
+    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — household items used for organizing and storing things (clothes, linens, etc.). Looking through the reference tree, which is a food/grocery/household store catalog, there is no category specifically for storage baskets or home organization products. The closest home goods categories are under 'Госптовари, non-food > Для дому' but none cover storage baskets specifically — the subcategories there deal with cleaning supplies, paper products, disposable tableware, regular tableware, textiles, décor, clothing/accessories, electronics, stationery, and picnic items. Storage baskets are a home organization/furniture-adjacent product that doesn't fit any of the available leaf categories. This is out of scope for this reference catalog."
   },
   {
-    "id": "25720",
-    "name": "Амортизуюча гума",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Амортизуюча гума",
-    "reasoning": "The leaf category \"Амортизуюча гума\" refers to shock‑absorbing rubber used in fishing gear mounting. None of the reference categories cover fishing equipment or rubber components. The reference tree contains only weapon, tactical, and general outdoor equipment categories, with no matching leaf for rubber or fishing accessories."
+    "id": "6893",
+    "name": "Настільні лампи, світильники",
+    "path": "Товари для дому > Освітлення > Настільні лампи, світильники",
+    "reasoning": "The leaf category 'Настільні лампи, світильники' refers to table lamps and light fixtures — home lighting products. Looking through the reference tree, there is no category for lighting, lamps, or light fixtures. The reference tree covers food, beverages, personal care, household chemicals, pet supplies, children's goods, and similar categories. Lighting products are completely outside the domain of this reference catalog."
   },
   {
-    "id": "25721",
-    "name": "Безпечні кліпси",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Безпечні кліпси",
-    "reasoning": "\"Безпечні кліпси\" (safe clips) are fishing accessories used to secure lines or hooks. The reference catalogue contains no fishing‑specific categories; the closest generic category is \"Аксесуари\", but matching on a generic term is disallowed. Therefore no suitable reference category exists."
+    "id": "6905",
+    "name": "Товари для ремонту",
+    "path": "Товари для дому > Товари для ремонту",
+    "reasoning": "The leaf category 'Товари для ремонту' means 'Repair/renovation goods' — products like tools, building materials, paint, adhesives, hardware, etc. used for home repair and renovation. Looking through the entire reference tree, which covers food, beverages, personal care, household chemicals, pet supplies, baby products, and similar categories, there is no category that covers home repair or construction tools and materials. The closest categories are household goods ('Госптовари, non-food > Для дому'), but these cover cleaning supplies, paper products, disposable tableware, interior decor, and similar items — not repair/renovation tools and materials. This is a completely different domain from what is available in the reference tree."
   },
   {
-    "id": "25722",
-    "name": "Бусинки та буфери",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Бусинки та буфери",
-    "reasoning": "The leaf category \"Бусинки та буфери\" refers to small plastic or rubber bushings and buffers used in fishing gear. The reference taxonomy contains no fishing‑specific categories or any subcategory that semantically matches fishing accessories. The only generic category that could be considered is \"Аксесуари\", but the rules explicitly forbid matching on generic terms alone. Therefore no suitable reference category exists, and the item is out of scope."
+    "id": "7867",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Техніка > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' (Hand tools and materials) refers to manual/hand tools and related materials for home use — items like hammers, screwdrivers, pliers, drills, etc. Looking through the reference tree, which is a grocery/food/household supermarket catalog, there is no category for tools or hardware. The closest categories are household goods (Госптовари, non-food), but these cover cleaning supplies, hygiene, paper products, kitchenware, and similar items — not hand tools or construction/repair materials. The category 'Для дому > Пікнік і відпочинок > Для туризму і спорту' (id 705) is too specific and unrelated. There is simply no reference category that covers hand tools and materials in this grocery-focused catalog. This is a completely different domain from what the reference tree covers."
   },
   {
-    "id": "25723",
-    "name": "Вертлюжки та застібки",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Вертлюжки та застібки",
-    "reasoning": "The leaf category \"Вертлюжки та застібки\" refers to fishing hooks and fastening devices used in fishing gear. The reference taxonomy does not contain any category related to fishing equipment or hooks/fasteners. None of the existing categories match the product type or function, so the item is outside the scope of the provided reference categories."
+    "id": "8683",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Техніка > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials' — products like hammers, screwdrivers, pliers, drills, building materials, etc. This is a home improvement / hardware category. Looking through the entire reference tree, which is focused on a grocery/food/personal care/pet store (Сільпо supermarket), there is no category for hand tools, hardware, or construction materials. The closest general category might be 'Госптовари, non-food > Для дому' but none of its subcategories cover hand tools or construction materials — they cover household chemistry, paper goods, disposable tableware, cosmetics, etc. This category is completely out of scope for this reference catalog."
   },
   {
-    "id": "25724",
-    "name": "Виготовлення приманок та насадок",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Виготовлення приманок та насадок",
-    "reasoning": "The leaf category refers to products and tools used for creating fishing lures and attachments, a domain specific to angling. The reference taxonomy contains only categories related to weapons, tactical gear, and general outdoor equipment, with no fishing or angling subcategories. Therefore, there is no suitable match in the reference tree."
+    "id": "9261",
+    "name": "Килими",
+    "path": "Інтер'єр та текстиль > Килими",
+    "reasoning": "The leaf category 'Килими' means 'Carpets/Rugs' in Ukrainian. This is a home interior/textile product. Looking through the reference tree, there is no specific category for carpets or rugs. The closest categories in the home decor/interior section are 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id: 683) and 'Госптовари, non-food > Для дому > Домашній текстиль' (id: 672). Carpets could partially fit under 'Домашній текстиль' as a textile product for the home, but carpets are typically a distinct category from bedding/towels/curtains. However, 'Домашній текстиль' is the closest semantic match available in the reference tree for a home textile product like carpets. That said, carpets are a furniture/interior decoration item that doesn't cleanly fit any reference category. The reference tree is for a food/grocery/household store and doesn't have a dedicated carpets category. This is out of scope for this store's catalog."
   },
   {
-    "id": "25725",
-    "name": "Годівниці",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Годівниці",
-    "reasoning": "The leaf category \"Годівниці\" refers to fish feeders or fish food containers used in fishing. None of the reference categories cover fishing equipment or fish feeders. The closest broad categories (e.g., \"Активний відпочинок, туризм та хобі\") do not specifically include fish feeders, and no other reference category matches the domain or product type. Therefore, this category is out of scope for the provided reference taxonomy."
+    "id": "9632",
+    "name": "Вішаки та плечики",
+    "path": "Товари для дому > Вішаки та плечики",
+    "reasoning": "The leaf category 'Вішаки та плечики' refers to hangers and coat hangers (clothing hangers/hooks for hanging clothes). This is a home goods item. Looking through the reference tree, there is no specific category for hangers or coat hangers. The closest categories in the home goods section include 'Господарчі дрібниці' (id 639) which covers small household items, 'Аксесуари для ванни і туалету' (id 637), 'Інвентар для прибирання' (id 641), or 'Домашній текстиль' (id 672). However, none of these specifically cover clothing hangers. The category 'Господарчі дрібниці' (household small items) could be a loose match, but hangers are not really 'дрібниці'. There is also 'Догляд за одягом і взуттям' (id 645) which covers clothing and shoe care. Hangers are used for storing/organizing clothing, so there's a partial functional relationship, but it's not a strong semantic match. Since no reference category genuinely covers clothing hangers/coat hangers as a product type, and this is a home goods item that is out of scope for a weapons/tactical/outdoor store, this should be marked as out of scope."
   },
   {
-    "id": "25726",
-    "name": "Готові монтажі та оснастки",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Готові монтажі та оснастки",
-    "reasoning": "The leaf category refers to ready fishing rigs and accessories, which belong to the fishing domain. The reference taxonomy contains no fishing‑related categories (no rods, reels, lines, lures, or fishing accessories). All available leaf categories are related to weapons, tactical gear, or general outdoor equipment such as tents, sleeping bags, or cooking gear, but none correspond to fishing equipment. Therefore there is no suitable match in the reference tree."
+    "id": "9634",
+    "name": "Кошики для зберігання",
+    "path": "Товари для дому > Кошики для зберігання",
+    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — containers/baskets used for organizing and storing items at home. Looking through the reference tree, the closest match would be in household goods. Category id 671 'Для зберігання продуктів' (For storing food products) is about food storage specifically. Category id 639 'Господарчі дрібниці' (Household small items) is too generic. Category id 671 is food-specific. There is no specific 'storage baskets' or 'home organization' category in the reference tree. The reference tree does have home goods categories but none specifically for storage baskets as home organization items. This is a home goods/interior item that doesn't fit neatly into any specific reference category. The closest would be household goods but no specific match exists for decorative/functional storage baskets. This is out of scope for a weapons/tactical/outdoor store context, but within the reference tree it's a general home goods item with no specific matching leaf category."
   },
   {
-    "id": "25727",
-    "name": "Грузила",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Грузила",
-    "reasoning": "The leaf category \"Грузила\" is a Ukrainian term for fishing hooks or similar fishing‑related attachments used in net or line mounting. The reference taxonomy contains no fishing or general outdoor gear categories, only weapons, tactical, and related equipment. Therefore there is no suitable reference category to map to."
+    "id": "9639",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Електротовари > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials'. This is a home improvement / hardware category containing items like screwdrivers, hammers, pliers, drills, and related materials. Looking through the reference tree, which is a grocery/food/household consumer goods store, there is no category for hand tools or hardware materials. The closest domain would be household goods ('Госптовари, non-food'), but none of the subcategories there cover hand tools or construction/repair materials. The reference tree does not contain any hardware, tools, or DIY categories. This is a completely different domain from what is available in the reference."
   },
   {
-    "id": "25730",
-    "name": "Кембрики та термозбіжні трубки",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Кембрики та термозбіжні трубки",
-    "reasoning": "The leaf category refers to fishing gear items (cannisters and thermal diverging tubes used in fishing). The reference taxonomy contains only categories related to weapons, optics, tactical gear, and outdoor equipment, but there is no category that matches fishing equipment. Therefore the source category does not map to any existing reference category."
+    "id": "9922",
+    "name": "Килими",
+    "path": "Інтер'єр та текстиль > Килими",
+    "reasoning": "The leaf category 'Килими' means 'Carpets/Rugs' in Ukrainian. This is a home interior/textile product. Looking through the reference tree, there is no category specifically for carpets or rugs. The closest categories in the home decor/interior section are: 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id 683), 'Домашній текстиль' (id 672), and 'Декоративні подушки' (id 681). Carpets/rugs are home textile/interior items, and 'Домашній текстиль' (id 672) is the closest match as carpets are a form of home textile. However, carpets are not typically classified under 'Домашній текстиль' which usually refers to bed linens, towels, etc. None of the reference categories specifically cover carpets/rugs. This is a home furnishing/interior product that falls outside the scope of this weapons, tactical, and outdoor equipment store's reference taxonomy entirely."
   },
   {
-    "id": "25731",
-    "name": "Кивки та світлячки",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Кивки та світлячки",
-    "reasoning": "The leaf category \"Кивки та світлячки\" refers to fishing hooks and light sticks used in angling. None of the reference categories cover fishing gear or related accessories. The reference tree focuses on weapons, tactical gear, outdoor recreation equipment, drones, and related accessories, but does not include any fishing or angling categories. Therefore, this source category does not map to any existing reference category and is considered out of scope."
+    "id": "11483",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Електротовари > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials'. This is a home improvement / hardware category containing items like screwdrivers, hammers, pliers, drills, and related materials. Looking through the reference tree, which is a grocery/food/household store, there is no category for hand tools or hardware materials. The closest household categories are 'Господарчі товари' (household goods) but these cover cleaning supplies, bags, batteries, etc. — not hand tools. The category 'Для туризму і спорту' (id 705) under picnic/recreation is not a match either. This category is completely outside the scope of the reference store's product range."
   },
   {
-    "id": "25733",
-    "name": "Кріплення насадок та приманок",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Кріплення насадок та приманок",
-    "reasoning": "The source leaf category refers to fishing hooks and lure attachments, a domain specific to angling equipment. The reference taxonomy contains categories for weapons, optics, tactical gear, and general outdoor equipment, but it does not include any fishing or angling related categories. None of the reference leaf categories match the product type or function of fishing hook/lure attachments. Therefore, the category is out of scope for the provided reference taxonomy."
-  },
-  {
-    "id": "25735",
-    "name": "ПВА матеріали",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > ПВА матеріали",
-    "reasoning": "The leaf category \"ПВА матеріали\" refers to PVC (polyvinyl chloride) materials used in fishing gear assembly. None of the reference categories cover PVC materials or general fishing supplies. The reference tree is limited to weapons, tactical, and outdoor equipment, with no category for fishing or PVC products. Therefore, there is no suitable match."
-  },
-  {
-    "id": "25736",
-    "name": "Повідці",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Повідці",
-    "reasoning": "The leaf category \"Повідці\" refers to fishing lines or ropes used in fishing, which is a domain of fishing equipment. The reference taxonomy contains categories for weapons, tactical gear, and general outdoor equipment, but it does not include any category related to fishing or fishing lines. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25738",
-    "name": "Пристосування для штекера",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Пристосування для штекера",
-    "reasoning": "The leaf category \"Пристосування для штекера\" refers to fishing gear adapters used for lures or plugs in angling. The reference taxonomy contains no fishing‑specific categories or any subcategory that semantically matches adapters for fishing lures. All available reference categories are related to weapons, tactical gear, outdoor recreation equipment, or general accessories for those domains. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25739",
-    "name": "Протизакручувачі",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Протизакручувачі",
-    "reasoning": "The leaf category \"Протизакручувачі\" refers to anti‑twist devices used in fishing reels to prevent line rotation. This is a fishing accessory. The reference taxonomy contains no fishing or related subcategories (e.g., fishing rods, reels, lines, lures). Therefore there is no suitable match within the provided reference categories. The category belongs to a domain not represented in the reference list, so it is considered out of scope."
-  },
-  {
-    "id": "25740",
-    "name": "Піна",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Піна",
-    "reasoning": "The leaf category \"Піна\" refers to foam or foam‑based materials used in fishing gear (e.g., foam for nets or other fishing equipment). None of the reference categories cover fishing or foam materials, and there is no close semantic match in the provided list. Therefore the category is out of scope for the current reference taxonomy."
-  },
-  {
-    "id": "25741",
-    "name": "Стопори",
-    "path": "ІБІС Риболовля > Рибальство > Все для монтажу > Стопори",
-    "reasoning": "The leaf category \"Стопори\" refers to small devices used in fishing to stop or secure a line or net. This is a fishing‑gear item, which does not correspond to any of the weapon, tactical, or outdoor equipment categories listed in the reference tree. No reference category matches the semantics or function of fishing line stop devices, so the item is out of scope."
-  },
-  {
-    "id": "25744",
-    "name": "Кобри",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Кобри",
-    "reasoning": "The leaf category \"Кобри\" appears in a fishing context under \"Все для підгодовування\" (everything for feeding). In Ukrainian, \"кобра\" means \"cobra\" (snake), but in this context it likely refers to a brand or type of fish feed or a product related to fish nutrition. The reference catalog does not contain any category for fish feed, fish nutrition, or related fishing supplies. The closest reference categories are for tactical gear, weapons, optics, or general outdoor gear, none of which semantically match a fish feed product. Therefore, there is no suitable match in the reference tree, and the category is considered out of scope for the current product taxonomy."
-  },
-  {
-    "id": "25745",
-    "name": "Кораблики",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Кораблики",
-    "reasoning": "The leaf category \"Кораблики\" refers to small fishing boats or canoes used for fishing. None of the reference categories cover boats or watercraft; the reference tree focuses on weapons, tactical gear, and general outdoor equipment without a boat or watercraft section. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25746",
-    "name": "Круши та різаки",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Круши та різаки",
-    "reasoning": "The leaf category \"Круши та різаки\" refers to fishing hooks (круши) and cutting knives (різаки) used in fishing. None of the reference categories cover fishing gear or related items. The reference tree focuses on weapons, tactical gear, and general outdoor equipment, but there is no specific category for fishing hooks or knives. Therefore the source category does not map to any existing reference category and is considered out of scope."
-  },
-  {
-    "id": "25748",
-    "name": "Маркерні кілочки",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Маркерні кілочки",
-    "reasoning": "\"Маркерні кілочки\" – це дрібні металеві кільця, що використовуються в риболовлі як маркери або приманки. У наданому списку посилань немає жодної категорії, що охоплює рибальські прилади або аксесуари. Тому жодна з існуючих категорій не відповідає даному типу товару."
-  },
-  {
-    "id": "25749",
-    "name": "Ракети",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Ракети",
-    "reasoning": "The leaf category \"Ракети\" appears under a fishing context (\"Все для підгодовування\" – all for feeding). In Ukrainian fishing terminology, \"ракети\" refers to rocket fishing rods used to attract fish, not to weapon rockets. The reference catalogue contains no category for fishing equipment or fishing rockets, and the only rocket-related categories are weaponry, which are unrelated to fishing. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25751",
-    "name": "Рушники та фартухи",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Рушники та фартухи",
-    "reasoning": "The leaf category \"Рушники та фартухи\" refers to fishing nets (рушники) and aprons (фартухи) used in fishing. None of the reference categories cover fishing nets or fishing aprons; the closest domain is outdoor/active recreation, but no specific category matches. Therefore the item is out of scope for the provided reference tree."
-  },
-  {
-    "id": "25752",
-    "name": "Сита",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Сита",
-    "reasoning": "The leaf category \"Сита\" in this context refers to fishing nets or sieves used for fish feeding, as indicated by the parent path \"Рибальство\" (fishing). The reference taxonomy does not contain any category related to fishing gear, nets, or sieves. All available leaf categories are related to weapons, optics, tactical gear, outdoor equipment, or general consumer goods, none of which match the domain of fishing nets. Therefore, there is no suitable reference category to map to."
-  },
-  {
-    "id": "25753",
-    "name": "Шароліпки",
-    "path": "ІБІС Риболовля > Рибальство > Все для підгодовування > Шароліпки",
-    "reasoning": "The leaf category \"Шароліпки\" refers to small bags or containers used for fish bait in fishing. The reference taxonomy contains no categories related to fishing gear or bait containers; all categories are focused on weapons, tactical gear, or general outdoor equipment. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25757",
-    "name": "Кастингові",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Кастингові",
-    "reasoning": "The leaf category \"Кастингові\" refers to casting fishing rods, a type of fishing equipment. The reference taxonomy contains no category for fishing rods or general fishing gear; all categories are related to weapons, tactical gear, or general outdoor equipment such as tents, sleeping bags, or camping tools. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25758",
-    "name": "Коропові",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Коропові",
-    "reasoning": "The leaf category \"Коропові\" refers to fishing rods or gear specifically for carp fishing. The reference catalog contains no categories related to fishing equipment, rods, or fish species. All available reference categories are focused on weapons, tactical gear, and general outdoor equipment such as camping gear, lighting, optics, and communication devices. Therefore, there is no suitable match within the reference tree."
-  },
-  {
-    "id": "25759",
-    "name": "Морські",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Морські",
-    "reasoning": "The leaf category \"Морські\" refers to sea or marine fishing rods, a type of fishing equipment. The reference taxonomy contains no categories related to fishing rods, fishing gear, or marine fishing. All reference categories are focused on weapons, tactical gear, outdoor equipment, optics, and related accessories. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25760",
-    "name": "Поплавцеві",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Поплавцеві",
-    "reasoning": "The leaf category \"Поплавцеві\" refers to fishing rods that use a float (poplavka) for catching fish. The reference taxonomy contains no category related to fishing equipment, rods, or fishing accessories. Therefore, there is no suitable match within the provided reference categories."
-  },
-  {
-    "id": "25761",
-    "name": "Спінінгові",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Спінінгові",
-    "reasoning": "The leaf category \"Спінінгові\" refers to spinning fishing rods, a type of fishing equipment. The reference taxonomy contains categories for weapons, tactical gear, and general outdoor equipment such as tents, sleeping bags, and camping gear, but it does not include any category for fishing rods or fishing equipment. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25762",
-    "name": "Фідерні",
-    "path": "ІБІС Риболовля > Рибальство > Вудилища > Фідерні",
-    "reasoning": "The leaf category \"Фідерні\" refers to fishing lures or bait rigs used in angling. None of the reference categories cover fishing gear or related accessories. The closest reference domain is outdoor equipment, but there is no specific subcategory for fishing lures. Therefore the source category is out of scope for the given reference taxonomy."
-  },
-  {
-    "id": "25764",
-    "name": "Двійники",
-    "path": "ІБІС Риболовля > Рибальство > Гачки > Двійники",
-    "reasoning": "The leaf category \"Двійники\" refers to double fishing hooks, a fishing gear item. The reference taxonomy contains no fishing or hook-related categories; all categories are related to weapons, tactical gear, or general outdoor equipment. Therefore there is no suitable match in the reference list."
-  },
-  {
-    "id": "25766",
-    "name": "Одинарні безбороді",
-    "path": "ІБІС Риболовля > Рибальство > Гачки > Одинарні безбороді",
-    "reasoning": "The leaf category refers to single barbless fishing hooks, a product line in the fishing domain. The reference taxonomy contains categories for weapons, optics, tactical gear, and related accessories, but it does not include any fishing or angling categories. No reference category matches the semantics of fishing hooks or barbless hooks. Therefore, the source category is out of scope for the given reference taxonomy."
-  },
-  {
-    "id": "25767",
-    "name": "Офсетні",
-    "path": "ІБІС Риболовля > Рибальство > Гачки > Офсетні",
-    "reasoning": "The leaf category \"Офсетні\" refers to offset fishing hooks, a type of fishing gear. The reference taxonomy contains no categories related to fishing equipment, hooks, or related accessories. Therefore there is no suitable match within the provided reference categories."
-  },
-  {
-    "id": "25768",
-    "name": "Трійники",
-    "path": "ІБІС Риболовля > Рибальство > Гачки > Трійники",
-    "reasoning": "The leaf category \"Трійники\" refers to a type of fishing hook (triplet hooks) used in angling. The reference catalog contains only categories related to weapons, tactical gear, and outdoor equipment, with no fishing or angling subcategories. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25769",
-    "name": "Четверні",
-    "path": "ІБІС Риболовля > Рибальство > Гачки > Четверні",
-    "reasoning": "The leaf category \"Четверні\" refers to four‑pronged fishing hooks, a type of fishing gear. The reference taxonomy contains no fishing or hook categories; it covers weapons, tactical gear, and general outdoor equipment but not fishing equipment. Therefore there is no suitable reference match."
-  },
-  {
-    "id": "25772",
-    "name": "Запасні частини",
-    "path": "ІБІС Риболовля > Рибальство > Котушки > Запасні частини",
-    "reasoning": "The source leaf category \"Запасні частини\" refers to spare parts for fishing reels. The reference taxonomy contains categories related to weapons, optics, tactical gear, and general outdoor equipment, but it does not include any fishing‑specific categories or a generic spare parts category that would encompass fishing reel components. Therefore, there is no suitable match within the reference tree."
-  },
-  {
-    "id": "25773",
-    "name": "Запасні шпулі",
-    "path": "ІБІС Риболовля > Рибальство > Котушки > Запасні шпулі",
-    "reasoning": "The leaf category \"Запасні шпулі\" refers to spare spools for fishing reels, a product used in fishing gear. The reference taxonomy contains categories for firearms, optics, tactical gear, reloading, and general outdoor equipment, but it does not include any category related to fishing equipment or spare parts for fishing reels. Therefore, there is no suitable match within the reference categories."
-  },
-  {
-    "id": "25774",
-    "name": "Мультиплікаторні",
-    "path": "ІБІС Риболовля > Рибальство > Котушки > Мультиплікаторні",
-    "reasoning": "The leaf category \"Мультиплікаторні\" refers to multiplier fishing reels (or spools) used in angling. The reference taxonomy contains no fishing‑related categories such as reels, rods, or fishing accessories. Therefore there is no suitable match within the provided reference categories."
-  },
-  {
-    "id": "25775",
-    "name": "Проводочні",
-    "path": "ІБІС Риболовля > Рибальство > Котушки > Проводочні",
-    "reasoning": "The leaf category \"Проводочні\" refers to wire reels used in fishing gear. The reference taxonomy contains no fishing or related categories, only weapons, tactical gear, outdoor equipment, and general accessories. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25777",
-    "name": "Балансири",
-    "path": "ІБІС Риболовля > Рибальство > Приманки > Балансири",
-    "reasoning": "The leaf category \"Балансири\" refers to a type of fishing rod used in angling (a balance rod). The reference taxonomy contains only categories related to weapons, tactical gear, and general outdoor equipment, but it does not include any fishing or angling categories. Therefore there is no suitable match in the reference list."
-  },
-  {
-    "id": "25778",
-    "name": "Блешні",
-    "path": "ІБІС Риболовля > Рибальство > Приманки > Блешні",
-    "reasoning": "The leaf category \"Блешні\" refers to fishing lures, a type of fishing gear. None of the reference categories cover fishing equipment or lures; the reference tree focuses on weapons, tactical gear, and general outdoor equipment such as camping supplies, but does not include fishing-related items. Therefore there is no suitable match in the reference list."
-  },
-  {
-    "id": "25779",
-    "name": "Воблери",
-    "path": "ІБІС Риболовля > Рибальство > Приманки > Воблери",
-    "reasoning": "The leaf category \"Воблери\" refers to fishing lures, which are not represented in the reference category tree. No matching or semantically close category exists in the reference list."
-  },
-  {
-    "id": "25780",
-    "name": "Мормишки",
-    "path": "ІБІС Риболовля > Рибальство > Приманки > Мормишки",
-    "reasoning": "The leaf category \"Мормишки\" refers to fishing lures, a product line within the fishing domain. The reference taxonomy contains no categories related to fishing gear, lures, or related accessories. All available reference categories are focused on weapons, tactical gear, outdoor equipment, and general sporting or survival items, none of which semantically match fishing lures. Therefore, the source category does not map to any existing reference category and is considered out of scope."
-  },
-  {
-    "id": "25781",
-    "name": "Силікон",
-    "path": "ІБІС Риболовля > Рибальство > Приманки > Силікон",
-    "reasoning": "The leaf category \"Силікон\" refers to silicone fishing lures, a product category specific to fishing gear. The reference taxonomy contains no categories related to fishing lures, fishing equipment, or silicone products. Therefore, there is no suitable match within the provided reference categories."
-  },
-  {
-    "id": "25783",
-    "name": "Буз-бари",
-    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Буз-бари",
-    "reasoning": "The leaf category \"Буз-бари\" refers to fishing rod holders or stands used in angling. None of the reference categories cover fishing gear or related equipment; all reference categories are related to weapons, tactical gear, or outdoor equipment for hunting, military, or general outdoor use. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25785",
-    "name": "Підставки",
-    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Підставки",
-    "reasoning": "The source leaf \"Підставки\" refers to fishing stands and holders, a category specific to angling equipment. In the reference tree, there is no category that directly corresponds to fishing stands. The only stand-related category is \"Чистка та догляд > Подставки для чистки\", which is for cleaning stands and does not match the fishing context. Therefore, no suitable reference category exists, and the item is considered out of scope."
-  },
-  {
-    "id": "25787",
-    "name": "Стійки",
-    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Стійки",
-    "reasoning": "The leaf category \"Стійки\" refers to fishing rod stands used in angling. The reference catalog focuses on weapons, tactical gear, and general outdoor equipment, but it does not contain any category for fishing gear or stands. The closest category in the reference is \"Стільці, крісла\" (chairs, stools), which is not a functional match for fishing stands. Therefore, there is no suitable reference category, and the item is out of scope."
-  },
-  {
-    "id": "25789",
-    "name": "Триноги",
-    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Триноги",
-    "reasoning": "The leaf category \"Триноги\" refers to tripods used for fishing rods or similar outdoor equipment. None of the reference categories explicitly cover tripods or fishing‑related stands. The closest reference domains are optics or general outdoor gear, but no specific category matches the function or product type of a fishing tripod. Therefore the category is considered out of scope for the given reference taxonomy."
-  },
-  {
-    "id": "25790",
-    "name": "Швидкознімачі",
-    "path": "ІБІС Риболовля > Рибальство > Підставки та тримачі > Швидкознімачі",
-    "reasoning": "The leaf category \"Швидкознімачі\" refers to quick‑release holders or stands used in fishing gear. None of the reference categories cover fishing equipment or related stands/holders. The closest reference categories are for optics or general equipment, which do not match the specific fishing context. Therefore, no suitable match exists."
-  },
-  {
-    "id": "25792",
-    "name": "Антисептики",
-    "path": "ІБІС Риболовля > Рибальство > Піклування про рибу > Антисептики",
-    "reasoning": "The source leaf \"Антисептики\" refers to antiseptic products used in fish care and aquaculture. The reference catalog contains categories related to weapons, tactical gear, outdoor equipment, and cleaning supplies for firearms, but there is no category covering fish health, aquaculture, or general antiseptics for biological use. Therefore, no suitable reference category exists."
-  },
-  {
-    "id": "25794",
-    "name": "Коропові мати та сумки для зважування",
-    "path": "ІБІС Риболовля > Рибальство > Піклування про рибу > Коропові мати та сумки для зважування",
-    "reasoning": "The source leaf refers to nets and bags used for weighing fish in fishing. The reference taxonomy contains categories for weapons, optics, tactical gear, and general outdoor equipment, but it does not include any category related to fishing gear, nets, or fish weighing equipment. The closest reference category is \"Спорядження > Кобури та сумки\" (backpacks and bags), which is unrelated to fishing nets or fish weighing. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25798",
-    "name": "Садки",
-    "path": "ІБІС Риболовля > Рибальство > Садки та підсаки > Садки",
-    "reasoning": "The leaf category \"Садки\" refers to fishing lures or bait used in angling. The reference taxonomy covers weapons, tactical gear, and general outdoor equipment, but it does not include any category for fishing lures, fishing gear, or angling supplies. None of the existing reference categories match the domain or product type of \"Садки\". Therefore the category is out of scope for the provided reference list."
-  },
-  {
-    "id": "25800",
-    "name": "Електронні",
-    "path": "ІБІС Риболовля > Рибальство > Сигналізатори > Електронні",
-    "reasoning": "The source leaf \"Електронні\" refers to electronic fishing signal devices (e.g., electronic lures, fish finders). The reference catalogue contains categories for weapons, optics, tactical gear, and general outdoor equipment, but it does not include any fishing‑related categories or electronic fishing devices. Therefore, there is no suitable match within the reference tree."
-  },
-  {
-    "id": "25801",
-    "name": "Механічні",
-    "path": "ІБІС Риболовля > Рибальство > Сигналізатори > Механічні",
-    "reasoning": "The leaf name \"Механічні\" in the context of \"Сигналізатори\" (signal devices) refers to mechanical fish‑finding or signal devices used in fishing. This domain (fishing gear) is not represented in the reference taxonomy, which covers weapons, tactical, and general outdoor equipment but not fishing equipment. Therefore no suitable reference category exists."
-  },
-  {
-    "id": "25804",
-    "name": "Платформи та станції",
-    "path": "ІБІС Риболовля > Рибальство > Станції, крісла та обвіси > Платформи та станції",
-    "reasoning": "The leaf category \"Платформи та станції\" refers to fishing platforms and stations used in angling. The reference taxonomy contains no category that directly covers fishing platforms or angling stations. The closest related domains in the reference are general outdoor or tactical equipment, but none match the specific fishing context. Therefore, there is no suitable reference category to map to."
-  },
-  {
-    "id": "25806",
-    "name": "Бакани",
-    "path": "ІБІС Риболовля > Рибальство > Транспортування та зберігання > Бакани",
-    "reasoning": "The leaf category \"Бакани\" refers to fish containers or tanks used for transporting and storing fish in a fishing context. None of the reference categories cover fish tanks, fish transport containers, or any similar fishing equipment. The closest reference categories are related to weapons, tactical gear, or general outdoor gear, none of which match the domain of fish storage. Therefore the category is out of scope."
-  },
-  {
-    "id": "25807",
-    "name": "Гаманці для приманок",
-    "path": "ІБІС Риболовля > Рибальство > Транспортування та зберігання > Гаманці для приманок",
-    "reasoning": "The leaf category \"Гаманці для приманок\" refers to containers or wallets used for storing fishing lures. The reference taxonomy contains no categories related to fishing gear, lures, or related accessories. All available leaf categories are focused on weapons, tactical gear, outdoor equipment, and general camping supplies, none of which match the specific domain of fishing lures. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25809",
-    "name": "Повідниці та мотовила",
-    "path": "ІБІС Риболовля > Рибальство > Транспортування та зберігання > Повідниці та мотовила",
-    "reasoning": "The leaf category \"Повідниці та мотовила\" refers to fishing rods and reels, which are fishing equipment. The reference taxonomy does not contain any category related to fishing gear or rods/reels. All available leaf categories are focused on weapons, tactical gear, outdoor equipment such as tents, sleeping bags, and other non‑fishing items. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25811",
-    "name": "Тубуси",
-    "path": "ІБІС Риболовля > Рибальство > Транспортування та зберігання > Тубуси",
-    "reasoning": "The leaf category \"Тубуси\" refers to tubes used for transporting or storing fish in a fishing context. None of the reference categories cover fishing equipment or fish transport containers. The reference tree is focused on weapons, optics, tactical gear, and related accessories, with no overlap with fishing or marine transport items. Therefore, there is no suitable match in the reference categories."
-  },
-  {
-    "id": "25812",
-    "name": "Фіксатори",
-    "path": "ІБІС Риболовля > Рибальство > Транспортування та зберігання > Фіксатори",
-    "reasoning": "The leaf category \"Фіксатори\" refers to fishing line fixators or holders used in fishing. The reference taxonomy contains no fishing‑related categories; all leaf categories are related to weapons, tactical gear, or general outdoor equipment. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25818",
-    "name": "Добавки",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Добавки",
-    "reasoning": "The leaf \"Добавки\" refers to fish additives or supplements used in fishing. The reference taxonomy contains categories for weapons, tactical gear, and general outdoor equipment, but it does not include any fishing‑related categories or a subcategory for fish additives. The closest generic category is \"Їжа для \"виживання\"\", which is survival food, not fish additives. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25819",
-    "name": "Діпи",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Діпи",
-    "reasoning": "The leaf category \"Діпи\" refers to food items (dips) used in fishing or general cuisine, which is unrelated to the weapons, tactical, and outdoor equipment categories provided in the reference list. No reference category covers food or fishing consumables, so the source category is out of scope."
-  },
-  {
-    "id": "25821",
-    "name": "Метод мікси та стік мікси",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Метод мікси та стік мікси",
-    "reasoning": "The leaf category refers to fishing bait mixes and stick mixes used in angling. The reference taxonomy contains categories for weapons, tactical gear, and general outdoor equipment, but it does not include any category related to fishing supplies, bait, or angling equipment. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25822",
-    "name": "Натуральні насадки",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Натуральні насадки",
-    "reasoning": "The leaf category \"Натуральні насадки\" refers to natural fishing baits. The reference taxonomy contains no categories related to fishing, bait, or food for fish. All available leaf categories are focused on weapons, tactical gear, optics, ammunition, and related accessories. Therefore, there is no suitable match in the reference tree, and the category is out of scope for this classification."
-  },
-  {
-    "id": "25824",
-    "name": "Пелети",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Пелети",
-    "reasoning": "The leaf category \"Пелети\" in the context of \"Рибальство > Харчування\" refers to fish feed pellets, a product unrelated to firearms, ammunition, or tactical gear. None of the reference categories cover fish feed or similar consumables. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25825",
-    "name": "Прикормки",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Прикормки",
-    "reasoning": "The leaf category \"Прикормки\" refers to fishing bait, which is unrelated to the weapons, tactical, or outdoor equipment categories provided in the reference list. No reference category covers fishing or bait products, so the item is out of scope."
-  },
-  {
-    "id": "25827",
-    "name": "Фарба",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Фарба",
-    "reasoning": "The source leaf category \"Фарба\" refers to paint, which is unrelated to the product categories in the reference list (weapons, optics, tactical gear, outdoor equipment, etc.). No reference category matches the concept of paint or related products, so the category is out of scope."
-  },
-  {
-    "id": "25828",
-    "name": "Штучні насадки",
-    "path": "ІБІС Риболовля > Рибальство > Харчування > Штучні насадки",
-    "reasoning": "The leaf category \"Штучні насадки\" refers to artificial fishing lures used in angling. The reference taxonomy contains only categories related to firearms, tactical gear, and general outdoor equipment, with no entries for fishing lures or related fishing supplies. Therefore, there is no suitable match within the reference categories."
-  },
-  {
-    "id": "25830",
-    "name": "Байдарки та каяки",
-    "path": "ІБІС Риболовля > Рибальство > Човни та аксесуари > Байдарки та каяки",
-    "reasoning": "The source leaf \"Байдарки та каяки\" refers to canoes and kayaks, i.e., small watercraft used for paddling. In the reference hierarchy there is no category that explicitly covers boats, kayaks, or similar watercraft. The closest broad category is \"Активний відпочинок, туризм та хобі\", but it contains only items such as tents, sleeping bags, cooking gear, and no subcategory for watercraft. Therefore there is no suitable match in the reference list."
-  },
-  {
-    "id": "25832",
-    "name": "Комплектуючі до човнів та двигунів",
-    "path": "ІБІС Риболовля > Рибальство > Човни та аксесуари > Комплектуючі до човнів та двигунів",
-    "reasoning": "The source leaf category refers to components for boats and engines, which is a fishing/boating domain. The reference taxonomy contains categories for weapons, tactical gear, outdoor recreation, drones, and related accessories, but it does not include any categories for boating, fishing equipment, or marine components. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25833",
-    "name": "Надувні човни",
-    "path": "ІБІС Риболовля > Рибальство > Човни та аксесуари > Надувні човни",
-    "reasoning": "The reference taxonomy focuses on weapons, tactical gear, and outdoor equipment such as camping gear, firearms, optics, and accessories. It does not contain any category for watercraft, boats, or inflatable boats. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25834",
-    "name": "Підвісні двигуни",
-    "path": "ІБІС Риболовля > Рибальство > Човни та аксесуари > Підвісні двигуни",
-    "reasoning": "The leaf category \"Підвісні двигуни\" refers to outboard motors used on boats. None of the reference categories cover marine or boat engines; the closest broad category \"Активний відпочинок, туризм та хобі\" does not contain a subcategory for boat motors. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25836",
-    "name": "Моноволосінь",
-    "path": "ІБІС Риболовля > Рибальство > Шнури та волосінь > Моноволосінь",
-    "reasoning": "The leaf category \"Моноволосінь\" refers to monofilament fishing line, a product used in fishing. The reference taxonomy contains categories for weapons, tactical gear, outdoor equipment, and related accessories, but it does not include any category for fishing lines or fishing gear. Therefore there is no suitable match in the reference list, and the category is out of scope for the given taxonomy."
-  },
-  {
-    "id": "25838",
-    "name": "Флюорокарбон",
-    "path": "ІБІС Риболовля > Рибальство > Шнури та волосінь > Флюорокарбон",
-    "reasoning": "The leaf category \"Флюорокарбон\" refers to fluorocarbon fishing line, a product used in fishing. The reference category tree contains no fishing‑related categories or any subcategory that would logically include fishing line. All available reference categories are related to weapons, tactical gear, outdoor equipment, or general outdoor activities, but none cover fishing gear. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25839",
-    "name": "Шнури",
-    "path": "ІБІС Риболовля > Рибальство > Шнури та волосінь > Шнури",
-    "reasoning": "The leaf category \"Шнури\" refers to fishing lines, a product category within the fishing domain. The reference taxonomy contains no categories related to fishing equipment, lines, or related accessories. Therefore, there is no suitable match in the reference list."
-  },
-  {
-    "id": "25842",
-    "name": "Аксесуари для альпінізму",
-    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Аксесуари для альпінізму",
-    "reasoning": "The leaf category \"Аксесуари для альпінізму\" refers to climbing gear accessories such as harnesses, carabiners, quick‑draws, belay devices, chalk, climbing shoes, etc. None of the reference categories list a climbing or alpinism domain. The closest broad outdoor categories (e.g., \"Активний відпочинок, туризм та хобі\" or \"Спорядження\") do not specifically cover climbing accessories, and the existing sub‑categories are focused on firearms, optics, or general outdoor gear that does not include climbing equipment. Therefore there is no suitable reference match, and the category is considered out of scope."
-  },
-  {
-    "id": "25843",
-    "name": "Блоки, ролики, вертлюги",
-    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Блоки, ролики, вертлюги",
-    "reasoning": "The leaf category \"Блоки, ролики, вертлюги\" refers to climbing training equipment (blocks, rollers, turntables). None of the reference categories cover climbing or training equipment; the closest references are for optics or AR platform mounting, which are unrelated. Therefore no suitable match exists."
-  },
-  {
-    "id": "25852",
-    "name": "Скельні туфлі",
-    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Скельні туфлі",
-    "reasoning": "The leaf category \"Скельні туфлі\" refers to climbing shoes, a type of footwear used in mountaineering and rock climbing. In the reference tree, there is no category that specifically covers footwear, climbing shoes, or general outdoor shoes. The closest parent category in the reference is \"Спорядження\", but it only contains items such as gloves, backpacks, helmets, and cases, none of which correspond to shoes. Therefore, there is no suitable match in the reference categories, and the item falls outside the scope of the provided taxonomy."
-  },
-  {
-    "id": "25855",
-    "name": "Шнури та мотузки",
-    "path": "ІБІС Риболовля > Спорядження > Альпінізм > Шнури та мотузки",
-    "reasoning": "The leaf category \"Шнури та мотузки\" refers to ropes and cords used in outdoor activities such as fishing, climbing, or general outdoor gear. In the reference tree, there is no leaf category that explicitly covers ropes, cords, or climbing gear. The closest related categories are under \"Активний відпочинок, туризм та хобі\" (e.g., \"Намети\", \"Спальні мішки\") or \"Спорядження\" (e.g., \"Кобури та сумки\"), but none of these include ropes or cords. Therefore, no suitable match exists in the reference categories."
-  },
-  {
-    "id": "25858",
-    "name": "Біотуалети та душі",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Гігієна > Біотуалети та душі",
-    "reasoning": "The leaf category \"Біотуалети та душі\" refers to portable toilets and showers used for hygiene in outdoor or survival settings. None of the reference categories cover hygiene or sanitation equipment; the closest are general outdoor gear categories such as \"Посуд\" or \"Спальні мішки\", which do not match the product type. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25859",
-    "name": "Особиста гігієна",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Гігієна > Особиста гігієна",
-    "reasoning": "The source leaf \"Особиста гігієна\" refers to personal hygiene items such as toothbrushes, toothpaste, hand sanitizers, wipes, etc. None of the reference categories contain a direct match for hygiene products. The closest reference category is \"Засоби індивідуального захисту\" (personal protective equipment), which covers items like helmets, gloves, and protective gear, not hygiene supplies. Therefore, there is no suitable reference category for this leaf, and it is considered out of scope."
-  },
-  {
-    "id": "25867",
-    "name": "Аксесуари для складаних меблів",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Складані меблі > Аксесуари для складаних меблів",
-    "reasoning": "The leaf category refers to accessories for folding furniture used in bivouac or camping contexts (e.g., folding table legs, cushions, support brackets). None of the reference categories cover furniture or its accessories. The only somewhat related reference node is the generic \"Аксесуари\" category, but matching on a generic term alone is disallowed. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25868",
-    "name": "Гамаки",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Складані меблі > Гамаки",
-    "reasoning": "The leaf category \"Гамаки\" refers to hammocks, a type of outdoor furniture used for sleeping or resting. None of the reference categories cover hammocks or general outdoor furniture; the closest reference domains are weapons, tactical gear, or specific outdoor equipment such as tents, sleeping bags, or camping chairs, but hammocks are not represented. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25869",
-    "name": "Крісла та стільці",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Складані меблі > Крісла та стільці",
-    "reasoning": "The leaf category \"Крісла та стільці\" refers to folding chairs and tables used for outdoor or bivouac purposes. None of the reference categories cover furniture or seating/tables; all reference categories are related to weapons, optics, tactical gear, or accessories. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25871",
-    "name": "Набори складаних меблів",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Складані меблі > Набори складаних меблів",
-    "reasoning": "The leaf category \"Набори складаних меблів\" refers to sets of folding furniture used for camping or bivouac. None of the reference categories cover folding furniture or general camping furniture. The closest reference categories are for specific camping gear such as tents, sleeping bags, stoves, or seating, but none match the concept of a furniture set. Therefore there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25872",
-    "name": "Розкладачки",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Складані меблі > Розкладачки",
-    "reasoning": "The leaf category \"Розкладачки\" refers to folding tables or folding furniture used in camping or bivouac settings. None of the reference categories correspond to folding tables or general camping furniture. The closest broad category would be \"Активний відпочинок, туризм та хобі > Спортивні товари\", but that is too generic and does not specifically cover folding tables. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25873",
-    "name": "Столи туристичні",
-    "path": "ІБІС Риболовля > Спорядження > Бівак > Складані меблі > Столи туристичні",
-    "reasoning": "The leaf category \"Столи туристичні\" refers to folding or portable tables used for camping or outdoor activities. None of the reference leaf categories mention tables, folding furniture, or similar outdoor furniture items. The closest parent domain in the reference tree is \"Активний відпочинок, туризм та хобі\", but that category only contains items such as tents, sleeping bags, stoves, and cookware, not tables. Therefore there is no suitable match in the reference list."
-  },
-  {
-    "id": "25883",
-    "name": "Клейкі стрічки",
-    "path": "ІБІС Риболовля > Спорядження > Додатковий інвентар > Клейкі стрічки",
-    "reasoning": "The leaf category \"Клейкі стрічки\" refers to adhesive tapes or glue sticks used in fishing gear. None of the reference categories cover adhesive products or tapes. The reference tree focuses on weapons, tactical gear, optics, firearms, ammunition, reloading, and general outdoor equipment, but there is no category for adhesives or tapes. Therefore, there is no suitable match in the reference set."
-  },
-  {
-    "id": "25890",
-    "name": "Годинники та фітнес браслети",
-    "path": "ІБІС Риболовля > Спорядження > Електроніка > Годинники та фітнес браслети",
-    "reasoning": "The reference taxonomy does not contain any category for watches, fitness trackers, or general wearable electronics. All available leaf categories relate to weapons, tactical gear, outdoor equipment, or other specialized items. Therefore, there is no suitable match for \"Годинники та фітнес браслети\" within the reference set."
-  },
-  {
-    "id": "25891",
-    "name": "Екшен-камери",
-    "path": "ІБІС Риболовля > Спорядження > Електроніка > Екшен-камери",
-    "reasoning": "The leaf category \"Екшен-камери\" refers to action cameras, a type of electronic video recording device. None of the reference categories list a camera, video, or similar electronic recording device. The closest reference categories are related to drones, optics, or tactical gear, none of which encompass action cameras. Therefore, there is no suitable match in the reference tree."
-  },
-  {
-    "id": "25893",
-    "name": "Комплектуючі для екшен-камер",
-    "path": "ІБІС Риболовля > Спорядження > Електроніка > Комплектуючі для екшен-камер",
-    "reasoning": "The leaf category refers to accessories for action cameras (batteries, mounts, cases, memory cards, etc.). The reference taxonomy contains no specific category for camera or general electronic accessories. The closest generic category is \"Оптика > Аксесуари та комплектуючі > Інше\", but that is limited to optical equipment and does not semantically match camera accessories. Therefore no suitable match exists."
-  },
-  {
-    "id": "25903",
-    "name": "Гідратори",
-    "path": "ІБІС Риболовля > Спорядження > Засоби для виживання > Питне спорядження > Гідратори",
-    "reasoning": "The leaf category \"Гідратори\" refers to water purification or hydration systems. In the reference tree, there is no category that explicitly covers water purifiers or hydration equipment. The closest related categories are \"Фляги\" (water bottles) and \"Питне спорядження\" is not present in the reference list. Therefore, no suitable match exists."
-  },
-  {
-    "id": "25912",
-    "name": "Газові різаки",
-    "path": "ІБІС Риболовля > Спорядження > Кухня та посуд > Пальники > Газові різаки",
-    "reasoning": "The leaf category \"Газові різаки\" refers to gas-powered cutting tools used in a kitchen or fishing context. None of the reference categories cover kitchen utensils, cooking tools, or gas-powered cutters. The reference tree focuses on weapons, tactical gear, and outdoor equipment, so this category does not fit any existing leaf. Therefore it is out of scope."
-  },
-  {
-    "id": "25929",
-    "name": "Кавоварки",
-    "path": "ІБІС Риболовля > Спорядження > Кухня та посуд > Туристичний посуд > Кавоварки",
-    "reasoning": "The leaf category \"Кавоварки\" refers to coffee makers, a type of kitchen appliance used for brewing coffee. None of the reference categories in the provided list correspond to kitchen appliances, cooking equipment, or general consumer goods. The reference taxonomy is focused on weapons, tactical gear, and outdoor equipment, with no subcategory for coffee makers or related items. Therefore, there is no suitable match within the reference tree."
+    "id": "12467",
+    "name": "Дзеркала",
+    "path": "Краса, гігієна > Догляд за обличчям і тілом > Дзеркала",
+    "reasoning": "The leaf category 'Дзеркала' means 'Mirrors' in Ukrainian. In the source context, these are beauty/personal care mirrors (e.g., makeup mirrors, cosmetic mirrors). Looking through the reference tree, there is no category for mirrors — neither cosmetic mirrors nor home mirrors. The closest related categories would be home décor ('Вази, картини і декор') or bathroom accessories ('Аксесуари для ванни і туалету'), but neither specifically covers mirrors. The reference tree does not contain a suitable match for mirrors as a product category. Since mirrors are a general household/beauty item that exists in a different domain from weapons, tactical, and outdoor equipment, this is out of scope."
   }
 ]

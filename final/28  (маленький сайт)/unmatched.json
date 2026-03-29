@@ -1,8 +1,0 @@
-[
-  {
-    "id": "25323",
-    "name": "Динамометрические отвертки",
-    "path": "Разное полезное > Динамометрические отвертки",
-    "reasoning": "The source leaf \"Динамометрические отвертки\" refers to torque wrenches (a type of hand tool). In the reference tree, the closest domain is \"Ножі та інструменти\" (knives and tools), but there is no specific leaf category for torque wrenches or similar hand tools. Therefore no exact or near‑exact match exists in the reference list."
-  }
-]
