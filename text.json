@@ -1,0 +1,77 @@
+  {
+    "source_id": "2271",
+    "source_name": "М'ясні делікатеси",
+    "source_path": "Ковбаси, сосиски, делікатеси > М'ясні делікатеси",
+    "reference_id": "143",
+    "reference_name": "Балик",
+    "reference_path": "М'ясо > Ковбаси і м'ясні делікатеси > М'ясні делікатеси > Балик",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf category \"М'ясні делікатеси\" matches exactly the reference leaf category with id 143, which is \"М'ясо > Ковбаси і м'ясні делікатеси > М'ясні делікатеси\"."
+  },
+    {
+    "source_id": "6410",
+    "source_name": "Новорічні подарунки для дорослих",
+    "source_path": "Новий рік > Новорічні подарунки для дорослих",
+    "reference_id": "674",
+    "reference_name": "Для днів народжень і вечірок",
+    "reference_path": "Госптовари, non-food > Для дому > Товари для свят > Для днів народжень і вечірок",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category refers to New Year’s gifts for adults, which falls under holiday or party gift items. In the reference tree, the closest match is the generic holiday gift category \"Госптовари, non-food > Для дому > Товари для свят > Для днів народжень і вечірок\" (id 674), which covers gifts for various celebrations, including New Year. No more specific category exists for New Year gifts, so this is the best fit."
+  },
+    {
+    "source_id": "6905",
+    "source_name": "Товари для ремонту",
+    "source_path": "Товари для дому > Товари для ремонту",
+    "reference_id": "637",
+    "reference_name": "Аксесуари для ванни і туалету",
+    "reference_path": "Госптовари, non-food > Для дому > Господарчі товари > Аксесуари для ванни і туалету",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Товари для ремонту\" refers to repair tools and supplies, which are part of household goods. The closest reference category covering such items is \"Господарчі товари\" (id 637) under \"Для дому\"."
+  },
+    {
+    "source_id": "6910",
+    "source_name": "Інша галантерея",
+    "source_path": "Товари для дому > Галантерея > Інша галантерея",
+    "reference_id": "683",
+    "reference_name": "Вази, картини і декор",
+    "reference_path": "Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The source leaf \"Інша галантерея\" refers to miscellaneous decorative items or small household trinkets. In the reference tree, the closest category covering decorative household items is \"Товари для дому > Інтер'єр > Вази, картини і декор\" (id 683), which includes vases, pictures, and general decor. No other reference category matches the broader concept of miscellaneous trinkets, so this is the best fit."
+  },
+    {
+    "source_id": "7879",
+    "source_name": "Галантерея",
+    "source_path": "Товари для дому > Галантерея",
+    "reference_id": "667",
+    "reference_name": "Сковорідки, каструлі",
+    "reference_path": "Госптовари, non-food > Для дому > Посуд > Сковорідки, каструлі",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "Галантерея – це категорія дрібних побутових товарів, переважно кухонного приладдя (сковорідки, каструлі, ножі, посуд). У референс-дереві найточніше підходить листова категорія «Сковорідки, каструлі», яка знаходиться під «Посуд» у розділі «Для дому». Це найбільш конкретний відповідник, що охоплює предмети, що ймовірно входять до галантереї."
+  },
+    {
+    "source_id": "9072",
+    "source_name": "Парфуми",
+    "source_path": "Гігієна та догляд > Парфуми",
+    "reference_id": "801",
+    "reference_name": "Косметика",
+    "reference_path": "Госптовари, non-food > Гігієна та краса > Декоративна косметика > Косметика",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Парфуми\" refers to perfumes, which fall under personal care and beauty products. In the reference hierarchy, the closest matching category is \"Косметика\" under \"Гігієна та краса > Декоративна косметика\", which encompasses various beauty and fragrance products. No more specific reference category exists for perfumes, so this is the best fit."
+  },
+    {
+    "source_id": "12475",
+    "source_name": "Парфумерні товари",
+    "source_path": "Краса, гігієна > Догляд за обличчям і тілом > Парфумерні товари",
+    "reference_id": "801",
+    "reference_name": "Косметика",
+    "reference_path": "Госптовари, non-food > Гігієна та краса > Декоративна косметика > Косметика",
+    "method": "ai_deep",
+    "confidence": "high",
+    "reasoning": "The leaf category \"Парфумерні товари\" refers to perfumes, fragrances, eau de toilette, etc. In the reference tree there is no dedicated perfume category. The closest semantic match is the leaf category \"Косметика\" (id 801), which is a generic cosmetics category that would encompass perfumes. No more specific reference category exists, so we map to \"Косметика\"."
+  },

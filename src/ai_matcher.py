@@ -36,6 +36,7 @@ def _call_api(prompt: str) -> str:
     )
     with urllib.request.urlopen(req, timeout=120) as resp:
         body = json.loads(resp.read().decode("utf-8"))
+    print(body["choices"][0]["message"]["content"])
     return body["choices"][0]["message"]["content"]
 
 

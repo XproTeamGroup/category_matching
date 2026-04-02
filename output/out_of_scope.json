@@ -3,102 +3,1002 @@
     "id": "2604",
     "name": "Сертифікати",
     "path": "Товари для дому > Сертифікати",
-    "reasoning": "The leaf category 'Сертифікати' (Certificates) refers to gift certificates or vouchers. Looking through the reference tree, there is no category for gift certificates, vouchers, or similar products. The reference tree covers food, beverages, household goods, cosmetics, pet supplies, children's products, etc. Gift certificates/vouchers are a completely different type of product (a financial/gift instrument) that does not fit into any of the available leaf categories. This is out of scope for the reference catalog."
+    "reasoning": "The leaf category \"Сертифікати\" refers to gift certificates or vouchers. None of the reference categories match this concept – there is no category for certificates, vouchers, or gift cards in the reference list. The closest possible match would be a hypothetical \"Подарункові сертифікати\" category, which does not exist. Therefore the category is outside the scope of the provided reference taxonomy."
   },
   {
-    "id": "5874",
-    "name": "Кошики, коробки, органайзери",
-    "path": "Товари для дому > Зберігання та догляд за одягом > Кошики, коробки, органайзери",
-    "reasoning": "The leaf category 'Кошики, коробки, органайзери' (Baskets, boxes, organizers) refers to storage containers and organizers for home use, specifically in the context of clothing storage. Looking through the reference tree, this is a home goods / household item category. The reference tree does not contain a specific category for storage baskets, boxes, or organizers for clothing or home use. The closest categories in the reference tree are under 'Госптовари, non-food > Для дому' but none specifically cover storage baskets/boxes/organizers. The category 'Для зберігання продуктів' (id 671) is for food storage, not clothing/home organizers. This product type (home storage organizers) is completely outside the domain of a weapons, tactical, and outdoor equipment store, and no reasonable match exists in the reference tree."
+    "id": "5502",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The source leaf \"Акційні пропозиції\" (Ukrainian for \"Special offers\" or \"Promotions\") is a meta‑category that groups various product types under promotional deals. The reference tree contains only specific product leaf categories (e.g., vegetables, meats, beverages, etc.) and does not include a leaf that represents a generic promotional or offers category. Therefore, there is no suitable reference leaf to map to. The category belongs to a different domain (meta‑category vs. product category), so it is out of scope."
   },
   {
-    "id": "5882",
-    "name": "Попільнички",
-    "path": "Товари для дому > Дрібниці для дому > Попільнички",
-    "reasoning": "The leaf category 'Попільнички' means 'ashtrays' in Ukrainian — small household items used for collecting cigarette ash. Looking through the reference tree, there is no category specifically for ashtrays. The closest related categories might be household items or home décor. 'Господарчі дрібниці' (id 639) covers small household items, but ashtrays are not food-related products. The reference tree is primarily a grocery/food/personal care store catalog. Ashtrays are completely outside the domain of this store (weapons, tactical, outdoor equipment store context given in the system prompt, but the reference categories are actually for a grocery supermarket). There is no matching category for ashtrays in the reference tree. This is out of scope for the available categories."
+    "id": "5873",
+    "name": "Вішаки, плечики",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Вішаки, плечики",
+    "reasoning": "The source leaf category refers to hangers and shoulder straps used for storing and caring for clothing. In the reference tree, there is no category that explicitly covers hangers, garment storage, or similar household items. The closest related categories are general household items such as \"Паперові вироби\" or \"Посуд\", but they do not match the function or product type of hangers. Therefore, there is no suitable reference category for this source leaf."
   },
   {
     "id": "5928",
     "name": "Садові меблі",
     "path": "Хобі та відпочинок > Дача, сад, город > Садові меблі",
-    "reasoning": "The leaf category 'Садові меблі' means 'Garden furniture' in Ukrainian — chairs, tables, loungers, benches and similar outdoor furniture items for garden/patio use. Scanning the entire reference tree, there is no category for furniture of any kind (garden, indoor, or otherwise). The reference tree covers food, beverages, household chemicals, personal care, pet supplies, baby products, supplements, and some general household goods. Garden furniture is completely outside the domain of this reference catalog (which is a food/grocery/household store, not a weapons/tactical/outdoor equipment store as described in the system prompt). No reasonable match exists."
+    "reasoning": "The source leaf category \"Садові меблі\" refers to outdoor garden furniture. In the reference tree, there is no leaf category that covers furniture, especially garden or outdoor furniture. The reference categories are primarily food, beverages, household items, and personal care, with no mention of furniture or garden furnishings. Therefore, there is no suitable match."
   },
   {
     "id": "5952",
     "name": "Товари для ремонту",
     "path": "Хобі та відпочинок > Товари для ремонту",
-    "reasoning": "The leaf category 'Товари для ремонту' means 'Repair/renovation goods' — products used for home repair, construction, or renovation work (tools, materials, hardware, etc.). Looking through the reference tree, which is a grocery/food/household store catalog, there is no category for repair or construction goods. The closest categories are household goods ('Госптовари, non-food'), but these cover cleaning supplies, hygiene, kitchenware, and similar items — not repair/renovation materials. This category is completely outside the domain of the reference store."
+    "reasoning": "The source leaf category refers to repair tools and related hardware items. The reference list contains only food, beverage, household, and personal care categories, with no entries for tools, hardware, or repair supplies. Therefore there is no suitable match in the reference taxonomy."
   },
   {
-    "id": "6884",
-    "name": "Кошики для зберігання",
-    "path": "Товари для дому > Зберігання та догляд за одягом > Кошики для зберігання",
-    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — household items used for organizing and storing things (clothes, linens, etc.). Looking through the reference tree, which is a food/grocery/household store catalog, there is no category specifically for storage baskets or home organization products. The closest home goods categories are under 'Госптовари, non-food > Для дому' but none cover storage baskets specifically — the subcategories there deal with cleaning supplies, paper products, disposable tableware, regular tableware, textiles, décor, clothing/accessories, electronics, stationery, and picnic items. Storage baskets are a home organization/furniture-adjacent product that doesn't fit any of the available leaf categories. This is out of scope for this reference catalog."
+    "id": "6384",
+    "name": "Піротехніка, феєрверки, хлопавки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка, феєрверки, хлопавки",
+    "reasoning": "The leaf category refers to pyrotechnics, fireworks, and sparklers, which are not represented in the reference taxonomy. No category in the reference list matches this domain, so the item is out of scope."
+  },
+  {
+    "id": "6405",
+    "name": "Оптом дешевше",
+    "path": "Оптом дешевше",
+    "reasoning": "The leaf category \"Оптом дешевше\" refers to a pricing strategy or bulk purchase option (wholesale cheaper) rather than a specific product type. None of the reference categories represent a wholesale or price‑based grouping; all reference categories are product categories (e.g., \"М'ясо\", \"Кава\", \"Бакалія\"). Therefore there is no suitable semantic match in the reference tree."
   },
   {
     "id": "6893",
     "name": "Настільні лампи, світильники",
     "path": "Товари для дому > Освітлення > Настільні лампи, світильники",
-    "reasoning": "The leaf category 'Настільні лампи, світильники' refers to table lamps and light fixtures — home lighting products. Looking through the reference tree, there is no category for lighting, lamps, or light fixtures. The reference tree covers food, beverages, personal care, household chemicals, pet supplies, children's goods, and similar categories. Lighting products are completely outside the domain of this reference catalog."
+    "reasoning": "The reference taxonomy does not contain any category related to lighting fixtures, lamps, or illumination. All available leaf categories pertain to food, beverages, household items, personal care, or other non‑lighting domains. Therefore, there is no suitable match for \"Настільні лампи, світильники\" in the reference list."
   },
   {
-    "id": "6905",
-    "name": "Товари для ремонту",
-    "path": "Товари для дому > Товари для ремонту",
-    "reasoning": "The leaf category 'Товари для ремонту' means 'Repair/renovation goods' — products like tools, building materials, paint, adhesives, hardware, etc. used for home repair and renovation. Looking through the entire reference tree, which covers food, beverages, personal care, household chemicals, pet supplies, baby products, and similar categories, there is no category that covers home repair or construction tools and materials. The closest categories are household goods ('Госптовари, non-food > Для дому'), but these cover cleaning supplies, paper products, disposable tableware, interior decor, and similar items — not repair/renovation tools and materials. This is a completely different domain from what is available in the reference tree."
+    "id": "6909",
+    "name": "Парасольки",
+    "path": "Товари для дому > Галантерея > Парасольки",
+    "reasoning": "The reference list contains categories for weapons, tactical, and outdoor equipment, but there is no category that corresponds to umbrellas (парасольки). No matching or semantically close category exists in the reference tree."
+  },
+  {
+    "id": "6911",
+    "name": "Подарункові сертифікати",
+    "path": "Товари для дому > Подарункові сертифікати",
+    "reasoning": "The leaf category \"Подарункові сертифікати\" refers to gift certificates, which are non-physical, service-oriented items. The reference tree contains only physical product categories (food, household goods, cosmetics, etc.) and does not include any category for certificates or vouchers. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "7361",
+    "name": "Туалетна вода для жінок",
+    "path": "Гігієна та догляд > Косметика та парфумерія > Туалетна вода для жінок",
+    "reasoning": "The source leaf category refers to women’s toilet water, i.e., a type of perfume or fragrance. The reference taxonomy contains no category for perfumes, fragrances, or toilet water. The closest related categories are under \"Гігієна та краса\" (e.g., \"Декоративна косметика\"), but those are for makeup, not fragrance. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "7457",
+    "name": "Святкові костюми",
+    "path": "Хобі та відпочинок > Товари для свята > Святкові костюми",
+    "reasoning": "The source leaf category \"Святкові костюми\" refers to festive or holiday costumes, which are apparel items for celebrations. The reference taxonomy contains no category for costumes or clothing items; it focuses on food, household goods, and other non‑apparel items. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "7566",
+    "name": "Піротехніка та феєрверки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка та феєрверки",
+    "reasoning": "The leaf category refers to pyrotechnic devices and fireworks, which are not represented in the reference taxonomy. The reference list contains categories for food, beverages, household goods, personal care, and other consumer products, but no category related to fireworks, explosives, or pyrotechnics. Therefore, there is no suitable match."
+  },
+  {
+    "id": "7588",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category \"Акційні пропозиції\" (Promotions/Special offers) is a generic promotional category that does not correspond to any specific product type in the reference taxonomy. The reference tree contains a root category \"Спеціальні пропозиції (Виключити)\" but its children are product categories, not a generic promotional umbrella. Therefore there is no suitable leaf match in the reference list."
+  },
+  {
+    "id": "7594",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The leaf category refers to gifts for adults for New Year. The reference tree contains no dedicated gift or present categories; the closest are party supplies and packaging, which do not match the intent of gift items. Therefore no suitable reference category exists."
   },
   {
     "id": "7867",
     "name": "Ручний інструмент та матеріали",
     "path": "Товари для дому > Техніка > Ручний інструмент та матеріали",
-    "reasoning": "The leaf category 'Ручний інструмент та матеріали' (Hand tools and materials) refers to manual/hand tools and related materials for home use — items like hammers, screwdrivers, pliers, drills, etc. Looking through the reference tree, which is a grocery/food/household supermarket catalog, there is no category for tools or hardware. The closest categories are household goods (Госптовари, non-food), but these cover cleaning supplies, hygiene, paper products, kitchenware, and similar items — not hand tools or construction/repair materials. The category 'Для дому > Пікнік і відпочинок > Для туризму і спорту' (id 705) is too specific and unrelated. There is simply no reference category that covers hand tools and materials in this grocery-focused catalog. This is a completely different domain from what the reference tree covers."
+    "reasoning": "The reference taxonomy contains categories for food, beverages, household goods, and personal care, but does not include any category related to manual tools, hand tools, or construction materials. No category name or semantic match (e.g., \"Інструменти\", \"Ручний інструмент\", \"Матеріали\") is present in the reference list. Therefore, the source category does not map to any existing reference category."
+  },
+  {
+    "id": "7880",
+    "name": "Вішаки та плечики",
+    "path": "Товари для дому > Вішаки та плечики",
+    "reasoning": "The leaf category \"Вішаки та плечики\" refers to hangers and shoulder straps used for hanging clothes. None of the reference categories in the weapons, tactical, and outdoor equipment store cover hangers or clothing accessories. Therefore, this category is outside the scope of the reference taxonomy."
+  },
+  {
+    "id": "8205",
+    "name": "Бальзам, мазь, крем",
+    "path": "Гігієна та догляд > Фармацевтика > Бальзам, мазь, крем",
+    "reasoning": "The source leaf category refers to balms, ointments, and creams – a personal‑care/pharmaceutical product group. The reference taxonomy contains only food, household, and related consumer goods categories; it does not include any personal‑care, pharmaceutical, or medical product categories. Therefore there is no suitable reference category to map to."
+  },
+  {
+    "id": "8343",
+    "name": "Піротехніка та феєрверки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка та феєрверки",
+    "reasoning": "The leaf category \"Піротехніка та феєрверки\" refers to pyrotechnic devices and fireworks, which are not represented in the reference category tree. None of the reference categories cover fireworks, pyrotechnics, or related products. Therefore, there is no suitable match within the provided reference categories."
+  },
+  {
+    "id": "8388",
+    "name": "Подарункові сертифікати",
+    "path": "Хобі та відпочинок > Подарункові сертифікати",
+    "reasoning": "The leaf category \"Подарункові сертифікати\" refers to gift certificates, a service or voucher type that does not correspond to any product category in the reference list. No reference category contains gift certificates or a related concept, and the category is not a product type covered by the existing tree. Therefore it is out of scope."
+  },
+  {
+    "id": "8402",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category \"Акційні пропозиції\" (Ukrainian for \"Special offers\" or \"Promotions\") is a generic, non‑product category that would contain various promotional items across the store. The reference tree contains only product leaf categories (e.g., specific food items, household goods, etc.) and does not include a leaf category that represents a generic promotions or specials section. The closest reference entries are under \"Спеціальні пропозиції (Виключити)\" but those are root or sub‑categories for specific product types, not a generic promotions leaf. Therefore there is no suitable reference leaf category to map to."
+  },
+  {
+    "id": "8408",
+    "name": "Новорічні подарунки для дорослих",
+    "path": "Новий рік > Новорічні подарунки для дорослих",
+    "reasoning": "The source leaf category refers to New Year gifts for adults, which is a gift/greeting category. The reference tree contains only food, beverage, household, and personal care categories, with no gift or holiday gift categories. Therefore there is no suitable match in the reference list."
   },
   {
     "id": "8683",
     "name": "Ручний інструмент та матеріали",
     "path": "Товари для дому > Техніка > Ручний інструмент та матеріали",
-    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials' — products like hammers, screwdrivers, pliers, drills, building materials, etc. This is a home improvement / hardware category. Looking through the entire reference tree, which is focused on a grocery/food/personal care/pet store (Сільпо supermarket), there is no category for hand tools, hardware, or construction materials. The closest general category might be 'Госптовари, non-food > Для дому' but none of its subcategories cover hand tools or construction materials — they cover household chemistry, paper goods, disposable tableware, cosmetics, etc. This category is completely out of scope for this reference catalog."
+    "reasoning": "The source leaf category refers to hand tools and related materials, a domain of hardware and construction supplies. The reference tree contains no category that matches this domain; all leaf categories are food, household goods, or personal care items. Therefore there is no suitable match."
+  },
+  {
+    "id": "9059",
+    "name": "Медичні вироби та прилади",
+    "path": "Гігієна та догляд > Фармацевтика > Медичні вироби та прилади",
+    "reasoning": "The reference taxonomy does not contain any category related to medical devices, instruments, or pharmaceutical equipment. All available leaf categories are focused on food, household goods, personal hygiene, cosmetics, and other consumer products. Therefore, there is no suitable match for \"Медичні вироби та прилади\" within the reference list."
+  },
+  {
+    "id": "9198",
+    "name": "Календарі",
+    "path": "Хобі та відпочинок > Книги > Календарі",
+    "reasoning": "The leaf category \"Календарі\" refers to calendars, a hobby and leisure product. None of the reference leaf categories in the provided list correspond to calendars or any related subcategory (e.g., books, stationery, hobby items). The reference tree contains categories for food, beverages, household goods, health products, pets, etc., but no calendar or book-related categories. Therefore, there is no suitable match."
+  },
+  {
+    "id": "9224",
+    "name": "Подарункові сертифікати",
+    "path": "Хобі та відпочинок > Подарункові сертифікати",
+    "reasoning": "The leaf category \"Подарункові сертифікати\" refers to gift certificates, a service or voucher type rather than a tangible product. The reference tree contains only product categories (food, household goods, etc.) and does not include any category for certificates, vouchers, or similar services. Therefore there is no suitable match in the reference list."
   },
   {
     "id": "9261",
     "name": "Килими",
     "path": "Інтер'єр та текстиль > Килими",
-    "reasoning": "The leaf category 'Килими' means 'Carpets/Rugs' in Ukrainian. This is a home interior/textile product. Looking through the reference tree, there is no specific category for carpets or rugs. The closest categories in the home decor/interior section are 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id: 683) and 'Госптовари, non-food > Для дому > Домашній текстиль' (id: 672). Carpets could partially fit under 'Домашній текстиль' as a textile product for the home, but carpets are typically a distinct category from bedding/towels/curtains. However, 'Домашній текстиль' is the closest semantic match available in the reference tree for a home textile product like carpets. That said, carpets are a furniture/interior decoration item that doesn't cleanly fit any reference category. The reference tree is for a food/grocery/household store and doesn't have a dedicated carpets category. This is out of scope for this store's catalog."
+    "reasoning": "The leaf category \"Килими\" (rugs) refers to floor coverings used in interior décor. None of the reference categories cover rugs or floor coverings; the closest reference categories are for other interior items such as candles, cushions, or decorative items, but no specific rug category exists. Therefore, this source category does not match any reference category and is out of scope for the weapons, tactical, and outdoor equipment store."
+  },
+  {
+    "id": "9264",
+    "name": "Піротехніка та феєрверки",
+    "path": "Інтер'єр та текстиль > Новорічна продукція > Піротехніка та феєрверки",
+    "reasoning": "The leaf category refers to fireworks and pyrotechnic products, which are not represented in the reference taxonomy. No reference category matches this domain, so the item is out of scope."
+  },
+  {
+    "id": "9267",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category \"Акційні пропозиції\" (special offers) is a generic promotional grouping that does not correspond to any specific product type in the reference taxonomy. The reference tree contains only leaf categories for actual product types, and there is no leaf named \"Акційні пропозиції\" or a direct equivalent. Therefore, no suitable match exists."
+  },
+  {
+    "id": "9268",
+    "name": "Бери більше",
+    "path": "Бери більше",
+    "reasoning": "The leaf category \"Бери більше\" translates to \"Take more\" or \"Buy more\", which is a promotional or generic instruction rather than a specific product type. None of the reference leaf categories correspond to a bulk or promotional category; all reference categories are specific product groups (e.g., fruits, meats, household goods). Therefore, there is no suitable match in the reference list."
   },
   {
     "id": "9632",
     "name": "Вішаки та плечики",
     "path": "Товари для дому > Вішаки та плечики",
-    "reasoning": "The leaf category 'Вішаки та плечики' refers to hangers and coat hangers (clothing hangers/hooks for hanging clothes). This is a home goods item. Looking through the reference tree, there is no specific category for hangers or coat hangers. The closest categories in the home goods section include 'Господарчі дрібниці' (id 639) which covers small household items, 'Аксесуари для ванни і туалету' (id 637), 'Інвентар для прибирання' (id 641), or 'Домашній текстиль' (id 672). However, none of these specifically cover clothing hangers. The category 'Господарчі дрібниці' (household small items) could be a loose match, but hangers are not really 'дрібниці'. There is also 'Догляд за одягом і взуттям' (id 645) which covers clothing and shoe care. Hangers are used for storing/organizing clothing, so there's a partial functional relationship, but it's not a strong semantic match. Since no reference category genuinely covers clothing hangers/coat hangers as a product type, and this is a home goods item that is out of scope for a weapons/tactical/outdoor store, this should be marked as out of scope."
-  },
-  {
-    "id": "9634",
-    "name": "Кошики для зберігання",
-    "path": "Товари для дому > Кошики для зберігання",
-    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — containers/baskets used for organizing and storing items at home. Looking through the reference tree, the closest match would be in household goods. Category id 671 'Для зберігання продуктів' (For storing food products) is about food storage specifically. Category id 639 'Господарчі дрібниці' (Household small items) is too generic. Category id 671 is food-specific. There is no specific 'storage baskets' or 'home organization' category in the reference tree. The reference tree does have home goods categories but none specifically for storage baskets as home organization items. This is a home goods/interior item that doesn't fit neatly into any specific reference category. The closest would be household goods but no specific match exists for decorative/functional storage baskets. This is out of scope for a weapons/tactical/outdoor store context, but within the reference tree it's a general home goods item with no specific matching leaf category."
+    "reasoning": "The leaf category \"Вішаки та плечики\" refers to hangers and hangers for clothes. None of the reference categories in the weapons, tactical, and outdoor equipment store list correspond to hangers or household hanging accessories. The reference tree contains categories for food, beverages, household cleaning, personal care, etc., but no category for hangers. Therefore, there is no suitable match."
   },
   {
     "id": "9639",
     "name": "Ручний інструмент та матеріали",
     "path": "Товари для дому > Електротовари > Ручний інструмент та матеріали",
-    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials'. This is a home improvement / hardware category containing items like screwdrivers, hammers, pliers, drills, and related materials. Looking through the reference tree, which is a grocery/food/household consumer goods store, there is no category for hand tools or hardware materials. The closest domain would be household goods ('Госптовари, non-food'), but none of the subcategories there cover hand tools or construction/repair materials. The reference tree does not contain any hardware, tools, or DIY categories. This is a completely different domain from what is available in the reference."
+    "reasoning": "The source leaf category refers to hand tools and related materials. In the reference tree, there is no category that covers hand tools, power tools, or construction materials. All reference leaf categories are related to food, household goods, personal care, or pet supplies. Therefore, no suitable match exists."
+  },
+  {
+    "id": "9645",
+    "name": "Галантерея",
+    "path": "Товари для дому > Галантерея",
+    "reasoning": "The leaf category \"Галантерея\" refers to small household goods and accessories (kitchen utensils, small appliances, decorative items, etc.). None of the reference categories cover this domain; the reference tree focuses on food, beverages, B2B, and other unrelated categories. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "9821",
+    "name": "Фармацевтика",
+    "path": "Гігієна та догляд > Фармацевтика",
+    "reasoning": "The leaf category \"Фармацевтика\" refers to pharmacy products such as medicines, health supplements, and related items. None of the reference categories in the provided list correspond to pharmacy or medical products; the reference tree covers food, household goods, personal care, toys, pet supplies, etc. Therefore there is no suitable match in the reference taxonomy."
   },
   {
     "id": "9922",
     "name": "Килими",
     "path": "Інтер'єр та текстиль > Килими",
-    "reasoning": "The leaf category 'Килими' means 'Carpets/Rugs' in Ukrainian. This is a home interior/textile product. Looking through the reference tree, there is no category specifically for carpets or rugs. The closest categories in the home decor/interior section are: 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id 683), 'Домашній текстиль' (id 672), and 'Декоративні подушки' (id 681). Carpets/rugs are home textile/interior items, and 'Домашній текстиль' (id 672) is the closest match as carpets are a form of home textile. However, carpets are not typically classified under 'Домашній текстиль' which usually refers to bed linens, towels, etc. None of the reference categories specifically cover carpets/rugs. This is a home furnishing/interior product that falls outside the scope of this weapons, tactical, and outdoor equipment store's reference taxonomy entirely."
+    "reasoning": "The source leaf category \"Килими\" (Ukrainian for rugs/carpet) refers to floor coverings and home décor items. In the reference list, there is no category with the exact name \"Килими\" or a direct synonym such as \"Ковери\" or \"Підлоги\". The closest related categories are under \"Госптовари, non-food > Для дому > Інтер'єр\", but those only include items like \"Свічки\", \"Декоративні подушки\", \"Аромати для дому\", etc., none of which cover rugs. No other reference category semantically matches floor coverings or rugs. Therefore, the source category does not map to any existing reference category and is considered out of scope."
+  },
+  {
+    "id": "9970",
+    "name": "Одяг",
+    "path": "Одяг та взуття > Одяг",
+    "reasoning": "The source leaf category \"Одяг\" (clothing) does not correspond to any of the reference leaf categories, which cover food, beverages, household goods, and related items. No reference category matches the domain of apparel, so the category is out of scope."
+  },
+  {
+    "id": "9973",
+    "name": "Різдвяний експрес знижок 10.12-06.01.26",
+    "path": "Різдвяний експрес знижок 10.12-06.01.26",
+    "reasoning": "The leaf category represents a promotional event (Christmas express discounts) rather than a specific product category. No reference category matches this type of event, so it is out of scope."
+  },
+  {
+    "id": "11012",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category \"Акційні пропозиції\" (promotional offers) does not correspond to any specific product category in the reference list. It represents a marketing or sales concept rather than a type of product. None of the reference leaf categories match this concept, so it is out of scope."
+  },
+  {
+    "id": "11013",
+    "name": "ЗнижкоLove",
+    "path": "ЗнижкоLove",
+    "reasoning": "The leaf category \"ЗнижкоLove\" appears to be a brand or promotional name rather than a specific product type. It does not match any of the reference categories, which are all product categories (e.g., food, beverages, household goods, etc.). Therefore it falls outside the scope of the available categories."
   },
   {
     "id": "11483",
     "name": "Ручний інструмент та матеріали",
     "path": "Товари для дому > Електротовари > Ручний інструмент та матеріали",
-    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials'. This is a home improvement / hardware category containing items like screwdrivers, hammers, pliers, drills, and related materials. Looking through the reference tree, which is a grocery/food/household store, there is no category for hand tools or hardware materials. The closest household categories are 'Господарчі товари' (household goods) but these cover cleaning supplies, bags, batteries, etc. — not hand tools. The category 'Для туризму і спорту' (id 705) under picnic/recreation is not a match either. This category is completely outside the scope of the reference store's product range."
+    "reasoning": "The reference list contains categories mainly for food, beverages, household items, and some general household goods, but there is no category that corresponds to manual tools, hardware, or construction materials. No reference leaf category matches the term \"Ручний інструмент та матеріали\" or its synonyms, and no broader category in the reference tree covers this domain."
+  },
+  {
+    "id": "11907",
+    "name": "Для консервації",
+    "path": "Побутова хімія та товари для дому > Господарчі товари > Для консервації",
+    "reasoning": "The leaf category \"Для консервації\" refers to household items used for preserving food (e.g., jars, lids, canning supplies). The reference tree contains categories for canned foods under \"Бакалія і консерви > Консервація > …\" but does not include a dedicated category for preservation supplies or equipment. Since there is no direct or semantically close match in the reference list, the category is considered out of scope for mapping."
+  },
+  {
+    "id": "11945",
+    "name": "Для хобі",
+    "path": "Побутова хімія та товари для дому > Хобі та відпочинок > Для хобі",
+    "reasoning": "The leaf category \"Для хобі\" refers to hobby-related items (e.g., craft supplies, model kits, painting materials). The reference taxonomy does not contain any category that directly matches hobby or craft items. The closest reference categories are related to outdoor recreation (e.g., \"Пікнік і відпочинок\") or general household goods, which do not semantically align with hobby products. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "11971",
+    "name": "Подарункові сертифікати",
+    "path": "Подарункові сертифікати",
+    "reasoning": "The source leaf category refers to gift certificates, which are not a product type but a service or payment method. None of the reference leaf categories represent gift certificates or a related concept. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "11972",
+    "name": "Новорічні знижки",
+    "path": "Новорічні знижки",
+    "reasoning": "The leaf category \"Новорічні знижки\" refers to a promotional or discount category for New Year sales, not a specific product type. The reference tree contains only product categories (e.g., food, beverages, household goods) and does not include any category for seasonal promotions or discounts. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "11973",
+    "name": "Онлайн дешевше",
+    "path": "Онлайн дешевше",
+    "reasoning": "The leaf category \"Онлайн дешевше\" refers to a promotional or pricing category (online cheaper deals) rather than a specific product type. None of the reference categories represent such a store-level or promotional category; all reference entries are product categories (e.g., food, beverages, household goods). Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "12243",
+    "name": "Дитячі автомобільні крісла",
+    "path": "Товари для дітей > Гігієна та догляд > Дитячі автомобільні крісла",
+    "reasoning": "The source leaf category refers to child car seats, which are safety equipment for children. The reference taxonomy is for a weapons, tactical, and outdoor equipment store and contains no category related to child car seats or automotive safety gear. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12259",
+    "name": "Дитячий одяг",
+    "path": "Товари для дітей > Дитячий одяг, взуття > Дитячий одяг",
+    "reasoning": "The source leaf category \"Дитячий одяг\" refers to children’s clothing items such as shirts, pants, dresses, etc. The reference list contains no leaf category that directly matches children’s clothing or a broader apparel category. All reference leaf categories are related to food, household goods, personal care, or other non‑apparel domains. Therefore there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12432",
+    "name": "Кошерні продукти",
+    "path": "Кошерні продукти",
+    "reasoning": "The reference tree contains no category explicitly for kosher products or a broader category that would encompass all kosher items. All food categories are split by type (meat, fish, dairy, etc.) but none mention kosher. Therefore there is no suitable match."
+  },
+  {
+    "id": "12450",
+    "name": "Сувеніри, календарі",
+    "path": "Канцтовари, книги, преса > Сувеніри, календарі",
+    "reasoning": "The leaf category \"Сувеніри, календарі\" refers to souvenirs and calendars, which are not represented in the reference taxonomy. The reference list contains many categories related to food, beverages, household goods, and various other product lines, but there is no category covering souvenirs or calendars. Since this domain is unrelated to weapons, tactical, or outdoor equipment, it is considered out of scope."
   },
   {
     "id": "12467",
     "name": "Дзеркала",
     "path": "Краса, гігієна > Догляд за обличчям і тілом > Дзеркала",
-    "reasoning": "The leaf category 'Дзеркала' means 'Mirrors' in Ukrainian. In the source context, these are beauty/personal care mirrors (e.g., makeup mirrors, cosmetic mirrors). Looking through the reference tree, there is no category for mirrors — neither cosmetic mirrors nor home mirrors. The closest related categories would be home décor ('Вази, картини і декор') or bathroom accessories ('Аксесуари для ванни і туалету'), but neither specifically covers mirrors. The reference tree does not contain a suitable match for mirrors as a product category. Since mirrors are a general household/beauty item that exists in a different domain from weapons, tactical, and outdoor equipment, this is out of scope."
+    "reasoning": "The leaf category \"Дзеркала\" refers to mirrors, a household item. None of the reference leaf categories in the provided list correspond to mirrors or any related product type. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "12520",
+    "name": "Біопрепарати для очищення",
+    "path": "Товари для дачі, відпочинку > Сад, город > Біопрепарати для очищення",
+    "reasoning": "The leaf category refers to biological preparations used for cleaning or pest control in gardening. The reference list contains no category covering biopesticides, biocides, or organic garden chemicals. The closest categories are food, household, or supplement categories, none of which match the domain of bioproducts for garden use. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12535",
+    "name": "Спортивні товари",
+    "path": "Товари для дачі, відпочинку > Спортивні товари",
+    "reasoning": "The leaf category \"Спортивні товари\" refers to sports equipment and related goods. The reference list contains categories for food, household items, cosmetics, and other non-sports domains, but no category that matches sports equipment or sporting goods. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "12540",
+    "name": "Тара",
+    "path": "Товари для дачі, відпочинку > Тара",
+    "reasoning": "The leaf category \"Тара\" refers to containers or packaging used for storing goods at a dacha or for recreation. None of the reference categories in the provided list correspond to containers, packaging, or storage vessels. The reference tree focuses on food, beverages, household goods, and outdoor equipment, but does not include a category for general containers. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "12543",
+    "name": "Відра, ємності, кошики",
+    "path": "Товари для дому, авто > Господарські товари > Відра, ємності, кошики",
+    "reasoning": "The leaf category \"Відра, ємності, кошики\" refers to household buckets, containers and baskets. None of the reference categories list a matching or semantically equivalent category. The closest reference categories are general household items, but there is no specific bucket/containers category. Therefore the source category is out of scope for the provided reference tree."
+  },
+  {
+    "id": "12567",
+    "name": "Кошики, хлібниці",
+    "path": "Товари для дому, авто > Посуд і кухонне приладдя > Кошики, хлібниці",
+    "reasoning": "The source leaf category \"Кошики, хлібниці\" refers to kitchen baskets and bread baskets. In the reference tree, no leaf category explicitly matches \"кошики\" or \"хлібниці\". The closest related categories are under \"Госптовари, non-food > Для дому > Посуд\", but they cover plates, cups, cookware, etc., and do not include baskets. Therefore, there is no suitable reference category for this product type."
+  },
+  {
+    "id": "12580",
+    "name": "Подушки",
+    "path": "Товари для дому, авто > Текстиль, декор > Подушки",
+    "reasoning": "The leaf category \"Подушки\" (Ukrainian for \"pillows\") refers to home‑decor textile items. The reference list contains many household and food categories, but no category for pillows or similar home‑decor textiles. Since the category belongs to a different domain (furniture/home decor) and there is no matching reference leaf, it is out of scope."
+  },
+  {
+    "id": "12581",
+    "name": "Ковдри",
+    "path": "Товари для дому, авто > Текстиль, декор > Ковдри",
+    "reasoning": "The source leaf category \"Ковдри\" refers to blankets, a household textile item. In the reference tree, there is no category that explicitly covers blankets or general household textiles. The closest potential match would be a generic \"Текстиль\" category, but such a category is not present in the reference list. Therefore, no suitable reference category exists for this source category."
+  },
+  {
+    "id": "12593",
+    "name": "Автомастила",
+    "path": "Товари для дому, авто > Автотовари > Автомастила",
+    "reasoning": "The source leaf category \"Автомастила\" refers to automotive oils, a product line that is not represented in the reference taxonomy. The reference categories cover food, household goods, personal care, and various other consumer goods, but there is no category for automotive lubricants or related automotive products. Therefore, the source category does not map to any existing reference category."
+  },
+  {
+    "id": "12595",
+    "name": "Автохімія",
+    "path": "Товари для дому, авто > Автотовари > Автохімія",
+    "reasoning": "The leaf category \"Автохімія\" refers to automotive chemicals such as cleaning agents, oils, antifreeze, etc. None of the reference categories cover automotive products or chemicals. The reference list contains categories for food, household items, personal care, toys, pets, etc., but no automotive or vehicle-related category. Therefore, this source category is out of scope for the provided reference taxonomy."
+  },
+  {
+    "id": "12596",
+    "name": "Технічна допомога",
+    "path": "Товари для дому, авто > Автотовари > Технічна допомога",
+    "reasoning": "The leaf category \"Технічна допомога\" refers to automotive repair tools and equipment (e.g., hand tools, diagnostic devices, car maintenance supplies). The reference list contains no categories related to automotive supplies, tools, or technical assistance. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "12597",
+    "name": "Автозапчастини, витратні матеріали",
+    "path": "Товари для дому, авто > Автотовари > Автозапчастини, витратні матеріали",
+    "reasoning": "The source leaf category refers to automotive parts and consumables. None of the reference leaf categories cover automotive products; the reference tree is focused on food, household goods, personal care, and similar consumer goods. Therefore there is no suitable match."
+  },
+  {
+    "id": "12599",
+    "name": "Автоаксесуари",
+    "path": "Товари для дому, авто > Автотовари > Автоаксесуари",
+    "reasoning": "The reference taxonomy contains categories related to food, household goods, personal care, and various consumer products, but it does not include any category pertaining to automotive accessories or vehicle-related items. The term \"Автоаксесуари\" refers to items such as car seats, floor mats, steering wheel covers, and other vehicle accessories, which are outside the scope of the provided reference categories. Therefore, no suitable match exists."
+  },
+  {
+    "id": "12622",
+    "name": "Блендери",
+    "path": "Побутова техніка > Кухонна побутова техніка > Блендери",
+    "reasoning": "The leaf category \"Блендери\" refers to kitchen blenders, a type of household appliance. The reference taxonomy does not contain any category for kitchen appliances, blenders, mixers, or related household electronics. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "12623",
+    "name": "Ваги кухонні",
+    "path": "Побутова техніка > Кухонна побутова техніка > Ваги кухонні",
+    "reasoning": "The source leaf category refers to kitchen scales, a type of kitchen appliance. The reference list contains only food, beverage, household goods, and related categories, with no entries for kitchen appliances or scales. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "12628",
+    "name": "Кавомолки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Кавомолки",
+    "reasoning": "The leaf category \"Кавомолки\" refers to coffee grinders, a kitchen appliance. In the reference list, there are no categories for kitchen appliances or coffee grinders. The only coffee‑related categories are for coffee beans, ground coffee, and coffee drinks, which do not match the product type. Therefore, this category does not map to any existing reference category and is considered out of scope."
+  },
+  {
+    "id": "12629",
+    "name": "Кухонні комбайни",
+    "path": "Побутова техніка > Кухонна побутова техніка > Кухонні комбайни",
+    "reasoning": "The source leaf category \"Кухонні комбайни\" refers to kitchen appliances such as food processors or blenders. The reference taxonomy contains no category that covers kitchen appliances or food processing equipment; it focuses on food items, beverages, household goods, and personal care products. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12632",
+    "name": "Млинниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Млинниці",
+    "reasoning": "The leaf category \"Млинниці\" refers to kitchen milling appliances (e.g., grain mills, spice mills). The reference taxonomy contains no category for kitchen appliances or milling machines; the only similar term \"Млинці\" (id 217) is a dish, not an appliance. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "12633",
+    "name": "Морозивниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Морозивниці",
+    "reasoning": "The source leaf category \"Морозивниці\" refers to kitchen appliances that store frozen food. The reference list contains only product categories (food, beverages, household items, etc.) and does not include any appliance or freezer category. The closest reference categories are about frozen food products (e.g., \"Заморожена продукція > Морозиво\"), which are not the same as the appliance itself. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12634",
+    "name": "М`ясорубки",
+    "path": "Побутова техніка > Кухонна побутова техніка > М`ясорубки",
+    "reasoning": "The leaf category \"М`ясорубки\" refers to kitchen appliances used for grinding meat. In the reference list, there is no category that directly corresponds to kitchen appliances or meat grinders. The closest references are food categories under \"М'ясо\" (meat), but those describe meat products, not appliances. Since no suitable reference category exists, the source category is considered out of scope."
+  },
+  {
+    "id": "12635",
+    "name": "Мультиварки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Мультиварки",
+    "reasoning": "The reference list contains no leaf category that corresponds to kitchen appliances such as multicookers. The closest reference category is a parent category for household appliances, but it is not a leaf and does not match the specific product type. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12636",
+    "name": "Настільні плити",
+    "path": "Побутова техніка > Кухонна побутова техніка > Настільні плити",
+    "reasoning": "The source leaf category \"Настільні плити\" refers to tabletop stoves or burners used in kitchen appliances. The reference tree contains only food, beverage, household, and personal care categories, with no appliance or cooking equipment categories. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "12637",
+    "name": "Пароварки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Пароварки",
+    "reasoning": "The leaf category \"Пароварки\" refers to kitchen appliances that steam food. The reference taxonomy contains only food, beverage, household, and personal care categories, with no entries for kitchen appliances or cooking equipment. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "12638",
+    "name": "Соковижималки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Соковижималки",
+    "reasoning": "The source leaf category \"Соковижималки\" refers to juicers, a type of kitchen appliance. The reference category tree contains no categories related to kitchen appliances, juicers, or any household electrical equipment. All reference categories are food, beverage, household consumables, or general household items, but none cover kitchen appliances. Therefore, there is no suitable match in the reference list. The category belongs to a different domain (kitchen appliances) that is not represented in the reference tree, so it is out of scope."
+  },
+  {
+    "id": "12639",
+    "name": "Сушарки для овочів і фруктів",
+    "path": "Побутова техніка > Кухонна побутова техніка > Сушарки для овочів і фруктів",
+    "reasoning": "The source leaf category refers to kitchen appliances used for drying vegetables and fruits. The reference catalog contains no appliance or kitchen equipment categories; it focuses on food, groceries, household goods, and personal care items. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12641",
+    "name": "Фритюрниці",
+    "path": "Побутова техніка > Кухонна побутова техніка > Фритюрниці",
+    "reasoning": "The leaf category \"Фритюрниці\" refers to kitchen appliances used for deep‑frying. The reference taxonomy contains no categories related to kitchen appliances, cookware, or household electronics. All reference categories are food, grocery, or household consumables. Therefore there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12642",
+    "name": "Хлібопічки",
+    "path": "Побутова техніка > Кухонна побутова техніка > Хлібопічки",
+    "reasoning": "The leaf category \"Хлібопічки\" refers to bread makers, a kitchen appliance. The reference tree contains no category for kitchen appliances or bread makers; it only includes food, household goods, and other non‑food items. Therefore there is no suitable match."
+  },
+  {
+    "id": "12648",
+    "name": "Ваги підлогові",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Ваги підлогові",
+    "reasoning": "The source leaf category \"Ваги підлогові\" refers to floor scales, a type of household appliance. In the reference list, there is no category containing \"Ваги\" or a related term such as \"ваги\", \"скала\" or \"скала підлогова\". The reference tree covers food, beverages, household goods, personal care, and other non-food items, but does not include a specific category for scales or weighing devices. Therefore, there is no suitable match in the reference categories."
+  },
+  {
+    "id": "12653",
+    "name": "Фени",
+    "path": "Побутова техніка > Техніка для краси, здоров'я > Фени",
+    "reasoning": "The leaf category \"Фени\" refers to hair dryers, which are household appliances. The reference list contains categories for food, household items, and various other goods, but there is no category that matches hair dryers or similar beauty equipment. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "12655",
+    "name": "Вентилятори",
+    "path": "Побутова техніка > Кліматична техніка > Вентилятори",
+    "reasoning": "The source leaf category \"Вентилятори\" refers to household fans, a type of climate control appliance. In the reference list, no category with the name \"Вентилятори\" or a close synonym (e.g., \"Вентилятор\", \"Кліматична техніка\") exists. The reference categories are primarily food, household goods, and related items, but there is no entry for fans or similar home appliances. Therefore, the source category does not match any reference category and is considered out of scope."
+  },
+  {
+    "id": "12657",
+    "name": "Обігрівачі",
+    "path": "Побутова техніка > Кліматична техніка > Обігрівачі",
+    "reasoning": "The leaf category \"Обігрівачі\" refers to heating appliances (electric, gas, etc.). In the reference taxonomy, there is no category that matches heating devices or household appliances. The closest reference category is \"Госптовари, non-food > Для дому > Побутова техніка і електроніка\" (id 691), but that is a parent category and does not contain a specific leaf for heaters. Since the reference list does not include a suitable leaf category for heaters, and heaters are not part of the weapons, tactical, or outdoor equipment domain, the item is out of scope."
+  },
+  {
+    "id": "12659",
+    "name": "Аксесуари до мобільних телефонів",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Аксесуари до мобільних телефонів",
+    "reasoning": "The source leaf category refers to mobile phone accessories, which are consumer electronics items. The reference taxonomy is exclusively focused on weapons, tactical gear, outdoor equipment, and related supplies. No reference category covers mobile phone accessories or general consumer electronics. Therefore, the source category does not map to any existing reference category."
+  },
+  {
+    "id": "12660",
+    "name": "Комп'ютерні аксесуари",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Комп'ютерні аксесуари",
+    "reasoning": "The source leaf category \"Комп'ютерні аксесуари\" refers to computer peripherals such as keyboards, mice, monitors, etc. The reference list contains no categories related to electronics, computers, or related accessories. All reference categories are food, beverages, household goods, toys, pet supplies, or similar domains. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12661",
+    "name": "Стартовий пакет для телефону",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Стартовий пакет для телефону",
+    "reasoning": "The source leaf category refers to a starter package for a phone, i.e., a bundle of accessories or services for mobile devices. The reference list contains only food, household, and related consumer goods categories; there is no category covering electronics, mobile phone accessories, or starter packages. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "12662",
+    "name": "Телевізори",
+    "path": "Побутова техніка > Електроніка, TV, зв'язок > Телевізори",
+    "reasoning": "The leaf category \"Телевізори\" refers to televisions, a type of consumer electronics. The reference taxonomy contains only food, household, and non‑food items such as groceries, beverages, household goods, and pet supplies. No reference category covers electronics or televisions, so the source category is outside the scope of the provided reference tree."
+  },
+  {
+    "id": "12665",
+    "name": "Верхній одяг",
+    "path": "Одяг, взуття, аксесуари > Одяг > Верхній одяг",
+    "reasoning": "The reference taxonomy contains categories for food, household goods, beverages, pet supplies, and other non-clothing items. There is no category related to clothing, upper garments, jackets, coats, or similar apparel. Therefore the source category \"Верхній одяг\" does not map to any existing reference category and is considered out of scope."
+  },
+  {
+    "id": "12666",
+    "name": "Текстильно-трикотажний одяг",
+    "path": "Одяг, взуття, аксесуари > Одяг > Текстильно-трикотажний одяг",
+    "reasoning": "The source leaf category refers to textile and knitted clothing items, which belong to the apparel domain. The reference category tree contains only food, beverage, household, and related product categories, with no entries for clothing, textiles, or apparel. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "12671",
+    "name": "Взуття для басейну, пляжу",
+    "path": "Одяг, взуття, аксесуари > Взуття > Взуття для басейну, пляжу",
+    "reasoning": "The reference catalog contains only food, beverage, household, and personal care categories. No leaf category refers to footwear, swimming or beach shoes. Therefore the source category does not match any existing reference category and is out of scope."
+  },
+  {
+    "id": "12677",
+    "name": "Хустки, шарфи, пов'язки",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Хустки, шарфи, пов'язки",
+    "reasoning": "The source leaf category refers to clothing accessories such as scarves, shawls, and ties. The reference tree contains no categories related to apparel or fashion accessories; it is dominated by food, beverages, household goods, and related items. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12678",
+    "name": "Рукавички, рукавиці",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Рукавички, рукавиці",
+    "reasoning": "The source leaf category refers to gloves. In the reference tree, no leaf category explicitly mentions gloves or a synonym such as \"рукавички\". The closest related categories are \"Головні убори і аксесуари\" or \"Колготки\", but these are distinct items and not a direct match. Since there is no suitable reference category for gloves, the item is considered out of scope."
+  },
+  {
+    "id": "12679",
+    "name": "Парасолі, дощовики",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Парасолі, дощовики",
+    "reasoning": "The reference taxonomy contains categories for food, beverages, household items, and various other product groups, but there is no category that corresponds to umbrellas or raincoats. No leaf or parent category in the reference list matches the domain of outdoor protective gear such as \"парасолі\" or \"дощовики\". Therefore the source category does not map to any existing reference category."
+  },
+  {
+    "id": "12680",
+    "name": "Окуляри, чохли для окулярів",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Окуляри, чохли для окулярів",
+    "reasoning": "The leaf category refers to eyewear and protective cases for glasses. The reference taxonomy is focused on food, beverages, household goods, and outdoor/tactical equipment, with no category covering optical products or accessories. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12681",
+    "name": "Гаманці, візитниці",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Гаманці, візитниці",
+    "reasoning": "The source leaf category refers to wallets and business cards, which are personal accessories. The reference tree contains categories for food, beverages, household goods, and various other product lines, but none of the leaf categories mention wallets, business cards, or any related accessory items. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12682",
+    "name": "Аксесуари для шиття",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Аксесуари для шиття",
+    "reasoning": "The source category refers to sewing accessories, which are unrelated to the weapons, tactical, and outdoor equipment domain represented in the reference list. No reference category covers sewing or textile accessories, so the item is out of scope."
+  },
+  {
+    "id": "12683",
+    "name": "Антистатики",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Антистатики",
+    "reasoning": "The leaf category \"Антистатики\" refers to antistatic products such as sprays, wipes, or clothing treatments that reduce static electricity. None of the reference categories in the weapons, tactical, and outdoor equipment store list include a category for antistatic products or related household items. The closest possible match would be a general household cleaning or laundry detergent category, but that is too broad and not a direct match. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "12685",
+    "name": "Чохли для взуття",
+    "path": "Одяг, взуття, аксесуари > Аксесуари > Чохли для взуття",
+    "reasoning": "The source leaf category \"Чохли для взуття\" refers to shoe covers or protective shoe sleeves. In the reference tree, there is no category that specifically covers shoe covers or similar footwear accessories. The closest potential matches would be generic \"Сумки\" or \"Аксесуари\", but those refer to bags or general accessories, not shoe covers. Therefore, no suitable reference category exists for this product type."
+  },
+  {
+    "id": "12691",
+    "name": "Косметика, гігієна для кішок",
+    "path": "Зоотовари > Для кішок > Косметика, гігієна для кішок",
+    "reasoning": "The source leaf category refers to hygiene and cosmetic products specifically for cats. The reference taxonomy contains no pet‑related categories; all categories are for food, household goods, personal care for humans, or other non‑pet domains. Therefore there is no suitable reference match."
+  },
+  {
+    "id": "12699",
+    "name": "Ласощі для собак",
+    "path": "Зоотовари > Для собак > Ласощі для собак",
+    "reasoning": "The leaf category refers to treats for dogs, i.e., pet food. The reference tree contains no pet‑food or dog‑treat categories; it covers groceries, household goods, and other non‑pet items. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "12705",
+    "name": "Бенгальські вогні, серпантин, конфетті",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Бенгальські вогні, серпантин, конфетті",
+    "reasoning": "The source leaf category refers to party supplies such as bengal fires, serpentines, confetti. The reference categories do not contain any category related to fireworks, confetti, or party decorations. Therefore, no suitable match exists."
+  },
+  {
+    "id": "12706",
+    "name": "Гірлянди електричні",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Гірлянди електричні",
+    "reasoning": "The source leaf category refers to electric garlands, a decorative lighting product typically used for New Year or Christmas celebrations. The reference taxonomy is focused on food, beverages, household goods, and related categories, with no mention of decorative lighting, garlands, or similar items. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12707",
+    "name": "Дощик, мішура, штучний сніг",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Дощик, мішура, штучний сніг",
+    "reasoning": "The leaf category refers to artificial snow, snowflakes, and similar holiday decorations used for New Year celebrations. None of the reference categories cover holiday decorations, artificial snow, or similar festive items. The closest reference categories are for household items such as candles or decorative pillows, which are unrelated to artificial snow. Therefore, the source category does not map to any existing reference category."
+  },
+  {
+    "id": "12708",
+    "name": "Карнавальні товари",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Карнавальні товари",
+    "reasoning": "The source leaf category \"Карнавальні товари\" refers to carnival or New Year party supplies such as costumes, masks, decorations, confetti, streamers, etc. None of the reference categories in the provided list correspond to carnival or party supplies. The reference tree is focused on food, household goods, and other non-party items, with no category for carnival or festive decorations. Therefore, this source category does not map to any existing reference category."
+  },
+  {
+    "id": "12709",
+    "name": "Магніти, брелоки новорічні",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Магніти, брелоки новорічні",
+    "reasoning": "The source leaf category refers to Christmas magnets and keychains, which are small decorative items. The reference categories list does not contain any category for magnets, keychains, or similar decorative items. The reference categories are primarily for food, beverages, household goods, etc. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12711",
+    "name": "Наклейки, стікери на вікна, трафарети",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Наклейки, стікери на вікна, трафарети",
+    "reasoning": "The source leaf category refers to decorative stickers, decals, and stencils for windows, typically used for holiday or seasonal decorations. None of the reference categories contain a match for stickers, decals, or window decorations. The reference tree is focused on groceries, household goods, and pet supplies, with no category for decorative window accessories. Therefore, this category falls outside the scope of the reference taxonomy."
+  },
+  {
+    "id": "12714",
+    "name": "Новорічні сувеніри, статуетки",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Новорічні сувеніри, статуетки",
+    "reasoning": "The leaf category refers to New Year’s souvenirs and figurines, which are decorative items typically sold as gifts or collectibles. The reference taxonomy is for a weapons, tactical, and outdoor equipment store and contains categories for food, beverages, household goods, and various other non‑decorative items. No reference category covers souvenirs, figurines, or holiday gift items. Therefore the source category does not map to any existing reference category and is considered out of scope."
+  },
+  {
+    "id": "12716",
+    "name": "Піротехнічні вироби",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Піротехнічні вироби",
+    "reasoning": "The leaf category \"Піротехнічні вироби\" refers to pyrotechnic or fireworks products. The reference list contains no category related to fireworks, pyrotechnics, or any similar domain. Therefore there is no suitable match in the reference tree."
+  },
+  {
+    "id": "12718",
+    "name": "Ялинки, сосни, вінки з хвої",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Ялинки, сосни, вінки з хвої",
+    "reasoning": "The leaf category refers to Christmas trees, pine trees, and wreaths made of fir, which are holiday decorations. The reference taxonomy is focused on food, household goods, and related categories, with no entries for holiday decorations, Christmas trees, or wreaths. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "12719",
+    "name": "Ялинкові прикраси",
+    "path": "Святкові, сезонні пропозиції > Новий рік > Ялинкові прикраси",
+    "reasoning": "The source leaf category refers to Christmas tree decorations, a type of holiday decorative item. The reference list contains categories for food, beverages, household goods, and various non-food items such as cleaning supplies, personal care, and pet products, but it does not include any category related to holiday decorations, ornaments, or tree decorations. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "12721",
+    "name": "Сувеніри, статуетки, шкатулки",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Сувеніри, статуетки, шкатулки",
+    "reasoning": "The leaf category refers to souvenirs, figurines, and boxes – decorative or collectible items. None of the reference categories contain a specific match for souvenirs or figurines. The closest reference categories are related to party supplies or home décor, but they do not cover souvenir items. Therefore, there is no suitable reference category for this source category."
+  },
+  {
+    "id": "12722",
+    "name": "Магніти, брелоки, замки",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Магніти, брелоки, замки",
+    "reasoning": "The leaf category \"Магніти, брелоки, замки\" refers to small decorative or functional items such as magnets, keychains, and locks. The reference taxonomy contains no category that directly matches these items or a broader category that would logically include them (e.g., \"Товари для дому\", \"Товари для свят\", \"Інтер'єр\", etc.). None of the reference leaf categories mention magnets, keychains, or locks, and there is no suitable broader category that would encompass these items. Therefore, the source category does not map to any existing reference category."
+  },
+  {
+    "id": "12725",
+    "name": "Фоторамки",
+    "path": "Святкові, сезонні пропозиції > Скажи кохаю > Фоторамки",
+    "reasoning": "The leaf category \"Фоторамки\" refers to photo frames, a type of decorative or display item for photographs. None of the reference categories in the provided list cover photo frames, cameras, or any photographic equipment. The reference tree contains categories related to food, beverages, household goods, personal care, pet supplies, and other non-photographic items. Therefore, there is no suitable match in the reference categories."
+  },
+  {
+    "id": "12729",
+    "name": "Листівки, конверти вітальні",
+    "path": "Святкові, сезонні пропозиції > Свято > Листівки, конверти вітальні",
+    "reasoning": "The source leaf category refers to greeting cards and envelopes, which are stationery items. The reference taxonomy contains only categories related to food, beverages, household goods, and similar consumables. No reference category covers stationery, greeting cards, or envelopes, so there is no suitable match."
+  },
+  {
+    "id": "12732",
+    "name": "Барвники, наклейки великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Барвники, наклейки великодні",
+    "reasoning": "The leaf category refers to Easter dyes and stickers, which are decorative items for a holiday. The reference tree contains categories for food, household goods, and various non-food items, but none correspond to decorative stickers or dyes. The closest might be \"Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор\" or \"Товари для свят\", yet these do not explicitly cover stickers or dyes. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "12733",
+    "name": "Великодня творчість",
+    "path": "Святкові, сезонні пропозиції > Великдень > Великодня творчість",
+    "reasoning": "The leaf category \"Великодня творчість\" refers to Easter-themed creative items such as decorations, crafts, and related supplies. None of the reference leaf categories cover Easter crafts or decorations; the reference list focuses on food, household goods, health products, and pet supplies. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "12734",
+    "name": "Кошики великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Кошики великодні",
+    "reasoning": "The leaf category refers to Easter baskets, a seasonal gift item. None of the reference categories cover gift baskets, seasonal gift sets, or similar items. The reference list contains only food, beverage, household, and personal care categories, with no match for Easter baskets."
+  },
+  {
+    "id": "12735",
+    "name": "Магніти, брелоки великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Магніти, брелоки великодні",
+    "reasoning": "The leaf category refers to Easter magnets and keychains, which are decorative or souvenir items. The reference taxonomy contains categories for food, beverages, household goods, and various other consumer goods, but it does not include any category for magnets, keychains, or holiday souvenirs. No reference category matches the product type or domain of the source category."
+  },
+  {
+    "id": "12737",
+    "name": "Поминальні товари",
+    "path": "Святкові, сезонні пропозиції > Великдень > Поминальні товари",
+    "reasoning": "The leaf category \"Поминальні товари\" refers to memorial or commemorative items (e.g., candles, wreaths, plaques) typically sold during Easter celebrations. None of the reference categories cover memorial or commemorative goods; the reference list focuses on food, beverages, household goods, health products, and pet supplies. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "12739",
+    "name": "Сувеніри, статуетки великодні",
+    "path": "Святкові, сезонні пропозиції > Великдень > Сувеніри, статуетки великодні",
+    "reasoning": "The source leaf category refers to Easter-themed souvenirs and figurines, which are decorative or collectible items. The reference taxonomy is focused on food, beverages, household goods, personal care, and various non-food items such as weapons, tactical gear, and outdoor equipment. No reference category covers decorative figurines, holiday souvenirs, or similar collectibles. Therefore, the source category does not map to any existing reference category."
+  },
+  {
+    "id": "12741",
+    "name": "Геловін",
+    "path": "Святкові, сезонні пропозиції > Геловін",
+    "reasoning": "The leaf category \"Геловін\" refers to Halloween, a holiday-themed category that would include decorations, costumes, themed treats, etc. The reference tree contains only food, beverage, household, and personal care categories, with no category for seasonal holidays or decorations. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "12857",
+    "name": "Акційні пропозиції",
+    "path": "Акційні пропозиції",
+    "reasoning": "The leaf category \"Акційні пропозиції\" refers to a generic promotional or special offers category, not a specific product type. The reference tree contains only product leaf categories, and there is no leaf that matches this concept. Therefore, it is out of scope."
+  },
+  {
+    "id": "12860",
+    "name": "ЗнижкоLove",
+    "path": "ЗнижкоLove",
+    "reasoning": "The leaf category name \"ЗнижкоLove\" appears to be a brand or promotional label rather than a product type. None of the reference categories correspond to a brand name or a specific product line; they are all generic product categories (e.g., \"Кава\", \"Сири\", \"Товари для дому\"). Therefore, there is no suitable reference category to map this leaf to."
+  },
+  {
+    "id": "12949",
+    "name": "Тофу",
+    "path": "Яйця та молочні продукти > Тофу",
+    "reasoning": "Тофу – це соєвий продукт, який не входить до жодної з наявних категорій у референсному дереві (які охоплюють лише молочні продукти, яйця, сири, йогурти тощо). У референсному списку немає категорії для соєвих або рослинних білків, тому відповідний запис не можна віднести до жодної існуючої категорії."
+  },
+  {
+    "id": "13162",
+    "name": "Барвники харчові",
+    "path": "Бакалія > Для випічки та десертів > Барвники харчові",
+    "reasoning": "The source leaf category refers to food colorants used in baking. The reference tree does not contain any category that directly or indirectly matches food colorants or baking additives. No similar or synonymous category exists in the reference list, and the closest related categories (e.g., sweets, baking ingredients) are not present. Therefore, there is no suitable match."
+  },
+  {
+    "id": "13247",
+    "name": "Інші солодощі",
+    "path": "Солодощі > Інші солодощі",
+    "reasoning": "The source leaf category \"Інші солодощі\" (Other sweets) refers to confectionery items that do not fit into more specific subcategories such as chocolate, candies, pastries, or regional sweets. The reference taxonomy contains many detailed sweet categories under \"Бакалія і консерви > Солодощі\", but there is no dedicated leaf for \"Other sweets\". Since the source domain (confectionery) is unrelated to the weapons, tactical, and outdoor equipment focus of the reference list, this category is out of scope for mapping."
+  },
+  {
+    "id": "13269",
+    "name": "Вішалки",
+    "path": "Товари для дому > Вішалки",
+    "reasoning": "The leaf category \"Вішалки\" refers to hangers used for hanging clothes or other items in a household setting. In the reference tree, there is no category with the name \"Вішалки\" or a close synonym such as \"Вішалки для одягу\" or \"Вішалки для одягу\". The reference categories under \"Госптовари, non-food > Для дому\" cover items like paper products, disposable tableware, kitchen utensils, and other household goods, but hangers are not represented. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13279",
+    "name": "Для ремонту",
+    "path": "Товари для дому > Для ремонту",
+    "reasoning": "The leaf category \"Для ремонту\" refers to repair tools, hardware, and related supplies. The reference list contains no category covering tools, hardware, or repair items; all reference categories are food, beverages, household goods, or other non‑repair domains. Therefore there is no suitable match."
+  },
+  {
+    "id": "13478",
+    "name": "Засоби для пом'якшення води",
+    "path": "Побутова хімія > Засоби для прання > Засоби для пом'якшення води",
+    "reasoning": "The source leaf category refers to water softening agents, a type of household chemical. The reference taxonomy contains no category for household chemicals, cleaning agents, or water treatment products. All reference categories are food, beverages, household goods, or non-food items unrelated to chemical products. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13638",
+    "name": "Нашийники, повідки, намордники",
+    "path": "Товари для тварин > Догляд за тваринами > Нашийники, повідки, намордники",
+    "reasoning": "The source leaf category refers to pet accessories such as collars, leashes, and muzzles. The reference taxonomy contains no category that covers pet accessories or specifically collars/leashes/muzzles. The only pet-related categories in the reference are for specific animals (cats, dogs, birds, rodents) and grooming, none of which match the product type. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "13711",
+    "name": "Ефірні олії",
+    "path": "Гігієна та догляд > Ефірні олії",
+    "reasoning": "The source leaf category refers to essential oils, a product type used in personal care and aromatherapy. The reference taxonomy does not contain any category for essential oils or related aromatherapy products. The closest reference categories are under \"Гігієна та краса\" (personal hygiene and beauty), but they cover items such as toothpaste, cosmetics, and hair care, not essential oils. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13783",
+    "name": "Товари з Європи",
+    "path": "Товари світу > Товари з Європи",
+    "reasoning": "The leaf category \"Товари з Європи\" denotes a broad geographic classification of products originating from Europe. The reference list contains only specific product categories (e.g., \"М'ясо\", \"Кава, чай\", \"Алкоголь. Напої. Тютюн\", \"Госптовари, non-food\", etc.). None of these reference categories correspond to a geographic grouping or a generic \"products from Europe\" label. Therefore, there is no suitable reference category to map to, and the source category is considered out of scope."
+  },
+  {
+    "id": "13784",
+    "name": "Товари з Азії",
+    "path": "Товари світу > Товари з Азії",
+    "reasoning": "The leaf category \"Товари з Азії\" denotes a broad collection of products originating from Asia, potentially encompassing food, beverages, spices, household goods, electronics, clothing, etc. The reference taxonomy contains only specific product categories (e.g., food items, beverages, household items) and does not include a general category for all Asian products. The closest reference categories are sub‑categories under \"Бакалія і консерви > Азійська кухня\" (e.g., соуси, приправи, рис, локшина), which cover only Asian food items and not the full scope of \"Товари з Азії\". Therefore, no suitable reference category exists for a direct match."
+  },
+  {
+    "id": "13785",
+    "name": "Товари з Китаю",
+    "path": "Товари світу > Товари з Китаю",
+    "reasoning": "The leaf category \"Товари з Китаю\" refers to products originating from China, which could span a wide range of goods. The reference taxonomy does not contain a specific category for products from China or a generic category that would encompass all such items. No reference leaf category matches the name or semantic scope of \"Товари з Китаю\"."
+  },
+  {
+    "id": "13786",
+    "name": "Товари з Таїланду",
+    "path": "Товари світу > Товари з Таїланду",
+    "reasoning": "The leaf category \"Товари з Таїланду\" refers to products originating from Thailand. The reference taxonomy contains detailed product categories (e.g., food, beverages, household items, cosmetics, etc.) but does not include a category for products by country of origin. Therefore, there is no suitable reference category that matches the semantic scope of \"Products from Thailand\"."
+  },
+  {
+    "id": "13787",
+    "name": "Товари з Туреччини",
+    "path": "Товари світу > Товари з Туреччини",
+    "reasoning": "The leaf category \"Товари з Туреччини\" refers to products originating from Turkey, which is a geographic origin descriptor rather than a specific product type. The reference taxonomy contains only product categories (e.g., \"М'ясо\", \"Кава\", \"Госптовари, non-food\", etc.) and does not include any category that captures products by country of origin. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13788",
+    "name": "Товари з Америки",
+    "path": "Товари світу > Товари з Америки",
+    "reasoning": "The leaf category \"Товари з Америки\" refers to products originating from America. The reference tree contains only product type categories (e.g., \"М'ясо\", \"Кава, чай\", \"Алкоголь. Напої. Тютюн\", \"Госптовари, non-food\", etc.) and does not include any category that represents a geographic origin or a collection of items from a specific country. Therefore, there is no suitable reference category that matches the semantic meaning of \"Товари з Америки\"."
+  },
+  {
+    "id": "13789",
+    "name": "Товари з Арменії",
+    "path": "Товари світу > Товари з Арменії",
+    "reasoning": "The leaf category \"Товари з Арменії\" refers to goods imported from Armenia. None of the reference leaf categories represent a collection of products by country of origin, nor do they cover general world goods. The reference list is focused on food, beverages, household items, and pet supplies, with no category for international products. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "13790",
+    "name": "Товари з Азербайджану",
+    "path": "Товари світу > Товари з Азербайджану",
+    "reasoning": "The leaf category refers to products originating from Azerbaijan. The reference taxonomy contains categories organized by product type (food, beverages, household goods, etc.) but does not include any category that captures products by country of origin, nor any category that specifically references Azerbaijan or a broader \"Products from the world\" grouping. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13836",
+    "name": "Ключ закаточний",
+    "path": "Кухня > Товари для консервування > Ключ закаточний",
+    "reasoning": "The leaf category \"Ключ закаточний\" refers to a canning key or tool used in the canning process. The reference taxonomy does not contain any category for kitchen tools, canning supplies, or similar items. No suitable match exists in the reference list."
+  },
+  {
+    "id": "13868",
+    "name": "Садові меблі",
+    "path": "Хобі та відпочинок > Дача, сад, город > Садові меблі",
+    "reasoning": "The leaf category \"Садові меблі\" refers to garden furniture. The reference list contains categories for food, beverages, household goods, and various non-food items, but there is no category related to furniture, outdoor or indoor. Therefore no suitable match exists."
+  },
+  {
+    "id": "13899",
+    "name": "Подарункові сертифікати",
+    "path": "Хобі та відпочинок > Подарункові сертифікати",
+    "reasoning": "The source leaf category refers to gift certificates, a non‑product service category. The reference list contains only product categories (food, beverages, household goods, outdoor equipment, etc.) and does not include any category for gift certificates or similar services. Therefore there is no suitable match in the reference tree."
+  },
+  {
+    "id": "13919",
+    "name": "Бухгалтерська документація",
+    "path": "Канцелярія > Зошити, блокноти, папір > Бухгалтерська документація",
+    "reasoning": "The leaf category \"Бухгалтерська документація\" refers to accounting documents such as ledgers, invoices, receipts, etc. None of the reference categories in the weapons, tactical, and outdoor equipment store correspond to accounting or stationery items. The closest reference categories are generic paper or notebook categories, but the rules prohibit matching on generic terms alone. Therefore there is no suitable reference match."
+  },
+  {
+    "id": "13982",
+    "name": "Мобільний телефон",
+    "path": "Побутова техніка > Мобільні телефони та аксесуари > Мобільний телефон",
+    "reasoning": "The leaf category \"Мобільний телефон\" refers to mobile phones, which are electronic consumer goods. The reference taxonomy is focused on weapons, tactical, outdoor equipment, food, household items, and related categories, and contains no category for electronics or mobile phones. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "13983",
+    "name": "Аксесуари для телефонів",
+    "path": "Побутова техніка > Мобільні телефони та аксесуари > Аксесуари для телефонів",
+    "reasoning": "The reference taxonomy contains categories related to food, household goods, personal care, and pet supplies, but does not include any category for mobile phone accessories or electronics. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13985",
+    "name": "Аксесуари для комп'ютерів",
+    "path": "Побутова техніка > Мультимедіа > Аксесуари для комп'ютерів",
+    "reasoning": "The source leaf category refers to computer accessories, which are electronic peripherals (e.g., keyboards, mice, cables). The reference taxonomy contains no categories related to electronics, computers, or accessories. All reference categories are food, household, or non‑food items unrelated to computer hardware. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13986",
+    "name": "Аксесуари до телевізорів",
+    "path": "Побутова техніка > Мультимедіа > Аксесуари до телевізорів",
+    "reasoning": "The source leaf category refers to accessories for televisions, which are electronic/TV accessories. The reference list contains categories for food, household goods, health, toys, pets, etc., but there is no category related to electronics, multimedia, or TV accessories. Therefore, no suitable reference category exists."
+  },
+  {
+    "id": "13987",
+    "name": "Радіоприймачі",
+    "path": "Побутова техніка > Мультимедіа > Радіоприймачі",
+    "reasoning": "The reference taxonomy contains categories for food, beverages, household goods, and related items, but does not include any electronics or radio receiver categories. Therefore, there is no suitable match for \"Радіоприймачі\" within the reference list."
+  },
+  {
+    "id": "13988",
+    "name": "Мережеві фільтри, подовжувачі",
+    "path": "Побутова техніка > Мультимедіа > Мережеві фільтри, подовжувачі",
+    "reasoning": "The source leaf category refers to electronic accessories such as network filters and power strips, which are not represented in the reference category list. The reference tree contains only food, beverage, household, and related product categories, with no electronics or home appliance sections. Therefore, there is no suitable match in the reference data."
+  },
+  {
+    "id": "13990",
+    "name": "Машинки для стрижки",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Машинки для стрижки",
+    "reasoning": "The source leaf category refers to personal grooming devices used for cutting hair. The reference taxonomy is focused on weapons, tactical, and outdoor equipment, with no category covering personal grooming tools or hair trimmers. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "13991",
+    "name": "Ваги підлогові",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Ваги підлогові",
+    "reasoning": "The leaf category \"Ваги підлогові\" refers to floor scales, a type of household weighing device. The reference list does not contain any leaf category that specifically covers floor scales or general weighing scales. The closest reference category is a parent node \"Госптовари, non-food > Для дому > Побутова техніка і електроніка\" (id 691), but it is not a leaf and therefore does not match the required leaf-level mapping. Consequently, there is no suitable leaf category match in the reference set."
+  },
+  {
+    "id": "13993",
+    "name": "Утюжки, плойки",
+    "path": "Побутова техніка > Техніка для краси та здоров'я > Утюжки, плойки",
+    "reasoning": "The reference list contains only leaf categories for food, household items, and related non-food products, but it does not include any category for household appliances such as irons or hair straighteners. No category name or semantic match is found in the reference tree that would correspond to \"Утюжки, плойки\"."
+  },
+  {
+    "id": "13999",
+    "name": "Обігрівачі",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Обігрівачі",
+    "reasoning": "The leaf category \"Обігрівачі\" refers to heating appliances (electric heaters, gas heaters, etc.). The reference list contains no category with that name or a close synonym such as \"Тепло\", \"Теплові\" or \"Теплообмінники\". None of the existing reference categories cover heating equipment, and the parent context \"Техніка для догляду за будинком та одягом\" is not present in the reference tree. Therefore there is no suitable match."
+  },
+  {
+    "id": "14001",
+    "name": "Вентилятори",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Вентилятори",
+    "reasoning": "The leaf category \"Вентилятори\" refers to household fans, a type of electrical appliance. The reference list contains no category for fans or any other household appliances; it focuses on food, beverages, household consumables, and non‑food items such as gardening supplies. Therefore there is no suitable reference category to map to."
+  },
+  {
+    "id": "14002",
+    "name": "Прасувальні дошки та аксесуари",
+    "path": "Побутова техніка > Техніка для догляду за будинком та одягом > Прасувальні дошки та аксесуари",
+    "reasoning": "The leaf category \"Прасувальні дошки та аксесуари\" refers to ironing boards and related accessories, a household appliance subcategory. In the reference tree, no category with a matching name or semantic equivalent (e.g., \"Прасувальні\", \"дошки\", \"аксесуари\" for ironing) exists. The closest reference categories are under \"Посуд\" or other household items, but they do not cover ironing boards. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "14004",
+    "name": "Соковитискачі",
+    "path": "Побутова техніка > Техніка для кухні > Соковитискачі",
+    "reasoning": "The leaf category \"Соковитискачі\" refers to kitchen appliances used for juicing fruits and vegetables. The reference taxonomy contains no categories related to kitchen appliances, juicers, or similar household appliances. All reference categories are food, beverage, or household goods categories, not appliance categories. Therefore, there is no suitable match in the reference list."
+  },
+  {
+    "id": "14005",
+    "name": "Електрогрилі",
+    "path": "Побутова техніка > Техніка для кухні > Електрогрилі",
+    "reasoning": "The source leaf category \"Електрогрилі\" refers to electric grills, a kitchen appliance. The reference taxonomy is for a weapons, tactical, and outdoor equipment store and contains no categories related to kitchen appliances or electric grills. Therefore there is no suitable match."
+  },
+  {
+    "id": "14006",
+    "name": "Тостери",
+    "path": "Побутова техніка > Техніка для кухні > Тостери",
+    "reasoning": "The leaf category \"Тостери\" refers to kitchen appliances (toasters). The reference taxonomy is for a weapons, tactical, and outdoor equipment store and contains no categories related to kitchen appliances or household electronics. Therefore there is no suitable match in the reference list."
+  },
+  {
+    "id": "14007",
+    "name": "Плитки",
+    "path": "Побутова техніка > Техніка для кухні > Плитки",
+    "reasoning": "The source leaf category \"Плитки\" refers to kitchen tiles, a type of household flooring or wall covering. The reference list contains categories for food, beverages, household goods, but there is no category that matches tiles or flooring. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "14008",
+    "name": "Кавомолки",
+    "path": "Побутова техніка > Техніка для кухні > Кавомолки",
+    "reasoning": "The source leaf category \"Кавомолки\" refers to coffee grinders, a kitchen appliance. The reference taxonomy contains no category for coffee grinders or related kitchen appliances. The closest reference categories are under \"Кава, чай\" (coffee beans, capsules, etc.) but these are about consumables, not equipment. Since coffee grinders are not covered by any reference category and belong to a different domain (kitchen appliances), the item is out of scope."
+  },
+  {
+    "id": "14010",
+    "name": "Чайники",
+    "path": "Побутова техніка > Техніка для кухні > Чайники",
+    "reasoning": "The source category 'Чайники' refers to teapots, a kitchen appliance. The reference categories are all leaf categories from a grocery store, and none correspond to kitchen appliances or teapots. Therefore there is no matching reference category."
+  },
+  {
+    "id": "14011",
+    "name": "Блендери, подрібнювачі, м'ясорубки, міксери",
+    "path": "Побутова техніка > Техніка для кухні > Блендери, подрібнювачі, м'ясорубки, міксери",
+    "reasoning": "The source leaf category refers to kitchen appliances such as blenders, food processors, meat grinders, and mixers. The reference taxonomy does not contain any category that covers kitchen appliances or related household electrical equipment. All reference categories are food, beverage, household consumables, or non-food household items, but none correspond to kitchen appliances. Therefore the category is out of scope."
+  },
+  {
+    "id": "14013",
+    "name": "Кухонні ваги",
+    "path": "Побутова техніка > Техніка для кухні > Кухонні ваги",
+    "reasoning": "The source leaf category \"Кухонні ваги\" refers to kitchen scales, a type of kitchen appliance. The reference list does not contain any category for kitchen scales or general kitchen appliances. The closest reference categories are for food items, household utensils, or kitchen tools, but none match the appliance nature of kitchen scales. Therefore, there is no suitable reference category."
+  },
+  {
+    "id": "14014",
+    "name": "Мультиварки, мультимейкери, мікрохвильові печі",
+    "path": "Побутова техніка > Техніка для кухні > Мультиварки, мультимейкери, мікрохвильові печі",
+    "reasoning": "The reference categories cover food, beverages, household goods, and personal care items, but there is no category for kitchen appliances such as multi-cookers, multi-makers, or microwave ovens. Therefore, no suitable match exists."
+  },
+  {
+    "id": "14015",
+    "name": "Кавоварки",
+    "path": "Побутова техніка > Техніка для кухні > Кавоварки",
+    "reasoning": "The leaf category \"Кавоварки\" refers to coffee makers, a type of kitchen appliance. In the reference taxonomy there is no category that directly represents coffee makers or kitchen appliances for coffee preparation. The closest reference categories are under \"Кава, чай\" (coffee beans, tea, etc.), but these describe consumables rather than equipment. Since no suitable reference category exists, the source category is considered out of scope."
+  },
+  {
+    "id": "14036",
+    "name": "Штучні ялинки",
+    "path": "Інтер'єр та текстиль > Новорічні товари > Штучні ялинки",
+    "reasoning": "The leaf category \"Штучні ялинки\" refers to artificial Christmas trees, a type of holiday decoration. The reference taxonomy does not contain any category that explicitly covers Christmas decorations, artificial trees, or holiday ornaments. The closest related categories are general interior décor items such as \"Свічки і підсвічники\", \"Декоративні подушки\", \"Аромати для дому\", \"Вази, картини і декор\", but none of these match the specific product type of artificial Christmas trees. Therefore, there is no suitable reference category to map to."
+  },
+  {
+    "id": "14044",
+    "name": "Колготи жіночі",
+    "path": "Одяг та взуття > Колготи жіночі",
+    "reasoning": "The reference taxonomy contains no categories related to clothing, apparel, or footwear. All leaf categories are food, household, health, pet supplies, or other non‑clothing items. Therefore the source category \"Колготи жіночі\" (women's tights) does not map to any existing reference category."
+  },
+  {
+    "id": "14046",
+    "name": "Взуття",
+    "path": "Одяг та взуття > Взуття",
+    "reasoning": "The leaf category \"Взуття\" (Shoes) refers to footwear products. In the reference list, there is no category that directly or indirectly covers footwear or clothing items. All reference categories are related to food, household goods, personal care, or other non‑fashion items. Therefore, there is no suitable match in the reference taxonomy."
+  },
+  {
+    "id": "14047",
+    "name": "Чоловічий одяг",
+    "path": "Одяг та взуття > Чоловічий одяг",
+    "reasoning": "The source leaf category refers to men's clothing, which is a fashion apparel domain. The reference category list contains only food, beverage, household, and related product categories, with no clothing or apparel categories present. Therefore, there is no suitable match in the reference tree."
+  },
+  {
+    "id": "14067",
+    "name": "Разом - незламні!",
+    "path": "Вигідні пропозиції > Разом - незламні!",
+    "reasoning": "The leaf name \"Разом - незламні!\" does not correspond to any product category in the reference list for a weapons, tactical, and outdoor equipment store. It appears to be a brand or promotional label unrelated to the available categories such as food, beverages, household goods, or pet supplies. Therefore, it falls outside the scope of the reference taxonomy."
   }
 ]

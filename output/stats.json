@@ -1,14 +1,13 @@
 {
-  "total_source": 978,
-  "matched": 512,
-  "unmatched": 449,
+  "total_source": 466,
+  "matched": 244,
+  "unmatched": 55,
   "match_rate_percent": 52.4,
   "by_method": {
-    "exact": 75,
-    "ai_deep": 437
+    "ai_deep": 244
   },
-  "out_of_scope": 17,
-  "matchable_total": 961,
-  "match_rate_of_matchable_percent": 53.3,
-  "reasoning_count": 521
+  "out_of_scope": 167,
+  "matchable_total": 299,
+  "match_rate_of_matchable_percent": 81.6,
+  "reasoning_count": 451
 }

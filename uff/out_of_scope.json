@@ -1,0 +1,104 @@
+[
+  {
+    "id": "2604",
+    "name": "Сертифікати",
+    "path": "Товари для дому > Сертифікати",
+    "reasoning": "The leaf category 'Сертифікати' (Certificates) refers to gift certificates or vouchers. Looking through the reference tree, there is no category for gift certificates, vouchers, or similar products. The reference tree covers food, beverages, household goods, cosmetics, pet supplies, children's products, etc. Gift certificates/vouchers are a completely different type of product (a financial/gift instrument) that does not fit into any of the available leaf categories. This is out of scope for the reference catalog."
+  },
+  {
+    "id": "5874",
+    "name": "Кошики, коробки, органайзери",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Кошики, коробки, органайзери",
+    "reasoning": "The leaf category 'Кошики, коробки, органайзери' (Baskets, boxes, organizers) refers to storage containers and organizers for home use, specifically in the context of clothing storage. Looking through the reference tree, this is a home goods / household item category. The reference tree does not contain a specific category for storage baskets, boxes, or organizers for clothing or home use. The closest categories in the reference tree are under 'Госптовари, non-food > Для дому' but none specifically cover storage baskets/boxes/organizers. The category 'Для зберігання продуктів' (id 671) is for food storage, not clothing/home organizers. This product type (home storage organizers) is completely outside the domain of a weapons, tactical, and outdoor equipment store, and no reasonable match exists in the reference tree."
+  },
+  {
+    "id": "5882",
+    "name": "Попільнички",
+    "path": "Товари для дому > Дрібниці для дому > Попільнички",
+    "reasoning": "The leaf category 'Попільнички' means 'ashtrays' in Ukrainian — small household items used for collecting cigarette ash. Looking through the reference tree, there is no category specifically for ashtrays. The closest related categories might be household items or home décor. 'Господарчі дрібниці' (id 639) covers small household items, but ashtrays are not food-related products. The reference tree is primarily a grocery/food/personal care store catalog. Ashtrays are completely outside the domain of this store (weapons, tactical, outdoor equipment store context given in the system prompt, but the reference categories are actually for a grocery supermarket). There is no matching category for ashtrays in the reference tree. This is out of scope for the available categories."
+  },
+  {
+    "id": "5928",
+    "name": "Садові меблі",
+    "path": "Хобі та відпочинок > Дача, сад, город > Садові меблі",
+    "reasoning": "The leaf category 'Садові меблі' means 'Garden furniture' in Ukrainian — chairs, tables, loungers, benches and similar outdoor furniture items for garden/patio use. Scanning the entire reference tree, there is no category for furniture of any kind (garden, indoor, or otherwise). The reference tree covers food, beverages, household chemicals, personal care, pet supplies, baby products, supplements, and some general household goods. Garden furniture is completely outside the domain of this reference catalog (which is a food/grocery/household store, not a weapons/tactical/outdoor equipment store as described in the system prompt). No reasonable match exists."
+  },
+  {
+    "id": "5952",
+    "name": "Товари для ремонту",
+    "path": "Хобі та відпочинок > Товари для ремонту",
+    "reasoning": "The leaf category 'Товари для ремонту' means 'Repair/renovation goods' — products used for home repair, construction, or renovation work (tools, materials, hardware, etc.). Looking through the reference tree, which is a grocery/food/household store catalog, there is no category for repair or construction goods. The closest categories are household goods ('Госптовари, non-food'), but these cover cleaning supplies, hygiene, kitchenware, and similar items — not repair/renovation materials. This category is completely outside the domain of the reference store."
+  },
+  {
+    "id": "6884",
+    "name": "Кошики для зберігання",
+    "path": "Товари для дому > Зберігання та догляд за одягом > Кошики для зберігання",
+    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — household items used for organizing and storing things (clothes, linens, etc.). Looking through the reference tree, which is a food/grocery/household store catalog, there is no category specifically for storage baskets or home organization products. The closest home goods categories are under 'Госптовари, non-food > Для дому' but none cover storage baskets specifically — the subcategories there deal with cleaning supplies, paper products, disposable tableware, regular tableware, textiles, décor, clothing/accessories, electronics, stationery, and picnic items. Storage baskets are a home organization/furniture-adjacent product that doesn't fit any of the available leaf categories. This is out of scope for this reference catalog."
+  },
+  {
+    "id": "6893",
+    "name": "Настільні лампи, світильники",
+    "path": "Товари для дому > Освітлення > Настільні лампи, світильники",
+    "reasoning": "The leaf category 'Настільні лампи, світильники' refers to table lamps and light fixtures — home lighting products. Looking through the reference tree, there is no category for lighting, lamps, or light fixtures. The reference tree covers food, beverages, personal care, household chemicals, pet supplies, children's goods, and similar categories. Lighting products are completely outside the domain of this reference catalog."
+  },
+  {
+    "id": "6905",
+    "name": "Товари для ремонту",
+    "path": "Товари для дому > Товари для ремонту",
+    "reasoning": "The leaf category 'Товари для ремонту' means 'Repair/renovation goods' — products like tools, building materials, paint, adhesives, hardware, etc. used for home repair and renovation. Looking through the entire reference tree, which covers food, beverages, personal care, household chemicals, pet supplies, baby products, and similar categories, there is no category that covers home repair or construction tools and materials. The closest categories are household goods ('Госптовари, non-food > Для дому'), but these cover cleaning supplies, paper products, disposable tableware, interior decor, and similar items — not repair/renovation tools and materials. This is a completely different domain from what is available in the reference tree."
+  },
+  {
+    "id": "7867",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Техніка > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' (Hand tools and materials) refers to manual/hand tools and related materials for home use — items like hammers, screwdrivers, pliers, drills, etc. Looking through the reference tree, which is a grocery/food/household supermarket catalog, there is no category for tools or hardware. The closest categories are household goods (Госптовари, non-food), but these cover cleaning supplies, hygiene, paper products, kitchenware, and similar items — not hand tools or construction/repair materials. The category 'Для дому > Пікнік і відпочинок > Для туризму і спорту' (id 705) is too specific and unrelated. There is simply no reference category that covers hand tools and materials in this grocery-focused catalog. This is a completely different domain from what the reference tree covers."
+  },
+  {
+    "id": "8683",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Техніка > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials' — products like hammers, screwdrivers, pliers, drills, building materials, etc. This is a home improvement / hardware category. Looking through the entire reference tree, which is focused on a grocery/food/personal care/pet store (Сільпо supermarket), there is no category for hand tools, hardware, or construction materials. The closest general category might be 'Госптовари, non-food > Для дому' but none of its subcategories cover hand tools or construction materials — they cover household chemistry, paper goods, disposable tableware, cosmetics, etc. This category is completely out of scope for this reference catalog."
+  },
+  {
+    "id": "9261",
+    "name": "Килими",
+    "path": "Інтер'єр та текстиль > Килими",
+    "reasoning": "The leaf category 'Килими' means 'Carpets/Rugs' in Ukrainian. This is a home interior/textile product. Looking through the reference tree, there is no specific category for carpets or rugs. The closest categories in the home decor/interior section are 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id: 683) and 'Госптовари, non-food > Для дому > Домашній текстиль' (id: 672). Carpets could partially fit under 'Домашній текстиль' as a textile product for the home, but carpets are typically a distinct category from bedding/towels/curtains. However, 'Домашній текстиль' is the closest semantic match available in the reference tree for a home textile product like carpets. That said, carpets are a furniture/interior decoration item that doesn't cleanly fit any reference category. The reference tree is for a food/grocery/household store and doesn't have a dedicated carpets category. This is out of scope for this store's catalog."
+  },
+  {
+    "id": "9632",
+    "name": "Вішаки та плечики",
+    "path": "Товари для дому > Вішаки та плечики",
+    "reasoning": "The leaf category 'Вішаки та плечики' refers to hangers and coat hangers (clothing hangers/hooks for hanging clothes). This is a home goods item. Looking through the reference tree, there is no specific category for hangers or coat hangers. The closest categories in the home goods section include 'Господарчі дрібниці' (id 639) which covers small household items, 'Аксесуари для ванни і туалету' (id 637), 'Інвентар для прибирання' (id 641), or 'Домашній текстиль' (id 672). However, none of these specifically cover clothing hangers. The category 'Господарчі дрібниці' (household small items) could be a loose match, but hangers are not really 'дрібниці'. There is also 'Догляд за одягом і взуттям' (id 645) which covers clothing and shoe care. Hangers are used for storing/organizing clothing, so there's a partial functional relationship, but it's not a strong semantic match. Since no reference category genuinely covers clothing hangers/coat hangers as a product type, and this is a home goods item that is out of scope for a weapons/tactical/outdoor store, this should be marked as out of scope."
+  },
+  {
+    "id": "9634",
+    "name": "Кошики для зберігання",
+    "path": "Товари для дому > Кошики для зберігання",
+    "reasoning": "The leaf category 'Кошики для зберігання' means 'Storage baskets' — containers/baskets used for organizing and storing items at home. Looking through the reference tree, the closest match would be in household goods. Category id 671 'Для зберігання продуктів' (For storing food products) is about food storage specifically. Category id 639 'Господарчі дрібниці' (Household small items) is too generic. Category id 671 is food-specific. There is no specific 'storage baskets' or 'home organization' category in the reference tree. The reference tree does have home goods categories but none specifically for storage baskets as home organization items. This is a home goods/interior item that doesn't fit neatly into any specific reference category. The closest would be household goods but no specific match exists for decorative/functional storage baskets. This is out of scope for a weapons/tactical/outdoor store context, but within the reference tree it's a general home goods item with no specific matching leaf category."
+  },
+  {
+    "id": "9639",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Електротовари > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials'. This is a home improvement / hardware category containing items like screwdrivers, hammers, pliers, drills, and related materials. Looking through the reference tree, which is a grocery/food/household consumer goods store, there is no category for hand tools or hardware materials. The closest domain would be household goods ('Госптовари, non-food'), but none of the subcategories there cover hand tools or construction/repair materials. The reference tree does not contain any hardware, tools, or DIY categories. This is a completely different domain from what is available in the reference."
+  },
+  {
+    "id": "9922",
+    "name": "Килими",
+    "path": "Інтер'єр та текстиль > Килими",
+    "reasoning": "The leaf category 'Килими' means 'Carpets/Rugs' in Ukrainian. This is a home interior/textile product. Looking through the reference tree, there is no category specifically for carpets or rugs. The closest categories in the home decor/interior section are: 'Госптовари, non-food > Для дому > Інтер'єр > Вази, картини і декор' (id 683), 'Домашній текстиль' (id 672), and 'Декоративні подушки' (id 681). Carpets/rugs are home textile/interior items, and 'Домашній текстиль' (id 672) is the closest match as carpets are a form of home textile. However, carpets are not typically classified under 'Домашній текстиль' which usually refers to bed linens, towels, etc. None of the reference categories specifically cover carpets/rugs. This is a home furnishing/interior product that falls outside the scope of this weapons, tactical, and outdoor equipment store's reference taxonomy entirely."
+  },
+  {
+    "id": "11483",
+    "name": "Ручний інструмент та матеріали",
+    "path": "Товари для дому > Електротовари > Ручний інструмент та матеріали",
+    "reasoning": "The leaf category 'Ручний інструмент та матеріали' translates to 'Hand tools and materials'. This is a home improvement / hardware category containing items like screwdrivers, hammers, pliers, drills, and related materials. Looking through the reference tree, which is a grocery/food/household store, there is no category for hand tools or hardware materials. The closest household categories are 'Господарчі товари' (household goods) but these cover cleaning supplies, bags, batteries, etc. — not hand tools. The category 'Для туризму і спорту' (id 705) under picnic/recreation is not a match either. This category is completely outside the scope of the reference store's product range."
+  },
+  {
+    "id": "12467",
+    "name": "Дзеркала",
+    "path": "Краса, гігієна > Догляд за обличчям і тілом > Дзеркала",
+    "reasoning": "The leaf category 'Дзеркала' means 'Mirrors' in Ukrainian. In the source context, these are beauty/personal care mirrors (e.g., makeup mirrors, cosmetic mirrors). Looking through the reference tree, there is no category for mirrors — neither cosmetic mirrors nor home mirrors. The closest related categories would be home décor ('Вази, картини і декор') or bathroom accessories ('Аксесуари для ванни і туалету'), but neither specifically covers mirrors. The reference tree does not contain a suitable match for mirrors as a product category. Since mirrors are a general household/beauty item that exists in a different domain from weapons, tactical, and outdoor equipment, this is out of scope."
+  }
+]
